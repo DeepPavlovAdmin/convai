@@ -2,9 +2,9 @@
 
 # Participate
 
-Register as a team member | Register as a human evaluator
+Register as a team member | Register as a human evaluator volunteer
 :---: | :---:
-link | link
+[Registration form for participants](https://goo.gl/aV77lC) | [Registration form for human evaluators](https://goo.gl/PWrZ0e)
 
 
 # Timeline
