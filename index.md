@@ -69,13 +69,12 @@ Dataset collected during competition will be distributed under open source licen
 
 Mikhail Burtsev, Valentin Malykh
 _MIPT, Moscow_
+
 Ryan Lowe,
 _McGill University, Montreal_
+
 Iulian Serban, Yoshua Bengio
 _University of Montreal, Montreal_
+
 Alexander Rudnicky, Alan W. Black
  Carnegie Mellon University, Pittsburgh
-
-
-
-
