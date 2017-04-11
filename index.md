@@ -1,3 +1,5 @@
+> Competitive human evaluation of existing dialogue systems and crowdsourcing of rated dialogs for future training of end-to-end systems
+
 # Participate
 
 Register as a team member | Register as a human evaluator
