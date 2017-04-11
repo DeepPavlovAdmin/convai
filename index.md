@@ -4,7 +4,7 @@
 
 Register as a team member | Register as a human evaluator volunteer
 :---: | :---:
-[Registration form for participants](https://goo.gl/aV77lC) | [Registration form for human evaluators](https://goo.gl/PWrZ0e)
+[**Registration form for participants**](https://goo.gl/aV77lC) | [**Registration form for human evaluators**](https://goo.gl/PWrZ0e)
 
 
 # Timeline
