@@ -1,4 +1,4 @@
-> Competitive human evaluation of existing dialogue systems and crowdsourcing of rated dialogs for future training of end-to-end systems
+> Competitive human evaluation of existing dialogue systems and crowdsourcing of rated dialogs dataset for future training of end-to-end systems
 
 # Participate
 
