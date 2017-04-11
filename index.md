@@ -1,7 +1,9 @@
 # Participate
 
 Register as a team member | Register as a human evaluator
---------------------------|------------------------------
+:---: | :---:
+link | link
+
 
 # Timeline
 
