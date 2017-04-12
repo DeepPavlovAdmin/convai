@@ -77,4 +77,8 @@ Alexander Rudnicky, Alan W. Black,  _Carnegie Mellon University, Pittsburgh_
 
 # Sponsor Info
 
-Please contact jjj@kdklf.com for additional information.
+Please contact info@convai.io for additional information.
+
+# Contact
+
+Please send your requests to info@convai.io
