@@ -63,6 +63,8 @@ Both human evaluators and dialogue agents complete the same task.
 
 Dataset collected during competition will be distributed under open source license.
 
+# Baseline solutions
+
 # Organizers
 
 Mikhail Burtsev, Valentin Malykh, _MIPT, Moscow_
