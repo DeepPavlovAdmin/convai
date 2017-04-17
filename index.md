@@ -1,10 +1,8 @@
-> Competitive human evaluation of existing dialogue systems and crowdsourcing of rated dialogs dataset for future training of end-to-end systems
-
 # Participate
 
 Register as a team member | Register as a human evaluator volunteer
 :---: | :---:
-[Registration form for participants](https://goo.gl/aV77lC) | [Registration form for human evaluators](https://goo.gl/PWrZ0e)
+[Participant Registration](https://goo.gl/aV77lC) | [Volunteer Registration](https://goo.gl/PWrZ0e)
 
 
 # Timeline
@@ -13,15 +11,15 @@ Date | Milestone
 ---: | ---
 _April, 2017_ | **Registration is open.** Registered teams are allowed to submit solutions for the Qualification Round. 
 _18th of June, 2017_ | **Qualification Round is closed.** Qualification Leaderboard is published. Teams for the Human Evaluation Round are selected.
-_24th-30th of July, 2017_ | **Human Evaluation Round.** One week NLP summer school. Teams, school participants and volunteers evaluate entries of qualified teams.
+_24th-30th of July, 2017_ | **Human Evaluation Round.** One week NLP summer school. Teams, school participants and volunteers evaluate solutions of qualified teams.
 _1st of September, 2017_ | **1st Dataset is published.** Data collected at the Human Evaluation Round is published. Teams tune their solutions on the 1st Dataset.
 _12th of November, 2017_ | **Submission of conversational agents is closed.** Teams submit final solutions for the NIPS Live Competition.
-_20th of November - 3rd of December, 2017_ | **Pre-NIPS Human Evaluation.** Teams and volunteers start to evaluate entries of teams.
-_4th-9th of December, 2017_ | **Conversational Intelligence Live Competition at NIPS.** Teams, conference participants and volunteers continue to evaluate entries of teams. Announcement of winners. 
+_20th of November - 3rd of December, 2017_ | **Pre-NIPS Human Evaluation.** Teams and volunteers start to evaluate solutions of teams.
+_4th-9th of December, 2017_ | **Conversational Intelligence Live Competition at NIPS.** Teams, conference participants and volunteers continue to evaluate solutions of teams. Announcement of winners. 
 
 # Overview of the Competition
 
-Today, evaluation of dialogue agents is severely limited by the absence of accurate formal metrics. Existing statistical measures such as perplexity, BLEU, recall and others are not sufficiently correlated with human evaluation [[1]](https://arxiv.org/abs/1603.08023 "Liu, Chia-Wei, et al. How NOT to evaluate your dialogue system" arXiv preprint arXiv:1603.08023 (2016)."). Blind assessment of communication quality by humans is a straightforward solution famously proposed by Alan Turing as a test for machine intelligence [[2]](http://www.turingarchive.org/browse.php/B/9 "Turing, Alan M. Computing machinery and intelligence. Mind 59.236 (1950): 433-460."). Unfortunately, human assessment is time and resource consuming. Here we propose to crowdsource evaluation of dialogue systems in the form of a live competition. Participants of the competition, as well as volunteers, will be asked to perform a blind evaluation of a discussion about a news/wikipedia article with either a bot or a human peer. As a result we expect to have two outcomes: (1) a measure of quality of state of the art dialogue systems compared to human level, and (2) an open source dataset collected from evaluated dialogs.
+Dialogue systems and conversational agents -- including chatbots, personal assistants and voice control interfaces -- are becoming increasingly widespread in our daily lives. In addition to the growing real-world applications, the ability to converse is also closely related to the overall [goal of AI](http://www.turingarchive.org/browse.php/B/9 "Turing, Alan M. Computing machinery and intelligence. Mind 59.236 (1950): 433-460."). Recent advances in machine learning have sparked a renewed interest for dialogue systems in the research community. This NIPS Live Competition aims to unify the community around the challenging task: building systems capable of intelligent conversations. Teams are expected to submit dialogue systems able to carry out an intelligent and natural conversations of news articles with humans. At the final stage of the competition participants, as well as volunteers, will perform a blind evaluation of a discussion quality with a randomly matched bot or a human peer. We expect the competition to have two major outcomes: (1) a measure of quality of state-of-the-art dialogue systems, and (2) an open-source dataset collected from evaluated dialogues.
 
 # Competition Rules
 
@@ -29,10 +27,10 @@ Today, evaluation of dialogue agents is severely limited by the absence of accur
 
 The competition consists of four rounds.
 
-1. **Qualification round.** Registered participants submit an application consisting of two parts. (1) Proposal describing details of scientific approach and statement of work including milestones, resources, and other relevant information (up to 1 page), in addition provide a system architecture and relevant technical information (maximum 2 page PDF). (2) Reference to either your submission on SQuAD or MS MARCO leaderboards, or link to your chatbot for testing. Submission of results is closed on the **_18th of June, 2017_**. Notification of acceptance till **_25th of June, 2017_**.
-2. **Human Evaluation Round.** Members of selected teams are invited to participate in a week long NLP summer school by giving a talk on their research. Participation can be on site or remote. During the school week members of teams, school participants, and volunteers recruited via the competition web page evaluate the submitted dialogue systems on the competition task. At the end of Human Evaluation Round, up to 10 teams are selected for the NIPS Live Competition. Every team is required to evaluate at least 150 dialogs during the Round.
-3. **Tuning Round.** Dataset of rated dialogs collected during the Human Evaluation Round is open sourced and can be used by participating teams to tune their solutions.
-4. **NIPS Round.** Starting two weeks before the NIPS conference teams and volunteers perform evaluation of submitted dialog systems. At the beginning of NIPS the conference participants are invited to volunteer in evaluation of teams’ entries adjusted over the Tuning Round. Final rating of submissions is presented on the Competition session at NIPS.
+1. **Qualification round.** Registered participants submit an application consisting of two parts. (1) Proposal describing details of scientific approach and statement of work including milestones, resources, and other relevant information (up to 1 page and an unlimited number of pages for references), in addition provide a system architecture and relevant technical information (maximum 2 page PDF). (2) Reference to either your submission on SQuAD or MS MARCO leaderboards, or link to your chatbot for testing. Submission of results is closed on the **_18th of June, 2017_**. Notification of acceptance till **_25th of June, 2017_**.
+2. **Human Evaluation Round.** Members of selected teams are invited to participate in a week long NLP summer school by giving a talk on their research. Participation can be on site or remote. During the school week members of teams, school participants, and volunteers recruited via the competition web page evaluate the submitted dialogue systems on the competition task. At the end of Human Evaluation Round, up to 10 teams are selected for the NIPS Live Competition. Every team is required to evaluate at least 150 dialogues during the Round.
+3. **Tuning Round.** Dataset of rated dialogues collected during the Human Evaluation Round is open sourced and can be used by participating teams to tune their solutions.
+4. **NIPS Round.** Starting two weeks before the NIPS conference teams and volunteers perform evaluation of submitted dialogue systems. At the beginning of NIPS the conference participants are invited to volunteer in evaluation of teams’ solutions adjusted over the Tuning Round. Final rating of submissions is presented on the Competition session at NIPS.
 
 ## Task
 
@@ -53,7 +51,7 @@ Both human evaluators and dialogue agents complete the same task.
 
 ## Technical infrastructure
 
-1. Competitors will provide their solutions in the form of executable source code supporting a common interface (API).
+1. Competitors will provide their solutions in the form of executables or source code supporting a common interface (API).
 2. These solutions will be run in isolated virtual environments (containers).
 3. The solutions will not be able to access any external services or the Internet, and will only be able to communicate with the supervisor bot to guard against cheating.
 4. The master bot will facilitate communication between human evaluators and the competitors’ solutions. It will be available in popular messenger services (Facebook/Telegram). It’s main function will be to connect a participant to a (randomly selected) solution or peer and log the evaluation process.
@@ -61,7 +59,7 @@ Both human evaluators and dialogue agents complete the same task.
 
 ## Dataset
 
-Dataset collected during competition will be distributed under open source license.
+Dataset collected during competition will be distributed under MIT license.
 
 # Prizes
 
