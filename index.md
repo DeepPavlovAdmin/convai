@@ -16,10 +16,10 @@ Date | Milestone
 ---: | ---
 _April, 2017_ | **Registration is open.** Registered teams are allowed to submit solutions for the Qualification Round. 
 _18th of June, 2017_ | **Qualification Round is closed.** Qualification Leaderboard is published. Teams for the Human Evaluation Round are selected.
-_24th-30th of July, 2017_ | **Human Evaluation Round.** One week NLP summer school. Teams, school participants and volunteers evaluate solutions of qualified teams.
+_24th-30th of July, 2017_ | **Human Evaluation Round.** One week NLP summer school. Teams, school participants and volunteers evaluate solutions of qualified teams. Evaluation is done remotely via a messaging platform.
 _1st of September, 2017_ | **1st Dataset is published.** Data collected at the Human Evaluation Round is published. Teams tune their solutions on the 1st Dataset.
 _12th of November, 2017_ | **Submission of conversational agents is closed.** Teams submit final solutions for the NIPS Live Competition.
-_20th of November - 3rd of December, 2017_ | **Pre-NIPS Human Evaluation.** Teams and volunteers start to evaluate solutions of teams.
+_20th of November - 3rd of December, 2017_ | **Pre-NIPS Human Evaluation.** Teams and volunteers start to evaluate solutions of teams. Evaluation is done remotely via a messaging platform.
 _4th-9th of December, 2017_ | **Conversational Intelligence Live Competition at NIPS.** Teams, conference participants and volunteers continue to evaluate solutions of teams. Announcement of winners. 
 
 # Competition Rules
@@ -29,7 +29,7 @@ _4th-9th of December, 2017_ | **Conversational Intelligence Live Competition at 
 The competition consists of four rounds.
 
 1. **Qualification round.** Registered participants submit an application consisting of two parts. (1) Proposal describing details of scientific approach and statement of work including milestones, resources, and other relevant information (up to 1 page and an unlimited number of pages for references), in addition provide a system architecture and relevant technical information (maximum 2 page PDF). (2) Reference to either your submission on SQuAD or MS MARCO leaderboards, or link to your chatbot for testing. Submission of results is closed on the **_18th of June, 2017_**. Notification of acceptance till **_25th of June, 2017_**.
-2. **Human Evaluation Round.** Members of selected teams are invited to participate in a week long NLP summer school by giving a talk on their research. Participation can be on site or remote. During the school week members of teams, school participants, and volunteers recruited via the competition web page evaluate the submitted dialogue systems on the competition task. At the end of Human Evaluation Round, up to 10 teams are selected for the NIPS Live Competition. Every team is required to evaluate at least 150 dialogues during the Round.
+2. **Human Evaluation Round.** Members of selected teams are invited to participate in a week long NLP summer school by giving a talk on their research. Participation can be on site or remote. During the school week members of teams, school participants, and volunteers recruited via the competition web page evaluate the submitted dialogue systems on the competition task. At the end of Human Evaluation Round, up to 10 teams are selected for the NIPS Live Competition. Every team is required to evaluate at least 150 dialogues during the Round. Evaluation is done remotely via a messaging platform.
 3. **Tuning Round.** Dataset of rated dialogues collected during the Human Evaluation Round is open sourced and can be used by participating teams to tune their solutions.
 4. **NIPS Round.** Starting two weeks before the NIPS conference teams and volunteers perform evaluation of submitted dialogue systems. At the beginning of NIPS the conference participants are invited to volunteer in evaluation of teams’ solutions adjusted over the Tuning Round. Final rating of submissions is presented on the Competition session at NIPS.
 
