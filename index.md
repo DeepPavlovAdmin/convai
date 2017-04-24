@@ -62,6 +62,10 @@ Both human evaluators and dialogue agents complete the same task.
 
 Dataset collected during competition will be distributed under MIT license.
 
+## Publication of solutions
+
+Participants have to make their systems available open source following the end of the competition, as the goal of the challenge is to enable the community to make sustained progress towards the creation of conversational intelligence.
+
 # Prizes
 
 To be announced.
