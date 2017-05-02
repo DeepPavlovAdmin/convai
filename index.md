@@ -78,7 +78,7 @@ Ryan Lowe, _McGill University, Montreal_
 
 Iulian Serban, Yoshua Bengio, _University of Montreal, Montreal_
 
-Alexander Rudnicky, Alan W. Black,  _Carnegie Mellon University, Pittsburgh_
+Alexander Rudnicky, Alan W. Black, Shrimai Prabhumoye, _Carnegie Mellon University, Pittsburgh_
 
 # Sponsor Info
 
