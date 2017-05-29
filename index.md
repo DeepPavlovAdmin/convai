@@ -53,7 +53,7 @@ Both human evaluators and dialogue agents complete the same task.
 
 ## Technical infrastructure
 
-1. Competitors will provide their solutions in the form of executables or source code supporting a common interface (API).
+1. Competitors will provide their solutions in the form of executables or source code supporting a [common interface (API)](api).
 2. These solutions will be run in isolated virtual environments (containers).
 3. The solutions will not be able to access any external services or the Internet, and will only be able to communicate with the supervisor bot to guard against cheating.
 4. The master bot will facilitate communication between human evaluators and the competitors’ solutions. It will be available in popular messenger services (Facebook/Telegram). It’s main function will be to connect a participant to a (randomly selected) solution or peer and log the evaluation process.
