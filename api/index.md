@@ -90,3 +90,5 @@ The last message of every chat should have text `/end` and three evaluation fiel
 ## Available API methods
 
 The only supported Telegram Bot API methods are `getUpdates` and [`sendMessage`](https://core.telegram.org/bots/api#sendmessage).
+
+# [Competition home](http://convai.io)
