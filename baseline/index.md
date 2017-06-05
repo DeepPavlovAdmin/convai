@@ -1,4 +1,5 @@
 # Conversational Intelligence Challenge baseline solution
+The solution is placed at GitHub, you could fork or download it [here](https://github.com/MIPTDeepLearningLab/ConvAI-baseline).
 
 For now it is a Telegram bot, but it could easily be switched to our server by providing ```base_url``` parameter in telegram bot initialisation [here](https://github.com/MIPTDeepLearningLab/ConvAI-baseline/blob/master/bot_code/bot.py#L60). More information about parameters of telegram bot framework could be found [here](http://python-telegram-bot.readthedocs.io/en/latest/).
 
