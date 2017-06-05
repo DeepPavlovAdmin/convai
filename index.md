@@ -59,7 +59,7 @@ Both human evaluators and dialogue agents complete the same task.
 4. The master bot will facilitate communication between human evaluators and the competitors’ solutions. It will be available in popular messenger services (Facebook/Telegram). It’s main function will be to connect a participant to a (randomly selected) solution or peer and log the evaluation process.
 5. The master bot will provide the instructions and a context necessary for human evaluation of presented solutions.
 
-Also, we are providing [baseline solution](https://github.com/MIPTDeepLearningLab/ConvAI-baseline) for participants to start with. More details on dedicated [page](basline).
+Also, we are providing [baseline solution](https://github.com/MIPTDeepLearningLab/ConvAI-baseline) for participants to start with. More details on dedicated [page](baseline).
 
 ## Dataset
 
