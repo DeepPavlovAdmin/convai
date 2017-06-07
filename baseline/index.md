@@ -25,11 +25,23 @@ We are using forked repo of Allen AI2 bi-att-flow: https://github.com/allenai/bi
 
 Python packages will be installed by ```setup.sh``` script.
 
+## Cloning
+It you're using git version 1.6.5+, you could clone with dependencies:
+
+```git clone --recursive git@github.com:MIPTDeepLearningLab/ConvAI-baseline.git```
+
+If you're using earlier versions of git, or if you have the repo downloaded without ```--recursive```, you should clone dependency repos additionally:
+
+```bash
+git clone git@github.com:MIPTDeepLearningLab/ConvAI-baseline.git
+cd ConvAI-baseline
+git submodule update --init --recursive
+```
+
 ## Setup
 Run ```setup.sh```
 
 Setup will download docker images, models and data files, so you have no need to download any of that by yourself.
 
-## Bot
-Simply run:
-```python3 bot_code/bot.py```
+## Running
+```./bot.sh start|stop|restart|status```
