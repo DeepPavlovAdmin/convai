@@ -44,4 +44,6 @@ Run ```setup.sh```
 Setup will download docker images, models and data files, so you have no need to download any of that by yourself.
 
 ## Running
-```./bot.sh start|stop|restart|status```
+```./bot.sh start|stop|stopall|restart|restartall|status```
+
+```stopall``` is stopping all the services after the killing the bot, while ```stop``` just kills the bot only. The ```restarall``` is using ```stopall``` instead of simple ```stop```.
