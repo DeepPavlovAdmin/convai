@@ -6,6 +6,12 @@ Register as a team member | Register as a human evaluator volunteer
 :---: | :---:
 [Participant Registration](https://goo.gl/aV77lC) | [Volunteer Registration](https://goo.gl/PWrZ0e)
 
+## Submission of applications for the Qualification Round
+
+ Submission form | Deadline is **_18th of June, 2017_**
+:---: | :---:
+[https://easychair.org/conferences/?conf=convai2017](https://easychair.org/conferences/?conf=convai2017) |  An application should consists of two parts. (1) Proposal describing details of scientific approach and statement of work including milestones, resources, and other relevant information (up to 1 page and an unlimited number of pages for references), in addition provide a system architecture and relevant technical information (maximum 2 page PDF). (2) Reference to either your submission on [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) or [MS MARCO](http://www.msmarco.org/) leaderboards, or link to your chatbot for testing. Include this reference as a final section of your proposal.
+
 # Overview of the Competition
 
 Recent advances in machine learning have sparked a renewed interest for dialogue systems in the research community. In addition to the growing real-world applications, the ability to converse is closely related to the overall [goal of AI](http://www.turingarchive.org/browse.php/B/9 "Turing, Alan M. Computing machinery and intelligence. Mind 59.236 (1950): 433-460."). This NIPS Live Competition aims to unify the community around the challenging task: building systems capable of intelligent conversations. Teams are expected to submit dialogue systems able to carry out intelligent and natural conversations about specific news articles with humans. At the final stage of the competition participants, as well as volunteers, will be randomly matched with a bot or a human to chat and evaluate answers of a peer. We expect the competition to have two major outcomes: (1) a measure of quality of state-of-the-art dialogue systems, and (2) an open-source dataset collected from evaluated dialogues.
