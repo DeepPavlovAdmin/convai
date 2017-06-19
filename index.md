@@ -8,7 +8,7 @@ Register as a team member | Register as a human evaluator volunteer
 
 ## Submission of applications for the Qualification Round
 
- Submission form | Deadline is **_23:59 UTC, 18th of June, 2017_**
+ Submission form | Extended deadline is **_23:59 UTC, 25th of June, 2017_**
 :---: | :---:
 [https://easychair.org/conferences/?conf=convai2017](https://easychair.org/conferences/?conf=convai2017) |  An application should be a PDF file including two parts. (1) Proposal describing details of scientific approach and statement of work including milestones, resources, and other relevant information (up to 1 page and an unlimited number of pages for references), in addition provide a system architecture and relevant technical information (maximum 2 pages). (2) Reference to either your submission on [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) or [MS MARCO](http://www.msmarco.org/) leaderboards, or link to your chatbot for testing. Include this reference as a final section of your proposal.
 
