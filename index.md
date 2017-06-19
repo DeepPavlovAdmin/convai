@@ -23,7 +23,7 @@ Date | Milestone
 _April, 2017_ | **Registration is open.** Registered teams are allowed to submit applications and solutions for the Qualification Round. 
 <span style="color:red">_25th of June, 2017_ </span>| **Qualification Round is closed.**
 <span style="color:red">_2nd of July, 2017_  </span>| **Notification of acceptance.**  Teams for the Human Evaluation Round are selected.
-_24th-30th of July, 2017_ | **Human Evaluation Round.** One week NLP summer school. Teams, school participants and volunteers evaluate solutions of qualified teams. Evaluation is done remotely via a messaging platform.
+_24th-30th of July, 2017_ | **Human Evaluation Round.** One week NLP summer school - [DeepHack Turing](http://turing.deephack.me/). Teams, school participants and volunteers evaluate solutions of qualified teams. Evaluation is done remotely via a messaging platform.
 _1st of September, 2017_ | **1st Dataset is published.** Data collected at the Human Evaluation Round is published. Teams tune their solutions on the 1st Dataset.
 _12th of November, 2017_ | **Submission of conversational agents is closed.** Teams submit final solutions for the NIPS Live Competition.
 _20th of November - 3rd of December, 2017_ | **Pre-NIPS Human Evaluation.** Teams and volunteers start to evaluate solutions of teams. Evaluation is done remotely via a messaging platform.
