@@ -8,7 +8,7 @@ Register as a team member | Register as a human evaluator volunteer
 
 ## Submission of applications for the Qualification Round
 
- Submission form | Deadline is **_23:59 UTC, 18th of June, 2017_**
+ Submission form | <span style="color:red">Deadline is Extended to</span> **_23:59 UTC, 25th of June, 2017_**
 :---: | :---:
 [https://easychair.org/conferences/?conf=convai2017](https://easychair.org/conferences/?conf=convai2017) |  An application should be a PDF file including two parts. (1) Proposal describing details of scientific approach and statement of work including milestones, resources, and other relevant information (up to 1 page and an unlimited number of pages for references), in addition provide a system architecture and relevant technical information (maximum 2 pages). (2) Reference to either your submission on [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) or [MS MARCO](http://www.msmarco.org/) leaderboards, or link to your chatbot for testing. Include this reference as a final section of your proposal.
 
@@ -21,8 +21,10 @@ Recent advances in machine learning have sparked a renewed interest for dialogue
 Date | Milestone
 ---: | ---
 _April, 2017_ | **Registration is open.** Registered teams are allowed to submit applications and solutions for the Qualification Round. 
-_18th of June, 2017_ | **Qualification Round is closed.**
-_25th of June, 2017_ | **Notification of acceptance.**  Teams for the Human Evaluation Round are selected.
+~_18th of June, 2017_~ | ~**Qualification Round is closed.**~
+_25th of June, 2017_ | **Qualification Round is closed.**
+~_25th of June, 2017_~ | ~**Notification of acceptance.**~
+_2nd of July, 2017_ | **Notification of acceptance.**  Teams for the Human Evaluation Round are selected.
 _24th-30th of July, 2017_ | **Human Evaluation Round.** One week NLP summer school. Teams, school participants and volunteers evaluate solutions of qualified teams. Evaluation is done remotely via a messaging platform.
 _1st of September, 2017_ | **1st Dataset is published.** Data collected at the Human Evaluation Round is published. Teams tune their solutions on the 1st Dataset.
 _12th of November, 2017_ | **Submission of conversational agents is closed.** Teams submit final solutions for the NIPS Live Competition.
