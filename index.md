@@ -85,9 +85,26 @@ Iulian Serban, Yoshua Bengio, _University of Montreal, Montreal_
 
 Alexander Rudnicky, Alan W. Black, Shrimai Prabhumoye, _Carnegie Mellon University, Pittsburgh_
 
-# Sponsor Info
+# Partners
 
-Please contact info@convai.io for additional information.
+## Platinum Partner
+
+<a href="https://research.fb.com/category/facebook-ai-research-fair/"><img src="facebook.png"></a>
+
+## Gold Partner
+
+<a href="http://www.flintcap.com/"><img src="flint.png"></a>
+
+## Silver Partners
+
+<a href="http://ivado.ca/"><img src="ivado.jpg"></a>
+<a href="http://www.maluuba.com/"><img src="maluuba.png"></a>
+
+## Bronze Partner
+
+<a href="https://www.elementai.com/"><img src="elementai.png"></a>
+
+Please contact info@convai.io for information on sponsorship.
 
 # Contact
 
