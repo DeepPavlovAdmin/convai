@@ -73,7 +73,7 @@ Participants have to make their systems available open source following the end 
 
 # Prizes
 
-To be announced.
+10,000 USD for the winning dialogue agent.
 
 # Organizers
 
