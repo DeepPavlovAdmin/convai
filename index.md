@@ -20,7 +20,7 @@ _April, 2017_ | **Registration is open.** Registered teams are allowed to submit
 <span style="color:red">_**25th of June, 2017**_ </span>| **Qualification Round is closed.**
 <span style="color:red">_**2nd of July, 2017**_  </span>| **Notification of acceptance.**  Teams for the Human Evaluation Round are selected.
 _24th-30th of July, 2017_ | **Human Evaluation Round.** One week NLP summer school - [DeepHack Turing](http://turing.deephack.me/). Teams, school participants and volunteers evaluate solutions of qualified teams. Evaluation is done remotely via a messaging platform.
-_1st of September, 2017_ | **1st Dataset is published.** Data collected at the Human Evaluation Round is published. Teams tune their solutions on the 1st Dataset.
+_1st of September, 2017_ | **1st Dataset is published.** Data collected at the Human Evaluation Round is published. Dataset is integrated with the [ParlAI framework](http://parl.ai/) for the efficient training of models. Teams tune their solutions on the 1st Dataset.
 _12th of November, 2017_ | **Submission of conversational agents is closed.** Teams submit final solutions for the NIPS Live Competition.
 _20th of November - 3rd of December, 2017_ | **Pre-NIPS Human Evaluation.** Teams and volunteers start to evaluate solutions of teams. Evaluation is done remotely via a messaging platform.
 _4th-9th of December, 2017_ | **Conversational Intelligence Live Competition at NIPS.** Teams, conference participants and volunteers continue to evaluate solutions of teams. Announcement of winners. 
@@ -33,7 +33,7 @@ The competition consists of four rounds.
 
 1. **Qualification round.** Registered participants submit an application consisting of two parts. (1) Proposal describing details of scientific approach and statement of work including milestones, resources, and other relevant information (up to 1 page and an unlimited number of pages for references), in addition provide a system architecture and relevant technical information (maximum 2 page PDF). (2) Reference to either your submission on [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) or [MS MARCO](http://www.msmarco.org/) leaderboards, or link to your chatbot for testing. Submission of results is closed on the **_25th of June, 2017_**. Notification of acceptance till **_2nd of July, 2017_**.
 2. **Human Evaluation Round.** Members of selected teams are invited to participate in a week long NLP summer school by giving a talk on their research. Participation can be on site or remote. During the school week members of teams, school participants, and volunteers recruited via the competition web page evaluate the submitted dialogue systems on the competition task. At the end of Human Evaluation Round, up to 10 teams are selected for the NIPS Live Competition. Every team is required to evaluate at least 150 dialogues during the Round. Evaluation is done remotely via a messaging platform.
-3. **Tuning Round.** Dataset of rated dialogues collected during the Human Evaluation Round is open sourced and can be used by participating teams to tune their solutions.
+3. **Tuning Round.** Dataset of rated dialogues collected during the Human Evaluation Round is open sourced and can be used by participating teams to tune their solutions. Models can be trained on this dataset via the [ParlAI framework](http://parl.ai/).
 4. **NIPS Round.** Starting two weeks before the NIPS conference teams and volunteers perform evaluation of submitted dialogue systems. At the beginning of NIPS the conference participants are invited to volunteer in evaluation of teams’ solutions adjusted over the Tuning Round. Final rating of submissions is presented on the Competition session at NIPS.
 
 ## Task
@@ -60,6 +60,7 @@ Both human evaluators and dialogue agents complete the same task.
 3. The solutions will not be able to access any external services or the Internet, and will only be able to communicate with the supervisor bot to guard against cheating.
 4. The master bot will facilitate communication between human evaluators and the competitors’ solutions. It will be available in popular messenger services (Facebook/Telegram). It’s main function will be to connect a participant to a (randomly selected) solution or peer and log the evaluation process.
 5. The master bot will provide the instructions and a context necessary for human evaluation of presented solutions.
+6. At the NIPS Round models will be able to connect to the master bot via [ParlAI framework](http://parl.ai/)
 
 Also, we are providing [baseline solution](https://github.com/MIPTDeepLearningLab/ConvAI-baseline) for participants to start with. More details on dedicated [page](baseline).
 
