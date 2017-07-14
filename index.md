@@ -1,10 +1,10 @@
 >Dialogue systems and conversational agents -- including chatbots, personal assistants and voice control interfaces -- are becoming increasingly widespread in our daily lives. NIPS is sponsoring an open competition to create a chatbot that can hold an intelligent conversation with a human partner.
 
-# Participate
+# Join our efforts to build an open dataset for the development of the next generation conversational AI
 
 | Register as a human evaluator volunteer
 | :---:
-| [Volunteer Registration](https://goo.gl/PWrZ0e)
+| <a href="https://goo.gl/PWrZ0e"><img src="volunteer.png"></a>
 
 ## Submission of applications for the Qualification Round is closed
 
