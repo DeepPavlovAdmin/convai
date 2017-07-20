@@ -74,6 +74,8 @@ Participants have to make their systems available open source following the end 
 
 10,000 USD for the winning dialogue agent.
 
+We also invite teams to use ParlAI in their solutions and submit applications for [ParlAI request for proposals](https://research.fb.com/programs/research-awards/proposals/parlai/)
+
 # Organizers
 
 Mikhail Burtsev, Valentin Malykh, _MIPT, Moscow_
