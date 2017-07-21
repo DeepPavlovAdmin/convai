@@ -2,9 +2,9 @@
 
 1. Evaluation of bots is performed via Telegram messaging service. 
 2. If you have no Telegram account please register:
-- for Android users - https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en;
-- for iPhone users - https://itunes.apple.com/us/app/telegram-messenger/id686449807?mt=8;
-- for web users - https://web.telegram.org.
+- for Android users - [https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en);
+- for iPhone users - [https://itunes.apple.com/us/app/telegram-messenger/id686449807?mt=8](https://itunes.apple.com/us/app/telegram-messenger/id686449807?mt=8);
+- for web users - [https://web.telegram.org](https://web.telegram.org).
 3. After you have your Telegram account created, login in Telegram and add [@ConvaiBot](https://web.telegram.org/#/im?p=%40ConvaiBot) - this is official bot for our competition. ([How to add peer in Telegram](https://telegram.org/faq#q-how-do-i-invite-my-friends))
 4. To start a dialog type or choose a `/begin` command .
 5. You will be connected to a peer or, if no peer is available at the moment, you’ll receive the message from [@ConvaiBot](https://web.telegram.org/#/im?p=%40ConvaiBot) `Please wait for you peer.`.
