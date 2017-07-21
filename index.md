@@ -5,6 +5,7 @@
 | Register as a human evaluator volunteer
 | :---:
 | <a href="https://goo.gl/PWrZ0e"><img src="volunteer.png"></a>
+| [Instructions for volunteers](eval_howto)
 
 # Overview of the Competition
 
