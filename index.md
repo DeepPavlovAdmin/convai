@@ -11,6 +11,10 @@
 
 [Leaderboard of the Human Evalutation Round](1_round)
 
+# Dialogue dataset
+
+[Data collected during the Human Evaluation Round](Data)
+
 # Overview of the Competition
 
 Recent advances in machine learning have sparked a renewed interest for dialogue systems in the research community. In addition to the growing real-world applications, the ability to converse is closely related to the overall [goal of AI](http://www.turingarchive.org/browse.php/B/9 "Turing, Alan M. Computing machinery and intelligence. Mind 59.236 (1950): 433-460."). This NIPS Live Competition aims to unify the community around the challenging task: building systems capable of intelligent conversations. Teams are expected to submit dialogue systems able to carry out intelligent and natural conversations about specific news articles with humans. At the final stage of the competition participants, as well as volunteers, will be randomly matched with a bot or a human to chat and evaluate answers of a peer. We expect the competition to have two major outcomes: (1) a measure of quality of state-of-the-art dialogue systems, and (2) an open-source dataset collected from evaluated dialogues.
