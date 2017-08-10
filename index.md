@@ -13,7 +13,7 @@
 
 # Dialogue dataset
 
-[Data collected during the Human Evaluation Round](Data)
+[Data collected during the Human Evaluation Round](data)
 
 # Overview of the Competition
 
