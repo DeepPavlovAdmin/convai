@@ -23,3 +23,5 @@ Rank | BOT | FINAL SCORE | TEAM | Organization
 
 <a href="http://ivado.ca/"><img src="../ivado.jpg"></a>
 <a href="http://www.maluuba.com/"><img src="../maluuba.png"></a>
+
+# [Competition home](http://convai.io)
