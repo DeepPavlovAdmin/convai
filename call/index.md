@@ -12,7 +12,9 @@ We invite researchers to participate in the poster session of our workshop. NLP 
 ### Important dates
 
 15 October --- submission deadline
+
 1 November --- notification of acceptance
+
 9 December --- workshop
 
 ### Submission
