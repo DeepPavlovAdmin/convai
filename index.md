@@ -7,6 +7,11 @@
 | <a href="https://t.me/ConvaiBot"><img src="volunteer.png"></a>
 | [Instructions for volunteers](eval_howto)
 
+# Call for posters
+
+We invite researchers to participate in the poster session of our workshop. Topics of interest include descriptions of chatbot architectures, evaluation of chatbots and other questions related to the development of dialogue systems.
+[Read more](call)
+
 # Leaderboard
 
 [Leaderboard of the Human Evalutation Round](1_round)
