@@ -11,11 +11,9 @@ We invite researchers to participate in the poster session of our workshop. NLP 
 
 ### Important dates
 
-15 October --- submission deadline
-
-1 November --- notification of acceptance
-
-9 December --- workshop
+- 1 November  --- submission deadline
+- 15 November --- notification of acceptance
+- 9 December  --- workshop
 
 ### Submission
 
@@ -24,5 +22,9 @@ We accept double submissions.
 
 [Submit an abstract](https://easychair.org/conferences/?conf=convai2017)
 
+### Presentation
+
+The accepted works will be presented as __posters__. Posters should be of A0 format, vertically aligned.
+There will be no publication.
 
 # [Competition home](http://convai.io)
