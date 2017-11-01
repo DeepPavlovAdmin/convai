@@ -7,7 +7,7 @@
 - for web users - [https://web.telegram.org](https://web.telegram.org).
 3. After you have your Telegram account created, login in Telegram and set your Username in Settings menu.
 4. After you have set your username add [@ConvaiBot](https://web.telegram.org/#/im?p=%40ConvaiBot) - this is official bot for our competition. ([How to add peer in Telegram.](https://telegram.org/faq#q-how-do-i-invite-my-friends))
-5. To evaluate using __Messenger__ go to [https://www.messenger.com/t/convai.io](https://www.messenger.com/t/convai.io) amd start a chat, using your facebook account.
+5. To evaluate using __Messenger__ go to [https://www.messenger.com/t/convai.io](https://www.messenger.com/t/convai.io) and start a chat, using your Facebook account.
 6. To start a dialog type or choose a `/begin` command .
 7. You will be connected to a peer or, if no peer is available at the moment, you’ll receive the message from __@ConvaiBot__ `Please wait for you peer.`
 8. Peer might be a bot or another human evaluator.
