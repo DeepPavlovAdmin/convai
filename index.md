@@ -74,11 +74,11 @@ Both human evaluators and dialogue agents complete the same task.
 5. The master bot will provide the instructions and a context necessary for human evaluation of presented solutions.
 6. At the NIPS Round models will be able to connect to the master bot via [ParlAI framework](http://parl.ai/)
 
-Also, we are providing [baseline solution](https://github.com/MIPTDeepLearningLab/ConvAI-baseline) for participants to start with. More details on dedicated [page](baseline).
+Also, we are providing [baseline solution](https://github.com/deepmipt/ConvAI-baseline) for participants to start with. More details on dedicated [page](./baseline).
 
 ## Dataset
 
-Dataset collected during competition will be distributed under MIT license.
+Dataset collected during competition will be distributed under Apache 2.0 license.
 
 ## Publication of solutions
 
