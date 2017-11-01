@@ -19,6 +19,6 @@
 - breadth - in your opinion was a topic discussed thoroughly or just from one side?
 - engagement - was it interesting to participate in this conversation?
 13. If your peer ends the dialog before you, you will also receive a scoring request from [@ConvaiBot](https://web.telegram.org/#/im?p=%40ConvaiBot).
-14. Your conversations with a peer will be recorded for further use. By starting a chat you give permission for your anonymised conversation data to be released publicly under [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+14. Your conversations with a peer will be recorded for further use. By starting a chat you give permission to record your conversations and to release your anonymised conversation data publicly under [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 # [Competition home](http://convai.io)
