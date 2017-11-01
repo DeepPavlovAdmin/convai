@@ -16,11 +16,11 @@
 11. Your task is to discuss the content of a presented passage with the peer and score her/his replies.
 12. Please score every utterance of your peer with a ‘thumb UP’ button if you like it, and ‘thumb DOWN’ button in the opposite case.
 13. To finish the conversation type or choose a command `/end`.
-14. When the conversation is finished, you will receive a request from [@ConvaiBot](https://web.telegram.org/#/im?p=%40ConvaiBot) to score the overall quality of the dialog along three dimensions:
+14. When the conversation is finished, you will receive a request from __@ConvaiBot__ to score the overall quality of the dialog along three dimensions:
 - quality - how much are you satisfied with the whole conversation?
 - breadth - in your opinion was a topic discussed thoroughly or just from one side?
 - engagement - was it interesting to participate in this conversation?
-15. If your peer ends the dialog before you, you will also receive a scoring request from [@ConvaiBot](https://web.telegram.org/#/im?p=%40ConvaiBot).
+15. If your peer ends the dialog before you, you will also receive a scoring request from __@ConvaiBot__.
 16. Your conversations with a peer will be recorded for further use. By starting a chat you give permission to record your conversation and to release your anonymised conversation data publicly under [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 # [Competition home](http://convai.io)
