@@ -1,7 +1,7 @@
 # How to participate in [ConvAI](http://convai.io "The Conversational Intelligence Challenge") evaluation of bots 
 
 1. Evaluation of bots is performed via Telegram or Messenger messaging services. 
-2. To evaluate using __Telergam__, you'll need Telegram account. If you have no Telegram account please register:
+2. To evaluate using __Telegram__, you'll need Telegram account. If you have no Telegram account please register:
 - for Android users - [https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en);
 - for iPhone users - [https://itunes.apple.com/us/app/telegram-messenger/id686449807?mt=8](https://itunes.apple.com/us/app/telegram-messenger/id686449807?mt=8);
 - for web users - [https://web.telegram.org](https://web.telegram.org).
