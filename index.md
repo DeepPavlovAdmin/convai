@@ -82,6 +82,14 @@ If there was a spotted issue the participating system is disqualified from compe
 
 Also, we are providing [baseline solution](https://github.com/deepmipt/ConvAI-baseline) for participants to start with. More details on dedicated [page](./baseline).
 
+### System requirements
+The submitted system will be provided with virtual machine with these constraints:
+* 2 virtual processors Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz
+* 16 Gb of RAM
+* 50 Gb of disk space
+
+If submitted system would have any issues on running on provided machine, the team would be contacted by organizers to resolve the issue.
+
 ## Dataset
 
 Dataset collected during competition will be distributed under Apache 2.0 license.
