@@ -62,9 +62,14 @@ Both human evaluators and dialogue agents complete the same task.
 
 1. Evaluator will not be given any information about identity of the peer.
 2. Members of the team will be automatically excluded from evaluation of their own submission and each other.
-3. The quality of every response is subjectively evaluated on the 0 to 10 range.
-4. The quality of the dialog as a whole as well as its breadth and engagement are evaluated on the 0 to 10 range.
-5. Final rating is calculated as an average of evaluation values accumulated by submission during the NIPS Round of Competition.
+3. The quality of every response is subjectively evaluated by "thumbs up" & "thumbs down" binary scale. This evaluation could be skipped by evaluator.
+4. The quality of the dialog as a whole as well as its breadth and engagement are evaluated on the 0 to 10 range. This evaluation is obligatory.
+5. Final rating is calculated as an average of evaluation values accumulated by submitted system during the NIPS Round of Competition.
+
+### Note on diqualification
+The submitted system could be excluded from competition temporarily or completely, if there were issues with system used language. We encourage the participants to be guided by common sense, choosing the constraints on system vocabulary. 
+
+If there was a spotted issue the participating system is disqualified from competition temporarily, until the issue is resolved. If issue is not resolved until the competition's end, the system will be disqualified completely from the competition.
 
 ## Technical infrastructure
 
@@ -73,7 +78,7 @@ Both human evaluators and dialogue agents complete the same task.
 3. The solutions will not be able to access any external services or the Internet, and will only be able to communicate with the supervisor bot to guard against cheating.
 4. The master bot will facilitate communication between human evaluators and the competitors’ solutions. It will be available in popular messenger services (Facebook/Telegram). It’s main function will be to connect a participant to a (randomly selected) solution or peer and log the evaluation process.
 5. The master bot will provide the instructions and a context necessary for human evaluation of presented solutions.
-6. At the NIPS Round models will be able to connect to the master bot via [ParlAI framework](http://parl.ai/)
+6. At the NIPS Round models will be able to connect to the master bot via [ParlAI framework](http://parl.ai/).
 
 Also, we are providing [baseline solution](https://github.com/deepmipt/ConvAI-baseline) for participants to start with. More details on dedicated [page](./baseline).
 
