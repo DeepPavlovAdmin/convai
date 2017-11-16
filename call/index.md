@@ -13,7 +13,7 @@ We invite researchers to participate in the poster session of our workshop. NLP 
 
 - 1 November  --- submission deadline
 - 15 November --- notification of acceptance
-- 9 December  --- workshop
+- 8 December  --- poster session at NIPS competition track
 
 ### Submission
 
