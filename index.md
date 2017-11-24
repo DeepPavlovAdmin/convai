@@ -6,12 +6,11 @@
 | :---:
 | [![Volunteer](volunteer.png)](eval_howto)
 
-# Call for posters
+# Workshop at NIPS
 
-We invite researchers to participate in the poster session of our workshop. Topics of interest include descriptions of chatbot architectures, evaluation of chatbots and other questions related to the development of dialogue systems.
-[Read more](call)
+[The Conversational Intelligence Challenge section on NIPS 2017 Competition Track Workshop](nips17_wrkshp)
 
-# Leaderboard
+# Leaderboard of the pre-NIPS round
 
 [Leaderboard of the Human Evalutation Round](1_round)
 
