@@ -2,10 +2,9 @@
 
 ## Join our efforts to build an open dataset for the development of the next generation conversational AI
 
-| Register as a human evaluator volunteer
+| Participate as a human evaluator volunteer
 | :---:
 | [![Volunteer](volunteer.png)](eval_howto)
-| [Instructions for volunteers](eval_howto)
 
 # Call for posters
 
