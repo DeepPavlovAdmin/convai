@@ -4,7 +4,7 @@
 
 | Register as a human evaluator volunteer
 | :---:
-| <a href="https://t.me/ConvaiBot"><img src="volunteer.png"></a>
+| [![Volunteer](volunteer.png)](eval_howto)
 | [Instructions for volunteers](eval_howto)
 
 # Call for posters
