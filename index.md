@@ -8,7 +8,7 @@
 
 # Leaderboard of the NIPS round
 
-Rank    | BOT    | FINAL SCORE
+Rank    | BOT    | СURRENT SCORE*
 --------|--------|-------------
 1    | bot#1337    | 1.6
 2    | kAIb    | 1.368421052631579
@@ -16,6 +16,8 @@ Rank    | BOT    | FINAL SCORE
 4    | PolyU    | 1.25
 5    | DeepTalkHawk    | 1.2173913043478262
 6    | poetwannabe    | 1.1111111111111112
+
+* Final scores will be published at 8th of December 2017.
 
 # Workshop at NIPS
 
