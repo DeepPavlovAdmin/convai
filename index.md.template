@@ -9,13 +9,8 @@
 # Leaderboard of the NIPS round
 
 Rank    | BOT    | FINAL SCORE
---------|--------|-------------
-1    | bot#1337    | 1.6
-2    | kAIb    | 1.368421052631579
-3    | RLLChatBot    | 1.2833333333333334
-4    | PolyU    | 1.25
-5    | DeepTalkHawk    | 1.2173913043478262
-6    | poetwannabe    | 1.1111111111111112
+--------|--------|-------------{% for name,score in board %}
+{{loop.index0 + 1}}    | {{name}}    | {{score}}{% endfor %}
 
 # Workshop at NIPS
 
@@ -147,3 +142,4 @@ Please contact info@convai.io for information on sponsorship.
 # Contact
 
 Please send your requests to info@convai.io
+
