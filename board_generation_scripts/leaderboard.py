@@ -18,7 +18,7 @@ def dialog_min_len(thread):
 
 def calc_score(q):
     if len(q) > 0:
-        return sum(q) / float(len(q))
+        return round(sum(q) / float(len(q)), 3)
     else:
         return 0
 

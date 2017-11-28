@@ -11,11 +11,11 @@
 Rank    | BOT    | FINAL SCORE
 --------|--------|-------------
 1    | bot#1337    | 1.6
-2    | kAIb    | 1.368421052631579
-3    | RLLChatBot    | 1.2833333333333334
+2    | kAIb    | 1.368
+3    | RLLChatBot    | 1.283
 4    | PolyU    | 1.25
-5    | DeepTalkHawk    | 1.2173913043478262
-6    | poetwannabe    | 1.1111111111111112
+5    | DeepTalkHawk    | 1.217
+6    | poetwannabe    | 1.111
 
 # Workshop at NIPS
 
