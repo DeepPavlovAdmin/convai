@@ -8,7 +8,7 @@
 
 # Leaderboard of the NIPS round
 
-Rank    | BOT    | СURRENT SCORE*
+Rank    | BOT    | CURRENT SCORE
 --------|--------|-------------
 1    | bot#1337    | 1.6
 2    | kAIb    | 1.368

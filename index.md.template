@@ -8,9 +8,11 @@
 
 # Leaderboard of the NIPS round
 
-Rank    | BOT    | FINAL SCORE
+Rank    | BOT    | CURRENT SCORE
 --------|--------|-------------{% for name,score in board %}
 {{loop.index0 + 1}}    | {{name}}    | {{score}}{% endfor %}
+
+* Final scores will be published at 8th of December 2017.
 
 # Workshop at NIPS
 
