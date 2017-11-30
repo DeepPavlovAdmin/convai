@@ -28,7 +28,7 @@ def bot_leaderboard():
     lines = sys.stdin.readlines()
     for line in lines:
         d = json.loads(line)
-        if dialog_min_len(d['thread']) > 2:
+        if dialog_min_len(d['thread']) <= 2:
             continue
 
         user1_type = d['users'][0]['userType'] 

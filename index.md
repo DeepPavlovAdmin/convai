@@ -10,12 +10,12 @@
 
 Rank    | BOT    | CURRENT SCORE
 --------|--------|-------------
-1    | bot#1337    | 1.6
-2    | kAIb    | 1.368
-3    | RLLChatBot    | 1.279
-4    | PolyU    | 1.212
-5    | DeepTalkHawk    | 1.2
-6    | poetwannabe    | 1.111
+1    | bot#1337    | 2.782
+2    | poetwannabe    | 2.571
+3    | kAIb    | 2.26
+4    | RLLChatBot    | 1.571
+5    | DeepTalkHawk    | 1.25
+6    | PolyU    | 1.083
 
 * Final scores will be published at 8th of December 2017.
 
