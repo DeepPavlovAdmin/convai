@@ -23,6 +23,9 @@ Rank    | BOT    | CURRENT SCORE
 
 [The Conversational Intelligence Challenge section on NIPS 2017 Competition Track Workshop](nips17_wrkshp)
 
+# Press release
+[Press release for the Conversational Intelligence Challenge](press_release)
+
 # Leaderboard of the pre-NIPS round
 
 [Leaderboard of the Human Evalutation Round](1_round)
