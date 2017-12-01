@@ -4,7 +4,7 @@
 
 ## Donate your dialogue to chatbot research
 
-<img style="float: right;" src="press_poster.png" style="width: 150px;"/>
+<p aling="right;"><img style="float: right;" src="press_poster.png" style="width: 30%;"/></p>
 We experience conversational artificial intelligence increasingly often, from bots that we can chat with on messaging apps 
 to personal assistants and voice control interfaces. While dialogue systems are becoming more widespread, there is still a 
 great deal of work involved in making conversational intelligence more sophisticated.
