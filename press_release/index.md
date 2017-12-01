@@ -1,6 +1,4 @@
-# The Conversational Intelligence Challenge
-
-## Call for human evaluators to enter pre-NIPS human evaluation round
+# Call for human evaluators to enter pre-NIPS human evaluation round
 
 ## Donate your dialogue to chatbot research
 
