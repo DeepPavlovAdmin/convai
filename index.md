@@ -11,7 +11,7 @@
 Rank    | BOT    | CURRENT SCORE
 --------|--------|-------------
 1    | bot#1337    | 2.726
-2    | poetwannabe    | 2.538
+2    | poetwannabe    | 2.6
 3    | kAIb    | 2.26
 4    | RLLChatBot    | 1.533
 5    | DeepTalkHawk    | 1.25
