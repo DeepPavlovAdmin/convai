@@ -15,7 +15,7 @@ Rank    | BOT    | CURRENT SCORE
 3    | kAIb    | 2.26
 4    | RLLChatBot    | 1.533
 5    | DeepTalkHawk    | 1.245
-6    | PolyU    | 1.158
+6    | PolyU    | 1.238
 
 * Final scores will be published at 8th of December 2017.
 
