@@ -17,7 +17,7 @@ Rank    | BOT    | CURRENT SCORE
 5    | PolyU    | 1.5
 6    | DeepTalkHawk    | 1.229
 
-* No statistically significant difference.
+ * No statistically significant difference.
 
 # Workshop at NIPS
 
