@@ -227,7 +227,7 @@ class Seq2seqV2Agent(Agent):
             
             # set up optims for each module
             self.lr = opt['learning_rate']
-            self.wd = opt['weight_decay'] is not 0
+            self.wd = opt['weight_decay']
 
             optim_class = Seq2seqV2Agent.OPTIM_OPTS[opt['optimizer']]
             self.optims = {
@@ -658,6 +658,7 @@ class Seq2seqV2Agent(Agent):
         for b in range(batchsize):        ## TODO :: does it provide batchsize > 1 ?
             hyps = []
             scores, ks = beam[b].sort_best()
+            #scores, ks = beam[b].sort_best_normlen()
 
             allScores += [scores[:self.beamsize]]
             hyps += [beam[b].get_hyp(k) for k in ks[:self.beamsize]]
@@ -673,7 +674,7 @@ class Seq2seqV2Agent(Agent):
                     print('   {:3f} '.format(scores[hyps]), ''.join(all_preds[hyps]))
 
             print('the first: '+ ' '.join([self.dict.ind2tok[y] for y in beam[0].nextYs[1]]))
-        return [all_preds[0]] # 1-best
+        return [all_preds[0]], all_preds # 1-best
 
     def _score_candidates(self, cands, xe, encoder_output, hidden):
         # score each candidate separately
@@ -780,12 +781,12 @@ class Seq2seqV2Agent(Agent):
                 text_cand_inds = self._score_candidates(cands, xe, encoder_output)
 
             if self.opt['beam_size'] > 0:
-                output_lines = self._beam_search(batchsize, dec_xes, xlen_t, xs, encoder_output)
+                output_lines, beam_cands = self._beam_search(batchsize, dec_xes, xlen_t, xs, encoder_output)
             else:
                 output_lines = self._decode_only(batchsize, dec_xes, xlen_t, xs, encoder_output)
                 self.display_predict(xs, ys, output_lines, 1)
-                    
-        return output_lines, text_cand_inds
+        
+        return output_lines, text_cand_inds, beam_cands
 
     def display_predict(self, xs, ys, output_lines, freq=0.01):
         if random.random() < freq:
@@ -925,8 +926,7 @@ class Seq2seqV2Agent(Agent):
 
         # produce predictions either way, but use the targets if available
         
-        predictions, text_cand_inds = self.predict(xs, xlen, ylen, ys, cands)
-        #pdb.set_trace()
+        predictions, text_cand_inds, beam_cands = self.predict(xs, xlen, ylen, ys, cands)
         
         for i in range(len(predictions)):
             # map the predictions back to non-empty examples in the batch
@@ -944,12 +944,16 @@ class Seq2seqV2Agent(Agent):
                 curr['text_candidates'] = [curr_cands[idx] for idx in order
                                            if idx < len(curr_cands)]
         
-        return batch_reply
+        return batch_reply, beam_cands
 
     def act(self):
         # call batch_act with this batch of one
         return self.batch_act([self.observation])[0]
 
+    def act_beam_cands(self):
+        return self.batch_act([self.observation])[1]
+
+    
     def save(self, path=None):
         path = self.opt.get('model_file', None) if path is None else path
 

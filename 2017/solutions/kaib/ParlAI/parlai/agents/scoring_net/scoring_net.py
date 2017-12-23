@@ -351,15 +351,14 @@ class ScoringNetAgent(Agent):
             reply_text = input("Enter Your Message: ")
             reply_text = self.preprocess(reply_text)
             observation['episode_done'] = True  ### TODO: for history
-            
-            """
-            if '[DONE]' in reply_text:
-                reply['episode_done'] = True
-                self.episodeDone = True
-                reply_text = reply_text.replace('[DONE]', '')
-            """
             observation['text'] = reply_text
-     
+            
+            reply_text = input("Enter a lable: ")
+            observation['labels'] = self.preprocess(reply_text)
+
+            reply_text = input("Enter a candidate: ")
+            observation['cands'] = self.preprocess(reply_text)
+            
         else:
             # shallow copy observation (deep copy can be expensive)
             observation = observation.copy()
@@ -499,25 +498,28 @@ class ScoringNetAgent(Agent):
         # Encoding 
         _, enc_x = self._get_context(batchsize, xlen_t, self._encode(xs, xlen, dropout=self.training))   # encode x
         _, enc_y = self._get_context(batchsize, ylen_t, self._encode(ys, ylen, dropout=self.training))   # encode x
-        _, enc_ny = self._get_context(batchsize, nylen_t, self._encode(nys, nylen, dropout=self.training))   # encode x
 
         # Permute
         enc_x = enc_x[x_idx_t, :]
         enc_y = enc_y[y_idx_t, :]
-        enc_ny= enc_ny[ny_idx_t, :]
-        
-        # make batch
-        enc_x = torch.cat((enc_x, enc_x), 0)
-        enc_y = torch.cat((enc_y, enc_ny), 0)
-        
         target = Variable(torch.Tensor(batchsize).zero_())        
-        target = torch.cat((target, target+1), 0)        
+
+
+        if ny_idx is not None:
+            _, enc_ny = self._get_context(batchsize, nylen_t, self._encode(nys, nylen, dropout=self.training))   # encode x
+            enc_ny= enc_ny[ny_idx_t, :]
+        
+            # make batch
+            enc_x = torch.cat((enc_x, enc_x), 0)
+            enc_y = torch.cat((enc_y, enc_ny), 0)
+            target = torch.cat((target, target+1), 0)
+                    
         if self.use_cuda:
             target = target.cuda()
             
         # calcuate the score
         output = F.sigmoid(torch.bmm(enc_y.unsqueeze(1), self.h2o(enc_x).unsqueeze(1).transpose(1,2)))
-
+        
         # loss
         loss = self.criterion(output.squeeze(), target) 
                            
@@ -537,9 +539,9 @@ class ScoringNetAgent(Agent):
                 torch.nn.utils.clip_grad_norm(self.encoder.parameters(), self.opt['grad_clip'])
             self.update_params()
         
-        self.display_predict(xs[x_idx_t[0], :], ys[y_idx_t[0], :], nys[ny_idx_t[0], :], target, output, batchsize, freq=0.05)
+            self.display_predict(xs[x_idx_t[0], :], ys[y_idx_t[0], :], nys[ny_idx_t[0], :], target, output, batchsize, freq=0.05)
         
-        return self.loss
+        return self.loss, output.squeeze()
 
     def display_predict(self, xs, ys, nys, target, output, batchsize, freq=0.01):
         if random.random() < freq:
@@ -548,13 +550,40 @@ class ScoringNetAgent(Agent):
                   '\n    postive:', ' {0:.2e} '.format(output[0].data.cpu()[0,0]), self.dict.vec2txt(ys.data.cpu()).replace(self.dict.null_token+' ', ''),
                   '\n    negative:', ' {0:.2e} '.format(output[batchsize].data.cpu()[0,0]),self.dict.vec2txt(nys.data.cpu()).replace(self.dict.null_token+' ', ''), '\n')
 
+    def txt2tensor(self, parsed, batchsize):
+        max_x_len = max([len(x) for x in parsed])            
+        if self.truncate:
+            # shrink xs to to limit batch computation
+            max_x_len = min(max_x_len, self.max_seq_len)
+            parsed = [x[-max_x_len:] for x in parsed]
+    
+        # sorting for unpack in encoder
+        parsed_x = sorted(enumerate(parsed), key=lambda p: len(p[1]), reverse=True)
+        x_idx, parsed_x = zip(*parsed_x)
+        x_idx = list(x_idx)
+        xlen = [len(x) for x in parsed_x]
+        xs = torch.LongTensor(batchsize, max_x_len).fill_(0)
+        for i, x in enumerate(parsed_x):
+            for j, idx in enumerate(x):
+                xs[i][j] = idx        
+        if self.use_cuda:
+            # copy to gpu
+            self.xs.resize_(xs.size())
+            self.xs.copy_(xs, async=True)
+            xs = Variable(self.xs)
+        else:
+            xs = Variable(xs)        
+        
+        return xs, xlen, x_idx
+        
+    
     def batchify(self, observations):
         """Convert a list of observations into input & target tensors."""
         # valid examples
         exs = [ex for ex in observations if 'text' in ex]
         # the indices of the valid (non-empty) tensors
         valid_inds = [i for i, ex in enumerate(observations) if 'text' in ex]
-
+        
         # set up the input tensors
         batchsize = len(exs)
                 
@@ -564,34 +593,13 @@ class ScoringNetAgent(Agent):
         x_idx = None
         if batchsize > 0:
             parsed = [self.dict.parse(self.START)+self.parse(ex['text'])+self.dict.parse(self.END) for ex in exs]
-            max_x_len = max([len(x) for x in parsed])            
-            if self.truncate:
-                # shrink xs to to limit batch computation
-                max_x_len = min(max_x_len, self.max_seq_len)
-                parsed = [x[-max_x_len:] for x in parsed]
-        
-            # sorting for unpack in encoder
-            parsed_x = sorted(enumerate(parsed), key=lambda p: len(p[1]), reverse=True)
-            x_idx, parsed_x = zip(*parsed_x)
-            x_idx = list(x_idx)
-            xlen = [len(x) for x in parsed_x]
-            xs = torch.LongTensor(batchsize, max_x_len).fill_(0)
-            for i, x in enumerate(parsed_x):
-                for j, idx in enumerate(x):
-                    xs[i][j] = idx        
-            if self.use_cuda:
-                # copy to gpu
-                self.xs.resize_(xs.size())
-                self.xs.copy_(xs, async=True)
-                xs = Variable(self.xs)
-            else:
-                xs = Variable(xs)
+            xs, xlen, x_idx = self.txt2tensor(parsed, batchsize)
             
         # set up the target tensors (positive exampels)
         ys = None
         ylen = None
         y_idx = None
-                
+               
         if batchsize > 0 and (any(['labels' in ex for ex in exs]) or any(['eval_labels' in ex for ex in exs])):
             # randomly select one of the labels to update on, if multiple
             # append END to each label
@@ -601,28 +609,7 @@ class ScoringNetAgent(Agent):
                 labels = [self.START + ' ' +random.choice(ex.get('eval_labels', [''])) + ' ' + self.END for ex in exs]
 
             parsed_y = [self.parse(y) for y in labels]
-            max_y_len = max(len(y) for y in parsed_y)
-            if self.truncate:
-                # shrink ys to to limit batch computation
-                max_y_len = min(max_y_len, self.max_seq_len)
-                parsed_y = [y[:max_y_len] for y in parsed_y]
-            
-            # sorting for unpack in encoder
-            parsed_y = sorted(enumerate(parsed_y), key=lambda p: len(p[1]), reverse=True)
-            y_idx, parsed_y = zip(*parsed_y)
-            y_idx = list(y_idx)                            
-            ylen = [len(x) for x in parsed_y]
-            ys = torch.LongTensor(batchsize, max_y_len).fill_(0)
-            for i, y in enumerate(parsed_y):
-                for j, idx in enumerate(y):
-                    ys[i][j] = idx
-            if self.use_cuda:
-                # copy to gpu
-                self.ys.resize_(ys.size())
-                self.ys.copy_(ys, async=True)
-                ys = Variable(self.ys)
-            else:
-                ys = Variable(ys)
+            ys, ylen, y_idx = self.txt2tensor(parsed_y, batchsize)
                 
         # set up candidates (negative samples, randomly select!!)
         neg_ys = None
@@ -645,30 +632,8 @@ class ScoringNetAgent(Agent):
             # randomly select one of the labels to update on, if multiple
             # append END to each label            
             parsed_ny = [self.dict.parse(self.START)+self.parse(random.choice(cands))+self.dict.parse(self.END) for ex in exs ]
-            max_ny_len = max([len(x) for x in parsed_ny])            
-            if self.truncate:
-                # shrink xs to to limit batch computation
-                max_ny_len = min(max_ny_len, self.max_seq_len)
-                parsed_ny = [ny[-max_ny_len:] for ny in parsed_ny]
-        
-            # sorting for unpack in encoder
-            parsed_ny = sorted(enumerate(parsed_ny), key=lambda p: len(p[1]), reverse=True)
-            ny_idx, parsed_ny = zip(*parsed_ny)
-            ny_idx = list(ny_idx)      
+            neg_ys, neg_ylen, ny_idx = self.txt2tensor(parsed_ny, batchsize)
             
-            neg_ylen = [len(x) for x in parsed_ny]
-            neg_ys = torch.LongTensor(batchsize, max_ny_len).fill_(0)        
-            for i, x in enumerate(parsed_ny):
-                for j, idx in enumerate(x):
-                    neg_ys[i][j] = idx        
-            if self.use_cuda:
-                # copy to gpu
-                self.neg_ys.resize_(neg_ys.size())
-                self.neg_ys.copy_(neg_ys, async=True)
-                neg_ys = Variable(self.neg_ys)
-            else:
-                neg_ys = Variable(neg_ys)
-
         return xs, xlen, x_idx, ys, ylen, y_idx, valid_inds, neg_ys, neg_ylen, ny_idx
 
     def batch_act(self, observations):
@@ -685,8 +650,6 @@ class ScoringNetAgent(Agent):
         if xs is None:
             # no valid examples, just return the empty responses we set up
             return batch_reply
-
-        # produce predictions either way, but use the targets if available
         
         ## seperate : test code / train code 
         loss = self.predict(xs, xlen, x_idx, ys, ylen, y_idx, neg_ys, neg_ylen, ny_idx)
@@ -697,6 +660,21 @@ class ScoringNetAgent(Agent):
         # call batch_act with this batch of one
         return self.batch_act([self.observation])[0]
 
+    def act_scoring_test(self):  ## see ../../bot_code/CC_scoring.py
+        
+        x = self.observation['text']
+        y = self.observation['labels']
+        batchsize = len(x)
+
+        parsed = [self.dict.parse(self.START)+self.parse(ex)+self.dict.parse(self.END) for ex in x]
+        xs, xlen, x_idx = self.txt2tensor(parsed, batchsize)           
+
+        labels = [self.dict.parse(self.START)+self.parse(ex)+self.dict.parse(self.END) for ex in y]    
+        ys, ylen, y_idx = self.txt2tensor(labels, batchsize)
+                           
+        loss, output = self.predict(xs, xlen, x_idx, ys, ylen, y_idx)
+        return output.data
+    
     def save(self, path=None):
         path = self.opt.get('model_file', None) if path is None else path
 

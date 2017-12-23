@@ -285,7 +285,7 @@ class DictionaryAgent(Agent):
         """
         print('Dictionary: loading dictionary from {}'.format(
               filename))
-        with open(filename , encoding="utf-8") as read:
+        with open(filename) as read:
             for line in read:
                 split = line.strip().split('\t')
                 token = unescape(split[0])

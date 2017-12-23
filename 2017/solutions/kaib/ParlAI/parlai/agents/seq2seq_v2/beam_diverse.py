@@ -27,7 +27,7 @@ class Beam(object):
         """Initialize params."""
         ## vocab = self.dict.tok2ind
         self.size = size
-        self.group = group
+        self.group = group #group
         assert size%group == 0, 'Beam: size % group == 0'
         self.size_g = int(size/group)
         self.hold_step = hold_step
@@ -55,6 +55,8 @@ class Beam(object):
         
         # The 'done' for each translation on the beam.
         self.doneYs = [False]*size
+        
+        self.len = self.tt.FloatTensor(size).zero_()
         
         # self.size_g, self.group 
         self.active_idx_list = [] #len of self.group
@@ -109,9 +111,9 @@ class Beam(object):
             # Avoid generating UNK token
             if not self.gen_unk:
                 if beam_lk.dim() == 1:
-                    beam_lk[self.unk] = -100
+                    beam_lk[self.unk] = -100000
                 else:
-                    beam_lk[:, self.unk] = -100               
+                    beam_lk[:, self.unk] = -100000               
     
             ## self.score_mask --> exclude the row and sorting
             flat_beam_lk = beam_lk.view(-1)
@@ -186,6 +188,9 @@ class Beam(object):
                     #pdb.set_trace()
                     print(i)
                     print(self.active_idx_list[group_idx])
+                
+            if self.doneYs[i] == False:
+                self.len[i] += 1 
             done *= self.doneYs[i]
         
         for g in range(self.group):
@@ -209,9 +214,11 @@ class Beam(object):
         # Avoid generating UNK token
         if not self.gen_unk:
             if beam_lk.dim() == 1:
-                beam_lk[self.unk] = -100
+                beam_lk[self.unk] = -100000
+                beam_lk[self.eos] = -100000
             else:
-                beam_lk[:, self.unk] = -100           
+                beam_lk[:, self.unk] = -100000           
+                beam_lk[:, self.eos] = -100000        
         
         flat_beam_lk = beam_lk.view(-1)
         
@@ -237,6 +244,10 @@ class Beam(object):
     def sort_best(self):
         """Sort the beam."""
         return torch.sort(self.scores, 0, True)
+    
+    def sort_best_normlen(self):
+        """Sort the beam."""
+        return torch.sort(torch.div(self.scores, self.len), 0, True)
 
     # Get the score of the best in the beam.
     def get_best(self):

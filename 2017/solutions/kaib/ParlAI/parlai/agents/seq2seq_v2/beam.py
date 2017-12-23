@@ -124,9 +124,9 @@ class Beam(object):
         # Avoid generating UNK token
         if not self.gen_unk:
             if beam_lk.dim() == 1:
-                beam_lk[self.unk] = -100
+                beam_lk[self.unk] = -100000
             else:
-                beam_lk[:, self.unk] = -100                  
+                beam_lk[:, self.unk] = -100000                  
         
         ## self.score_mask --> exclude the row
         ## and sorting        
