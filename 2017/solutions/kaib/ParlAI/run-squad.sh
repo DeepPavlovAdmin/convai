@@ -50,37 +50,6 @@ script=${script}' -m '${model}' -t squad -mf '${exp_dir}/exp-${exp}/exp-${exp}
 script=${script}' --gpu '${gpuid}
 
 case "$exp" in
-	debug) python $script --dropout_rnn 0.3 --dropout_emb 0.3 
-		;;
-	h15) python $script --dropout_rnn 0.3 --dropout_emb 0.3 --qp_bottleneck True --qp_birnn True --pp_bottleneck True --pp_gate True --pp_identity False
-		;;
 	h15_pos_ner) python $script --dropout_rnn 0.3 --dropout_emb 0.3 --use_pos true --use_ner true --qp_bottleneck True --qp_birnn True --pp_bottleneck True --pp_gate True --pp_identity False
-		;;
-	h15_wd) python $script --dropout_rnn 0.3 --dropout_emb 0.3 --qp_bottleneck True --qp_birnn True --pp_bottleneck True --pp_gate True --pp_identity False --weight_decay 0.00002
-		;;
-	h15_pos_ner_wd) python $script --dropout_rnn 0.3 --dropout_emb 0.3 --use_pos true --use_ner true --qp_bottleneck True --qp_birnn True --pp_bottleneck True --pp_gate True --pp_identity False --weight_decay 0.00002
-		;;
-	
 esac
-
-:<< comment
-	debug-pqmn-char) python $script --dropout_rnn 0.3 --dropout_emb 0.3 --add_char2word True
-		;;
-	debug-pqmn) python $script --dropout_rnn 0.3 --dropout_emb 0.3 
-		;;
-	debug) python $script --dropout_rnn 0.3 --dropout_emb 0.3 --tune_partial 1000   ## For debug
-		;;
-	debug-pos-ner) python $script --dropout_rnn 0.3 --dropout_emb 0.3 --tune_partial 1000 --use_pos true --use_ner true
-		;;
-	debug-pos-ner-char) python $script --dropout_rnn 0.3 --dropout_emb 0.3 --use_pos true --use_ner true --add_char2word true
-		;;
-	h15) python $script --dropout_rnn 0.3 --dropout_emb 0.3 --use_pos true --use_ner true --qp_bottleneck True --qp_birnn True --pp_bottleneck True --pp_gate True --pp_identity False
-		;;
-	h16) python $script --dropout_rnn 0.3 --dropout_emb 0.3 --use_pos true --use_ner true --qp_bottleneck True --qp_birnn True --pp_bottleneck True --pp_gate True --pp_identity False --add_char2word true --kernels '[(1, 15), (2, 20), (3, 35), (4, 40), (5, 75), (6, 90)]' --nLayer_Highway 1
-		;;
-	h16-1) python $script --dropout_rnn 0.3 --dropout_emb 0.3 --use_pos true --use_ner true --qp_bottleneck True --qp_birnn True --pp_bottleneck True --pp_gate True --pp_identity False --add_char2word true --kernels '[(1, 5), (2, 10), (3, 15), (4, 20), (5, 25), (6, 30)]' --nLayer_Highway 1
-		;;
-	h16-2) python $script --dropout_rnn 0.3 --dropout_emb 0.3 --use_pos true --use_ner true --qp_bottleneck True --qp_birnn True --pp_bottleneck True --pp_gate True --pp_identity False --add_char2word true --kernels '[(5, 200)]' --nLayer_Highway 1
-
-comment
 

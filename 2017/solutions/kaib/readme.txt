@@ -43,7 +43,7 @@ Training
 2) QA
    directory : ParlAI
    setup : python setup.py develop
-   training : ./run-squad.sh -e 1 -g 0 -t 1
+   training : ./run-squad.sh -e h15_pos_ner -g 0 -t 1
 
 3) CC
    directory : ParlAI

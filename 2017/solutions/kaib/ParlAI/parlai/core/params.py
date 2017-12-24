@@ -7,6 +7,8 @@
 using the ParlAI package.
 """
 
+import torch 
+
 import argparse
 import importlib
 import os
