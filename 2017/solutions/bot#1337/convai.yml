@@ -1,0 +1,16 @@
+version: "3"
+services:
+  dialog_tracker_convai:
+    build:
+      context: './dialog_tracker/'
+    image: 'dialog_tracker:1'
+    command: python convai_main.py
+    restart: 'unless-stopped'
+    volumes:
+      - ./dialog_tracker:/src
+    depends_on:
+      - corenlp
+      - opennmt
+      - opennmtchitchat
+      - opennmtfbpost
+      - bigartm

@@ -1,0 +1,98 @@
+version: "3"
+services:
+  corenlp:
+    image: 'sld3/corenlp:3.6.0'
+    ports:
+      - '5554:9000'
+    restart: 'unless-stopped'
+
+  opennmt:
+    image: 'sld3/opennmt:780979ab_distro20e52377'
+    volumes:
+      - './question_generation/data/:/root/data'
+    command: >
+      bash -c "cd /root/opennmt && th tools/translation_server.lua -host 0.0.0.0
+      -port 5556  -model /root/data/model.t7 -beam_size 12 -replace_unk true"
+    depends_on:
+      - corenlp
+    ports:
+      - '5556:5556'
+    restart: 'unless-stopped'
+
+  opennmtchitchat:
+    image: 'sld3/opennmt:780979ab_distro20e52377'
+    volumes:
+      - './opennmt_chitchat/data/:/root/data'
+    command: >
+      bash -c "cd /root/opennmt && th tools/translation_server.lua -host 0.0.0.0
+      -port 5556 -model /root/data/CPU_epoch5_14.62.t7
+      -beam_size 1 -replace_unk false"
+    ports:
+      - '5557:5556'
+    restart: 'unless-stopped'
+
+  opennmtsummary:
+    image: 'sld3/opennmt:780979ab_distro20e52377'
+    volumes:
+      - './opennmt_summarization/models:/root/data'
+    command: >
+      bash -c "cd /root/opennmt && th tools/translation_server.lua -host 0.0.0.0
+      -port 5556  -model /root/data/textsum_epoch7_14.69_release.t7
+      -beam_size 12 -replace_unk false"
+    ports:
+      - '5558:5556'
+    restart: 'unless-stopped'
+
+
+  opennmtfbpost:
+    image: 'sld3/opennmt:780979ab_distro20e52377'
+    volumes:
+      - './fbnews_chitchat/data/:/root/data'
+    command: >
+      bash -c "cd /root/opennmt && th tools/translation_server.lua -host 0.0.0.0
+      -port 5556  -model /root/data/fbchichat_ver2_epoch9.t7
+      -beam_size 5 -replace_unk false -max_sent_length 20"
+    ports:
+      - '5559:5556'
+    restart: 'unless-stopped'
+
+  bidaf:
+    image: 'sld3/bi-att-flow:0.1.0'
+    ports:
+      - '1995:1995'
+    restart: 'unless-stopped'
+
+  alice:
+    build:
+      context: './ALICEChatAPI/'
+    image: 'sld3/alice_chat:0.1.0'
+    volumes:
+      - './ALICEChatAPI:/src'
+    command: python -u server.py
+    restart: 'unless-stopped'
+
+  bigartm:
+    build:
+      context: './topic-modelling/'
+    image: 'sld3/bigartm:0.1.0'
+    volumes:
+      - './topic-modelling:/src'
+    command: gunicorn -w 4 -b 0.0.0.0:3000 server:app
+    expose:
+      - '3000'
+    restart: 'unless-stopped'
+    environment:
+      - PYTHONUNBUFFERED=1
+
+  intent_classifier:
+    build:
+      context: './intent_classifier/'
+    image: 'sld3/intent_classifier:0.1.0'
+    volumes:
+      - './intent_classifier:/src'
+    command: gunicorn -w 1 -t 120 -b 0.0.0.0:3000 server:app # Only 1 worker, beacuse a lot of ram required
+    expose:
+      - '3000'
+    restart: 'unless-stopped'
+    environment:
+      - PYTHONUNBUFFERED=1

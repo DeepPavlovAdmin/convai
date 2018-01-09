@@ -1,0 +1,42 @@
+#!/bin/bash
+
+shasum -c data/model.t7.sha1
+retval=$?
+if [ $retval -ne 0 ]; then
+  if [ -f data/model.t7 ]; then
+    echo "----------------Removing stale model file----------------"
+    rm -f data/model.t7
+  fi
+  echo "----------------Downloading question-generation model----------------"
+  wget https://www.dropbox.com/s/jtp6ll263lz32xl/model.t7 -P data/
+fi
+
+echo "----------------Installing python requirements----------------"
+pip3 install -r requirements.txt
+
+echo "----------------Pulling corenlp and opennmt docker images----------------"
+docker pull sld3/corenlp:3.6.0
+docker pull sld3/opennmt:latest
+
+echo "----------------Running corenlp and opennmt servers----------------"
+docker run -d --name corenlp -p 9000:9000 sld3/corenlp:3.6.0
+opennmt_run_cmd="cd /root/opennmt && th tools/translation_server.lua \
+  -host 0.0.0.0 -port 5556  -model /root/data/model.t7 -beam_size 12"
+docker run -d --name opennmt -it -p 5556:5556 -v $(pwd)/data:/root/data sld3/opennmt bash -c "$opennmt_run_cmd"
+
+sleep 5
+
+echo "----------------Test output----------------"
+P="Waiting had its world premiere at the \
+  Dubai International Film Festival on 11 December 2015 to positive reviews \
+  from critics. It was also screened at the closing gala of the London Asian \
+  Film Festival, where Menon won the Best Director Award."
+echo $P
+./get_qnas $P
+sleep 120
+
+echo "----------------Stopping containers----------------"
+docker stop corenlp
+docker rm corenlp
+docker stop opennmt
+docker rm opennmt

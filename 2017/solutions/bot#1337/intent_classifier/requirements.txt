@@ -1,0 +1,4 @@
+nltk==3.2.4
+flask==0.12
+numpy==1.13.1
+gunicorn==19.7

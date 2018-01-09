@@ -1,0 +1,7 @@
+tqdm
+scipy
+scikit-learn
+nltk
+plotly
+jupyter
+imbalanced-learn==0.3.0

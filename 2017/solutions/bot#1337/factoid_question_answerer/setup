@@ -1,0 +1,15 @@
+#!/bin/bash
+
+docker pull sld3/bi-att-flow:0.1.0
+docker run -d --name bidaf -p 1995:1995 sld3/bi-att-flow:0.1.0
+
+sleep 30 # Wait for running
+
+Q="What branch of theoretical computer science deals with broadly classifying computational problems by difficulty and class of relationship?"
+P="Computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. A computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps, such as an algorithm."
+echo $Q
+echo $P
+python3 get_answer.py --question "$Q"  --paragraph "$P"
+
+docker stop bidaf
+docker rm bidaf

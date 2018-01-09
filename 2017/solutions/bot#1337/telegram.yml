@@ -1,0 +1,22 @@
+version: "3"
+services:
+  dialog_tracker:
+    build:
+      context: './dialog_tracker/'
+    image: 'dialog_tracker:1'
+    command: python -u telegram_main.py
+    restart: 'unless-stopped'
+    volumes:
+      - ./dialog_tracker:/src
+    depends_on:
+      - corenlp
+      - opennmt
+      - opennmtchitchat
+      - opennmtfbpost
+      - opennmtsummary
+      - bigartm
+    deploy:
+      resources:
+        limits:
+          memory: 512M
+

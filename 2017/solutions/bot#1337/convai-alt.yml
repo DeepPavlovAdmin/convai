@@ -1,0 +1,4 @@
+version: "3"
+services:
+  dialog_tracker_convai:
+    command: python convai_main.py
