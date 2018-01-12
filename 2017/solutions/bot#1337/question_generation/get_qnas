@@ -1,0 +1,7 @@
+#!/bin/bash
+
+text=$1
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+cd $DIR
+python3 convert_text_to_opennmt_format.py "$text" | python3 get_qnas.py
+cd $OLDPWD

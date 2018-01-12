@@ -1,0 +1,2 @@
+pycorenlp==0.3.0
+pyzmq==16.0.2

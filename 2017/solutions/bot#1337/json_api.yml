@@ -1,0 +1,19 @@
+version: "3"
+services:
+  dialog_tracker_json_api:
+    build:
+      context: './dialog_tracker/'
+    image: 'dialog_tracker:1'
+    command: python json_api_main.py
+    restart: 'unless-stopped'
+    volumes:
+      - ./dialog_tracker:/src
+    depends_on:
+      - corenlp
+      - opennmt
+      - opennmtchitchat
+      - opennmtfbpost
+      - bigartm
+    ports:
+      - '5000:5000'
+

@@ -1,0 +1,22 @@
+dialog_tracker/data/train-v1.1.json
+classifiers/factoid_question_vs_all/*.txt
+*.bin
+*.t7
+*.png
+dialog_tracker/config.py
+*.ftz
+*.log
+classifiers/.ipynb_checkpoints/
+classifiers/fastText/
+classifiers/cornell movie-dialogs corpus/
+classifiers/TensorFlow_ChatBot/
+classifiers/squad/train-v1.1.json
+classifiers/squad/questions.txt
+*.pytorch
+*.tar.gz
+facebook-news/
+*.pickle
+dialog_tracker/data/evaluations/*.json
+topic-modelling/vw.wiki-en.txt
+topic-modelling/bigartm.*
+intent_classifier/data/glove.6B.100d.txt

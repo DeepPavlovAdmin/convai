@@ -1,0 +1,21 @@
+th train.lua \
+  -train_dir ../convai/data/opennmt/splitted \
+  -src_suffix .src -tgt_suffix .tgt \
+  -tgt_seq_length 20 \
+  -src_seq_length 20 \
+  -save_model ../convai/data/opennmt/opensub_ver4 \
+  -rnn_size 2048 \
+  -word_vec_size 150 \
+  -rnn_type LSTM \
+  -encoder_type gnmt \
+  -enc_layers 2 \
+  -dec_layers 2 \
+  -end_epoch 50 \
+  -optim adam \
+  -save_every 500 \
+  -learning_rate 0.001 \
+  -max_batch_size 32 \
+  -src_vocab ../convai/data/opennmt/vocab_ver4.dict  \
+  -tgt_vocab ../convai/data/opennmt/vocab_ver4.dict \
+  -gsample 0.001 \
+  -gpuid 1

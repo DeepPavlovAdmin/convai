@@ -1,0 +1,13 @@
+th train.lua -data ../convai-bot-1337/fbnews_chitchat/data/opennmt/dataset-train.t7 \
+  -save_model ../convai-bot-1337/fbnews_chitchat/data/opennmt_model_ver2 \
+  -rnn_size 1024 \
+  -word_vec_size 150 \
+  -rnn_type LSTM \
+  -enc_layers 1 \
+  -dec_layers 1 \
+  -end_epoch 50 \
+  -optim adam \
+  -save_every 500 \
+  -learning_rate 0.001 \
+  -max_batch_size 64 \
+  -gpuid 1

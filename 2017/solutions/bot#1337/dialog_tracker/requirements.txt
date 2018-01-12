@@ -1,0 +1,7 @@
+transitions==0.5.3
+python-telegram-bot==6.0.3
+fuzzywuzzy[speedup]==0.15.0
+requests==2.16.5
+nltk==3.2.4
+flask==0.12
+numpy==1.13.1
