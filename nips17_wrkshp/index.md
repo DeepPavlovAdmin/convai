@@ -22,3 +22,5 @@ Fri Dec 8th 01:30 PM -- 03:30 PM @ 103 A+B
 03:00 PM - 03:30 PM Coffee break + Poster session.
 
 [Full Competition Track schedule](https://nips.cc/Conferences/2017/Schedule?showEvent=8748)
+
+[Competition home](http://convai.io)
