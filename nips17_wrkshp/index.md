@@ -15,7 +15,7 @@ Fri Dec 8th 01:30 PM -- 03:30 PM @ 103 A+B
 
 *Current automatic systems use limited models of conversation with humans. Historically research in dialog systems has focused on goal-directed interaction for which objective measures of success could be defined. More recently attention has turned to so-called open-domain conversation chatbots, similar to social exchanges between people but for which measures of success are not yet agreed upon. On reflection, natural human communication is mostly a combination of task, social and likely other levels. The challenge is to understand how to manage such communication in a way that reflects human capabilities.*
 
-02:30 PM - 03:00 PM Panel discussion moderated by Julian Serban. The participants are [Alexander Rudnicky](https://www.cs.cmu.edu/~air/) (CMU), [Dilek Hakkani-Tur](https://research.google.com/pubs/104927.html) (Google), [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/) (MS Research) and [Joelle Pineau](http://www.cs.mcgill.ca/~jpineau/) (McGill U and FAIR). 
+02:30 PM - 03:00 PM Panel discussion moderated by Julian Serban. The participants are [Alexander Rudnicky](https://www.cs.cmu.edu/~air/) (CMU), [Dilek Hakkani-Tur](https://research.google.com/pubs/104927.html) (Google), [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/) (MS Research) and [Joelle Pineau](http://www.cs.mcgill.ca/~jpineau/) (McGill U and FAIR). \[[audio](./convai_panel.mp3)\]
 
 *The goal is to discuss open and future research problems related to dialogue systems and chatbots, in particular related to challenges such as this competition, the Alexa Prize competition and the DSTC competition.*
 
