@@ -3,13 +3,13 @@ Fri Dec 8th 01:30 PM -- 03:30 PM @ 103 A+B
 
 ## Competition III: The Conversational Intelligence Challenge
 
-01:30 PM - 01:45 PM Introduction by the competition chairs, presentation of the challenge, its design, obtained results.
+01:30 PM - 01:45 PM Introduction by the competition chairs, presentation of the challenge, its design, obtained results \[[slides](./ConvAI_organisers.pdf)\]
 
 01:45 PM - 01:50 PM Awarding prize.
 
-01:50 PM - 02:00 PM Short presentation by winning team.
+01:50 PM - 02:00 PM Short presentations by winning teams: bot#1337 \[[slides](./bot1337.pdf)\] and poetwannabe \[[slides](./poetwannabe.pdf)\].
 
-02:00 PM - 02:30 PM Inspirational talk by [Alexander Rudnicky](https://www.cs.cmu.edu/~air/) 
+02:00 PM - 02:30 PM Inspirational talk by [Alexander Rudnicky](https://www.cs.cmu.edu/~air/) \[[slides](./nips_2017_rudnicky.pdf)\] 
 
 **Blended Conversations**
 
