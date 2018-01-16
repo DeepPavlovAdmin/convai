@@ -1,0 +1,6 @@
+requests
+nltk
+numpy
+Pillow
+pyzmq
+tensorflow_gpu==0.13.0
