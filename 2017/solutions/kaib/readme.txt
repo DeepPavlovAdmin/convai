@@ -3,10 +3,11 @@ Author : Geonmin Kim, Hwaran Lee, CheongAhn Lee, Eunmi Hong, Byeonggeun Lee
 
 Requirement
  - python 3.6
- - ParlAI
- - pytorch
- - tensorflow
- - aiml
+ - ParlAI (https://github.com/facebookresearch/ParlAI)
+ - pytorch (http://pytorch.org/)
+ - aiml (https://github.com/paulovn/python-aiml)
+ 
+ - others are listed in requirements.txt
   
 
 Chat with kaib bot
