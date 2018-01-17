@@ -1,0 +1,7 @@
+model 1510154167.2
+avg. train: 0.875
+avg. valid: 0.633262
+args: [(800, 500, 300, 100, 50), 'relu', 'adam', 0.0001, '1510154167.2', 256, 0.90000000000000002]
+features:
+['AverageWordEmbedding_Candidate', 'AverageWordEmbedding_User', 'AverageWordEmbedding_Article', 'BigramOverlap', 'Similarity_CandidateArticle_noStop', 'GenericTurns', 'Similarity_CandidateKUser_noStop', 'AverageWordEmbedding_LastK', 'ArticleLength', 'DialogActCandidate', 'LastUserLength', 'TrigramOverlap', 'Similarity_CandidateLastK_noStop', 'DialogLength', 'WhWords', 'Similarity_CandidateUser', 'IntensifierWords', 'Similarity_CandidateKUser', 'Similarity_CandidateLastK', 'ConfusionWords', 'CandidateLength', 'NonStopWordOverlap', 'SentimentScoreCandidate', 'SentimentScoreLastUser', 'Negation', 'AverageWordEmbedding_kUser', 'ProfanityWords', 'EntityOverlap', 'DialogActLastUser', 'Similarity_CandidateArticle']
+-------------

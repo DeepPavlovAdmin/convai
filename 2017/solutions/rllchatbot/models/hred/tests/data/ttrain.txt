@@ -1,0 +1,2 @@
+</s> <first_speaker> how are you ? </s> <second_speaker> fine thanks ! </s> <first_speaker> and you ? </s> </d> </s>
+</s> <first_speaker> what are you doing ? </s> <second_speaker> nothing much . </s> <first_speaker> are you serious ? </s> </d> </s>

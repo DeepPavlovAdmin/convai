@@ -1,0 +1,34 @@
+*.exe
+*.exe~
+*.orig
+*.test
+.*.swp
+.DS_Store
+# a .bashrc may be added to customize the build environment
+.bashrc
+.editorconfig
+.gopath/
+.go-pkg-cache/
+autogen/
+bundles/
+cmd/dockerd/dockerd
+contrib/builder/rpm/*/changelog
+dockerversion/version_autogen.go
+dockerversion/version_autogen_unix.go
+vendor/pkg/
+# vim endpoints
+*.*~
+.idea
+*.pyc
+*.zip
+data/GoogleNews-vectors-negative300.bin
+data/cookies.txt
+leaderboard.csv
+leaderboard.md
+*.pkl
+data/wikipedia/
+ranker/models/*_term/*/*.ckpt*
+ranker/models/*/checkpoint
+ranker/data/*.json
+ranker/data/*.features/
+give_access.sh

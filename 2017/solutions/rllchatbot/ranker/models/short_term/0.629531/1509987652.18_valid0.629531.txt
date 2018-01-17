@@ -1,0 +1,7 @@
+model 1509987652.18
+avg. train: 0.752715
+avg. valid: 0.629531
+args: [(500, 100), 'relu', 'sgd', 0.01, '1509987652.18', 32, 0.10000000000000001]
+features:
+['AverageWordEmbedding_Candidate', 'AverageWordEmbedding_User', 'AverageWordEmbedding_Article', 'DialogActCandidate', 'AverageWordEmbedding_kUser', 'GenericTurns', 'Negation', 'TrigramOverlap', 'WhWords', 'ConfusionWords', 'IntensifierWords', 'ProfanityWords', 'DialogActLastUser']
+-------------

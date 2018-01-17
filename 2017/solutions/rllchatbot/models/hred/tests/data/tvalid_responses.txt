@@ -1,0 +1,4 @@
+<first_speaker> and you ? </s> </d> </s>
+<first_speaker> are you serious ? </s> </d> </s>
+</s> <first_speaker> serious serious serious ? </s> 
+</s> <first_speaker> and and and ? </s> 

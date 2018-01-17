@@ -1,0 +1,4 @@
+<first_speaker> and you ? </s> </d> </s>	<first_speaker> what about me ? </s> </d> </s>
+<first_speaker> leave me alone ! </s> </d> </s>	<first_speaker> are you serious ? </s> </d> </s>
+<first_speaker> and you ? </s> </d> </s>	<first_speaker> what about me ? </s> </d> </s>
+<first_speaker> leave me alone ! </s> </d> </s>	<first_speaker> leave me alone ! </s> </d> </s>

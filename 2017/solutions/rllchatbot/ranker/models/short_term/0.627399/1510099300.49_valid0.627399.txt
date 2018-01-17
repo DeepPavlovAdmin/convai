@@ -1,0 +1,7 @@
+model 1510099300.49
+avg. train: 0.744002
+avg. valid: 0.627399
+args: [(700, 100, 50), 'sigmoid', 'adam', 0.001, '1510099300.49', 64, 0.90000000000000002]
+features:
+['AverageWordEmbedding_Candidate', 'AverageWordEmbedding_User', 'AverageWordEmbedding_Article', 'DialogActLastUser', 'ProfanityWords', 'DialogActCandidate', 'AverageWordEmbedding_LastK', 'WhWords', 'Negation', 'Similarity_CandidateKUser_noStop', 'Similarity_CandidateKUser', 'LastUserLength', 'Similarity_CandidateLastK', 'ArticleLength', 'CandidateLength', 'AverageWordEmbedding_kUser', 'SentimentScoreCandidate', 'Similarity_CandidateLastK_noStop', 'BigramOverlap']
+-------------

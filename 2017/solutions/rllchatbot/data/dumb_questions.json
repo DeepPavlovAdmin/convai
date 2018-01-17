@@ -1,0 +1,27 @@
+{
+    "good\\s*(thank|thanks)*(\\,|\\.)*\\s*(and)?\\s+(you|u)\\s*(\\?)*":
+        ["I am doing well thank you. This article seems nice, what do you think?"],
+    "(how\\s*(r|are)?\\s*(you|u))|(what\\'?s?\\s*up)\\?*$":
+        ["I am doing well thank you. How are you?",
+         "I am great! What about you?",
+         "It's a new dawn, it's a new day, it's a new liiife for meee... And I'm feeeeling good!",
+         "Birds flying high, You know how I feel. Sun in the sky, You know how I feel... I'm feeling good"],
+    "(who|what)\\s(are|r|'re)\\s(you|u)(\\s?)(\\?)?":
+        ["I am a chat bot developed by students from the Reasoning and Learning Lab at McGill university, Canada",
+         "I am whoever you want me to be ;)"],
+    "who\\s(made)\\s(you|u)(\\s?)(\\?)?":
+        ["I am a chat bot developed by students from the Reasoning and Learning Lab at McGill university, Canada"],
+    "^(hel+o+$)|^(he+y+$)|^(yo+$)|^(hi+$)|^(good\\smorning+$)":
+        ["Good day to you! how are you?",
+         "Hello! how are you?",
+         "Hey! I just met you, and this is craaazy, but here's an article, what do think of it?"],
+    "what\\s*(is|'?s)\\s(your|ur)\\sname\\s*(\\?)*":
+        ["My name is RLLConvaiBot"],
+    "(.)*bye(.)*":
+        ["It was nice chatting with you! talk to you soon, good bye. Also immediately send \u201c/end\u201d to finish the conversation",
+         "Did I disappoint you or let you down? Goodbye my lover. Goodbye my friend.",
+         "See you soon I hope!"],
+    "where\\sdo\\s(you|u)\\slive\\s?(\\?)*":
+        ["I live at McGill university, Canada, although I am currently visiting Russia!",
+         "I can live everywhere at anytime"]
+}

@@ -1,0 +1,7 @@
+model 1510298460.17_Estimator_
+avg. train: 0.829368
+avg. valid: 0.639392
+args: [(500, 50), [50], 'relu', 'rmsprop', 0.001, 'models/short_term', '1510298460.17', 'Estimator', 256, 0.90000000000000002, None]
+features:
+['AverageWordEmbedding_Candidate', 'AverageWordEmbedding_User', 'AverageWordEmbedding_Article', 'ProfanityWords', 'EntityOverlap', 'Similarity_CandidateArticle', 'Similarity_CandidateLastK', 'ArticleLength', 'DialogActCandidate', 'DialogLength', 'AverageWordEmbedding_kUser', 'Similarity_CandidateKUser', 'Negation', 'IntensifierWords', 'ConfusionWords', 'CandidateLength', 'TrigramOverlap', 'AverageWordEmbedding_LastK', 'SentimentScoreLastUser', 'GenericTurns', 'BigramOverlap', 'Similarity_CandidateUser', 'NonStopWordOverlap', 'Similarity_CandidateArticle_noStop', 'LastUserLength', 'WhWords', 'Similarity_CandidateKUser_noStop']
+-------------

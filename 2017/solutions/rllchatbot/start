@@ -1,0 +1,9 @@
+#!/bin/sh
+trap "trap - TERM && kill -- -$$" INT TERM EXIT
+
+tmux new -d -s convai 'echo Running; sleep 10' \; \
+    new-window -d '. /root/torch/install/bin/torch-activate; cd /root/convai/models/nqg/sentence/; th online_translate.lua; sleep 10' \; next-window \; \
+    new-window -d 'cd /root/convai/models/drqawrapper/; /bin/sh -c "./run_server"' \; next-window \; \
+    new-window -d 'cd /root/convai/; THEANO_FLAGS=floatX=float32 python bot_q.py' \; next-window \; \
+    attach \;
+
