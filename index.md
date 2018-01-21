@@ -80,7 +80,8 @@ Both human evaluators and dialogue agents complete the same task.
 4. The quality of the dialog as a whole as well as its breadth and engagement are evaluated on the 0 to 10 range. This evaluation is obligatory.
 5. Final rating is calculated as an average of evaluation values accumulated by submitted system during the NIPS Round of Competition.
 
-### Note on diqualification
+### Note on disqualification
+
 The submitted system could be excluded from competition temporarily or completely, if there were issues with system used language. We encourage the participants to be guided by common sense, choosing the constraints on system vocabulary. 
 
 If there was a spotted issue the participating system is disqualified from competition temporarily, until the issue is resolved. If issue is not resolved until the competition's end, the system will be disqualified completely from the competition.
