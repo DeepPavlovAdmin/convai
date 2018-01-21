@@ -8,7 +8,7 @@
 
 # Final Leaderboard of the NIPS Round 2017 
 
-Rank    | BOT    | CURRENT SCORE
+Rank    | BOT    | FINAL SCORE
 --------|--------|-------------
 1-2*    | bot#1337    | 2.746
 1-2*    | poetwannabe    | 2.536
