@@ -16,6 +16,7 @@ Rank    | BOT    | FINAL SCORE
 4    | RLLChatBot    | 1.905
 5    | PolyU    | 1.5
 6    | DeepTalkHawk    | 1.229
+--    | _Human_    | _3.8_
 
  * No statistically significant difference.
 
