@@ -1,0 +1,7 @@
+model 1510115151.24
+avg. train: 0.785069
+avg. valid: 0.624867
+args: [(900, 300, 50), 'swish', 'adam', 0.001, '1510115151.24', 64, 0.29999999999999999]
+features:
+['AverageWordEmbedding_Candidate', 'AverageWordEmbedding_User', 'AverageWordEmbedding_Article', 'LastUserLength', 'Similarity_CandidateArticle_noStop', 'DialogActLastUser', 'AverageWordEmbedding_kUser', 'DialogActCandidate', 'ArticleLength', 'Similarity_CandidateKUser_noStop', 'GenericTurns', 'CandidateLength', 'Negation', 'ProfanityWords', 'BigramOverlap', 'Similarity_CandidateArticle', 'ConfusionWords', 'SentimentScoreLastUser', 'Similarity_CandidateUser', 'Similarity_CandidateLastK_noStop', 'Similarity_CandidateLastK', 'WhWords']
+-------------

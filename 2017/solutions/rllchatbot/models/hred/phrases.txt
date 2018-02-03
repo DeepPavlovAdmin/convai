@@ -1,0 +1,7 @@
+<speaker_1> how is the weather today ? </s> </d> 
+<speaker_1> how are you doing ? </s> </d> 
+<speaker_1> i would vote for clinton . </s>
+<speaker_1> hello , my name is michael . </s>
+<speaker_1> how are you ? </s>
+<speaker_1> who would you vote for ? </s>
+<speaker_1> what do you think of trump ? </s>

@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# clone / download the code files here, and install any dependencies
+hred="https://github.com/julianser/hed-dlg-truncated.git"
+de="https://github.com/NicolasAG/discriminator.git"
+hredqa="https://github.com/koustuvsinha/hred-py"
+
+echo "-------Cloning models-----------"
+git clone "$hred" hred/
+
+git clone "$de" dual_encoder/
+cd dual_encoder/
+git checkout retriever  # make sure to be on the `retriever` branch
+cd ../
+
+git clone "$hredqa" hredqa/
+
+git clone https://github.com/Breakend/drqawrapper.git
+
+git clone https://github.com/koustuvsinha/nqg.git
+
+git clone https://github.com/facebookresearch/fastText.git
+
+echo "-------Models downloaded-----------"

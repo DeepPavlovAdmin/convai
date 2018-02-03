@@ -1,0 +1,7 @@
+model 1510356008.35_Estimator_
+avg. train: -1.03721
+avg. valid: -1.54687
+args: [(900, 500, 200), [200], 'swish', 'adam', 0.01, 'models/long_term', '1510356008.35', 'Estimator', 512, 0.90000000000000002, None]
+features:
+['AverageWordEmbedding_Candidate', 'AverageWordEmbedding_User', 'AverageWordEmbedding_Article', 'EntityOverlap', 'GenericTurns', 'ProfanityWords', 'DialogActLastUser', 'Similarity_CandidateKUser_noStop', 'CandidateLength', 'Similarity_CandidateKUser', 'LastUserLength', 'ArticleLength', 'BigramOverlap', 'Similarity_CandidateArticle', 'AverageWordEmbedding_kUser', 'Similarity_CandidateLastK', 'ConfusionWords', 'SentimentScoreCandidate', 'Similarity_CandidateUser', 'Similarity_CandidateLastK_noStop', 'NonStopWordOverlap', 'AverageWordEmbedding_LastK']
+-------------

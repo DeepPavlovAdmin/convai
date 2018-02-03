@@ -1,0 +1,88 @@
+Context: 
+<speaker_1> emanuel fear of being recorded may be discouraging cops from doing their jobs chicago . cbslocal . com </s> <speaker_2> really ? cellphone videos are considered contributing factors in the rise of crime more so than wretched economic and social conditions ? </s> <speaker_1> yeah , he 's sticking his head as far into the sand as it 'll go . </s>
+
+Responses:
+<speaker_2> i 'm sure he 'll be fine .
+<speaker_2> i 'm sure he 's a <unk> .
+<speaker_2> i 'm sure he 'll be fine . he 's a <unk> .
+
+
+Context: 
+<speaker_1> penn jillette bernie sanders is the one person in this race who 's actually genuine and not crazy reason . com </s> <speaker_2> penn jillette is a lot like reddit - - a smug white guy who identifies as libertarian , but secretly loves socialist policies . </s> <speaker_3> you forgot atheist . </s>
+
+Responses:
+<speaker_2> i 'm not a fan of god , but i 'm not sure what you 're trying to say .
+<speaker_2> i 'm not a fan of god , but i 'm not sure what you 're talking about .
+<speaker_2> i 'm not a fan of god , but i 'm not sure what you 're saying .
+
+
+Context: 
+<speaker_1> most u . s . voters not aware of democratic debate reuters ipsos poll reuters . com </s> <speaker_2> most us voters not aware that anyone other than hillary clinton is running for the democrat party nomination . </s> <speaker_3> nah most people know about bernie nowadays . </s>
+
+Responses:
+<speaker_4> i think he 's a <unk> .
+<speaker_4> i 'm sure he 'll be the next election .
+<speaker_4> i 'm sure he 'll be the next president .
+
+
+Context: 
+<speaker_1> mike huckabee live tweets the democratic debate , says terrible things complex . com </s> <speaker_2> huckabee explains to the world that a sunburn is the same thing as global climate change . what a complete moron . </s> <speaker_3> also , skin cancer kills more americans than isis . </s>
+
+Responses:
+<speaker_4> i don 't think you know what you 're talking about .
+<speaker_4> i don 't think you know what you 're talking about , but it 's true .
+<speaker_4> i don 't think you know what you 're talking about , but it 's not like you 're a <unk> .
+
+
+Context: 
+<speaker_1> bernie sanders won the debate , and perhaps the election , when he defended hillary clinton huffingtonpost . com </s> <speaker_2> not what i 'm seeing from anyone besides sanders supporters </s> <speaker_3> they just polled <number> people on cnn who were listed as independent , and the voting for " who won " was about <number> - <number> in favor of sanders . </s>
+
+Responses:
+<speaker_4> that 's what i was thinking .
+<speaker_4> that 's what happens when you vote for the primaries .
+<speaker_4> that 's what happens when you vote for a candidate .
+
+
+Context: 
+<speaker_1> bernie sanders won the debate , and perhaps the election , when he defended hillary clinton huffingtonpost . com </s> <speaker_2> the contrast between the <number> st republican debate only one i watched and this is pretty staggering . </s> <speaker_3> to be fair if the gop field wasn 't as crowded we 'd probably see a different debate . </s>
+
+Responses:
+<speaker_4> i 'm sure they 'll find a way to <unk> the <unk> .
+<speaker_4> i 'm sure they 'll find a way to find out .
+<speaker_4> i 'm sure they 'll find it .
+
+
+Context: 
+<speaker_1> bernie sanders gained <number> , <number> twitter followers during the debate - - over <number> . <number> times more followers than all of the other candidates combined . forbes . com </s> <speaker_2> if twitter followers determined the election , ron paul would have been elected president at least three times . </s> <speaker_3> ron paul was also a bit of a lunatic , half his ideas were perfect for the gop clown car that we have today . </s>
+
+Responses:
+<speaker_4> i think he 's referring to the <unk> .
+<speaker_4> i think he 's referring to the <unk> <unk> .
+<speaker_4> i think he 's a <unk> .
+
+
+Context: 
+<speaker_1> why did cnn have don lemon ask about race and juan carlos lopez ask about immigration ? vox . com </s> <speaker_2> and the latino guy ask about marijuana ? </s> <speaker_1> wasn 't it ac who asked about legalization ? i read a transcript of the debate , since i couldn 't watch live . </s>
+
+Responses:
+<speaker_2> it was a joke , but it was a joke .
+<speaker_2> it was a joke , but it was a joke . i 'm sure it was a joke .
+<speaker_2> it was a joke .
+
+
+Context: 
+<speaker_1> bernie sanders says he would support legalizing weed if given the chance huffingtonpost . com </s> <speaker_2> yeah , welcome to the <number> 's libertarian party bernie , glad you could catch up . </s> <speaker_3> yeah , his platform is basically exactly theirs . </s>
+
+Responses:
+<speaker_4> i think he 's trying to make the gop look bad .
+<speaker_4> i think he 's trying to make a lot of sense .
+<speaker_4> i think he 's talking about the <unk> .
+
+
+Context: 
+<speaker_1> bernie sanders 'congress doesn 't regulate wall street . wall street regulates congress . ' huffingtonpost . com </s> <speaker_2> i would love to see this quote responded to by all the candidates . </s> <speaker_3> clinton responded , disagreeing . </s>
+
+Responses:
+<speaker_4> i 'm sure you 'll be able to vote for bernie sanders .
+<speaker_4> i 'm sure you 'll be able to vote for him .
+<speaker_4> i 'm sure you 'll be fine .

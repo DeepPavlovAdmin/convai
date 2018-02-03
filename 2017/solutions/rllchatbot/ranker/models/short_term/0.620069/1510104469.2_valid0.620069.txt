@@ -1,0 +1,7 @@
+model 1510104469.2
+avg. train: 0.64141
+avg. valid: 0.620069
+args: [(700, 300), 'sigmoid', 'rmsprop', 0.0001, '1510104469.2', 512, 0.10000000000000001]
+features:
+['AverageWordEmbedding_Candidate', 'AverageWordEmbedding_User', 'AverageWordEmbedding_Article', 'WhWords', 'Similarity_CandidateArticle', 'Negation', 'Similarity_CandidateArticle_noStop', 'AverageWordEmbedding_kUser', 'Similarity_CandidateLastK', 'Similarity_CandidateUser', 'DialogLength', 'SentimentScoreLastUser', 'Similarity_CandidateKUser', 'LastUserLength', 'Similarity_CandidateLastK_noStop', 'Similarity_CandidateKUser_noStop', 'DialogActCandidate', 'CandidateLength', 'ArticleLength', 'DialogActLastUser', 'TrigramOverlap', 'NonStopWordOverlap']
+-------------

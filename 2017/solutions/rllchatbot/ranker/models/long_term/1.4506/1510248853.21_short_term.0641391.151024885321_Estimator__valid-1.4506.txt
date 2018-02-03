@@ -1,0 +1,7 @@
+model 1510248853.21_short_term.0641391.151024885321_Estimator__
+avg. train: -0.59735
+avg. valid: -1.4506
+args: [(900, 600, 300, 100, 50), [50], 'relu', 'rmsprop', 0.001, 'models/long_term', '1510248853.21', 'short_term.0641391.151024885321_Estimator_', 1024, 0.69999999999999996, ('./models/short_term/0.641391', '1510248853.21', 'Estimator')]
+features:
+['AverageWordEmbedding_Candidate', 'AverageWordEmbedding_User', 'AverageWordEmbedding_Article', 'Similarity_CandidateUser', 'AverageWordEmbedding_kUser', 'Similarity_CandidateLastK', 'NonStopWordOverlap', 'TrigramOverlap', 'Similarity_CandidateLastK_noStop', 'EntityOverlap', 'ConfusionWords', 'AverageWordEmbedding_LastK', 'ArticleLength', 'IntensifierWords', 'Similarity_CandidateArticle_noStop', 'DialogLength', 'WhWords', 'SentimentScoreLastUser', 'Similarity_CandidateKUser', 'BigramOverlap', 'DialogActLastUser', 'Negation', 'DialogActCandidate', 'Similarity_CandidateArticle', 'Similarity_CandidateKUser_noStop', 'SentimentScoreCandidate']
+-------------
