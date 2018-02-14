@@ -1,5 +1,13 @@
 This is a directory where the participants of ConvAI-2017 can submit their solutions.
 
+## Uploaded solutions
+
+[bot#1337](/bot#1337/)
+
+kAIb
+
+RLLChatBot
+
 ### Instructions for code submission:
 
 - go to [convai repository](https://github.com/DeepPavlov/convai) and fork it ("__Fork__" button in the upper right corner).
