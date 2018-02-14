@@ -2,11 +2,11 @@ This is a directory where the participants of ConvAI-2017 can submit their solut
 
 ## Uploaded solutions
 
-[bot#1337](/bot#1337/)
+[bot#1337](https://github.com/DeepPavlov/convai/tree/master/2017/solutions/bot%231337)
 
-kAIb
+[kAIb](https://github.com/DeepPavlov/convai/tree/master/2017/solutions/kaib)
 
-RLLChatBot
+[RLLChatBot](https://github.com/DeepPavlov/convai/tree/master/2017/solutions/rllchatbot)
 
 ### Instructions for code submission:
 
