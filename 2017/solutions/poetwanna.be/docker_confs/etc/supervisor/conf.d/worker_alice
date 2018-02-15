@@ -1,0 +1,15 @@
+[program:worker_alice]
+command=env C_FORCE_ROOT=True celery worker -c 1 --autoscale=1,1 -A async -Ofair -n worker_alice@%%h
+autostart=true
+autorestart=true
+user=root
+stdout_logfile=/var/log/worker_alice_stdout.log
+stderr_logfile=/var/log/worker_alice_stderr.log
+directory=/qa_nips/chatbot
+numprocs=1
+startsecs=10
+stopwaitsecs = 600
+stopasgroup=true
+; Set Celery priority higher than default (999)
+; so, if redis is supervised, it will start first.
+priority=1000

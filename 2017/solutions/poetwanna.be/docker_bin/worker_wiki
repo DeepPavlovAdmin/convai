@@ -1,0 +1,13 @@
+#!/bin/bash
+
+prog=`basename $0`
+
+. /qa_nips/docker_bin/bash_utils
+
+# See if we need to run Redis
+export REDIS=`maybe_start redis`
+
+ln -s /qa_nips/docker_confs/etc/supervisor/conf.d/$prog /etc/supervisor/conf.d/$prog.conf
+
+source /qa_nips/set-env.sh
+exec /usr/bin/supervisord -c /etc/supervisor/supervisord.conf -n

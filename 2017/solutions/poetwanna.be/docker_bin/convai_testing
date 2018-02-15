@@ -1,0 +1,21 @@
+#!/bin/bash
+
+requested_services=$@
+
+source /qa_nips/docker_bin/bash_utils
+
+source /qa_nips/docker_bin/workers
+source /qa_nips/set-env.sh
+
+export DEBUG=False
+export PRELOAD_TALKERS=1
+
+/usr/bin/supervisord -c /etc/supervisor/supervisord.conf
+
+mkdir -p /tmp/logs_dialogues/
+
+cd /qa_nips/chatbot
+
+while true; do
+	python chatbot_async.py -i convai_test -w
+done

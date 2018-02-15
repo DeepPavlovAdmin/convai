@@ -1,0 +1,1 @@
+from .talker import DbpediaTalker
