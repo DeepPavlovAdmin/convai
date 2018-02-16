@@ -1,0 +1,1 @@
+from synonyms_base import SynonymsBase

@@ -1,0 +1,13 @@
+[global]
+floatX=float32
+device=cuda
+allow_gc=True
+optimizer_excluding=danger
+exception_verbosity=high
+
+[gpuarray]
+preallocate=0.3
+
+[experimental]
+unpickle_gpu_on_cpu=True
+unpickle_shared_gpu_on_cpu=True

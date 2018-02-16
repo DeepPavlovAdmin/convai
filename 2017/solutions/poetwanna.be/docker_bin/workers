@@ -1,0 +1,8 @@
+# See if we need to run Redis
+export REDIS=`maybe_start redis`
+maybe_start worker_simple_talkers
+maybe_start worker_wiki
+maybe_start worker_alice
+# maybe_start worker_simple_wiki
+# maybe_start worker_squad
+export CORENLP=`maybe_start core_nlp`

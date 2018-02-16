@@ -1,0 +1,12 @@
+python-aiml
+hunspell
+Pattern==2.6
+python_telegram_bot==5.0.0
+tabulate
+theano==0.9
+pygtrie==2.2
+celery[redis]
+redis-simple-cache
+python-cdb
+redlock-py
+hiredis

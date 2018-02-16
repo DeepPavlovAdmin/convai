@@ -1,0 +1,19 @@
+# Python
+*.pyc
+
+# Vim
+*.swa
+*.swp
+*.swo
+*.swn
+
+*.sqlite3
+
+*.orig
+
+#gedit
+*~
+
+data/
+data_other/
+data.tar*
