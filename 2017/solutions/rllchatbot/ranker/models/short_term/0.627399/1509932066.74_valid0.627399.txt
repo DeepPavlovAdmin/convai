@@ -1,0 +1,7 @@
+model 1509932066.74
+avg. train: 0.831884
+avg. valid: 0.627399
+args: [(500, 100), 'relu', 'rmsprop', 0.0001, '1509932066.74', 128, 0.29999999999999999]
+features:
+['AverageWordEmbedding_Candidate', 'AverageWordEmbedding_User', 'AverageWordEmbedding_Article', 'WhWords', 'TrigramOverlap', 'SentimentScoreLastUser', 'AverageWordEmbedding_LastK', 'Similarity_CandidateKUser_noStop', 'Similarity_CandidateUser', 'Similarity_CandidateArticle_noStop', 'SentimentScoreCandidate', 'NonStopWordOverlap', 'Negation', 'ProfanityWords', 'AverageWordEmbedding_kUser', 'ArticleLength', 'Similarity_CandidateLastK_noStop', 'IntensifierWords', 'ConfusionWords', 'Similarity_CandidateLastK', 'CandidateLength', 'Similarity_CandidateArticle', 'Similarity_CandidateKUser']
+-------------

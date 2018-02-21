@@ -1,0 +1,45 @@
+
+###
+# file names
+###
+
+- starts with "full_data_"...
+    means that we do not filter out 'non-voted' messages
+
+- starts with "voted_data_"...
+    means that we filter out 'non-voted' messages
+
+- contains ..."_round1_"...
+    means its data from the convai human evaluation
+    ie: no `model` nor `policy` information (more on that later)
+
+- contains ..."_db_"...
+    means its data from the mongodb database, collected at McGill
+
+Each file name has a time-stamp postfix.
+This allow us to keep multiple copies of the data at different times.
+Note that the data from the database will keep increasing over time.
+
+###
+# data format
+###
+
+- each .json file is a python list.
+
+- each item in the list is a dictionary that has the following format:
+{
+    "R":         <float ; score for the full conversation given at the end>,
+    "article":   <string ; article to talk about>,
+    "candidate": <string ; response generated that we want to output>,
+    "context":   <array of string ; messages sent by each person>
+        [
+            <string ; all messages sent by the bot before it got a reply>,
+            <string ; all messages sent by the user before it got a reply>,
+            <string ; all messages sent by the bot before it got a reply>,
+            ....
+        ], 
+    "model":     <string ; name of the model that generated the `candidate` response. 'none' when unknown>,
+    "policy":    <int ; policy id representing the dialog strategy used for this conversation (see `model_selection.py`)>,
+    "r":         <int (-1, 0, +1) ; immediate reward of the `candidate` response>
+}
+

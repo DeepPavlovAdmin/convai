@@ -1,0 +1,7 @@
+<speaker_2> it 's a <unk> .	<speaker_2> it 's not like the <unk> is a <unk> .	<speaker_2> it 's not like they 're <unk> .
+<speaker_2> i 'm not a fan of <unk> .	<speaker_2> <unk> .	<speaker_2> <unk>
+<speaker_2> i 'd vote for him .	<speaker_2> i 'd vote for her .	<speaker_2> i 'd vote for him if i vote for hillary .
+<speaker_2> <unk> <unk>	<speaker_2> <unk> .	<speaker_2> <unk>
+<speaker_2> <unk> .	<speaker_2> <unk> . com	<speaker_2> <unk>
+<speaker_2> <unk> .	<speaker_2> i don 't want to live in a country where i live .	<speaker_2> i don 't want to live in my country .
+<speaker_2> donald trump .	<speaker_2> donald trump is a <unk> .	<speaker_2> donald trump is the only candidate who has ever heard of him

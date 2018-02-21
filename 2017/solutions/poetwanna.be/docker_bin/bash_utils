@@ -1,0 +1,22 @@
+maybe_start() {
+    getent hosts $1 > /dev/null
+    local in_hosts=$?
+    echo $2 | grep $1
+    local in_requested=$?
+    if [[ ( $in_requested -eq 0 ) || ( $in_hosts -ne 0 ) ]]; then
+        echo "Will start $1" > /dev/stderr
+        ln -s /qa_nips/docker_confs/etc/supervisor/conf.d/$1 /etc/supervisor/conf.d/$1.conf
+        if [[ $in_hosts -ne 0 ]]; then
+            echo "localhost"
+        else
+            echo "$1"
+        fi
+    else
+        if [[ $in_hosts -eq 0 ]]; then
+            echo "Using $1 from another container" > /dev/stderr
+            echo "$1"
+        else
+            echo "!!!Environment doesn't have $1!!!" > /dev/stderr
+        fi
+    fi
+}

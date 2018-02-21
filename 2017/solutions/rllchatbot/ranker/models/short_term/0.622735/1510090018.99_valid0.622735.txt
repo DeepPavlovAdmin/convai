@@ -1,0 +1,7 @@
+model 1510090018.99
+avg. train: 0.722911
+avg. valid: 0.622735
+args: [(300, 50), 'swish', 'rmsprop', 0.001, '1510090018.99', 512, 0.5]
+features:
+['AverageWordEmbedding_Candidate', 'AverageWordEmbedding_User', 'AverageWordEmbedding_Article', 'AverageWordEmbedding_LastK', 'ConfusionWords', 'EntityOverlap', 'Similarity_CandidateKUser', 'AverageWordEmbedding_kUser', 'Similarity_CandidateKUser_noStop', 'Similarity_CandidateArticle', 'DialogLength', 'DialogActLastUser', 'ArticleLength', 'Similarity_CandidateUser', 'WhWords', 'Negation', 'SentimentScoreLastUser', 'ProfanityWords', 'SentimentScoreCandidate']
+-------------

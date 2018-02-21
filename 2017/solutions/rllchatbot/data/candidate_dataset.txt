@@ -1,0 +1,49 @@
+Do you know who <person> is?
+Have you ever met <person> ?
+Do you know what <person> did in his life?
+Do you like this <person> guy?
+Do you know <person> in person?
+What do you think about <org> ?
+Have you ever used any of <org> ’s products or services?
+Do you think you would like to work for <org> ?
+What do you know about <org> ?
+<org> , do you know what it is?
+Do you know where are the headquarter of <org> ?
+What does <org> do in general?
+<gpe> seems like a nice place!
+Have you ever been to <gpe> ?
+What do we eat in <gpe> ? I'm starving!
+What specialities do they have in <gpe> ?
+Do you know what traditions they have in <gpe> ?
+I have never been to <gpe> you?
+Do you know anyone from <gpe> ?
+I went to <gpe> once, I really enjoyed visiting it!
+Is it expensive to go to <gpe> ? I am planning to go at some point.
+Do you know where is <loc>?
+Have you ever been to <loc> ? I heard it's beautiful.
+I heard <loc> is beautiful, is it?
+I went to <loc> once, it was ok...
+I need to get more <product> ! I love those.
+I like <product> , what about you?
+Do you have any <product> ?
+Would you like any <product> ? I have many, I can give you one if you’re nice with me haha.
+Once, I bought a <product> , but then somebody stole it from me.
+Want to talk about <event> ?
+Any thoughts about <event> ?
+What do you think about <event> ?
+I think <event> is quite epic don’t you think?
+Were you born when <event> happened?
+Do you like <work_of_art> ?
+Do you know who did <work_of_art> ?
+Do you know how to speak <language> ?
+Do you know how to write <language> ?
+Do you know what happened in <date> ?
+What happened in <date> ?
+Were you born in <date> ?
+What are the <norp> saying ?
+Do you like the <norp> ?
+Are you a <norp> ?
+Would you like to be a <norp> ?
+I met a <norp> once, he was nice.
+I met a <norp> once, she was nice.
+Have you ever spoke to a <norp> ? They are not all alike.

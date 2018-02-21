@@ -1,0 +1,6 @@
+*~
+*.pyc
+
+.git
+data/
+data.tar*

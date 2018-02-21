@@ -1,0 +1,12 @@
+[program:corenlp]
+command=java -mx2g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9090 -timeout 15000
+autostart=true
+autorestart=true
+user=root
+stdout_logfile=/var/log/corenlp_stdout.log
+stderr_logfile=/var/log/corenlp_stderr.log
+directory=/data/stanford-corenlp-full-2017-06-09
+numprocs=1
+startsecs=10
+stopwaitsecs = 600
+stopasgroup=true

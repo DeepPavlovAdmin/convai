@@ -1,0 +1,17 @@
+#!/bin/bash
+
+requested_services=$@
+
+source /qa_nips/docker_bin/bash_utils
+
+source /qa_nips/docker_bin/workers
+source /qa_nips/set-env.sh
+
+export DEBUG=True
+export PRELOAD_TALKERS=1
+
+/usr/bin/supervisord -c /etc/supervisor/supervisord.conf
+
+mkdir -p /tmp/logs_dialogues/
+
+exec /bin/bash -l

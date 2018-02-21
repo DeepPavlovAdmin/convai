@@ -1,0 +1,7 @@
+model 1509902618.0
+avg. train: 0.803362
+avg. valid: 0.627399
+args: [(300, 50), 'relu', 'rmsprop', 0.0001, '1509902618.0', 256, 0.10000000000000001]
+features:
+['AverageWordEmbedding_Candidate', 'AverageWordEmbedding_User', 'AverageWordEmbedding_Article', 'DialogActLastUser', 'AverageWordEmbedding_kUser', 'Similarity_CandidateArticle', 'Similarity_CandidateKUser_noStop']
+-------------

@@ -1,0 +1,27 @@
+# In the folder chatbot run make as make -f tools/wikipedia/make_indexes
+
+WIKI_CDB_DIRS = \
+	/pio/data/data/qa_nips_data/simple_wiki_data/simple \
+	/pio/data/data/qa_nips_data/simple_wiki_data/simple_titles \
+	/pio/data/data/qa_nips_data/wikipedia/wiki1M \
+	/pio/data/data/qa_nips_data/wikipedia/wiki3M
+
+WIKI_MCDB_DIRS = \
+	/pio/data/data/qa_nips_data/wikipedia/wiki4.5M
+
+all : $(WIKI_CDB_DIRS:%=%/wiki.idf.cdb) $(WIKI_CDB_DIRS:%=%/wiki.index.cdb) \
+	  $(WIKI_MCDB_DIRS:%=%/wiki.idf.mcdb) $(WIKI_MCDB_DIRS:%=%/wiki.index.mcdb)
+
+.PHONY : all
+
+%wiki.idf.cdb : %wiki.idf.txt
+		python tools/wikipedia/write_cdb.py --val-type float $^ $@
+
+%wiki.index.cdb : %wiki.index.txt
+		python tools/wikipedia/write_cdb.py --val-type prych_hex $^ $@
+
+%wiki.idf.mcdb : %wiki.idf.txt
+		python tools/wikipedia/write_cdb.py --val-type float $^ $@
+
+%wiki.index.mcdb : %wiki.index.txt
+		python tools/wikipedia/write_cdb.py --val-type prych_hex $^ $@

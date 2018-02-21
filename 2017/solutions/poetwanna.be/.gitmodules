@@ -1,0 +1,6 @@
+[submodule "libs/lasagne"]
+	path = libs/lasagne
+	url = https://github.com/Lasagne/Lasagne.git
+[submodule "chatbot/libs/pattern"]
+	path = libs/pattern
+	url = https://github.com/clips/pattern.git

@@ -8,7 +8,7 @@
 
 # Final Leaderboard of the NIPS Round 2017 
 
-Rank    | BOT    | CURRENT SCORE
+Rank    | BOT    | FINAL SCORE
 --------|--------|-------------
 1-2*    | bot#1337    | 2.746
 1-2*    | poetwannabe    | 2.536
@@ -16,6 +16,7 @@ Rank    | BOT    | CURRENT SCORE
 4    | RLLChatBot    | 1.905
 5    | PolyU    | 1.5
 6    | DeepTalkHawk    | 1.229
+--    | _Human_    | _3.8_
 
  * No statistically significant difference.
 
@@ -80,7 +81,8 @@ Both human evaluators and dialogue agents complete the same task.
 4. The quality of the dialog as a whole as well as its breadth and engagement are evaluated on the 0 to 10 range. This evaluation is obligatory.
 5. Final rating is calculated as an average of evaluation values accumulated by submitted system during the NIPS Round of Competition.
 
-### Note on diqualification
+### Note on disqualification
+
 The submitted system could be excluded from competition temporarily or completely, if there were issues with system used language. We encourage the participants to be guided by common sense, choosing the constraints on system vocabulary. 
 
 If there was a spotted issue the participating system is disqualified from competition temporarily, until the issue is resolved. If issue is not resolved until the competition's end, the system will be disqualified completely from the competition.

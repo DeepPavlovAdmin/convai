@@ -1,0 +1,33 @@
+
+###
+# file names
+###
+
+- starts with "full_data_"...
+    means that we do not filter out 'non-voted' messages
+
+- starts with "voted_data_"...
+    means that we filter out 'non-voted' messages
+
+- contains ..."_round1_"...
+    means its data from the convai human evaluation
+    ie: no `model` nor `policy` information (more on that later)
+
+- contains ..."_db_"...
+    means its data from the mongodb database, collected at McGill
+
+- finishes by ..."_<FEATURE NAME>.json"
+    means it represent that feature for the full data
+
+Each file name has a time-stamp postfix.
+This allow us to keep multiple copies of the data at different times.
+Note that the data from the database will keep increasing over time.
+
+###
+# data format
+###
+
+- each .json file is a python list.
+
+- each item in the list is a feature represented as a list of digits
+

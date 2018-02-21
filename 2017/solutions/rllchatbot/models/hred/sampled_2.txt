@@ -1,0 +1,1000 @@
+<speaker_3> it 's not a <unk> , it 's a <unk> .	<speaker_3> it 's not a <unk> , it 's <unk> .	<speaker_3> it 's not a <unk> .
+<speaker_2> it was a joke , but i don 't think it was .	<speaker_2> it was a joke .	<speaker_2> it was a joke , but i don 't think it is .
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> it 's not a race , it 's a <unk> .	<speaker_4> it 's not a race , it 's a race .	<speaker_4> it is .
+<speaker_4> it 's not a race , it 's a <unk> .	<speaker_4> it 's not a race , it 's a race .	<speaker_4> it is .
+<speaker_4> it 's not a race , it 's a <unk> .	<speaker_4> it 's not a race , it 's a race .	<speaker_4> it is .
+<speaker_2> i 'm not sure what you mean .	<speaker_4> no , he 's not .	<speaker_2> i 'm not sure what you are talking about
+<speaker_2> i 'm not sure what you mean .	<speaker_4> no , he 's not .	<speaker_2> i 'm not sure what you are talking about
+<speaker_2> i 'm not sure what you mean .	<speaker_4> no , he 's not .	<speaker_2> i 'm not sure what you are talking about
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> "	<speaker_4> i think it 's more of a " <unk> " than " <unk> "
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> "	<speaker_4> i think it 's more of a " <unk> " than " <unk> "
+<speaker_4> you 're welcome .	<speaker_4> you are welcome .	<speaker_4> you 're welcome
+<speaker_4> i don 't think you understand what the word " means " means .	<speaker_4> i don 't think you understand what the word " means " is .	<speaker_4> i don 't think you understand what the word <unk> means .
+<speaker_4> i don 't think you understand what the word " means " means .	<speaker_4> i don 't think you understand what the word " means " is .	<speaker_4> i don 't think you understand what the word <unk> means .
+<speaker_4> i don 't think you understand what the word " means " means .	<speaker_4> i don 't think you understand what the word " means " is .	<speaker_4> i don 't think you understand what the word <unk> means .
+<speaker_4> i don 't know if you 're trolling or not .	<speaker_4> i don 't know if you 're trolling or not , but i 'm pretty sure it 's just a matter of time .	<speaker_4> i don 't know if you 're trolling or not , but i 'm pretty sure it 's just a joke .
+<speaker_4> r <unk>	<speaker_4> i don 't know why you 're downvoted . this is r news .	<speaker_4> i don 't know why you 're downvoted . this is r politics .
+<speaker_2> i don 't know . i just read the article . i don 't know what you are talking about .	<speaker_2> i don 't know . i just read the article .	<speaker_2> i don 't know . i just read it .
+<speaker_4> <unk> . com	<speaker_4> <unk>	<speaker_4> <unk> .
+<speaker_4> i think it 's more of a joke .	<speaker_4> it 's not .	<speaker_4> it 's not true .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> than a political issue .	<speaker_4> i think it 's more of a " <unk> " .
+<speaker_4> <unk> .	<speaker_4> <unk> <unk>	<speaker_4> <unk> <unk> <unk>
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_3> he 's running for president .	<speaker_3> he 's running for president . he 's not running for president .	<speaker_3> he 's running for president in <number> .
+<speaker_3> he 's running for president .	<speaker_3> he 's running for president . he 's not running for president .	<speaker_3> he 's running for president in <number> .
+<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you are talking about , but i 'm not sure what you mean .	<speaker_2> i 'm not sure what you mean .
+<speaker_2> i 'm not sure if you 're joking or not .	<speaker_2> i 'm not sure if you 're joking or not , but i 'd be surprised if he didn 't .	<speaker_2> i 'm not sure if you 're joking or not , but i 'd be surprised if he didn 't have a <unk> .
+<speaker_4> i don 't know if you 're being sarcastic or not .	<speaker_4> i don 't know if you 're being sarcastic or not , but i think it 's more of a " <unk> " .	<speaker_4> i don 't know if you 're being sarcastic or not , but i think it 's funny .
+<speaker_4> i don 't think you understand how this works .	<speaker_4> i don 't think you understand how the internet works .	<speaker_4> i don 't think you understand what the word " means " .
+<speaker_2> i know . i was just trying to make a joke .	<speaker_2> i know . i was just trying to make a joke . i was just trying to be funny .	<speaker_2> no , i 'm not .
+<speaker_4> he 's not wrong .	<speaker_4> he 's a <unk> .	<speaker_4> <unk> .
+<speaker_4> <unk> <unk> <unk>	<speaker_4> <unk> !	<speaker_4> <unk> <unk>
+<speaker_4> he 's a <unk> . he 's a <unk> .	<speaker_4> he 's a <unk> .	<speaker_4> he 's a <unk> . he 's not a <unk> .
+<speaker_4> i think it 's more of a scandal than a scandal .	<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .
+<speaker_4> i think it 's a good thing he 's been in r politics for a long time .	<speaker_4> i think it 's a good thing he 's been in r politics for a while now .	<speaker_4> i think it 's a good thing he 's been in r politics for a while .
+<speaker_4> i think it 's a good thing he 's been in r politics for a long time .	<speaker_4> i think it 's a good thing he 's been in r politics for a while now .	<speaker_4> i think it 's a good thing he 's been in r politics for a while .
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> she 's a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> it 's not the same thing , it 's a fact .	<speaker_4> it 's not the same thing , it 's the <unk> of the <unk> .	<speaker_4> it 's not the same thing .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a political issue
+<speaker_4> i think it 's more than that .	<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> than a political issue .
+<speaker_4> i don 't know , i think it 's a joke . i don 't know why you 're being downvoted .	<speaker_4> i don 't know , i think it 's a joke .	<speaker_4> i don 't know , i think he 's a <unk> .
+<speaker_4> i don 't know , i think it 's a joke . i don 't know why you 're being downvoted .	<speaker_4> i don 't know , i think it 's a joke .	<speaker_4> i don 't know , i think he 's a <unk> .
+<speaker_4> i think you mean <unk> .	<speaker_4> i think you mean " liberal "	<speaker_4> i think you mean <unk>
+<speaker_4> i don 't know why you 're being downvoted . you 're right . i don 't even know what to say .	<speaker_4> i don 't know why you 're being downvoted .	<speaker_4> i don 't know why you 're being downvoted . you 're right .
+<speaker_3> i 'm not sure what you are talking about .	<speaker_3> <unk> . com	<speaker_3> <unk> .
+<speaker_4> i think it 's more of a joke .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's <unk> .
+<speaker_4> it 's not a <unk> , it 's <unk> .	<speaker_4> i think he 's a <unk> .	<speaker_4> it 's not a <unk> .
+<speaker_4> it 's not a <unk> , it 's <unk> .	<speaker_4> i think he 's a <unk> .	<speaker_4> it 's not a <unk> .
+<speaker_4> i think he 's a <unk> .	<speaker_4> he 's a <unk> .	<speaker_4> he 's a <unk> , not a <unk>
+<speaker_4> i think he 's a <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> it was a joke , but it was a joke .	<speaker_4> it was a joke , but it 's not funny .	<speaker_4> it was a joke .
+<speaker_4> i think he 's referring to the fact that he 's a republican .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a republican . he 's not a republican .
+<speaker_3> he 's not a republican , he 's a republican .	<speaker_3> he 's not a republican , he 's a <unk> .	<speaker_3> he 's not a republican .
+<speaker_2> no , i don 't .	<speaker_2> no , i don 't think it is .	<speaker_2> no .
+<speaker_2> i don 't know what you are talking about .	<speaker_2> i don 't know what you are talking about , but i do .	<speaker_2> i don 't know what you are talking about , but i do know that .
+<speaker_4> i think it 's more of a conspiracy theory .	<speaker_4> i think it 's more of a scandal .	<speaker_4> i think it 's more of a scandal than a scandal
+<speaker_4> i thought it was <unk> .	<speaker_4> i thought it was a <unk> .	<speaker_4> i think it 's more like " <unk> "
+<speaker_4> i think he 's referring to the fact that he 's not a libertarian .	<speaker_4> i think he 's referring to the fact that he 's a libertarian .	<speaker_4> i think he 's referring to the fact that he 's not a libertarian . he 's a libertarian .
+<speaker_4> i think he 's referring to the fact that he 's not a libertarian .	<speaker_4> i think he 's referring to the fact that he 's a libertarian .	<speaker_4> i think he 's referring to the fact that he 's not a libertarian . he 's a libertarian .
+<speaker_4> i think he 's referring to the fact that he 's not a libertarian .	<speaker_4> i think he 's referring to the fact that he 's a libertarian .	<speaker_4> i think he 's referring to the fact that he 's not a libertarian . he 's a libertarian .
+<speaker_4> i think he 's referring to the fact that he 's not a libertarian .	<speaker_4> i think he 's referring to the fact that he 's a libertarian .	<speaker_4> i think he 's referring to the fact that he 's not a libertarian . he 's a libertarian .
+<speaker_4> i think he 's referring to the fact that he 's not a libertarian .	<speaker_4> i think he 's referring to the fact that he 's a libertarian .	<speaker_4> i think he 's referring to the fact that he 's not a libertarian . he 's a libertarian .
+<speaker_4> i think he 's referring to the fact that he 's not a libertarian .	<speaker_4> i think he 's referring to the fact that he 's a libertarian .	<speaker_4> i think he 's referring to the fact that he 's not a libertarian . he 's a libertarian .
+<speaker_4> i think he 's referring to the fact that he 's not a libertarian .	<speaker_4> i think he 's referring to the fact that he 's a libertarian .	<speaker_4> i think he 's referring to the fact that he 's not a libertarian . he 's a libertarian .
+<speaker_4> i think he 's referring to the fact that he 's not a libertarian .	<speaker_4> i think he 's referring to the fact that he 's a libertarian .	<speaker_4> i think he 's referring to the fact that he 's not a libertarian . he 's a libertarian .
+<speaker_4> i think he 's referring to the fact that he 's not a libertarian .	<speaker_4> i think he 's referring to the fact that he 's a libertarian .	<speaker_4> i think he 's referring to the fact that he 's not a libertarian . he 's a libertarian .
+<speaker_4> i think he 's referring to the fact that he 's not a libertarian .	<speaker_4> i think he 's referring to the fact that he 's a libertarian .	<speaker_4> i think he 's referring to the fact that he 's not a libertarian . he 's a libertarian .
+<speaker_4> i don 't think you know what he 's talking about .	<speaker_4> i don 't think you know what he means .	<speaker_4> i don 't think he is .
+<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's not a politician .	<speaker_4> i think he 's referring to the fact that he 's not a politician . he 's a <unk> .
+<speaker_4> it 's not . it 's a political issue .	<speaker_4> it 's not .	<speaker_4> it 's not . it 's a <unk> .
+<speaker_4> i think it 's more of a joke than a comment .	<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke .
+<speaker_4> because he 's not a libertarian , he 's a libertarian .	<speaker_4> because he 's not a libertarian .	<speaker_4> because he 's a libertarian .
+<speaker_2> i don 't know what you are talking about .	<speaker_2> i don 't know what you are talking about , but i 'm not sure what you are talking about .	<speaker_2> i don 't know what you are talking about , but i 'm not sure what you are arguing about .
+<speaker_2> i 'm not sure what you 're talking about .	<speaker_2> i 'm not sure what you mean .	<speaker_2> i 'm not sure .
+<speaker_2> i 'm not sure if you 're trolling or not .	<speaker_4> i think you mean <unk> .	<speaker_4> i think you mean <unk>
+<speaker_2> i 'm not sure if you 're trolling or not .	<speaker_4> i think you mean <unk> .	<speaker_4> i think you mean <unk>
+<speaker_2> i 'm not sure if you 're trolling or not .	<speaker_4> i think you mean <unk> .	<speaker_4> i think you mean <unk>
+<speaker_2> i 'm not sure if you 're trolling or not .	<speaker_4> i think you mean <unk> .	<speaker_4> i think you mean <unk>
+<speaker_4> i think you mean <unk> .	<speaker_4> i think you mean " <unk> "	<speaker_4> i think you mean <unk>
+<speaker_2> i know , i was just trying to make a joke .	<speaker_2> i know , i was just trying to be funny . i was just trying to be funny .	<speaker_2> i know , i was just trying to be funny .
+<speaker_4> i think he 's <unk> .	<speaker_4> <unk> .	<speaker_4> <unk> <unk>
+<speaker_4> he 's a <unk> .	<speaker_4> he 's a <unk> . he 's a <unk> .	<speaker_4> i think he 's a <unk> .
+<speaker_4> he 's a <unk> .	<speaker_4> he 's a <unk> . he 's a <unk> .	<speaker_4> i think he 's a <unk> .
+<speaker_4> he 's a <unk> .	<speaker_4> he 's a <unk> . he 's a <unk> .	<speaker_4> i think he 's a <unk> .
+<speaker_4> he 's a <unk> .	<speaker_4> he 's a <unk> . he 's a <unk> .	<speaker_4> i think he 's a <unk> .
+<speaker_4> <unk> .	<speaker_4> <unk> <unk>	<speaker_4> <unk>
+<speaker_4> <unk> .	<speaker_4> <unk> <unk>	<speaker_4> <unk>
+<speaker_4> it 's not a <unk> , it 's <unk> .	<speaker_4> it 's a <unk> .	<speaker_4> it 's not a <unk> .
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> <unk> .	<speaker_4> <unk> <unk>	<speaker_4> <unk>
+<speaker_4> i think you mean <unk> .	<speaker_4> i think he 's a <unk> .	<speaker_4> i think you mean <unk>
+<speaker_4> he 's a <unk> .	<speaker_4> <unk> .	<speaker_4> i think he 's <unk>
+<speaker_4> <unk> !	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> he 's not wrong , he 's just a troll .	<speaker_4> he 's not wrong , he 's just a <unk> .	<speaker_4> he 's not wrong , he 's a <unk> .
+<speaker_4> because he 's a socialist .	<speaker_4> because he 's a socialist , and he 's a socialist .	<speaker_4> because he 's a socialist . he 's a socialist .
+<speaker_4> because he 's a socialist .	<speaker_4> because he 's a socialist , and he 's a socialist .	<speaker_4> because he 's a socialist . he 's a socialist .
+<speaker_4> because he 's a socialist .	<speaker_4> because he 's a socialist , and he 's a socialist .	<speaker_4> because he 's a socialist . he 's a socialist .
+<speaker_4> he 's not a christian , he 's a christian .	<speaker_4> he 's not a christian , he 's a <unk> .	<speaker_4> he 's not wrong .
+<speaker_4> he 's not a christian , he 's a christian .	<speaker_4> he 's not a christian , he 's a <unk> .	<speaker_4> he 's not wrong .
+<speaker_4> he 's not a christian , he 's a christian .	<speaker_4> he 's not a christian , he 's a <unk> .	<speaker_4> he 's not wrong .
+<speaker_4> he 's not a christian , he 's a christian .	<speaker_4> he 's not a christian , he 's a <unk> .	<speaker_4> he 's not wrong .
+<speaker_4> he 's not wrong , he 's just a troll .	<speaker_4> he 's not wrong , he 's just a <unk> .	<speaker_4> he 's not wrong , he 's a <unk> .
+<speaker_4> he 's not a socialist , he 's a socialist .	<speaker_4> he 's a socialist .	<speaker_4> he 's not a socialist .
+<speaker_4> i think you mean <unk> .	<speaker_4> i think you mean " socialist "	<speaker_4> i think you mean <unk>
+<speaker_4> i think he was referring to the fact that he was a christian .	<speaker_4> i think he was referring to the fact that he was a <unk> .	<speaker_4> he was a <unk> .
+<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you are talking about , but i 'm not sure what you are saying .	<speaker_2> i 'm not sure what you are talking about , but i 'm not sure .
+<speaker_4> he 's not a libertarian , he 's a libertarian .	<speaker_4> he 's not a libertarian , he 's a socialist .	<speaker_4> he 's not a libertarian .
+<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the <unk> of the <unk> <unk> .	<speaker_4> i think he 's referring to the <unk> of the <unk> <unk> <unk> .
+<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the <unk> of the <unk> <unk> .	<speaker_4> i think he 's referring to the <unk> of the <unk> <unk> <unk> .
+<speaker_4> <unk> .	<speaker_4> <unk>	<speaker_4> <unk> <unk>
+<speaker_4> <unk> .	<speaker_2> i 'm sorry .	<speaker_4> <unk>
+<speaker_4> <unk> !	<speaker_4> <unk> ! !	<speaker_4> <unk>
+<speaker_2> i know . i was just trying to make a joke . i was just trying to make a joke .	<speaker_2> i know . i was just trying to make a joke .	<speaker_4> i thought he was a <unk> .
+<speaker_2> i don 't know what you are talking about .	<speaker_2> i don 't know what you are talking about , but i don 't know what you are saying .	<speaker_2> i don 't know what you are talking about , but i don 't think it is .
+<speaker_4> he was a <unk> .	<speaker_4> i think he 's a <unk> .	<speaker_4> he was a <unk> . he was <unk> .
+<speaker_4> i think he 's referring to the fact that he 's white .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a <unk> . he 's a <unk> .
+<speaker_4> <unk> .	<speaker_4> <unk>	<speaker_4> <unk> <unk>
+<speaker_2> thanks for the link . i 'm not sure what you are trying to say .	<speaker_2> thanks for the link .	<speaker_2> thanks for the link !
+<speaker_4> he was a <unk> . he was a <unk> .	<speaker_4> i think he 's a <unk> .	<speaker_4> he was a <unk> .
+<speaker_4> i think he 's more of a <unk> than a <unk> .	<speaker_4> i think he 's more of a <unk> .	<speaker_4> i think he 's more of a <unk> than the other guy .
+<speaker_4> i think he 's referring to the fact that he 's being sarcastic .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's being sarcastic . i don 't know what you mean .
+<speaker_4> i don 't know why you 're downvoted , but you 're right . i don 't know why you 're downvoted .	<speaker_4> i don 't know why you 're downvoted . you 're right .	<speaker_4> i don 't know why you 're downvoted , but you 're right .
+<speaker_2> no , i don 't know what you are talking about .	<speaker_2> no , i don 't .	<speaker_2> no .
+<speaker_4> <unk> . com	<speaker_4> <unk> !	<speaker_4> <unk> <unk> <unk>
+<speaker_4> i love how the article says he 's a <unk> .	<speaker_4> i love how the article says she has a <unk> of <unk> .	<speaker_4> i love how the article says she has a <unk> of the <unk> .
+<speaker_4> i don 't think you understand what he means .	<speaker_4> i don 't think you understand what the word means .	<speaker_4> i don 't think you understand what the word " means . "
+<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a <unk> <unk> .	<speaker_4> i think he 's a <unk> .
+<speaker_4> <unk> . com	<speaker_4> i think he 's <unk> .	<speaker_4> <unk> .
+<speaker_2> i don 't think you understand the point of the article .	<speaker_2> i don 't think you understand the point of the article . i don 't see how that is relevant .	<speaker_2> i don 't think you understand the point of the article . i don 't see how that 's relevant .
+<speaker_2> i 'm not sure what you 're talking about .	<speaker_2> i 'm not sure what you mean .	<speaker_2> i 'm not sure what you 're saying .
+<speaker_4> he 's a <unk> . he 's a <unk> .	<speaker_4> i think he 's a <unk> .	<speaker_4> he 's a <unk> .
+<speaker_4> i think he was referring to the fact that he was a <unk> .	<speaker_4> i think he was referring to the fact that he was a <unk> . i mean , he was a <unk> .
+<speaker_4> <unk> . com	<speaker_4> i think he 's <unk> .	<speaker_4> <unk> .
+<speaker_4> i don 't know , but i don 't know if you 're trolling or not , but i don 't know what you are talking about .	<speaker_4> i don 't know , but i don 't know if you 're trolling or not .
+<speaker_2> i don 't know , i 'm not a libertarian . i don 't know what you are talking about .	<speaker_2> i don 't think you understand what the word means .	<speaker_2> i don 't know , i 'm not a libertarian .
+<speaker_4> i don 't think he 's going to win the nomination .	<speaker_4> i don 't think he 's going to win the nomination . he 's going to win .	<speaker_4> i don 't think he 's going to win .
+<speaker_2> i 'm not sure if you 're being sarcastic or not .	<speaker_2> i 'm not sure if you 're joking or not .	<speaker_4> i think you mean <unk> .
+<speaker_2> i know . i was just pointing out that it 's not true .	<speaker_2> i know . i was just pointing out that it 's not true . i 'm just saying it 's not true .	<speaker_2> i know . i was just pointing out that it 's not the same as <unk> .
+<speaker_4> he 's a <unk> . he 's a <unk> .	<speaker_4> he 's a <unk> .	<speaker_4> i think he 's a <unk> .
+<speaker_4> <unk> .	<speaker_4> <unk> <unk>	<speaker_4> <unk>
+<speaker_4> it 's not .	<speaker_4> it 's not . it 's a <unk> .	<speaker_4> it 's a word .
+<speaker_2> i 'm not going to vote for him , i 'm just going to say he 's not going to win .	<speaker_2> i 'm not going to vote for him , i 'm just going to say he 's not going to win the nomination .	<speaker_2> i 'm not going to vote for him , i 'm just going to say he 's not a candidate .
+<speaker_2> i 'm not sure what you are talking about , but i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you are talking about , but i 'm not sure what you are saying .
+<speaker_4> it 's not the same article . it 's a tabloid article .	<speaker_4> it 's not the same article . it 's a tabloid headline .	<speaker_4> it 's not the same article . it 's a tabloid .
+<speaker_2> i 'm not sure if you 're joking or not .	<speaker_2> i 'm not sure if you 're joking or not , but i think it 's a good thing .	<speaker_2> i 'm not sure if you 're joking or not , but i think it 's more of a " <unk> " .
+<speaker_2> i don 't think you know what the word " democracy " means .	<speaker_2> i don 't think you know what the word " democracy " is .	<speaker_2> i don 't think you know what i mean .
+<speaker_4> i think he 's a <unk> .	<speaker_4> i think he 's <unk> .	<speaker_4> i think he 's just a <unk> .
+<speaker_4> <unk> <unk>	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_2> i 'm not sure if you 're being sarcastic or not .	<speaker_2> i 'm not sure if you 're joking or not .	<speaker_4> i think you mean <unk> .
+<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a <unk> . he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a <unk> , and that 's what he said .
+<speaker_2> i 'm sorry , i 'm not going to vote for him .	<speaker_2> i 'm sorry , i 'm not going to vote for you .	<speaker_2> i 'm sorry , i 'm not going to vote .
+<speaker_4> i don 't think you know what the word " <unk> " means .	<speaker_4> i don 't think you know what he 's talking about .	<speaker_4> i don 't think you know what he means .
+<speaker_4> i think he meant <unk> .	<speaker_4> i think he 's a <unk> .	<speaker_4> i think he meant <unk>
+<speaker_2> i don 't know what you are talking about .	<speaker_2> i don 't know what you are talking about , but i did read the article .	<speaker_2> i don 't know what you are talking about . i was just pointing out that it 's not true .
+<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a joke than a <unk>
+<speaker_4> i think he 's a <unk> .	<speaker_4> he 's a <unk> .	<speaker_4> he 's a <unk> . he 's a <unk> .
+<speaker_4> he 's a <unk> . he 's a <unk> .	<speaker_4> he 's a <unk> .	<speaker_4> i think he 's a <unk> .
+<speaker_2> i know , i was just trying to make a joke .	<speaker_2> i know , i was just trying to make a joke . i was just trying to be funny .	<speaker_2> i know , i was just trying to be funny .
+<speaker_2> i don 't know what you are talking about .	<speaker_2> i don 't know what you are talking about , but i 'm not sure what you are talking about .	<speaker_2> i don 't know what you are talking about , but i 'm not sure what you are saying .
+<speaker_2> i 'm not sure what you 're talking about , but i think it 's a good idea .	<speaker_2> i 'm not sure what you 're talking about .	<speaker_2> i 'm not sure what you mean .
+<speaker_2> i know , i was just pointing out that he 's a troll .	<speaker_2> i know , i was just pointing out that it 's not a troll account .	<speaker_2> i know , i was just pointing out that it 's not a troll account , it 's a troll .
+<speaker_2> i 'm not a liberal , i just don 't know what you are talking about .	<speaker_2> i 'm not a liberal , i just don 't know what you are talking about . i 'm just pointing out that it 's not racist .	<speaker_2> i 'm not a liberal , i just don 't know what you are talking about . i 'm just pointing out that it 's true .
+<speaker_4> i think it was a joke .	<speaker_4> it was a joke .	<speaker_4> i think it 's more like <number> .
+<speaker_4> you 're welcome .	<speaker_4> you 're welcome	<speaker_4> <unk>
+<speaker_3> i think it 's more of a debate than a political issue .	<speaker_3> i think it 's more of a <unk> than a <unk> .	<speaker_3> i think it 's more of a debate than a political debate .
+<speaker_4> rand paul is a <unk> .	<speaker_4> rand paul is the only sane person i know of .	<speaker_4> rand paul is the only sane person i know of . i 'm not a republican , but i 'm pretty sure he 's not a republican .
+<speaker_1> he 's a <unk> .	<speaker_1> he 's a troll .	<speaker_1> he 's a <unk> . he 's a <unk> .
+<speaker_1> he 's not a republican , he 's a republican .	<speaker_1> he 's not a republican , he 's a <unk> .	<speaker_1> he 's not a republican .
+<speaker_4> i think he 's referring to the fact that he 's a republican .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a <unk> . he 's a <unk> .
+<speaker_4> i don 't think you understand how the law works .	<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what the word " means " .
+<speaker_1> i don 't think you know what that word means .	<speaker_1> i don 't think you know what the word <unk> means .	<speaker_1> i don 't think you know what that word means
+<speaker_1> i 'm not sure if you 're joking or not .	<speaker_1> i 'm not sure if you 're joking or not , but i think you 're right .	<speaker_1> i 'm not sure if you 're joking or not , but i think it 's more of a <unk> than a <unk> .
+<speaker_4> i think it 's more of a joke than a joke .	<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke .
+<speaker_4> it 's not a <unk> , it 's <unk> .	<speaker_4> <unk> !	<speaker_4> it 's not a joke .
+<speaker_4> i think it 's a good idea .	<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's a good idea . he 's a <unk> .
+<speaker_2> you 're right , i 'm just pointing out that it 's not the same thing .	<speaker_2> you 're right , i 'm just pointing out that the fact that he 's being sarcastic is a bit disingenuous .	<speaker_2> you 're right , i 'm just pointing out that the fact that he 's being sarcastic is a bit much .
+<speaker_4> i 'm pretty sure it was illegal .	<speaker_4> i 'm pretty sure it 's illegal .	<speaker_4> i 'm pretty sure it 's illegal to use a car .
+<speaker_4> i 'm pretty sure it was illegal .	<speaker_4> i 'm pretty sure it 's illegal .	<speaker_4> i 'm pretty sure it 's illegal to use a car .
+<speaker_4> it 's not illegal . it 's illegal .	<speaker_4> it 's not illegal .	<speaker_4> it 's illegal .
+<speaker_4> that would be a good idea .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i don 't think you know what the word " means " means .	<speaker_4> i don 't think you know what the word " means " is .	<speaker_4> i don 't think you know what the word <unk> means .
+<speaker_2> i don 't know what you are talking about .	<speaker_2> i don 't know what you are talking about , but i think you are right .	<speaker_2> i don 't know what you are talking about , but i think it 's a good thing .
+<speaker_2> i don 't think you know what the word " <unk> " means .	<speaker_2> i don 't think you know what he was talking about .	<speaker_2> i don 't think you know what i mean .
+<speaker_4> i think the point is that they 're not going to be paying attention .	<speaker_4> i think the point is that they 're not going to be paying attention to the media .	<speaker_4> i think it 's more of a " <unk> " .
+<speaker_3> i don 't think you understand how the internet works .	<speaker_3> i don 't think you understand how the internet works . i 'm not sure what you 're talking about .	<speaker_3> i don 't think you understand how the internet works
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you are talking about , but i think it 's a good idea .	<speaker_2> i 'm not sure what you are talking about , but i think it 's a good thing .
+<speaker_3> i think it 's more of a <unk> than a <unk> .	<speaker_3> i think it 's more of a <unk> than a <unk> <unk> .	<speaker_3> i think it 's more of a <unk> than a <unk> . i 'm not sure if it 's a good idea .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a joke .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think you mean <unk> . i don 't know what you are talking about .	<speaker_4> i think you mean <unk> . i don 't know why you 're being downvoted .	<speaker_4> i think you mean <unk> . i don 't know why you 're getting downvoted .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what a <unk> is .	<speaker_4> i don 't think you know what the word " means " .
+<speaker_4> north korea is best korea .	<speaker_4> north korea is the best korea . i don 't know what you 're talking about .	<speaker_4> north korea is the best korea . i don 't know why you 're being downvoted .
+<speaker_2> i 'm not sure what you mean .	<speaker_2> i 'm not sure what you 're talking about	<speaker_2> no , i 'm not .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you understand how liberal works .	<speaker_4> i don 't think you know what the word " means . "
+<speaker_4> he 's a <unk> .	<speaker_4> he 's a <unk> . he 's a <unk> .	<speaker_4> i think he 's a <unk> .
+<speaker_4> he 's a <unk> .	<speaker_4> he 's a <unk> . he 's a <unk> .	<speaker_4> i think he 's a <unk> .
+<speaker_4> it 's not like they 're going to get shot by a police officer .	<speaker_4> it 's not like they 're going to get shot .	<speaker_4> it 's not like they 're going to get a warrant .
+<speaker_4> i don 't know , i think it 's a good idea .
+<speaker_4> i think it 's more of a <unk> than a sports team .	<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> than a game .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> than a political issue .	<speaker_4> i think it 's more of a " <unk> " .
+<speaker_4> i don 't know , but i think it 's a good thing .	<speaker_4> i don 't know , but i think it 's a good idea .	<speaker_4> i don 't know , but i think it 's a good thing . i don 't know why people are so excited .
+<speaker_4> i think it 's more of a political issue than a political issue .	<speaker_4> i think it 's more of a political issue than a political perspective .	<speaker_4> i think it 's more of a political issue than a political event .
+<speaker_4> i think it 's more like <number> % of the time .	<speaker_4> i think it 's more like <number> % of the polls .	<speaker_4> i think it 's more like <number> % .
+<speaker_3> you 're welcome .	<speaker_3> you are welcome .	<speaker_3> you 're welcome
+<speaker_3> you 're welcome .	<speaker_3> you are welcome .	<speaker_3> you 're welcome
+<speaker_2> i 'm not sure what you 're talking about . i 'm just pointing out that it 's not a joke .	<speaker_2> i 'm not sure what you 're talking about .	<speaker_2> i 'm not sure what you mean .
+<speaker_2> i 'm not sure what you 're talking about . i 'm just pointing out that it 's not a joke .	<speaker_2> i 'm not sure what you 're talking about .	<speaker_2> i 'm not sure what you mean .
+<speaker_4> no , it 's not .	<speaker_2> no problem .
+<speaker_1> i don 't think you know what the word " means " means .	<speaker_1> i don 't think you know what the word " means " is .	<speaker_1> i don 't think you know what the word <unk> means .
+<speaker_1> i don 't think you know what the word " <unk> " means .	<speaker_1> i don 't think you know what the word <unk> means .	<speaker_1> i don 't think you know what the word " <unk> " means . it 's just a matter of time .
+<speaker_2> i 'm sorry , i didn 't realize that .	<speaker_2> you 're welcome .	<speaker_2> you 're welcome !
+<speaker_4> it 's not like she 's going to win the nomination .	<speaker_4> it 's not like she 's going to win the nomination or anything .	<speaker_4> it 's not like she 's going to win .
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i 'm not sure if you 're being sarcastic or not .	<speaker_4> i 'm not sure if you 're joking or not .	<speaker_4> i think you mean <unk> .
+<speaker_4> it 's not capitalism , it 's capitalism .	<speaker_4> it 's not capitalism , it 's corporatism .	<speaker_4> it 's not capitalism , it 's capitalism
+<speaker_4> i think he 's referring to the fact that he 's a socialist .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a socialist . he 's a socialist .
+<speaker_4> i don 't think you understand what he means .	<speaker_4> i don 't think you understand what the word means .	<speaker_4> i don 't think you understand what the word " means . "
+<speaker_4> i don 't think you understand what he means .	<speaker_4> i don 't think you understand what the word means .	<speaker_4> i don 't think you understand what the word " means . "
+<speaker_4> i don 't think you understand what he means .	<speaker_4> i don 't think you understand what the word means .	<speaker_4> i don 't think you understand what the word " means . "
+<speaker_4> she 's not a democrat , she 's a democrat .	<speaker_4> she 's not a democrat , she 's a <unk> .	<speaker_4> she 's not a democrat .
+<speaker_4> i . imgur . com	<speaker_4> i . imgur . com i . imgur . com i . imgur . com	<speaker_4> i . imgur . com i . imgur . com
+<speaker_4> i . imgur . com	<speaker_4> i . imgur . com i . imgur . com i . imgur . com	<speaker_4> i . imgur . com i . imgur . com
+<speaker_2> i 'm not sure if you 're joking or not .	<speaker_2> i 'm not sure if you 're joking or not , but i think it 's a good thing .	<speaker_2> i 'm not sure if you 're joking or not , but i think it 's a good idea .
+<speaker_4> <unk> . com	<speaker_4> i think it 's a good idea .	<speaker_4> <unk> .
+<speaker_4> it was a joke .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a joke .
+<speaker_4> i think he was just trying to be a <unk> .	<speaker_4> i think he was talking about the <unk> of the <unk> .	<speaker_4> i think he was talking about the <unk> of the <unk> <unk> .
+<speaker_4> i think it 's more of a joke than a joke .	<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke .
+<speaker_4> i 'm pretty sure it 's not .	<speaker_4> i 'm pretty sure it 's not the same .	<speaker_4> i 'm pretty sure it 's not the same as a <unk> .
+<speaker_2> i 'm not gay . i 'm not gay .	<speaker_2> i 'm not gay . i 'm just a <unk> .	<speaker_2> i 'm not gay .
+<speaker_4> he 's not wrong , he 's a <unk> .	<speaker_4> he 's not wrong .	<speaker_2> it 's not .
+<speaker_3> i thought it was the onion .	<speaker_3> i thought it was a joke .	<speaker_3> i thought it was funny .
+<speaker_4> i don 't think you know what she 's talking about .	<speaker_4> i don 't think you know what the word " means " means .	<speaker_4> i don 't think you know what that word means .
+<speaker_4> i don 't think you know what she 's talking about .	<speaker_4> i don 't think you know what the word " means " means .	<speaker_4> i don 't think you know what that word means .
+<speaker_4> i don 't think you know what she 's talking about .	<speaker_4> i don 't think you know what the word " means " means .	<speaker_4> i don 't think you know what that word means .
+<speaker_4> i don 't think you know what she 's talking about .	<speaker_4> i don 't think you know what the word " means " means .	<speaker_4> i don 't think you know what that word means .
+<speaker_4> i don 't think you know what she 's talking about .	<speaker_4> i don 't think you know what the word " means " means .	<speaker_4> i don 't think you know what that word means .
+<speaker_4> i don 't think you know what she 's talking about .	<speaker_4> i don 't think you know what the word " means " means .	<speaker_4> i don 't think you know what that word means .
+<speaker_4> i think it 's more like she was trying to get her out of the car .	<speaker_4> i think it 's more like she was trying to get her out of the press .	<speaker_4> i think it 's more like she was trying to get her out of the <unk> .
+<speaker_4> i think it 's more like she was trying to get her out of the car .	<speaker_4> i think it 's more like she was trying to get her out of the press .	<speaker_4> i think it 's more like she was trying to get her out of the <unk> .
+<speaker_4> i think it 's more like she was trying to get her out of the car .	<speaker_4> i think it 's more like she was trying to get her out of the press .	<speaker_4> i think it 's more like she was trying to get her out of the <unk> .
+<speaker_4> i think it 's more like she was trying to get her out of the car .	<speaker_4> i think it 's more like she was trying to get her out of the press .	<speaker_4> i think it 's more like she was trying to get her out of the <unk> .
+<speaker_4> it 's not like he was a politician . he was a <unk> .	<speaker_4> it 's not like he was a politician . he was a politician .	<speaker_4> it 's not like he was a politician .
+<speaker_4> i think it 's more of a scandal than a scandal .	<speaker_4> i think it 's more of a " scandal " than a scandal .	<speaker_4> i think it 's more of a " scandal " .
+<speaker_4> i 'm not sure if you 're joking or not .	<speaker_4> no , you 're not .	<speaker_4> you 're welcome .
+<speaker_2> i don 't think it was a good idea , but it was a joke .	<speaker_2> i don 't think it was a good idea , but it 's not a good idea .	<speaker_2> i don 't think it was a good idea .
+<speaker_4> i think it 's more of a scandal than a scandal .	<speaker_4> i think it 's more of a scandal .	<speaker_4> i think it 's more of a scandal than a scandal
+<speaker_4> i think it 's more of a scandal than a scandal .	<speaker_4> i think it 's more of a scandal .	<speaker_4> i think it 's more of a scandal than a scandal
+<speaker_4> i think you 're missing the point .	<speaker_4> i think you mean " <unk> " .	<speaker_4> i think you mean <unk> .
+<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke than a joke .	<speaker_4> i think it 's more of a joke .
+<speaker_4> it 's not a <unk> , it 's <unk> .	<speaker_4> it 's a <unk> <unk> .	<speaker_4> it 's a <unk> .
+<speaker_4> i think it 's more of a joke than a joke .	<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke .
+<speaker_4> i think it 's more of a scandal than a scandal .	<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a scandal than a scandal
+<speaker_4> i don 't know , but i think it 's a good thing .	<speaker_4> i don 't know , i think it 's a good idea .	<speaker_4> i don 't know , i think it 's a good thing .
+<speaker_4> i think it 's more of a " bernie sanders campaign " .	<speaker_4> i think it 's more of a " bernie sanders circlejerk " .	<speaker_4> i think it 's more of a " bernie sanders " .
+<speaker_4> i don 't think you know what he means .	<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what the word " means . "
+<speaker_4> i think it 's more of a political issue .	<speaker_4> i think it 's more of a political issue than a politician .	<speaker_4> i think it 's more of a political issue than a <unk> .
+<speaker_2> i 'm not sure if you 're joking or not .	<speaker_4> he 's a <unk> .	<speaker_2> i 'm not sure if you 're joking .
+<speaker_4> he 's not a racist , he 's a racist .	<speaker_4> he 's not a racist , he 's a <unk> .	<speaker_4> he 's not a racist .
+<speaker_4> he 's not a racist , he 's a racist .	<speaker_4> he 's not a racist , he 's a <unk> .	<speaker_4> he 's not a racist .
+<speaker_4> he 's not a racist , he 's a racist .	<speaker_4> he 's not a racist , he 's a <unk> .	<speaker_4> he 's not a racist .
+<speaker_4> i think he was just trying to make a point .	<speaker_4> i think he was just trying to make a joke .	<speaker_4> i think he 's a <unk> .
+<speaker_4> i think he 's a pretty good guy .	<speaker_4> i think he 's a pretty good guy , but i think he 's a good guy .	<speaker_4> i think he is a <unk> .
+<speaker_4> i don 't think you know what that word means .	<speaker_4> i don 't think you know what he means .	<speaker_4> i don 't think you know what the word " means " .
+<speaker_4> he 's not a racist , he 's a <unk> .	<speaker_4> he 's not a racist , he 's a racist .	<speaker_4> he 's not a racist .
+<speaker_3> he 's a <unk> . he 's a <unk> .	<speaker_3> he 's a <unk> .	<speaker_3> i think he 's a <unk> .
+<speaker_4> kim jong - un .	<speaker_4> kim jong - un	<speaker_4> <unk> .
+<speaker_4> <unk> <unk> <unk> <unk> <unk>	<speaker_4> <unk> <unk> <unk> <unk>	<speaker_4> <unk> <unk>
+<speaker_2> i 'm sorry , but i don 't want to be a dick .	<speaker_2> i 'm sorry , but i don 't want to be a <unk> .	<speaker_2> i 'm sorry , but i don 't want to be <unk> .
+<speaker_4> i think it 's more like <number> % of the time .	<speaker_4> i think it 's more like <number> % of the gop .	<speaker_4> i think it 's more like <number> % .
+<speaker_4> no , he 's a <unk> .	<speaker_4> no , he 's just a <unk> .	<speaker_4> no , he 's not .
+<speaker_4> i think he meant <unk> .	<speaker_4> <unk> <unk> <unk> <unk> <unk> <unk>	<speaker_4> <unk> <unk> <unk> <unk> <unk>
+<speaker_4> i think it 's more like " we 're not going to die . "	<speaker_4> i think it 's more like " we 're not going to die " .	<speaker_4> i think it 's more of a <unk> than a <unk> .
+<speaker_2> thank you .	<speaker_2> thank you !	<speaker_2> thank you . i didn 't realize that .
+<speaker_2> thank you .	<speaker_2> thank you !	<speaker_2> thank you . i was just pointing out that it was a joke .
+<speaker_2> thank you .	<speaker_2> thank you !	<speaker_2> thank you . i was just pointing out that it was a joke .
+<speaker_2> i 'm not sure what you are talking about .	<speaker_4> you 're welcome .	<speaker_4> you 're welcome
+<speaker_2> i 'm not a scientist .	<speaker_4> i 'm a <unk> .	<speaker_4> <unk>
+<speaker_4> i don 't think you understand what the word " means " means .	<speaker_4> i don 't think you understand what the word " means " is .	<speaker_4> i don 't think you understand what the word <unk> means .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a threat to the us government .
+<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you are talking about , but i 'm sure there are plenty of people who would disagree with you .
+<speaker_4> <unk> ! ! ! !	<speaker_4> <unk> ! ! !	<speaker_4> <unk> !
+<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's not a scientist .	<speaker_4> i think he 's referring to the fact that he 's not a scientist . he 's a <unk> .
+<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a <unk> . he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a <unk> . he 's not a scientist .
+<speaker_4> i think he meant " <unk> " .	<speaker_4> i think he meant " <unk> " . i think he meant " <unk> "	<speaker_4> i think he meant " <unk> "
+<speaker_4> i think he meant " <unk> " .	<speaker_4> i think he meant " <unk> " . i think he meant " <unk> "	<speaker_4> i think he meant " <unk> "
+<speaker_4> i think he meant " <unk> " .	<speaker_4> i think he meant " <unk> " . i think he meant " <unk> "	<speaker_4> i think he meant " <unk> "
+<speaker_4> i think he meant " <unk> " .	<speaker_4> i think he meant " <unk> " . i think he meant " <unk> "	<speaker_4> i think he meant " <unk> "
+<speaker_2> i 'm not sure what you are talking about .	<speaker_4> you 're welcome .	<speaker_4> you 're welcome
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you understand how the government works .	<speaker_4> i don 't think you know what the word " means " .
+<speaker_2> i don 't think you know what i 'm talking about .	<speaker_2> i don 't think he is .	<speaker_2> no , i 'm not .
+<speaker_2> i 'm not sure what you 're talking about .	<speaker_4> <unk> . com	<speaker_4> <unk> . org
+<speaker_4> he 's not a democrat , he 's a democrat .	<speaker_4> he 's not a democrat , he 's a republican .	<speaker_4> he 's not a democrat .
+<speaker_2> i 'm not sure if you 're being sarcastic or not .	<speaker_2> i 'm not sure if you 're being sarcastic or not , i 'm just pointing out that it 's not .	<speaker_2> i 'm not sure if you 're trolling or not .
+<speaker_2> i 'm not sure what you 're talking about .	<speaker_2> i 'm not sure what you 're talking about . i 'm just pointing out that it 's not a joke .	<speaker_2> i 'm not sure what you mean .
+<speaker_2> i don 't think you know what the word means .	<speaker_2> i don 't think you know what i mean .	<speaker_2> i don 't think you know what the word means . i 'm just pointing out that it 's not .
+<speaker_2> i don 't think you know what the word means .	<speaker_2> i don 't think you know what i mean .	<speaker_2> i don 't think you know what the word means . i 'm just pointing out that it 's not .
+<speaker_2> i don 't think you know what the word means .	<speaker_2> i don 't think you know what i mean .	<speaker_2> i don 't think you know what the word means . i 'm just pointing out that it 's not .
+<speaker_2> i don 't think you know what the word means .	<speaker_2> i don 't think you know what i mean .	<speaker_2> i don 't think you know what the word means . i 'm just pointing out that it 's not .
+<speaker_4> i think he was referring to the fact that he was being sarcastic .	<speaker_4> i think he was referring to the fact that he was a <unk> .	<speaker_4> i think he was referring to the fact that he was being sarcastic . i don 't think it 's a good idea .
+<speaker_2> i 'm not saying it 's a good idea , but it 's not a matter of fact , it 's a fact .	<speaker_2> i 'm not saying it 's a good idea , but it 's not a matter of fact , it 's a matter of fact .	<speaker_2> i 'm not saying it 's a good idea , but it 's not a matter of fact .
+<speaker_2> i 'm not sure if you 're joking or not .	<speaker_2> i 'm not sure if you 're joking or not , but i think you might be right .	<speaker_2> i 'm not sure if you 're joking .
+<speaker_2> i don 't think you know what the word " <unk> " means .	<speaker_2> i don 't think you know what that word means .	<speaker_2> i don 't think you know what the word " <unk> " means . it 's just a <unk> .
+<speaker_2> i 'm not sure what you are talking about , but i think it 's a good idea .	<speaker_2> i 'm not sure what you are talking about .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> it 's a slippery slope .	<speaker_4> it 's a slippery slope . we need to get rid of it .	<speaker_4> it 's a slippery slope !
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> "	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> that would be a good idea .	<speaker_4> that would be a great idea .	<speaker_4> i think we need to start a war .
+<speaker_2> thank you .	<speaker_2> thank you !	<speaker_2> thank you . i 'm glad i 'm not the only one .
+<speaker_2> i 'm not saying it 's a good idea , but it 's not a good idea .	<speaker_2> i 'm not saying it 's a good idea , but it 's not a good idea . it 's a good thing .	<speaker_2> i 'm not saying it 's a good idea , but it 's not a good idea . it 's a good idea .
+<speaker_2> i don 't know what you are talking about .	<speaker_2> i don 't know what you are talking about , but i think it 's a good idea .	<speaker_2> i don 't know what you are talking about , but i think it 's a good thing .
+<speaker_2> thank you .	<speaker_2> thank you . i didn 't realize that .	<speaker_2> thank you !
+<speaker_4> because it 's not the same thing .	<speaker_4> because it 's not the same thing as a global warming .	<speaker_4> because it 's not the same thing as a <unk> .
+<speaker_2> i 'm not sure if you 're trolling or not .	<speaker_2> i 'm not sure if you 're talking about the us or canada .	<speaker_4> i think you mean <unk> .
+<speaker_2> i 'm not sure if you 're joking or not .	<speaker_2> i 'm not sure if you 're joking or not , but i think you 're right .	<speaker_2> i 'm not sure if you 're joking or not , but i think it 's more of a <unk> than a <unk> .
+<speaker_2> i 'm not a scientist , but i 'm not a scientist .	<speaker_2> i 'm not a scientist , i 'm just a <unk> .	<speaker_4> <unk> . com
+<speaker_2> thank you .	<speaker_2> thank you !	<speaker_2> thank you . i didn 't realize that .
+<speaker_2> i don 't think you know what the word means .	<speaker_2> i don 't think you know what i mean .	<speaker_2> i don 't think you know what i mean . i 'm just pointing out that it 's true .
+<speaker_4> it 's not a conspiracy , it 's a conspiracy .	<speaker_4> it 's not a conspiracy , it 's a conspiracy theory .	<speaker_4> it 's not a conspiracy theory . it 's a conspiracy .
+<speaker_2> thank you .	<speaker_2> thank you !	<speaker_2> thank you . i was just pointing out that it was a joke .
+<speaker_2> thank you .	<speaker_2> thank you !	<speaker_2> thank you . i was just pointing out that it was a joke .
+<speaker_2> i 'm not sure if you 're joking or not .	<speaker_2> i 'm not sure if you 're joking or not , but i think you 're right .	<speaker_4> i think you mean <unk> .
+<speaker_2> thank you .	<speaker_2> thank you !	<speaker_2> thank you . i was just pointing out that it was a joke .
+<speaker_4> i 'm not sure if you 're joking or not .	<speaker_4> <unk> . com	<speaker_4> <unk> .
+<speaker_2> i 'm not sure if you 're joking or not .	<speaker_2> i 'm not sure if you 're joking or not , but i think you 're right .	<speaker_2> i 'm not sure if you 're joking or not , but i think it 's more of a <unk> than a <unk> .
+<speaker_2> thank you .	<speaker_2> thank you !	<speaker_2> thank you . i thought it was funny .
+<speaker_2> i 'm not a republican , but i 'm not a republican .	<speaker_2> i 'm not a republican , but i 'm not a democrat .	<speaker_2> i 'm not a republican .
+<speaker_2> thank you .	<speaker_2> thank you !	<speaker_2> thank you . i was just pointing out that it 's not a global warming .
+<speaker_2> i 'm not a scientist , i 'm just a <unk> .	<speaker_4> he 's a <unk> .	<speaker_2> i 'm not a scientist .
+<speaker_2> i don 't think you know what the word " means " means .	<speaker_2> i don 't think you know what the word " means " is .	<speaker_2> i don 't think you understand how the system works .
+<speaker_4> no , it 's not .	<speaker_4> no , you 're not .	<speaker_4> no , it 's not . it 's a <unk> .
+<speaker_2> i 'm not saying it 's true , i 'm just pointing out that it 's true .	<speaker_2> i 'm not saying it 's true , i 'm just pointing out that it 's not .
+<speaker_4> science .	<speaker_4> science ?	<speaker_4> science . science
+<speaker_4> i think he was referring to the " <unk> " of the <unk> .	<speaker_4> i think he was referring to the " <unk> " .	<speaker_4> i think he was referring to the <unk> of the <unk> <unk> .
+<speaker_4> i think he was referring to the " <unk> " of the <unk> .	<speaker_4> i think he was referring to the " <unk> " .	<speaker_4> i think he was referring to the <unk> of the <unk> <unk> .
+<speaker_4> i think it 's more of a debate .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_2> i 'm not a scientist , but i 'm not a scientist .	<speaker_2> i 'm not a scientist . i 'm not a scientist .	<speaker_2> i 'm not a scientist .
+<speaker_4> he 's not a scientist , he 's a <unk> .	<speaker_4> he 's not a scientist , he 's a politician .	<speaker_4> he 's not a scientist , he 's a politician . he 's a politician .
+<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you 're talking about , but i think it 's more than that .	<speaker_2> i 'm not sure what you 're talking about , but i think it 's more of a <unk> than a <unk> .
+<speaker_4> it 's not a big deal , it 's a global warming problem .	<speaker_4> it 's not a big deal , it 's a <unk> .	<speaker_4> it 's not a big deal .
+<speaker_4> i think it 's more of a problem with the idea that the world would be a better place .	<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a problem .
+<speaker_4> i think it 's more of a debate than a political event .	<speaker_4> i think it 's more of a debate than a political issue .	<speaker_4> i think it 's more of a debate than a political debate .
+<speaker_4> it 's not capitalism , it 's capitalism .	<speaker_4> it 's not capitalism , it 's corporatism .	<speaker_4> it 's not capitalism , it 's <unk> .
+<speaker_4> he was a <unk> .	<speaker_4> i think he was a <unk> .	<speaker_4> he was a <unk> . he was a <unk> .
+<speaker_4> r nottheonion	<speaker_4> r <unk>	<speaker_4> r nottheonion ?
+<speaker_4> i think you mean <unk> .	<speaker_4> <unk> . com	<speaker_4> i think you mean <unk>
+<speaker_4> i think you mean <unk> .	<speaker_4> <unk> . com	<speaker_4> i think you mean <unk>
+<speaker_4> i think you mean <unk> .	<speaker_4> <unk> . com	<speaker_4> i think you mean <unk>
+<speaker_4> i think you mean <unk> .	<speaker_4> <unk> . com	<speaker_4> i think you mean <unk>
+<speaker_4> i think you mean <unk> .	<speaker_4> <unk> . com	<speaker_4> i think you mean <unk>
+<speaker_4> <unk> . com	<speaker_4> i think you mean <unk>	<speaker_4> <unk> .
+<speaker_4> <unk> . com	<speaker_4> i think he 's <unk> .	<speaker_4> <unk> .
+<speaker_4> she 's a <unk> , a <unk> , a <unk> .	<speaker_4> she 's a <unk> .	<speaker_4> she 's a <unk> , a <unk> .
+<speaker_4> she 's a <unk> , a <unk> , a <unk> .	<speaker_4> she 's a <unk> .	<speaker_4> she 's a <unk> , a <unk> .
+<speaker_4> she 's a <unk> , a <unk> , a <unk> .	<speaker_4> she 's a <unk> .	<speaker_4> she 's a <unk> , a <unk> .
+<speaker_4> she 's a <unk> , a <unk> , a <unk> .	<speaker_4> she 's a <unk> .	<speaker_4> she 's a <unk> , a <unk> .
+<speaker_4> it 's not a race , it 's a fact .	<speaker_4> it 's not a race , it 's a political issue .	<speaker_4> it 's not racist , it 's racist .
+<speaker_4> it 's not a race , it 's a fact .	<speaker_4> it 's not a race , it 's a political issue .	<speaker_4> it 's not racist , it 's racist .
+<speaker_4> it 's not a race , it 's a fact .	<speaker_4> it 's not a race , it 's a political issue .	<speaker_4> it 's not racist , it 's racist .
+<speaker_4> it 's not a race , it 's a fact .	<speaker_4> it 's not a race , it 's a political issue .	<speaker_4> it 's not racist , it 's racist .
+<speaker_4> r <unk>	<speaker_4> r politics is r politics	<speaker_4> r politics is r <unk>
+<speaker_2> it 's not . i 'm just saying it 's not racist .	<speaker_2> it 's a joke .	<speaker_2> it 's not .
+<speaker_4> i think he 's a troll .	<speaker_4> i think he 's talking about the wrong guy .	<speaker_4> i think he 's talking about the <unk> .
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> no , it 's not .	<speaker_4> no , it 's not . it 's a political issue .	<speaker_4> no , it 's not . it 's a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he is .	<speaker_4> i don 't know , i think he 's just a <unk> .	<speaker_4> i don 't think he is . i think he is a <unk> .
+<speaker_4> i don 't think he 's going to win the nomination .	<speaker_4> i don 't think he 's going to win .	<speaker_4> i don 't think he is .
+<speaker_4> i don 't think he 's going to win the nomination .	<speaker_4> i don 't think he 's going to win .	<speaker_4> i don 't think he is .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what the word " means " .	<speaker_4> i don 't think you understand how the media works .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what the word " means " .	<speaker_4> i don 't think you understand how the media works .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what the word " means " .	<speaker_4> i don 't think you understand how the media works .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what the word " means " .	<speaker_4> i don 't think you understand how the media works .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what the word " means " .	<speaker_4> i don 't think you understand how the media works .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what the word " means " .	<speaker_4> i don 't think you understand how the media works .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what the word " means " .	<speaker_4> i don 't think you understand how the media works .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what the word " means " .	<speaker_4> i don 't think you understand how the media works .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what the word " means " .	<speaker_4> i don 't think you understand how the media works .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what the word " means " .	<speaker_4> i don 't think you understand how the media works .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what the word " means " .	<speaker_4> i don 't think you understand how the media works .
+<speaker_4> i don 't think he 's going to win the nomination .	<speaker_4> i don 't think he 's going to win the nomination . he 's going to win .	<speaker_4> i don 't think he 's going to win .
+<speaker_4> i don 't think he 's going to win the nomination .	<speaker_4> i don 't think he 's going to win the nomination . he 's going to win .	<speaker_4> i don 't think he 's going to win .
+<speaker_4> i don 't think he 's going to win the nomination .	<speaker_4> i don 't think he 's going to win the nomination . he 's going to win .	<speaker_4> i don 't think he 's going to win .
+<speaker_4> i don 't think he 's going to win the nomination .	<speaker_4> i don 't think he 's going to win the nomination . he 's going to win .	<speaker_4> i don 't think he 's going to win .
+<speaker_4> i don 't think he 's going to win the nomination .	<speaker_4> i don 't think he 's going to win the nomination . he 's going to win .	<speaker_4> i don 't think he 's going to win .
+<speaker_4> i don 't think he 's going to win the nomination .	<speaker_4> i don 't think he 's going to win .	<speaker_4> i don 't think he is .
+<speaker_4> i think it 's more like bernie sanders .	<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> than a political issue .
+<speaker_4> i don 't think he 's going to win the nomination .	<speaker_4> i don 't think he 's going to win .	<speaker_4> i don 't think he 's going to win the nomination . he 's going to win .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i don 't think you know what the word " means " means .	<speaker_4> i don 't think you know what the word " means " is .	<speaker_4> i don 't think you know what the word <unk> means .
+<speaker_2> i don 't know what you are talking about .	<speaker_2> i don 't know what you are talking about , but i don 't see how that is relevant .	<speaker_2> i don 't know what you are talking about , but i don 't think it is .
+<speaker_2> i don 't know what you are talking about .	<speaker_2> i don 't know what you are talking about , but i don 't see how that is relevant .	<speaker_2> i don 't know what you are talking about , but i don 't think it is .
+<speaker_2> i don 't know what you are talking about .	<speaker_2> i don 't know what you are talking about , but i don 't see how that is relevant .	<speaker_2> i don 't know what you are talking about , but i don 't think it is .
+<speaker_4> i don 't know why you 're being downvoted . it 's been a long time since i 've seen it .	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time since i 've seen it posted .	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time .
+<speaker_4> i don 't know , but i don 't think they are .	<speaker_4> i don 't know , but i don 't think anyone is going to say that .	<speaker_4> i don 't know , but i don 't think anyone is going to say it .
+<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke .	<speaker_4> i think it 's more of a joke than a <unk>
+<speaker_4> i think it 's more of a joke than a joke .	<speaker_4> i think it 's more of a joke than a comment .	<speaker_4> i think it 's more of a joke .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's a good thing that the gop is the only one in the middle of the middle east .	<speaker_4> i think it 's a good thing that the gop is the only one in the middle of the middle class .
+<speaker_4> bernie sanders is the most popular candidate in the world .	<speaker_4> bernie sanders is the most popular candidate in the us .	<speaker_4> bernie sanders .
+<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you mean .	<speaker_4> that 's not true .
+<speaker_4> i don 't think you understand what he means .	<speaker_4> i don 't think you understand what the word means .	<speaker_4> i don 't think you understand what he means . he 's been campaigning for <number> years .
+<speaker_4> i don 't think you understand what he 's talking about .	<speaker_4> i don 't think you understand what he means .	<speaker_4> i don 't think he is .
+<speaker_2> i don 't think you understand what that word means .	<speaker_2> i don 't think you understand what that means .	<speaker_2> i don 't think you understand what that word means . i 'm just pointing out that it 's not true .
+<speaker_4> i don 't know , but i don 't think it 's a good idea .	<speaker_4> i don 't know , but i don 't think it 's a good idea to be honest .	<speaker_4> i don 't know , but i don 't think it 's true .
+<speaker_4> i think it 's a joke .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> no .
+<speaker_4> i don 't think you know what that word means .	<speaker_4> i don 't think you know what the word " means " means .	<speaker_4> i don 't think you know what the word " means " is .
+<speaker_4> i think he 's referring to the fact that he 's a republican .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a republican , and he 's a republican .
+<speaker_4> i think he 's referring to the fact that he 's a republican .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a republican , and he 's a republican .
+<speaker_4> i think he 's referring to the fact that he 's a republican .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a republican , and he 's a republican .
+<speaker_4> i think he 's referring to the fact that he 's a republican .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a republican , and he 's a republican .
+<speaker_4> i think he 's referring to the fact that he 's a republican .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a republican , and he 's a republican .
+<speaker_4> i think he 's referring to the fact that he 's a republican .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a republican , and he 's a republican .
+<speaker_4> i think he 's referring to the fact that he 's a republican .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a republican , and he 's a republican .
+<speaker_4> i think he 's referring to the fact that he 's a republican .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a republican , and he 's a republican .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> than a game .	<speaker_4> i think it 's more of a <unk> .
+<speaker_4> i think the point is that there are two sides of the same coin .	<speaker_4> i think the point is that they 're not going to win the nomination .	<speaker_4> i think the point is that there are two sides of the same coin . the only thing that matters is the gop .
+<speaker_4> i think the point is that there are two sides of the same coin .	<speaker_4> i think the point is that they 're not going to win the nomination .	<speaker_4> i think the point is that there are two sides of the same coin . the only thing that matters is the gop .
+<speaker_4> i think the point is that there are two sides of the same coin .	<speaker_4> i think the point is that they 're not going to win the nomination .	<speaker_4> i think the point is that there are two sides of the same coin . the only thing that matters is the gop .
+<speaker_4> i think it 's more of a " truth " .	<speaker_4> i think it 's more of a " truth " than the truth .	<speaker_4> i think it 's more of a " truth " than " truth "
+<speaker_4> i think it 's more of a joke than a republican .	<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke .
+<speaker_4> i think the point is that they 're not going to win the nomination , they 're trying to win the nomination .	<speaker_4> i think the point is that they 're not going to win the nomination .	<speaker_4> i think the point is that they 're not going to win .
+<speaker_4> i think the point is that they 're not going to win the nomination , they 're trying to win the nomination .	<speaker_4> i think the point is that they 're not going to win the nomination .	<speaker_4> i think the point is that they 're not going to win .
+<speaker_4> i think it was a joke .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i think it 's more of a debate than a political issue .	<speaker_4> i think it 's more of a debate than a political debate .	<speaker_4> i think it 's more of a debate .
+<speaker_4> it 's the same thing . i don 't know if it 's true or not , but i think it 's a good thing .	<speaker_4> it 's the same thing . i don 't know if it 's true or not , but i think it 's a good idea .	<speaker_4> it 's the same thing .
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> i don 't know if you 're kidding , but i 'm pretty sure the polls show that the polls show up to the polls in <number> .	<speaker_4> i don 't know if you 're kidding , but i 'm pretty sure the polls show that the polls show up to the polls .
+<speaker_4> i think it was a joke .	<speaker_4> i think it 's more of a joke .	<speaker_4> i think it 's more of a joke than a joke
+<speaker_2> i 'm not saying it 's a good idea , but it 's not a matter of opinion , it 's a political issue .	<speaker_2> i 'm not saying it 's a good idea , but it 's not a matter of opinion .	<speaker_4> it 's not a matter of opinion , it 's a political issue .
+<speaker_4> you 're welcome .	<speaker_4> you 're welcome !	<speaker_4> you 're welcome
+<speaker_2> i agree . i 'm not sure if it 's true or not , but i think it 's a good thing .	<speaker_2> i agree . i 'm not sure if it 's true or not , but i think it 's a good idea .	<speaker_2> i agree . i 'm not sure if it 's true or not .
+<speaker_4> i don 't think it will be the same .	<speaker_4> i don 't think it will be the same as the election .	<speaker_4> i don 't think it will be the same as the debates .
+<speaker_2> i don 't think you understand the point of the debate .	<speaker_2> i don 't think you understand the point of the article .	<speaker_2> i don 't think you understand the point .
+<speaker_2> i 'm not sure what you 're talking about .	<speaker_2> i 'm not sure what you 're talking about , but i think it 's a good thing .	<speaker_2> i 'm not sure what you 're talking about , but i think it 's a good idea .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> than a political issue .	<speaker_4> i think it 's more of a " <unk> " .
+<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's going to win the nomination or anything .	<speaker_4> it 's not like he 's going to win .
+<speaker_2> i 'm not sure if it 's true or not , but i 'm not sure if it 's true or not .	<speaker_4> it 's not a matter of opinion , it 's a fact .	<speaker_2> i 'm not sure if it 's true or not , but i 'm not sure if it 's true .
+<speaker_4> because he 's a <unk> .	<speaker_4> because it 's not the same thing .	<speaker_4> because it 's not the same thing . it 's the same thing .
+<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you are talking about , but i think it 's funny .	<speaker_2> i 'm not sure what you mean .
+<speaker_4> <unk> !	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you 're talking about , but i think it 's a good idea .	<speaker_2> i 'm not sure what you 're talking about , but i think it 's more of a joke .
+<speaker_4> i . imgur . com	<speaker_4> i . imgur . com i . imgur . com	<speaker_2> thanks !
+<speaker_4> i don 't think he 's going to win the nomination .	<speaker_4> i don 't think he 's going to win .	<speaker_4> i don 't think he is .
+<speaker_4> i think it 's more of a joke than a joke .	<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke .
+<speaker_4> i think it 's more of a joke than a joke .	<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke .
+<speaker_4> <unk> !	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> i love how he is so <unk> that he is going to win .	<speaker_4> i love that he 's got a <unk> .	<speaker_4> i love that he 's a <unk> .
+<speaker_4> i love how he is so <unk> that he is going to win .	<speaker_4> i love that he 's got a <unk> .	<speaker_4> i love that he 's a <unk> .
+<speaker_4> i love how he is so <unk> that he is going to win .	<speaker_4> i love that he 's got a <unk> .	<speaker_4> i love that he 's a <unk> .
+<speaker_4> i love how he is so <unk> that he is going to win .	<speaker_4> i love that he 's got a <unk> .	<speaker_4> i love that he 's a <unk> .
+<speaker_4> i think it 's more of a joke than a joke .	<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke .
+<speaker_4> i think he 's a <unk> .	<speaker_4> i think he 's just a <unk> .	<speaker_4> i think he 's a <unk> . he 's a <unk> .
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> "	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think he 's a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> .
+<speaker_4> i think he 's a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> .
+<speaker_4> i 'm not sure if this is a joke or not , but i 'm pretty sure it 's not a joke .	<speaker_4> i 'm not sure if you 're joking or not .	<speaker_4> i 'm not sure if this is a joke or not , but i 'm pretty sure it 's not a <unk> .
+<speaker_4> i 'm not sure if you 're joking or not .	<speaker_4> i 'm not sure what you mean .	<speaker_4> <unk>
+<speaker_4> i . imgur . com	<speaker_4> i . imgur . com i . imgur . com	<speaker_4> <unk> . com
+<speaker_2> i 'm not sure if you 're joking or not .	<speaker_2> i 'm not sure if you 're joking or not , but i think you 're right .	<speaker_2> i 'm not sure if you 're joking or not , but i think it 's funny .
+<speaker_2> i 'm not sure if you 're joking or not .	<speaker_2> i 'm not sure if you 're joking or not , but i think it 's funny .	<speaker_4> i think he 's a <unk> .
+<speaker_4> i thought it was a <unk> .	<speaker_4> i think it 's more like <unk> <unk> .	<speaker_4> i think it 's more like <unk> .
+<speaker_4> i think he meant " <unk> " .	<speaker_4> i think he meant <unk> .	<speaker_4> i think he meant " <unk> "
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more than that .	<speaker_4> i think it 's more of a <unk> than a <number> year old .
+<speaker_4> i don 't know why you 're being downvoted . it 's been a long time since i 've seen it .	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time since i 've seen it posted .	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time .
+<speaker_4> i don 't know why you 're being downvoted . it 's been a long time since i 've seen it .	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time since i 've seen it posted .	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time .
+<speaker_4> i don 't know why you 're being downvoted . it 's been a long time since i 've seen it .	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time since i 've seen it posted .	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time .
+<speaker_4> i don 't know why you 're being downvoted . it 's been a long time since i 've seen it .	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time since i 've seen it posted .	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time .
+<speaker_4> i don 't know why you 're being downvoted . it 's been a long time since i 've seen it .	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time since i 've seen it posted .	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time .
+<speaker_4> i don 't know why you 're being downvoted . it 's been a long time since i 've seen it .	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time since i 've seen it posted .	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time .
+<speaker_4> i don 't know why you 're downvoted , but you 're right . i don 't even know what to say .	<speaker_4> i don 't know why you 're downvoted , but you 're right . i don 't even know what to think .	<speaker_4> i don 't know why you 're downvoted , but you 're right .
+<speaker_4> i don 't know , but i think it 's a good thing . i don 't think it 's a good idea .	<speaker_4> i don 't know , but i think it 's a good thing . i don 't think it 's a good thing .	<speaker_4> i don 't know , but i think it 's a good thing .
+<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke than a political issue .	<speaker_4> i think it 's more of a joke than a political event .
+<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke than a political issue .	<speaker_4> i think it 's more of a joke than a political event .
+<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke than a political issue .	<speaker_4> i think it 's more of a joke than a political event .
+<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke than a political issue .	<speaker_4> i think it 's more of a joke than a political event .
+<speaker_4> <unk> . com	<speaker_4> <unk> !	<speaker_4> <unk> ! !
+<speaker_4> i think it 's more of a joke than a headline .	<speaker_4> i think it 's more of a joke than the article .	<speaker_4> i think it 's more of a joke than a <unk> .
+<speaker_4> i don 't know , but i don 't think he 's going to win the nomination .	<speaker_4> i don 't know , but i don 't think he 's going to win .	<speaker_4> i don 't know , but i don 't think he 's going to win the nomination . he 's going to win .
+<speaker_4> it was a joke .	<speaker_4> i think it 's more of a joke .	<speaker_4> i think it 's more of a joke than a joke
+<speaker_4> it 's not the same thing , it 's a <unk> .	<speaker_4> it 's not the same thing , it 's the <unk> .	<speaker_4> it 's not the same thing .
+<speaker_4> i don 't know , but i think it 's a good thing .	<speaker_4> i don 't know , but i think it 's a good idea .	<speaker_4> i don 't know , but i think it 's a good thing that the media is trying to make him look bad .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_2> i 'm not sure if you 're joking or not , but i think you 're right .	<speaker_2> i 'm not sure if you 're joking or not .	<speaker_2> i 'm not sure if you 're joking or not , but i think it 's funny .
+<speaker_2> i don 't know , but i don 't think she is the only one .	<speaker_2> i don 't know , but i don 't think she is a good candidate .	<speaker_2> i don 't know , but i don 't think she has a chance .
+<speaker_4> i don 't think you know what the word " <unk> " means .	<speaker_4> i don 't think you know what the word " means " is .	<speaker_4> i don 't think you know what the word means .
+<speaker_4> i think it 's more of a joke than a joke .	<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke .
+<speaker_4> r <unk>	<speaker_4> r politics is a joke .	<speaker_4> r politics is a joke
+<speaker_4> i don 't know , but i don 't see how this is any different .	<speaker_4> i don 't know , but i don 't see the point .	<speaker_4> i don 't know , but i don 't see how this is any different than the actual article .
+<speaker_4> r politics is leaking .	<speaker_4> r <unk>	<speaker_4> r politics is leaking
+<speaker_4> r politics is r politics .	<speaker_4> r politics is r politics	<speaker_4> r politics is a joke .
+<speaker_2> i 'm not sure if it 's true or not , but i think it 's a good thing .	<speaker_2> i 'm not sure if it 's true or not , but i think it 's important .	<speaker_2> i 'm not sure if it 's true or not .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you understand how the media works .	<speaker_4> i don 't think you know what the word " means " .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you understand how the media works .	<speaker_4> i don 't think you know what the word " means " .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you understand how the media works .	<speaker_4> i don 't think you know what the word " means " .
+<speaker_4> i don 't think you understand what the word " means " means .	<speaker_4> i don 't think you understand what the word " means " is .	<speaker_4> i don 't think you understand what the word means .
+<speaker_3> i don 't know why you 're being downvoted . it 's been a long time since i 've seen it .	<speaker_3> i don 't know why you 're being downvoted . it 's been a long time since i 've seen this .	<speaker_3> i don 't know why you 're being downvoted . it 's been a long time .
+<speaker_4> it 's not . it 's a political issue .	<speaker_4> it is .	<speaker_4> it 's not .
+<speaker_4> i think it 's because she 's a <unk> .	<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think he is a very good candidate .	<speaker_4> i think he was just a <unk> .	<speaker_4> i think he was a <unk> .
+<speaker_2> i 'm not sure what you 're trying to say here .	<speaker_2> i 'm not sure what you 're trying to say .	<speaker_2> i 'm not sure what you 're talking about .
+<speaker_4> no , it 's not .	<speaker_4> no , it 's not . it 's a political issue .	<speaker_4> no , it 's not . it 's a political process .
+<speaker_4> i think you mean <unk> .	<speaker_4> i think you mean " <unk> "	<speaker_4> i think you mean <unk>
+<speaker_2> i 'm not sure what you 're talking about , but i think it 's a joke .	<speaker_2> i 'm not sure what you 're talking about , but i think it 's funny .	<speaker_2> i 'm not sure what you 're talking about .
+<speaker_4> i think it 's more of a debate than a political debate .	<speaker_4> i think it 's more of a debate than a political issue .	<speaker_4> i think it 's more of a debate than the actual article .
+<speaker_2> i 'm not sure . i 'm just pointing out that it 's not a matter of race .	<speaker_2> i 'm not sure . i 'm just pointing out that it 's not the same thing .	<speaker_2> i 'm not sure .
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_2> i 'm not voting for bernie , i 'm voting for sanders .	<speaker_2> i 'm not voting for bernie , i 'm voting for bernie .	<speaker_2> i 'm not voting for bernie sanders .
+<speaker_2> no , i don 't .	<speaker_2> no , i don 't . i don 't vote for hillary .	<speaker_2> no , it 's not .
+<speaker_4> i think it 's a joke .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more likely that he 's going to win the nomination .	<speaker_4> i think it 's more likely that he 's going to win the nomination . he 's going to win .	<speaker_4> i think it 's more likely that he 's going to win .
+<speaker_4> i don 't think you know what that word means .	<speaker_4> i don 't think you know what the word " means " means .	<speaker_4> i don 't think you know what the word " means " is .
+<speaker_2> i 'm not saying she 's a good candidate , but she 's not the only one .	<speaker_2> i 'm not saying she 's a good candidate , but she 's not a politician .	<speaker_2> i 'm not saying she 's a good candidate , but she 's not a politician . she 's a <unk> .
+<speaker_4> bernie sanders	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> bernie sanders	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what the word " means " .	<speaker_4> i don 't think you understand what the point is .
+<speaker_2> i 'm not sure if it 's true or not , but i think it 's a good thing .	<speaker_2> i 'm not sure if it 's true or not , but i 'm not sure if it 's true .	<speaker_2> i 'm not sure if it 's true or not .
+<speaker_2> i 'm not sure if you 're joking or not , but i 'd be interested to see if it 's true or not .	<speaker_2> i 'm not sure if you 're joking or not .	<speaker_2> i 'm not sure if you 're joking or not , but i 'd be interested to see if it 's true .
+<speaker_4> i don 't think he 's going to win the nomination .	<speaker_4> i don 't think he 's going to win .	<speaker_4> i don 't think he 's going to win the nomination . he 's going to win .
+<speaker_4> no , it 's not .	<speaker_4> no , it 's not . it 's a win win .	<speaker_4> no , it 's not . it 's a win .
+<speaker_3> bernie sanders .	<speaker_3> bernie sanders	<speaker_3> bernie sanders . he 's the best candidate .
+<speaker_4> r <unk>	<speaker_4> r <unk> r <unk>	<speaker_4> r politics is r politics
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk> <unk> .
+<speaker_4> i . imgur . com	<speaker_4> i . imgur . com i . imgur . com i . imgur . com	<speaker_4> i . imgur . com i . imgur . com
+<speaker_4> i think it was a joke .	<speaker_4> i think it was a <unk> .	<speaker_4> i think it was the <unk> of the debate .
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i don 't think you know what the word " means " means .	<speaker_4> i don 't think you know what the word " means " is .	<speaker_4> i don 't think you know what the word <unk> means .
+<speaker_4> she didn 't say anything about it .	<speaker_4> she didn 't say anything about it , she said it was illegal .	<speaker_4> she didn 't say anything about it . she said she didn 't .
+<speaker_4> i think he 's a <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .
+<speaker_4> i think he 's running for president .	<speaker_4> i think he 's going to win the nomination .	<speaker_4> i think he 's going to win .
+<speaker_3> he 's not a christian , he 's a christian .	<speaker_3> he 's not a christian , he 's a <unk> .	<speaker_3> he 's not a christian .
+<speaker_2> i 'm not sure if you 're joking or not .	<speaker_2> i 'm not sure if you 're joking or not , but i think you 're right .	<speaker_3> she 's a <unk> .
+<speaker_3> i think it 's more of a <unk> than a <unk> .	<speaker_3> i think it 's more of a " <unk> " .	<speaker_3> i think it 's more of a " <unk> "
+<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you are talking about , but i 'm not sure what you mean .	<speaker_2> i 'm not sure what you are talking about , but i think it 's a good thing .
+<speaker_4> she 's not the first woman to be president .	<speaker_4> she 's a <unk> .	<speaker_4> she 's a <unk> , a <unk> .
+<speaker_3> i 'm not sure what you mean , but i 'm not sure what you mean .	<speaker_3> i 'm not sure what you mean , but i 'm not sure what you are talking about	<speaker_3> i 'm not sure what you mean .
+<speaker_4> i think it was a joke .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i think it 's more of a joke than a political issue .	<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a joke than a political debate .
+<speaker_4> i think it 's more than that .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of the same .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_2> i 'm not sure what you mean .	<speaker_4> <unk> . com	<speaker_4> <unk> .
+<speaker_4> i don 't think you understand what the word " means " means .	<speaker_4> i don 't think you understand what she was talking about .	<speaker_4> i don 't think you understand what the word " means " means . it 's just a matter of context .
+<speaker_4> i think she was a <unk> .	<speaker_4> i think she was the one who was the first lady on the list .	<speaker_4> i think she was the one that was <unk> .
+<speaker_4> she 's not wrong . she 's a <unk> .	<speaker_4> she 's not wrong .	<speaker_4> she 's a <unk> .
+<speaker_2> i don 't know what you are talking about .	<speaker_2> i don 't know what you are talking about , but i think you are right .	<speaker_2> i don 't know what you are saying .
+<speaker_3> you 're welcome .	<speaker_3> i 'm not sure what you mean .	<speaker_3> you 're welcome
+<speaker_2> i don 't think you understand what the word " <unk> " means .	<speaker_2> i don 't think you understand what the word " means " is .	<speaker_2> i don 't think you understand what the word means .
+<speaker_4> <unk> .	<speaker_4> <unk> <unk>	<speaker_4> <unk> <unk> <unk>
+<speaker_4> it was a joke .	<speaker_4> it was a joke , but it was funny .	<speaker_4> it was a joke
+<speaker_1> i 'm not sure if you 're joking or not .	<speaker_1> i 'm not sure if you 're joking or not , but i 'm pretty sure he 's a <unk> .	<speaker_1> i 'm not sure what you mean .
+<speaker_3> he 's a <unk> . he 's a <unk> .	<speaker_3> he 's a <unk> .	<speaker_3> i think he 's a <unk> .
+<speaker_4> <unk> .	<speaker_4> it 's a <unk> <unk> .	<speaker_4> it 's not a <unk> .
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's a joke .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think he 's a <unk> .	<speaker_4> i think he 's just a <unk> .	<speaker_4> i think he 's a <unk> . he 's a <unk> .
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> i 'd be happy with that .	<speaker_4> i 'd be happy with that . i 'd be happy with them .	<speaker_4> i 'd be happy to see the <unk> <unk> .
+<speaker_4> she was a <unk> .	<speaker_4> she was a <unk> <unk> .	<speaker_4> she was a <unk> . she was <unk> .
+<speaker_4> she was a <unk> .	<speaker_4> she was a <unk> <unk> .	<speaker_4> she was a <unk> . she was <unk> .
+<speaker_4> it 's not like she 's going to win the nomination .	<speaker_4> it 's not like she 's going to win the election .	<speaker_4> it 's not like she 's going to win .
+<speaker_4> i don 't know , but i think it 's a good thing .	<speaker_4> i don 't know , i think it 's a good thing .	<speaker_4> i don 't know , but i think it 's a good thing that the clintons are the only ones who have been <unk> .
+<speaker_4> i don 't think you know what the word " <unk> " means .	<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what the koch brothers are doing .
+<speaker_4> she 's not a politician . she 's a <unk> .	<speaker_4> she 's not a politician .	<speaker_4> she 's not wrong .
+<speaker_4> i think it 's more of a " benghazi " scandal .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> it 's not the same thing .
+<speaker_2> i 'm not saying she 's right , but i 'm not saying she 's right .	<speaker_2> i 'm not saying she 's right , but i 'm not saying she 's wrong .	<speaker_2> i 'm not saying she 's right , but i 'm not saying she was wrong .
+<speaker_2> i don 't think you know what i meant .	<speaker_2> i don 't think you understand the definition of a word .	<speaker_2> i don 't think you understand the definition of a law .
+<speaker_2> i don 't think you know what i meant .	<speaker_2> i don 't think you understand the definition of a word .	<speaker_2> i don 't think you understand the definition of a law .
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_3> it 's not a lie , it 's a fact .	<speaker_3> it 's not a lie , it 's a lie .	<speaker_3> it 's not a lie , it 's the truth .
+<speaker_2> i 'm not sure what you 're talking about .	<speaker_2> i 'm not sure what you 're talking about , but i 'm not sure what you mean .	<speaker_4> <unk> . com
+<speaker_4> <unk> .	<speaker_4> <unk> <unk>	<speaker_4> <unk>
+<speaker_4> <unk> !	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> i 'm not sure if you 're joking or not .	<speaker_4> i 'm not sure what you 're talking about .	<speaker_4> i 'm not sure if you 're joking or not , but i 'm pretty sure he 's a <unk> .
+<speaker_4> i 'm not sure if you 're joking or not .	<speaker_4> i 'm not sure what you 're talking about .	<speaker_4> i 'm not sure if you 're joking or not , but i 'm pretty sure he 's a <unk> .
+<speaker_4> i 'm not sure if you 're joking or not .	<speaker_4> i 'm not sure what you 're talking about .	<speaker_4> i 'm not sure if you 're joking or not , but i 'm pretty sure he 's a <unk> .
+<speaker_4> <unk> .	<speaker_4> <unk>	<speaker_4> <unk> <unk>
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> than a <unk> . it 's just a matter of time .	<speaker_4> i think it 's more of a <unk> than a <unk> . it 's just a matter of perspective .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_2> it 's a joke . i don 't know what you are talking about .	<speaker_2> it 's a joke .	<speaker_2> it 's not .
+<speaker_4> i think it 's a joke . i don 't know why you 're being downvoted .	<speaker_4> i think it 's a joke . i don 't think he 's going to win .	<speaker_4> i think he was a <unk> .
+<speaker_2> i agree . i 'm not arguing against it , i 'm just pointing out that it 's not a good idea .	<speaker_2> i agree . i 'm not arguing against it , i 'm just pointing out that it 's not .	<speaker_2> i agree . i 'm not arguing against it , i 'm just pointing out that it 's not the same thing .
+<speaker_4> it 's not a <unk> , it 's <unk> .	<speaker_4> it 's not a <unk> , it 's a <unk>	<speaker_4> it 's not a <unk> , it 's <unk>
+<speaker_4> it 's not illegal . it 's illegal .	<speaker_4> it 's not illegal . it 's illegal . it 's illegal .	<speaker_4> it 's not illegal . it 's legal .
+<speaker_2> i 'm not saying it 's wrong , i just don 't think it is .	<speaker_2> i 'm not saying it 's wrong , i just don 't think it 's true .	<speaker_2> i 'm not saying it 's wrong , i just don 't think it 's wrong .
+<speaker_4> i don 't think you understand what the word " <unk> " means .	<speaker_4> i don 't think you understand what " <unk> " means .	<speaker_4> i don 't think you understand what the word " <unk> " means . it 's just a matter of context .
+<speaker_4> i think it 's more of a state than a state .	<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a state of the state than the state .
+<speaker_4> <unk>	<speaker_4> <unk> .	<speaker_4> <unk> <unk>
+<speaker_4> i don 't think you know what the word " reefer " means .	<speaker_4> i don 't think you know what that word means .	<speaker_4> i don 't think you know what the word " reefer " is .
+<speaker_4> i don 't think you know what the word " reefer " means .	<speaker_4> i don 't think you know what that word means .	<speaker_4> i don 't think you know what the word " reefer " is .
+<speaker_4> i don 't think you know what the word " reefer " means .	<speaker_4> i don 't think you know what that word means .	<speaker_4> i don 't think you know what the word " reefer " is .
+<speaker_4> i don 't think you know what the word " reefer " means .	<speaker_4> i don 't think you know what that word means .	<speaker_4> i don 't think you know what the word " reefer " is .
+<speaker_4> i think it 's more likely that she 's going to win the nomination . it 's not going to happen .	<speaker_4> i think it 's more likely that she 's going to win the nomination .	<speaker_4> i think it 's more likely that she 's going to win .
+<speaker_4> i think it 's more of a <unk> issue .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> she 's a democrat .	<speaker_4> she 's a democrat . she 's not a democrat .	<speaker_4> she 's a democrat . she 's a democrat .
+<speaker_4> <unk> .	<speaker_4> <unk> <unk>	<speaker_4> <unk>
+<speaker_4> i think he was a <unk> .	<speaker_4> i think he was just a <unk> .	<speaker_4> i think he was a <unk> . he was a <unk> .
+<speaker_4> <unk> !	<speaker_4> <unk> <unk> <unk> <unk>	<speaker_4> <unk> <unk> <unk>
+<speaker_2> i 'm not sure if you 're joking or not .	<speaker_2> i 'm not sure if you 're joking or not , but i 'm not sure if you 're joking .	<speaker_4> he was a <unk> .
+<speaker_4> i think he was just trying to make a point .	<speaker_4> i think he was just trying to make a joke .	<speaker_4> i think he was just trying to make a point . he was a <unk> .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .
+<speaker_4> i think he 's a <unk> .	<speaker_4> he 's a <unk> .	<speaker_4> <unk> .
+<speaker_2> i 'm not sure if you 're joking or not .	<speaker_2> i 'm not sure if you 're joking or not , but i think you 're right .	<speaker_4> i think you mean <unk> .
+<speaker_4> i think it 's more like <number> % of the time .	<speaker_4> i think it 's more like <number> % of the <number> % .	<speaker_4> i think it 's more like <number> % .
+<speaker_4> r <unk>	<speaker_4> r politics	<speaker_4> <unk>
+<speaker_2> i 'm not sure if it 's true or not , but i 'm not sure if it 's true .	<speaker_2> i 'm not sure if it 's true or not .	<speaker_2> i 'm not sure if it 's true .
+<speaker_4> r <unk>	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time .	<speaker_4> i don 't know why you 're being downvoted .
+<speaker_4> r <unk>	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time .	<speaker_4> i don 't know why you 're being downvoted .
+<speaker_4> r <unk>	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time .	<speaker_4> i don 't know why you 're being downvoted .
+<speaker_4> r <unk>	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time .	<speaker_4> i don 't know why you 're being downvoted .
+<speaker_4> r <unk>	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time .	<speaker_4> i don 't know why you 're being downvoted .
+<speaker_4> it 's not like r politics is a fan of r politics .	<speaker_4> it 's not like r politics is a fan of <unk> .	<speaker_4> it 's not like r politics is a fan of r politics
+<speaker_2> i 'm not sure what you 're talking about , but i 'm not sure what you mean .	<speaker_2> i 'm not sure what you 're talking about .	<speaker_2> i 'm not sure what you mean .
+<speaker_4> it was a joke . i 'm not sure if it was a joke or not .	<speaker_4> it was a joke .	<speaker_4> it was a joke , but it was a joke .
+<speaker_4> <unk> !	<speaker_4> <unk> <unk>	<speaker_4> <unk>
+<speaker_4> i think he was just trying to make a joke .	<speaker_4> i think he was just trying to be a <unk> .	<speaker_4> i think he was just trying to make a point .
+<speaker_4> <unk> .	<speaker_4> <unk> <unk>	<speaker_4> <unk>
+<speaker_4> i think he was just a <unk> .	<speaker_4> i think he was a <unk> .	<speaker_4> he was a <unk> .
+<speaker_4> i think it was a joke .	<speaker_4> i think it 's more of a joke .	<speaker_4> i think it 's more of a joke than a joke
+<speaker_4> it 's not like they 're going to win the election .	<speaker_4> it 's not like they 're going to win the election . they 're going to have to find a way to get it .	<speaker_4> it 's not like they 're going to win the nomination .
+<speaker_4> i think he was just a <unk> .	<speaker_4> i think he was a <unk> .	<speaker_4> i think he was a <unk> . he was a <unk> .
+<speaker_4> i think he was just a <unk> .	<speaker_4> i think he was a <unk> .	<speaker_4> i think he was a <unk> . he was a <unk> .
+<speaker_4> i think he was just a <unk> .	<speaker_4> i think he was a <unk> .	<speaker_4> i think he was a <unk> . he was a <unk> .
+<speaker_4> i think he was just a <unk> .	<speaker_4> i think he was a <unk> .	<speaker_4> i think he was a <unk> . he was a <unk> .
+<speaker_4> i think he was just a <unk> .	<speaker_4> i think he was a <unk> .	<speaker_4> i think he was a <unk> . he was a <unk> .
+<speaker_4> i 'm not sure if you 're joking or not , but i 'd be interested to know what he 's talking about .	<speaker_4> i 'm not sure if you 're joking or not .	<speaker_4> i 'm not sure if you 're joking or not , but i 'd be interested to know what he 's talking about
+<speaker_4> it 's not a joke , it 's a joke .	<speaker_4> it 's not a joke , it 's a <unk> .	<speaker_4> it 's not a joke , it 's a joke
+<speaker_4> i think it 's a good thing .	<speaker_4> i think it was a joke .	<speaker_4> i think it 's a good idea .
+<speaker_2> i 'm not sure what you are talking about , but i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you are talking about , but i 'm not sure what you mean .
+<speaker_4> i think he is a <unk> .	<speaker_4> i think he is a <unk> . he is a <unk> .	<speaker_4> i think he is a <unk> . he is the only one who has been <unk> .
+<speaker_4> i think it 's more likely that he 's going to win .	<speaker_4> i think he 's going to win the nomination .	<speaker_4> i think he 's going to win .
+<speaker_4> i 'm not sure if you 're joking or not .	<speaker_4> i 'm not sure if you 're joking or not , but i 'm pretty sure he 's not the only one .	<speaker_4> i 'm not sure if you 're joking or not , but i 'm pretty sure he 's a <unk> .
+<speaker_4> i think he 's a <unk> .	<speaker_4> i think he 's a <unk> . i think he 's a <unk> .	<speaker_4> i think he 's a <unk> . he 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> it 's a joke .	<speaker_4> it 's a joke . it 's a joke .	<speaker_4> it 's a <unk> .
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more than that .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more than that .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more than that .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more than that .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more than that .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_2> i know . i was just trying to make a joke .	<speaker_2> i know . i was just trying to make a joke about him .	<speaker_2> i know . i was just trying to make a joke . i 'm not a <unk> .
+<speaker_4> i think he meant <unk> .	<speaker_4> i think he meant <number> .	<speaker_4> i think he meant <number> . <number> .
+<speaker_4> i think he 's going to win the nomination .	<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think he 's going to win .
+<speaker_4> i don 't think he 's going to win the nomination .	<speaker_4> i don 't think he 's going to win the nomination . he 's going to win .	<speaker_4> i don 't think he 's going to win .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think he was talking about the <number> nd amendment .	<speaker_4> i think it 's more of a <unk> than a <number> .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <number> - <number> - <number> .	<speaker_4> i think it 's more of a <number> - <number> year old than a <number> year old
+<speaker_4> i think it 's more like <number> . <number> .	<speaker_4> i think it 's more like <number> .	<speaker_4> i think it 's <number> .
+<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's running for president .	<speaker_4> it 's not like he 's going to win the primary .
+<speaker_4> i think it 's more of a joke than a joke .	<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke .
+<speaker_4> i don 't know , but i can 't tell if this is a joke or not .	<speaker_4> i don 't know , but i can 't tell if this is true or not .	<speaker_4> i don 't know , but i can 't tell if this is a joke .
+<speaker_4> no , it 's not .	<speaker_4> no , it 's not . it 's a <unk> .	<speaker_4> no , it 's not . it 's the same thing .
+<speaker_4> no , it 's not .	<speaker_4> no , it 's not . it 's a <unk> .	<speaker_4> no , it 's not . it 's the same thing .
+<speaker_4> no , it 's not .	<speaker_4> no , it 's not . it 's a <unk> .	<speaker_4> no , it 's not . it 's the same thing .
+<speaker_4> i don 't know , but i think it 's more likely that he 's going to win the nomination .	<speaker_4> i don 't know , but i think it 's more likely that he 's going to win .	<speaker_4> i don 't know , but i think it 's a good thing .
+<speaker_4> i 'd be happy if i could .	<speaker_4> i 'd be happy to see this .	<speaker_4> i 'd be happy if i could . i 'd be happy to see it .
+<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's going to win the lottery .	<speaker_4> it 's not like he 's going to win .
+<speaker_4> i think he was referring to the <unk> <unk> .	<speaker_4> <unk> . com	<speaker_4> i think he was referring to the <unk> of the <unk> .
+<speaker_2> i 'm not sure what you 're talking about .	<speaker_2> i 'm not sure what you 're talking about , but i think it 's a good thing .	<speaker_2> i 'm not sure what you mean .
+<speaker_4> i think it 's <number> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's <number> . <number>
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a joke .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke .	<speaker_4> i think it 's more of a joke than a comment .
+<speaker_4> i think it 's more of a joke than a <number> year old .	<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke .
+<speaker_4> it 's not .	<speaker_4> it 's not . it 's a <unk> .	<speaker_4> it 's a <unk> .
+<speaker_4> i don 't think you know what that word means .	<speaker_4> i don 't think you know what that means .	<speaker_4> i don 't think you know what that word means
+<speaker_3> removed	<speaker_1> removed	<speaker_2> removed
+<speaker_4> i think it 's more than that .	<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> than a <number> year old
+<speaker_4> i think it 's more than that .	<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> than a <number> year old
+<speaker_4> i think he 's referring to the fact that he 's a socialist .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's a socialist . he 's a socialist .
+<speaker_2> i 'm not saying it 's not a good idea , but it 's not a good idea .	<speaker_2> i 'm not saying it 's not a good idea , but it 's a good idea .	<speaker_2> i 'm not saying it 's not a good idea , but it 's a good thing .
+<speaker_4> i think he 's saying that he 's not going to win .	<speaker_4> i think he 's a <unk> .	<speaker_4> i think he 's saying that he 's not a republican .
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you are talking about , but i 'm not sure .	<speaker_2> i 'm not sure what you mean .
+<speaker_4> <unk> . com	<speaker_4> <unk> . org	<speaker_4> <unk>
+<speaker_4> i don 't know why you 're being downvoted .	<speaker_4> i don 't know why you 're being downvoted . it 's not like they 're going to win the lottery .	<speaker_4> i don 't know why you 're being downvoted . it 's not the same thing .
+<speaker_4> he was a <unk> .	<speaker_4> i think he was <unk> .	<speaker_4> he was a <unk> . he was <unk> .
+<speaker_4> i don 't think you understand how many of them are .	<speaker_4> i don 't think you understand how many of those <number> million people .	<speaker_4> <unk> . com
+<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's going to win the lottery .	<speaker_4> it 's not like he 's going to win .
+<speaker_4> i think it 's more of a joke .	<speaker_4> i think it 's more of a joke than a joke	<speaker_4> <unk>
+<speaker_4> i think he 's just a <unk> , but he 's not the only one .	<speaker_4> i think he 's just a <unk> .	<speaker_4> i think he 's just a <unk> , but he 's still a <unk> .
+<speaker_4> it 's not like he 's going to win the lottery .	<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's going to win .
+<speaker_4> i don 't know , but i think it 's more likely that he 's going to win the nomination .	<speaker_4> i don 't know , but i think it 's more likely that he 's going to win .	<speaker_4> i don 't know , but i think it 's more likely that he 's going to win the primary .
+<speaker_4> it 's not like he 's going to win the lottery .	<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's going to win .
+<speaker_4> it 's not . it 's just a matter of time .	<speaker_4> it 's not . it 's just a matter of perspective .	<speaker_4> it 's not .
+<speaker_4> i don 't know why you 're being downvoted . it 's not like they 're going to vote for him .	<speaker_4> i don 't know why you 're being downvoted . it 's not like they 're going to vote for a candidate that doesn 't vote .	<speaker_4> i don 't know why you 're being downvoted . it 's not like they 're going to vote for a candidate .
+<speaker_2> i don 't know . i 'm not saying it 's a good idea , i 'm just saying it 's a good idea .	<speaker_2> i don 't know . i 'm not saying it 's a good idea , i 'm just saying it 's a good thing .	<speaker_2> i don 't know . i 'm not saying it 's a good idea , i 'm just saying .
+<speaker_4> i 'm not sure if he wins , but i 'm sure he will win the nomination .	<speaker_4> i 'm not sure if he wins , but i 'm sure he will win .	<speaker_4> i 'm not sure if he wins , but i 'm sure he will win the election .
+<speaker_4> i think you mean <unk> .	<speaker_4> i think he 's a <unk> .	<speaker_4> i think you mean <unk>
+<speaker_4> i don 't know , but i don 't know if it 's true or not , but i don 't think it 's a good idea .	<speaker_4> i don 't know , but i don 't know if it 's true or not .	<speaker_4> i don 't know , but i don 't know if it 's true or not , but i don 't know if it 's true .
+<speaker_2> i 'm not sure if it 's true or not , but i think it 's a good thing .	<speaker_2> i 'm not sure if it 's true or not , but i think it 's a good idea .	<speaker_2> i 'm not sure if it 's true or not .
+<speaker_4> i think he 's referring to the fact that there 's a lot of people in the us who have no idea what they are talking about .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .
+<speaker_4> i think he 's referring to the fact that there 's a lot of people in the us who have no idea what they are talking about .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .
+<speaker_4> i don 't think you understand how <unk> works .	<speaker_4> i don 't know if you 're trolling , but i don 't think you know what the word means .	<speaker_4> i don 't know if you 're trolling , but i don 't think you know what a <unk> is .
+<speaker_4> i think he 's talking about <unk> .	<speaker_4> it 's a <unk> .	<speaker_4> it 's not a <unk> .
+<speaker_4> i think it was a joke .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_2> <unk> .	<speaker_2> <unk>	<speaker_3> <unk>
+<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you 're talking about , but i think it 's funny .	<speaker_2> i 'm not sure what you mean .
+<speaker_2> i 'm not sure what you 're talking about .	<speaker_2> i 'm not sure what you 're talking about , but i 'm not sure what you 're saying .	<speaker_2> i 'm not sure what you are saying .
+<speaker_4> it 's not like she 's going to win the nomination .	<speaker_4> it 's not like she 's going to win the election .	<speaker_4> it 's not like she 's going to win .
+<speaker_3> i think it 's more of a <unk> than a <unk> .	<speaker_3> i think it 's more of a " <unk> " position .	<speaker_3> i think it 's more of a " <unk> " .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more than that .	<speaker_4> i think it 's more of a <unk> than <number> .
+<speaker_2> i don 't think you understand what the word " <unk> " means .	<speaker_2> i don 't think you understand the point of the article .	<speaker_2> i don 't think you understand the point .
+<speaker_4> <unk> . com	<speaker_4> it 's not the same thing .	<speaker_4> <unk> .
+<speaker_4> i don 't think you know what she means .	<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what the word " means . "
+<speaker_4> i think it 's more of a debate than a political debate .	<speaker_4> i think it 's more of a debate than a political issue .	<speaker_4> i think it 's more of a <unk> than a <unk> .
+<speaker_2> no , it 's not .	<speaker_2> no , i 'm not .	<speaker_2> no , it 's not . it 's a <unk> .
+<speaker_2> i 'm not sure what you 're talking about , but i think it 's a good thing .	<speaker_2> i 'm not sure what you 're talking about , but i think it 's a good idea .	<speaker_2> i 'm not sure what you 're talking about .
+<speaker_3> i think it was a joke . i don 't know if it was a joke or not .	<speaker_3> i think it was a joke .	<speaker_3> i think it 's a <unk> .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> "	<speaker_4> i think it 's more of a " <unk> " than a <unk> .
+<speaker_4> i don 't think you understand what the word " <unk> " means .	<speaker_4> i don 't think you understand the point of the article .	<speaker_4> i don 't think you understand the point .
+<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> " . it 's not like they 're trying to get attention .
+<speaker_4> i think it 's more of a political issue than a political issue .	<speaker_4> i think it 's more of a political issue than the actual article .	<speaker_4> i think it 's more of a political issue .
+<speaker_4> i don 't know what you 're talking about , but it 's been a long time since i 've seen it .	<speaker_4> i don 't know what you 're talking about , but it 's been a long time since i 've seen this .	<speaker_4> i don 't know what you 're talking about , but it 's been a long time .
+<speaker_4> i think it 's more of a debate .	<speaker_4> i think it 's more of a debate than a political debate .	<speaker_4> i think it 's more of a debate than the actual article .
+<speaker_4> i think it 's more of a debate .	<speaker_4> i think it 's more of a debate than a political debate .	<speaker_4> i think it 's more of a debate than the actual article .
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> it 's not a charity , it 's a political issue .	<speaker_4> it 's not a charity , it 's a charity .	<speaker_4> it 's not a charity .
+<speaker_4> because it 's not the first time i 've seen it .	<speaker_4> because it 's not the first time i 've seen it . it 's been posted on reddit for <number> hours .	<speaker_4> because it 's not the same thing .
+<speaker_4> i don 't think you know what the word " means " means .	<speaker_4> i don 't think you know what the word " means " is .	<speaker_4> i don 't think you know what the word <unk> means .
+<speaker_4> i don 't think you know what the word " means " means .	<speaker_4> i don 't think you know what the word " means " is .	<speaker_4> i don 't think you know what " <unk> " means .
+<speaker_4> i don 't know why you 're being downvoted . it 's been a long time since i 've seen it .	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time since i 've seen this .	<speaker_4> i don 't know why you 're being downvoted . it 's been a long time .
+<speaker_4> <unk> . com	<speaker_4> i think he meant " <unk> "	<speaker_4> <unk>
+<speaker_4> i don 't know , but i don 't know if i 'm going to vote for him .	<speaker_4> i don 't know , but i don 't think he 's polling at all .
+<speaker_4> i don 't know why you 're being downvoted .	<speaker_4> i don 't know why you 're being downvoted . it 's not like he 's a <unk> .	<speaker_4> i don 't know why you 're being downvoted . it 's not like he 's a <unk> . he 's a <unk> .
+<speaker_4> i think it 's more of a joke than a joke .	<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a joke than a comment .
+<speaker_4> it 's not going to happen . it 's just a matter of time .	<speaker_4> it 's not going to happen . it 's just a matter of time before the election .	<speaker_4> it 's not going to happen .
+<speaker_4> i don 't think it 's a good idea .	<speaker_4> i don 't think it 's a good idea , but it 's a good idea .	<speaker_4> i don 't think it 's a good idea , but it 's a good thing .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> than a political issue .	<speaker_4> i think it 's more of a political issue than a political issue
+<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you are talking about . i was just pointing out that it 's not the same article .	<speaker_2> i 'm not sure what you are talking about . i was just pointing out that it 's not the same thing .
+<speaker_4> r <unk>	<speaker_4> r politics is leaking .	<speaker_4> r politics is r politics
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think he 's going to be a <unk> .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it was a joke .	<speaker_4> it was a joke .	<speaker_4> i think it was a <unk> .
+<speaker_4> i think it was a joke .	<speaker_4> it was a joke .	<speaker_4> i think it was a <unk> .
+<speaker_4> i think it was a joke .	<speaker_4> i think it was a joke . i 'm not sure if it was intentional or not .	<speaker_4> i think it was a joke . i think it was a joke .
+<speaker_4> i think it was a joke .	<speaker_4> i think it was a joke . i 'm not sure if it was intentional or not .	<speaker_4> i think it was a joke . i think it was a joke .
+<speaker_4> i think it 's more of a conspiracy theory .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i don 't think you know what the word " means " means .	<speaker_4> i don 't think you know what that word means .	<speaker_4> i don 't think you know what the word <unk> means .
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> "	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think he 's referring to the fact that he 's not a politician .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's not a politician . he 's a <unk> .
+<speaker_4> i think he 's referring to the fact that he 's not a politician .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's not a politician . he 's a <unk> .
+<speaker_4> i think he 's referring to the fact that he 's not a politician .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .	<speaker_4> i think he 's referring to the fact that he 's not a politician . he 's a <unk> .
+<speaker_4> i think it 's more like <number> . <number> .	<speaker_4> i think it 's a good thing .	<speaker_4> i think it 's more like <number> .
+<speaker_4> i think it 's more like " we don 't know what we 're talking about . "	<speaker_4> i think it 's more like " we don 't know what we 're talking about , but it 's not the same thing . "	<speaker_4> i think it 's more like " we don 't know what we 're talking about , but it 's not the same . "
+<speaker_4> i don 't think you understand what he means .	<speaker_4> i don 't think you understand what he meant .	<speaker_4> i don 't think you understand what he means . he is a <unk> .
+<speaker_4> i don 't think you understand what he means .	<speaker_4> i don 't think you understand what he meant .	<speaker_4> i don 't think you understand what he means . he is a <unk> .
+<speaker_2> i 'm not sure what you 're talking about , but i don 't think you know what it means .	<speaker_2> i 'm not sure what you 're talking about , but i don 't think you know what i 'm talking about	<speaker_2> i 'm not sure what you 're talking about .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> it 's not like she 's going to win the presidency .	<speaker_4> it 's not like she 's going to win the war .	<speaker_4> it 's not like she 's going to win the war on the internet .
+<speaker_4> it 's not like he 's going to win the nomination or anything .	<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's going to win .
+<speaker_4> i think he was just trying to be a dick .	<speaker_4> i think he was just trying to be a <unk> .	<speaker_4> i think he was a <unk> .
+<speaker_4> i think it 's more like " we don 't know what we 're talking about . "	<speaker_4> i think it 's more like " we don 't know what we 're doing . "	<speaker_4> i think it 's more like " we don 't know what we 're talking about . " .
+<speaker_4> i think it 's more like the nsa is a terrorist organization .	<speaker_4> i think it 's more like the nsa is more of a threat to the us .	<speaker_4> i think it 's more like the nsa .
+<speaker_4> it 's not a <unk> . it 's a <unk> .	<speaker_4> it 's not the same as a <unk> .	<speaker_4> it 's not the same .
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i don 't think you know what the word " <unk> " means .	<speaker_4> i don 't think you know what the word " means " is .	<speaker_4> i don 't think you know what the word means .
+<speaker_4> he 's not wrong , he 's just a libertarian .	<speaker_4> he 's not wrong , he 's a libertarian .	<speaker_4> he 's not wrong , he 's just a <unk> .
+<speaker_2> i 'm not sure what you 're talking about , but i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you 're talking about , but i 'm not sure if it 's true or not .	<speaker_2> i 'm not sure what you 're talking about .
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> he was a <unk> .	<speaker_4> i think he meant " <unk> "	<speaker_4> <unk> .
+<speaker_3> i don 't think you know what that word means .	<speaker_3> i don 't think you know what the word <unk> means .	<speaker_3> i don 't think you know what that word means
+<speaker_3> it 's not a good idea , it 's a good thing .	<speaker_3> it 's not a good idea , it 's a good idea .	<speaker_3> it 's not a good idea .
+<speaker_2> i 'm not sure what you are talking about , but i think it 's a good thing .	<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you are talking about , but i think it 's a good idea .
+<speaker_2> i 'm not sure what you are talking about , but i think it 's a good thing .	<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you are talking about , but i think it 's a good idea .
+<speaker_3> i think it 's more likely that she 's going to win the nomination .	<speaker_3> i think it 's more likely that she 's going to win .	<speaker_3> i think it 's more likely that she 's running for president .
+<speaker_3> i think it 's more likely that she 's going to win the nomination .	<speaker_3> i think it 's more likely that she 's going to win .	<speaker_3> i think it 's more likely that she 's running for president .
+<speaker_3> i think it 's more likely that she 's going to win the nomination .	<speaker_3> i think it 's more likely that she 's going to win .	<speaker_3> i think it 's more likely that she 's running for president .
+<speaker_3> i think it 's more likely that she 's going to win the nomination .	<speaker_3> i think it 's more likely that she 's going to win .	<speaker_3> i think it 's more likely that she 's running for president .
+<speaker_3> i think it 's more likely that she 's going to win the nomination .	<speaker_3> i think it 's more likely that she 's going to win .	<speaker_3> i think it 's more likely that she 's running for president .
+<speaker_4> it 's not like they 're going to win the nomination .	<speaker_4> it 's not like they 're going to win the election .	<speaker_4> it 's not like they 're going to win .
+<speaker_4> i don 't think you know what the word means .	<speaker_4> i don 't think you know what he means .	<speaker_4> i don 't think you know what the word " means " .
+<speaker_4> it 's not like she 's going to win the nomination .	<speaker_4> it 's not like she 's going to win the nomination or anything .	<speaker_4> it 's not like she 's going to win .
+<speaker_3> i think it 's more likely that they 're going to win .	<speaker_3> i think it 's more of a " <unk> " .	<speaker_3> i think it 's more of a " <unk> "
+<speaker_3> i think it 's more likely that they 're going to win .	<speaker_3> i think it 's more of a " <unk> " .	<speaker_3> i think it 's more of a " <unk> "
+<speaker_4> i think it 's more of a joke than a joke .	<speaker_4> i think it 's more of a joke than a poll .	<speaker_4> i think it 's more of a joke than a <unk> .
+<speaker_4> i think it 's more of a joke than a joke .	<speaker_4> i think it 's more of a joke than a poll .	<speaker_4> i think it 's more of a joke than a <unk> .
+<speaker_4> i don 't know , but i think it 's more likely that he 's going to win the nomination .	<speaker_4> i don 't know , but i think it 's more likely that he 's going to win .	<speaker_4> i don 't know , but i think it 's more likely that he 's going to win the election .
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> she was a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> it 's not like she 's going to win the nomination .	<speaker_4> it 's not like she 's going to win the election .	<speaker_4> it 's not like she 's going to win .
+<speaker_4> i think it 's more of a joke .	<speaker_4> i think it was a joke .	<speaker_4> i think it 's more of a " <unk> " .
+<speaker_4> i think it 's more than that .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i think it 's more of a joke than a joke .	<speaker_4> i think it 's more of a joke than a comment .	<speaker_4> i think it 's more of a joke than a <unk> .
+<speaker_2> i 'm not sure what you mean .	<speaker_4> <unk> . com	<speaker_4> i think you mean <unk> .
+<speaker_4> i think you underestimate the possibility of <unk> .	<speaker_4> i think you underestimate the possibility of a <unk> <unk> .	<speaker_4> i think you underestimate the possibility of a <unk> .
+<speaker_4> i think you mean " <unk> " .	<speaker_4> i think you mean <unk> .	<speaker_4> i think you mean " <unk> "
+<speaker_4> it 's not like he 's going to win the lottery .	<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's going to win .
+<speaker_4> <unk> ! ! !	<speaker_4> <unk> !	<speaker_4> <unk> ! !
+<speaker_4> i don 't think you understand what " <unk> " means .	<speaker_4> i don 't think you understand what the word <unk> means .	<speaker_4> i don 't think you understand what the word " <unk> " means
+<speaker_4> it 's not like the gop is the party of the gop . they 're just a bunch of <unk> .	<speaker_4> it 's not like the gop is the party of the gop .	<speaker_4> it 's not like the gop is the party of the party .
+<speaker_3> it 's not a lie , it 's a fact .	<speaker_3> it 's not a lie , it 's the truth .	<speaker_3> it 's not a lie , it 's an opinion .
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you 're talking about , but i think it 's a good thing .	<speaker_2> i 'm not sure what you 're talking about , but i think it 's more of a " <unk> " .
+<speaker_4> it was a joke .	<speaker_4> it was a joke . i think it was a joke .	<speaker_4> it was a <unk> .
+<speaker_2> i 'm not sure if you 're joking or not .	<speaker_2> i 'm not sure if you 're joking or not , but i think it 's funny .	<speaker_2> it 's a joke .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_3> i think he was referring to the fact that he 's not a politician .	<speaker_3> i think he was referring to the fact that he was a <unk> .	<speaker_3> i think he was referring to the fact that he 's not a politician . he 's a <unk> .
+<speaker_2> i don 't know , but i don 't think it 's a good idea .	<speaker_2> i don 't know , but i don 't think it 's a good idea to be honest .	<speaker_2> i don 't know , but i don 't see the point .
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> it was a joke .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> it was a joke .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> it was a joke .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> it was a joke .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> it was a joke .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> it was a joke .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> it was a joke .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> it was a joke .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> it was a joke .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> it was a joke .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> it was a joke .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> it was a joke .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a <unk> than a political issue .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a <unk> than a political issue .
+<speaker_4> i don 't think you know what the word " means " means .	<speaker_4> i don 't think you know what the word " means " is .	<speaker_4> i don 't think you know what the word <unk> means .
+<speaker_4> it 's not like he 's going to win the election .	<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's going to win .
+<speaker_4> it 's not like he 's going to win the election .	<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's going to win .
+<speaker_4> it 's not like he 's going to win the election .	<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's going to win .
+<speaker_4> i think you mean <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i think you mean <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i think you mean <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i think you mean <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i think you mean <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i think you mean <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i think you mean <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i think you mean <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> <unk> !	<speaker_4> <unk> ! !	<speaker_4> <unk>
+<speaker_4> <unk> !	<speaker_4> <unk> ! !	<speaker_4> <unk>
+<speaker_4> <unk> !	<speaker_4> <unk> ! !	<speaker_4> <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> it 's not the same thing .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .
+<speaker_4> i think you mean <unk> .	<speaker_4> i think you mean " <unk> "	<speaker_4> i think you mean <unk>
+<speaker_2> i don 't know what you are talking about .	<speaker_2> i don 't know what you are talking about , but i 'm not sure what you are talking about .	<speaker_2> i don 't know what you are talking about , but i do know what you are talking about .
+<speaker_2> i 'm not sure what you 're talking about , but i think it 's a good idea .	<speaker_2> i 'm not sure what you 're talking about , but i think it 's a good thing .	<speaker_2> i 'm not sure what you 're talking about .
+<speaker_2> i 'm not sure what you 're talking about , but i think it 's a good idea .	<speaker_2> i 'm not sure what you 're talking about , but i think it 's a good thing .	<speaker_2> i 'm not sure what you 're talking about .
+<speaker_2> i 'm not sure what you 're talking about , but i think it 's a good idea .	<speaker_2> i 'm not sure what you 're talking about , but i think it 's a good thing .	<speaker_2> i 'm not sure what you 're talking about .
+<speaker_4> i think he 's referring to the fact that he 's not the only one .	<speaker_4> i think he 's referring to the fact that he 's not a politician .	<speaker_4> i think he 's referring to the fact that he 's a <unk> .
+<speaker_4> <unk> !	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> <unk> . com	<speaker_4> <unk> . org	<speaker_4> <unk>
+<speaker_4> <unk> . com	<speaker_4> <unk> . org	<speaker_4> <unk>
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i love how the article says " <unk> " and " <unk> " in the title .	<speaker_4> i love how the article says " <unk> " and " <unk> " in the article .	<speaker_4> i love how the article says " <unk> " and " <unk> " .
+<speaker_2> i don 't know . i don 't think it 's a good idea .	<speaker_2> i don 't know . i don 't think it 's what i said .	<speaker_2> i don 't know . i don 't think it 's a good idea . it 's a good idea .
+<speaker_4> it 's not the same thing , it 's the same thing .	<speaker_4> it 's not the same thing , it 's a <unk> .	<speaker_4> it 's not the same thing .
+<speaker_4> i don 't think you know what the word " means " means .	<speaker_4> i don 't think you know what the word " means " is .	<speaker_4> i don 't think you know what the word means .
+<speaker_4> he 's not a politician , he 's a politician .	<speaker_4> he 's not a politician , he 's a politician . he 's not a politician .	<speaker_4> he 's not a politician , he 's a politician . he 's a politician .
+<speaker_2> no , i don 't .	<speaker_2> no , i don 't think it is .	<speaker_2> no .
+<speaker_2> thanks for the link .	<speaker_2> thanks for the link !	<speaker_2> thanks .
+<speaker_4> i think he meant <unk> .	<speaker_4> <unk> . com	<speaker_4> <unk> .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a joke than a political issue .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> <unk> . com	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_2> i 'm not sure what you are talking about , but i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you are talking about .	<speaker_2> i 'm not sure what you are talking about , but i think it 's a good idea .
+<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> " . it 's not like he 's a politician .
+<speaker_4> i think it 's more of a joke than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> " . it 's not like he 's a politician .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> <unk> !	<speaker_4> <unk>	<speaker_4> <unk> <unk>
+<speaker_2> i 'm not sure if you 're being sarcastic or not .	<speaker_2> i 'm not sure if you 're joking or not .	<speaker_2> i 'm not sure if you 're being sarcastic or not , but i think you 're right .
+<speaker_3> i think it 's more of a " <unk> " .	<speaker_3> i think it 's a good thing .	<speaker_3> i think it 's more of a " <unk> "
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a joke than a republican .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_3> it 's not a matter of opinion , it 's a fact .	<speaker_3> it 's not a matter of opinion , it 's just a matter of opinion .	<speaker_3> it 's not a matter of opinion , it 's just a matter of time .
+<speaker_1> i agree . i was just pointing out that it was a joke .	<speaker_1> i agree . i was just pointing out that it was a good idea .	<speaker_1> i agree .
+<speaker_3> i don 't know , i think it 's a good thing .	<speaker_3> i don 't know , i think it 's more of a <unk> than a <unk> .	<speaker_3> i don 't know , i think it 's more of a " <unk> " .
+<speaker_3> i don 't know , i thought it was funny , but i don 't think it 's a good idea .	<speaker_3> i don 't know , i thought it was funny .	<speaker_3> i don 't know , i thought it was funny , but i don 't think it was .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> " . he 's a <unk> .
+<speaker_4> i don 't think you know what the word " <unk> " means .	<speaker_4> i don 't think you know what the word <unk> means .	<speaker_4> i don 't think you know what a <unk> is .
+<speaker_4> i think he 's a troll .	<speaker_4> i think he 's a <unk> .	<speaker_4> i think he 's a troll . he 's a troll .
+<speaker_2> i don 't know . i don 't think it 's a good idea .	<speaker_2> i don 't know . i don 't think it 's a good idea to be honest .	<speaker_2> i don 't know . i don 't see how this is any different than the media .
+<speaker_2> i agree . i think it 's a good idea .	<speaker_2> i agree . i think it 's a good thing .	<speaker_2> i agree .
+<speaker_4> i don 't think it 's a good idea . it 's a good thing .	<speaker_4> i don 't think it 's a good idea .	<speaker_4> i don 't think it 's true .
+<speaker_2> i 'm not sure what you 're talking about , but i think it 's a good idea .	<speaker_2> i 'm not sure what you 're talking about , but i think it 's a good thing .	<speaker_2> i 'm not sure what you are talking about .
+<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i think you mean <unk> .	<speaker_4> i think he 's a <unk> .	<speaker_4> i think you mean <unk>
+<speaker_4> i think you mean <unk> .	<speaker_4> i think he 's a <unk> .	<speaker_4> i think you mean <unk>
+<speaker_3> i think you mean <unk> .	<speaker_3> i think you mean " <unk> "	<speaker_3> i think he was a <unk> .
+<speaker_4> i think he was referring to the fact that he was a <unk> .	<speaker_4> i think he was referring to the fact that he was a <unk> <unk> .	<speaker_4> i think he was referring to the fact that he was a <unk> . he was a <unk> .
+<speaker_4> trump is a <unk> .	<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a debate .
+<speaker_1> i think it 's more of a <unk> than a <unk> .	<speaker_1> i think it 's more of a " <unk> " .	<speaker_1> no .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> i 'd like to see the <unk> of bernie sanders .	<speaker_4> i 'd like to see the <unk> of bernie sanders . i 'd like to see the <unk> <unk> .	<speaker_4> i 'd like to see the <unk> of bernie sanders . i 'd like to see the <unk> of the <unk> .
+<speaker_4> he 's a racist . he 's a racist .	<speaker_4> i think he 's a racist .	<speaker_4> he 's a racist .
+<speaker_3> that 's what i was thinking .	<speaker_3> that 's what i was thinking . i don 't know what to say .	<speaker_3> that 's what i was thinking . i don 't know what to believe .
+<speaker_3> that 's what i was thinking .	<speaker_3> that 's what i was thinking . i don 't know what to say .	<speaker_3> that 's what i was thinking . i don 't know what to believe .
+<speaker_3> that 's what i was thinking .	<speaker_3> that 's what i was thinking . i don 't know what to say .	<speaker_3> that 's what i was thinking . i don 't know what to believe .
+<speaker_3> that 's what i was thinking .	<speaker_3> that 's what i was thinking . i don 't know what to say .	<speaker_3> that 's what i was thinking . i don 't know what to believe .
+<speaker_3> that 's what i was thinking .	<speaker_3> that 's what i was thinking . i don 't know what to say .	<speaker_3> that 's what i was thinking . i don 't know what to believe .
+<speaker_4> i think it 's more of a <unk> than a <unk> .	<speaker_4> i think it 's more of a <unk> than a political issue .	<speaker_4> i think it 's more of a " <unk> " .
+<speaker_2> i don 't know , but i 'm not sure if it 's true or not .	<speaker_2> i don 't know , but i 'm not sure if it 's true .
+<speaker_4> that 's not what she said .	<speaker_4> that 's not how it works .	<speaker_4> that 's not how it works . the only people who are <unk> are the ones who are <unk> .
+<speaker_4> i think it was a joke .	<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> "
+<speaker_4> <unk> !	<speaker_4> <unk> .	<speaker_4> <unk>
+<speaker_4> r <unk>	<speaker_4> r politics	<speaker_4> <unk>
+<speaker_4> i don 't know , but i think it 's a good thing .	<speaker_4> i don 't know , but i think it 's more likely that they 're going to win this election .	<speaker_4> i don 't know , but i think it 's more likely that they 're going to win the election .
+<speaker_4> i don 't know why you 're being downvoted . it 's not like she 's going to win the nomination .	<speaker_4> i don 't know why you 're being downvoted .	<speaker_4> i don 't know why you 're being downvoted . it 's not like she 's going to win .
+<speaker_4> i don 't know , but i don 't think it 's possible .	<speaker_4> i don 't know , but i don 't think it 's possible to be honest about it .	<speaker_4> i don 't know , but i don 't think it 's possible to be honest .
+<speaker_4> because she 's a <unk> .	<speaker_4> because she 's a <unk> . she 's a <unk> .	<speaker_4> because she 's a <unk>
+<speaker_4> r <unk>	<speaker_4> it 's not like r politics is a liberal sub .	<speaker_4> it 's not like r politics is the only one .
+<speaker_4> no , it 's not .	<speaker_4> no , it 's not . it 's a poll .	<speaker_4> no , it 's not . he 's polling <number> % .
+<speaker_4> it 's not like he 's going to win the lottery .	<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's a politician .
+<speaker_4> it 's not like he 's going to win the lottery .	<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's a politician .
+<speaker_4> it 's not like he 's going to win the lottery .	<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's a politician .
+<speaker_4> it 's not like he 's going to win the lottery .	<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's a politician .
+<speaker_4> it 's not like he 's going to win the lottery .	<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's a politician .
+<speaker_4> i don 't think you understand what the word " means " means .	<speaker_4> i don 't think you understand what the word " means " is .	<speaker_4> i don 't think you understand what the word " means . "
+<speaker_4> i don 't know , but i don 't think it 's a good idea .	<speaker_4> i don 't know , but i don 't think it 's a good idea to be honest .	<speaker_4> i don 't know , but i don 't think it 's a good thing .
+<speaker_4> i don 't think you understand what the word " means " means .	<speaker_4> i don 't think you understand the definition of " free speech " .	<speaker_4> i don 't think you understand the definition of a word .
+<speaker_4> it 's not the first time i 've seen it .	<speaker_4> it 's not the first time i 've seen it . it 's just a <unk> .	<speaker_4> it 's not the first time i 've seen this .
+<speaker_4> it 's not like he 's going to win the lottery .	<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's going to win the lottery
+<speaker_4> it 's not like he 's going to win the lottery .	<speaker_4> it 's not like he 's going to win the nomination .	<speaker_4> it 's not like he 's going to win the lottery
+<speaker_3> i think it 's more of a joke than a joke .	<speaker_3> i think it 's more of a joke than a headline .	<speaker_3> i think it 's more of a joke than the article .
+<speaker_2> it was a joke .	<speaker_2> it was a link to the article .	<speaker_2> it was a link to the original post .
+<speaker_4> i don 't think you know what the word " assault " means .	<speaker_4> i don 't think you understand how guns work .	<speaker_4> i don 't think you know what that means .
+<speaker_2> i don 't think you know what i am talking about .	<speaker_2> i don 't think you know what i mean .	<speaker_2> i don 't think you know what i am talking about
+<speaker_2> i 'm not sure if it 's true or not , but i think it 's a good thing .	<speaker_2> i 'm not sure if it 's true or not .	<speaker_4> i think it was a joke .
+<speaker_4> i think you mean <unk> .	<speaker_4> it 's not the same as a <unk> .	<speaker_4> it 's not the same .
+<speaker_4> it 's not a crime , it 's a crime .	<speaker_4> it 's not a crime , it 's a crime . it 's a crime .	<speaker_4> it 's not a crime , it 's a crime . it 's not a crime .
+<speaker_4> no , they 're not .	<speaker_4> no , they are not .	<speaker_4> no .
+<speaker_4> the us has a population of <number> , <number> , <number> .	<speaker_4> the us has a population of <number> . <number> million .	<speaker_4> the us has a population of <number> , <number> .
+<speaker_4> that 's not the point .	<speaker_4> i think it 's more of a crime .	<speaker_4> i think it 's more of a crime than a crime
+<speaker_4> i think it 's more like <number> % of the population .	<speaker_4> i think it 's more like <number> % .	<speaker_4> i think it 's more like <number> %
+<speaker_2> it 's not . it 's a matter of opinion .	<speaker_2> it 's not . it 's a <unk> .	<speaker_2> it 's not .
+<speaker_4> it 's not bribery , it 's bribery .	<speaker_4> it 's not bribery , it 's corruption .	<speaker_4> it 's not bribery , it 's bribery
+<speaker_4> i think you mean <unk> .	<speaker_4> i think the point is that they are not guilty .	<speaker_4> i think you mean <unk>
+<speaker_4> that 's not the point of the article .	<speaker_4> that 's not true .	<speaker_4> that 's not the point .
+<speaker_4> <unk> . com	<speaker_4> it 's a <unk> song .	<speaker_4> it 's a <unk> .
+<speaker_4> <unk> . com	<speaker_4> it 's a <unk> song .	<speaker_4> it 's a <unk> .
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more of a <unk> .	<speaker_4> i think it 's more of a " <unk> " .	<speaker_4> i think it 's more of a <unk> than a <unk>
+<speaker_4> i think it 's more than <number> . <number> % of the population .	<speaker_4> i think it 's more than <number> . <number> % .	<speaker_4> i think it 's more than <number> . <number> %
+<speaker_4> i think it 's more than <number> . <number> % of the population .	<speaker_4> i think it 's more than <number> . <number> % .	<speaker_4> i think it 's more than <number> . <number> %
+<speaker_4> the prison system is not a prison system , it 's a prison .	<speaker_4> the prison system is not a prison system .	<speaker_4> the prison system is a joke .

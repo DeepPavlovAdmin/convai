@@ -1,0 +1,7 @@
+model 1510001106.38
+avg. train: 0.686725
+avg. valid: 0.6242
+args: [(500, 700, 300), 'swish', 'adagrad', 0.01, '1510001106.38', 32, 0.69999999999999996]
+features:
+['AverageWordEmbedding_Candidate', 'AverageWordEmbedding_User', 'AverageWordEmbedding_Article', 'Similarity_CandidateLastK_noStop', 'AverageWordEmbedding_LastK', 'Similarity_CandidateArticle', 'DialogActLastUser', 'SentimentScoreCandidate', 'AverageWordEmbedding_kUser', 'IntensifierWords', 'Similarity_CandidateLastK', 'Similarity_CandidateKUser_noStop', 'SentimentScoreLastUser', 'ConfusionWords', 'CandidateLength', 'ProfanityWords', 'Negation', 'NonStopWordOverlap', 'GenericTurns', 'LastUserLength', 'WhWords', 'EntityOverlap', 'DialogActCandidate', 'DialogLength', 'TrigramOverlap', 'Similarity_CandidateArticle_noStop', 'Similarity_CandidateUser']
+-------------
