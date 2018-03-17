@@ -27,9 +27,9 @@ The task is technically challenging as it involves both asking and answering que
 
 Conversing with current chit-chat models for even a short amount of time quickly exposes their weaknesses.
 Common issues with chit-chat models  include:
-* (i) the lack of a consistent personality (Li et al., 2016) as they are typically trained over many dialogs each with different speakers,  (ii)
-* the lack of an explicit long-term memory as they are typically trained to produce an utterance given only the recent dialogue history (Vinyals et al., 2015); and  (iii)
-* a tendency to produce non-specific answers like ``I don't know'' (Li et al., 2015). 
+* (i) the lack of a consistent personality (Li et al., 2016) as they are typically trained over many dialogs each with different speakers,  
+* (ii) the lack of an explicit long-term memory as they are typically trained to produce an utterance given only the recent dialogue history (Vinyals et al., 2015); and  
+* (iii) a tendency to produce non-specific answers like ``I don't know'' (Li et al., 2015). 
 This competition aims to find models that address  those specific issues. The baseline systems we have already run indicate that there is hope we can make steps in that direction (Zhang et al., 2018).
 
 
