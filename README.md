@@ -40,6 +40,11 @@ The speaker pairs each have assigned profiles coming from a set of 1155 possible
 More details can be found in the [paper](https://arxiv.org/abs/1801.07243) describing the dataset.
 
 The competition dataset is available in our open source system [ParlAI](http://parl.ai), more specifically [here](https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/convai2).
+That is, install ParlAI and then do:
+```bash
+python examples/display_data.py --task convai2 --datatype train
+```
+to look at the data.
 
 Source code for baseline methods for the competition are also already provided in [ParlAI](http://parl.ai), including training loop and evaluation code for the automatic evaluation metrics.
 Baseline results are provided in the [paper](https://arxiv.org/abs/1801.07243), although the dataset is now larger. (We will hence be running new baselines that will appear on the leaderboard soon.)
