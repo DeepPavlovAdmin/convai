@@ -51,7 +51,10 @@ As the original test set was released,  we will crowdsource further data for a h
 Competitors' models will then be compared in three ways: 
 * (i) automated evaluation metrics on a new test set hidden from the competitors; 
 * (ii) evaluation on Amazon Mechanical Turk; and 
-* (iii) `wild' live evaluation by volunteers having conversations with the bots. The winning dialogue systems will be chosen based on these scores. 
+* (iii) `wild' live evaluation by volunteers having conversations with the bots. 
+
+The winning dialogue systems will be chosen based on these scores. 
+
 Prizes will be awarded!
 
 
