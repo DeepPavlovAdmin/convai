@@ -35,15 +35,14 @@ This competition aims to find models that address  those specific issues. The ba
 
 
 The dataset consists of 164,356 utterances in over 10,981 dialogs, some of which are set aside for validation. 
-The speaker pairs each have assigned profiles coming from a set of 1155 possible personas, each consisting of at least 5 profile sentences, setting aside 200 never seen before personas for validation. To avoid modeling that takes advantage of trivial word overlap, we crowdsourced additional rewritten sets of the same personas, with related sentences that are rephrases, generalizations or specializations, rende
+The speaker pairs each have assigned profiles coming from a set of 1155 possible personas, each consisting of at least 5 profile sentences, setting aside 200 never seen before personas for validation. To avoid modeling that takes advantage of trivial word overlap, we crowdsourced additional rewritten sets of the same personas, with related sentences that are rephrases, generalizations or specializations, rende ring the task much more challenging. Evaluation will take place on both types of persona. 
 
 More details can be found in the [paper](https://arxiv.org/abs/1801.07243) describing the dataset.
 
-The competition dataset is available in [ParlAI](http://parl.ai), more specifically [here](https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/convai2).
-ring the task much more challenging. Evaluation will take place on both types of persona. 
+The competition dataset is available in our open source system [ParlAI](http://parl.ai), more specifically [here](https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/convai2).
 
-Source code for baseline methods for the competition are also already provided in our open source system [ParlAI](http://parl.ai), including training loop and evaluation code for the automatic evaluation metrics.
-Baseline results are provided in the [paper](https://arxiv.org/abs/1801.07243), although the dataset is now larger. (We will hence be running new baselines that will appear on the leaderboard.)
+Source code for baseline methods for the competition are also already provided in [ParlAI](http://parl.ai), including training loop and evaluation code for the automatic evaluation metrics.
+Baseline results are provided in the [paper](https://arxiv.org/abs/1801.07243), although the dataset is now larger. (We will hence be running new baselines that will appear on the leaderboard soon.)
 
 As the original test set was released,  we will crowdsource further data for a hidden test set  unseen by the competitors for automatic evaluation. 
 
