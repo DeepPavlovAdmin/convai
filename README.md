@@ -14,7 +14,7 @@ This is the second Conversational Intelligence (ConvAI) Challenge. The previous 
 
 # PersonaChat ConvAI2 Dataset
 
-<img width="70%" src="personachat-example.png">
+<img src="personachat-example.png">
 
 Persona-Chat training set consists of conversations between crowdworkers who were randomly paired and asked to act the part of a given provided persona (randomly assigned, and created by another set of crowdworkers). The paired workers were asked to chat naturally and to get to know each other during the conversation. This produces interesting and engaging conversations that learning agents can try to mimic. 
 
