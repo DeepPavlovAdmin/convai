@@ -1,7 +1,4 @@
-## NIPS 2018 Competition: The Conversational Intelligence Challenge 2 (ConvAI2)
-
-
-## Overview of the competition
+# Overview of the competition
 
 There are currently few datasets appropriate for training and evaluating models for non-goal-oriented dialogue systems (chatbots); and equally problematic, there is currently no standard procedure for evaluating such models beyond the classic Turing test.
 
@@ -82,7 +79,7 @@ During NIPS the `wild' live conversation can continue, and the best performing s
 We will declare winners in both the automated metrics tracks, and in the live evaluations (which will be considered the grand prize, being more important). The latter will consist of the average of the Turk and wild (volunteer) scores.
 Finally, the solutions and any data collected will be made open source to the community.
 
-## Rules
+# Rules
 
 * Competitors should indicate which training sources are used to build their models, and whether (and how) ensembling is used (we may place these in separate tracks in an attempt to deemphasize the use of ensembles).
 * Competitors must provide their source code so that the hidden test set evaluation and live experiments can be computed without the team's influence, and so that  the competition has further impact as those models can be released for future research to build off them. Code can be in any language but a thin python wrapper must be provided in order to work with our evaluation and live experiment code.
@@ -90,7 +87,7 @@ Finally, the solutions and any data collected will be made open source to the co
 * Competitors are free to augment training with other datasets as long as they are publicly released (and hence, reproducable). Hence, all entrants are expected to work on publicly available data or release the data they use to train. 
 
 
-## Schedule
+# Schedule
 
 Up until September 1st competitors will be able to submit models (source code) to be evaluated on the hidden test set using automated metrics (which we will run on our servers). 
 
@@ -103,7 +100,7 @@ On September 1st the source code submission system will be locked, and the best 
 Winners will be announced at NIPS 2018.
 
 
-## Organizing team
+# Organizing team
 
 The organizing team comes from multiple groups --- Moscow Institute of Physics and Technology, Facebook AI Research, University of Montreal, McGill and Carnegie Mellon University.
 
