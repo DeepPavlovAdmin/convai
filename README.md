@@ -109,4 +109,4 @@ Advisory board: Yoshua Bengio, Alan W. Black, Joelle Pineau, Alexander Rudnicky,
 
 # ConvAI 2017
 
-Webpage of the 1st NIPS Conversational Challenge is available at http://convai.io/2017/
+Webpage of the 1st NIPS Conversational Intelligence Challenge is available at http://convai.io/2017/
