@@ -72,7 +72,7 @@ F1 can be computed for any model that produces a response, and hits@k is compute
 
 We will run live volunteer chat throughout the competition so that competitors can try out their bots talking to humans and to collect live data, if they so wish (however, they are also free to only use the fixed train/test format at this stage).
 
-The automated metrics will be used to obtain a shortlist of best performing systems, likely the top 5 scoring systems from each of the three metrics (F1 and hits@k). If those two leaderboards feature the same models at the top we will take  systems further down the leaderboards, up to a maximum of 10. These systems will be evaluated in the final live experiments on Mechanical Turk and via volunteers using the same scoring protocols, already described.
+The automated metrics will be used to obtain a shortlist of best performing systems, likely the top 5 scoring systems from each of the two metrics (F1 and hits@k). If those two leaderboards feature the same models at the top we will take  systems further down the leaderboards, up to a maximum of 10. These systems will be evaluated in the final live experiments on Mechanical Turk and via volunteers using the same scoring protocols, already described.
 
 During NIPS the `wild' live conversation can continue, and the best performing systems will be showcased and conversed with.
 
@@ -82,10 +82,9 @@ Finally, the solutions and any data collected will be made open source to the co
 # Rules
 
 * Competitors should indicate which training sources are used to build their models, and whether (and how) ensembling is used (we may place these in separate tracks in an attempt to deemphasize the use of ensembles).
-* Competitors must provide their source code so that the hidden test set evaluation and live experiments can be computed without the team's influence, and so that  the competition has further impact as those models can be released for future research to build off them. Code can be in any language but a thin python wrapper must be provided in order to work with our evaluation and live experiment code.
+* Competitors must provide their source code so that the hidden test set evaluation and live experiments can be computed without the team's influence, and so that  the competition has further impact as those models can be released for future research to build off them. Code can be in any language but a thin python wrapper must be provided in order to work with our evaluation and live experiment code via [ParlAI's](http://parl.ai) interface.
 * We will require that the winning systems also release their training code so that their work is reproducible (although we also encourage that for all systems).
 * Competitors are free to augment training with other datasets as long as they are publicly released (and hence, reproducable). Hence, all entrants are expected to work on publicly available data or release the data they use to train. 
-
 
 # Schedule
 
