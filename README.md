@@ -99,7 +99,6 @@ On September 1st the source code submission system will be locked, and the best 
 
 Winners will be announced at NIPS 2018.
 
-
 # Organizing team
 
 The organizing team comes from multiple groups --- Moscow Institute of Physics and Technology, Facebook AI Research, University of Montreal, McGill and Carnegie Mellon University.
@@ -107,3 +106,7 @@ The organizing team comes from multiple groups --- Moscow Institute of Physics a
 The Team consists of: Mikhail Burtsev, Varvara Logacheva, Valentin Malykh, Ryan Lowe, Iulian Serban, Emily Dinan, Douwe Kiela, Alexander Miller, Kurt Shuster, Arthur Szlam, Jack Urbanek and Jason Weston.
 
 Advisory board: Yoshua Bengio, Alan W. Black, Joelle Pineau, Alexander Rudnicky, Jason Williams.
+
+# ConvAI 2017
+
+Webpage of the 1st NIPS Conversational Challenge is available at http://convai.io/2017/
