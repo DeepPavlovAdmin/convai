@@ -90,9 +90,12 @@ Finally, the solutions and any data collected will be made open source to the co
 
 Up until September 1st competitors will be able to submit models (source code) to be evaluated on the hidden test set using automated metrics (which we will run on our servers). 
 
+Ability to submit a model for evaluation by automatic metrics to be displayed on the leaderboard will be available by April 6th.
+The current leaderboards will be visible to all competitors.
+
+
 `Wild' live evaluation can also be performed at this time to obtain evaluation metrics and data, although those metrics will not be used for final judgement of the systems, but more for tuning systems if the competitors so wish. 
 
-The current leaderboards will be visible to all competitors.
 
 On September 1st the source code submission system will be locked, and the best performing systems will be evaluated over the next month using Mechanical Turk and the `wild' live evaluation.
 
