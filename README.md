@@ -38,7 +38,7 @@ python examples/display_data.py --task convai2 --datatype train
 ```
 to look at the data.
 
-Source code for baseline methods for the competition are also already provided in ParlAI [here(https://github.com/facebookresearch/ParlAI/tree/master/projects/personachat), including training loop and evaluation code for the automatic evaluation metrics.
+Source code for baseline methods for the competition are also already provided in ParlAI [here](https://github.com/facebookresearch/ParlAI/tree/master/projects/personachat), including training loop and evaluation code for the automatic evaluation metrics.
 Baseline results are provided in the [paper](https://arxiv.org/abs/1801.07243), although the dataset is now larger. (We will hence be running new baselines that will appear on the leaderboard soon.)
 
 As the original test set was released,  we will crowdsource further data for a hidden test set  unseen by the competitors for automatic evaluation. 
