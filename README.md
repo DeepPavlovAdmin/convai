@@ -1,4 +1,4 @@
-# Overview of the competition
+# ConvAI2: Overview of the competition
 
 There are currently few datasets appropriate for training and evaluating models for non-goal-oriented dialogue systems (chatbots); and equally problematic, there is currently no standard procedure for evaluating such models beyond the classic Turing test.
 
