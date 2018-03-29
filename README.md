@@ -11,7 +11,7 @@ This is the second Conversational Intelligence (ConvAI) Challenge. The previous 
 
 # Prize
 
-The winning entry will receive $20,000 in Mechanical Turk funding in order to encourage further data collection for dialogue research. 
+The winning entry will receive $20,000 in Mechanical Turk funding -- in order to encourage further data collection for dialogue research. 
 
 # PersonaChat ConvAI2 Dataset
 
