@@ -55,8 +55,6 @@ Competitors' models will then be compared in three ways:
 * (iii) `wild' live evaluation by volunteers having conversations with the bots. 
 
 The winning dialogue systems will be chosen based on these scores. 
-Prizes will be awarded!
-
 
 ## Metrics
 
