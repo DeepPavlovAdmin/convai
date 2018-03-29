@@ -9,6 +9,10 @@ This is the second Conversational Intelligence (ConvAI) Challenge. The previous 
 * making the conversations more engaging for humans
 * simpler evaluation process (automatic evaluation, followed then by human evaluation)
 
+# Prize
+
+The winning entry will receive $20,000 in Mechanical Turk funding in order to encourage further data collection for dialogue research. 
+
 # PersonaChat ConvAI2 Dataset
 
 <img src="personachat-example.png">
