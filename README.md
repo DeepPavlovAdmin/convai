@@ -13,6 +13,20 @@ This is the second Conversational Intelligence (ConvAI) Challenge. The previous 
 
 The winning entry will receive $20,000 in Mechanical Turk funding -- in order to encourage further data collection for dialogue research. 
 
+# Current Leaderboard
+
+
+| Model                | Creator  | PPL           | Hits@1  |   F1   |
+| -------------        | ---      | :------------- | :-----  |  :----- |
+|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 30.93&#x1F34E;        | -       | 16.18&#x1F34E; |
+|  [Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/profilememory)       | ParlAI team          | 70.81         | 10.4    |  15.76 |
+|  Language Model       | ParlAI team          | 47.48         | -       |  14.86 |
+|  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.1&#x1F34E;    |  13.3  |
+
+&#x1F34E; denotes the current best performing model for each metric on the hidden test set.
+
+Models by ParlAI team are baselines, and not entries into the competition; code is included for those models.
+
 # PersonaChat ConvAI2 Dataset
 
 <img src="personachat-example.png">
