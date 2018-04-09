@@ -102,14 +102,14 @@ Finally, the solutions and any data collected will be made open source to the co
 
 # Model Submission
 
-To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts:  edinan@fb.com, jaseweston@gmail.com.
+To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts:  edinan@fb.com, jaseweston@gmail.com, jju@fb.com.
 
 We will then run the automatic evaluations and update the leaderboard. You can submit a maximum of once per month.
-We will use the same code for computing human evaluations when the submission system is locked in September.
+We will use the same code for computing human evaluations when the submission system is locked on September 30th.
 
 # Schedule
 
-Up until September 1st competitors will be able to submit models (source code) to be evaluated on the hidden test set using automated metrics (which we will run on our servers). 
+Up until September 30th competitors will be able to submit models (source code) to be evaluated on the hidden test set using automated metrics (which we will run on our servers). 
 
 Ability to submit a model for evaluation by automatic metrics to be displayed on the leaderboard will be available by April 6th.
 The current leaderboards will be visible to all competitors.
@@ -118,7 +118,7 @@ The current leaderboards will be visible to all competitors.
 `Wild' live evaluation can also be performed at this time to obtain evaluation metrics and data, although those metrics will not be used for final judgement of the systems, but more for tuning systems if the competitors so wish. 
 
 
-On September 1st the source code submission system will be locked, and the best performing systems will be evaluated over the next month using Mechanical Turk and the `wild' live evaluation.
+On September 30th the source code submission system will be locked, and the best performing systems will be evaluated over the next month using Mechanical Turk and the `wild' live evaluation.
 
 Winners will be announced at NIPS 2018.
 
