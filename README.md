@@ -102,7 +102,7 @@ Finally, the solutions and any data collected will be made open source to the co
 
 # Model Submission
 
-To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts:  edinan@fb.com, jaseweston@gmail.com, jju@fb.com.
+To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts:  edinan@fb.com, jaseweston@gmail.com, jju@fb.com, kshuster@fb.com.
 
 We will then run the automatic evaluations and update the leaderboard. You can submit a maximum of once per month.
 We will use the same code for computing human evaluations when the submission system is locked on September 30th.
