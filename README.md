@@ -56,9 +56,9 @@ python examples/display_data.py --task convai2 --datatype train
 to look at the data.
 
 Source code for baseline methods for the competition are also already provided in ParlAI [here](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2), including training loop and evaluation code for the automatic evaluation metrics.
-Baseline results are provided in the [paper](https://arxiv.org/abs/1801.07243), although the dataset is now larger. (We will hence be running new baselines that will appear on the leaderboard soon.)
+Baseline results are provided in the [paper](https://arxiv.org/abs/1801.07243), although the dataset is now larger. (We have hence run new baselines that appear on the leaderboard above.)
 
-As the original test set was released,  we will crowdsource further data for a hidden test set  unseen by the competitors for automatic evaluation. 
+As the original test set was released,  we have crowdsourced further data for a hidden test set  unseen by the competitors for automatic evaluation. 
 
 # Evaluation
 
@@ -86,7 +86,7 @@ Perplexity is only scored for probabilistic generative models, F1 can be compute
 
 We will run live volunteer chat throughout the competition so that competitors can try out their bots talking to humans and to collect live data, if they so wish (however, they are also free to only use the fixed train/test format at this stage).
 
-The automated metrics will be used to obtain a shortlist of best performing systems, likely the top 5 scoring systems from each of the three metrics (Perplexity, F1 and hits@k). If those three leaderboards feature the same models at the top we will take  systems further down the leaderboards, up to a maximum of 10. These systems will be evaluated in the final live experiments on Mechanical Turk and via volunteers using the same scoring protocols, already described.
+The automated metrics will be used to obtain a shortlist of best performing systems, likely the top 3 scoring systems from each of the three metrics (Perplexity, F1 and hits@k). If those three leaderboards feature the same models at the top we will take  systems further down the leaderboards, up to a maximum of 10. These systems will be evaluated in the final live experiments on Mechanical Turk and via volunteers using the same scoring protocols, already described.
 
 During NIPS the `wild' live conversation can continue, and the best performing systems will be showcased and conversed with.
 
@@ -99,6 +99,13 @@ Finally, the solutions and any data collected will be made open source to the co
 * Competitors must provide their source code so that the hidden test set evaluation and live experiments can be computed without the team's influence, and so that  the competition has further impact as those models can be released for future research to build off them. Code can be in any language but a thin python wrapper must be provided in order to work with our evaluation and live experiment code via [ParlAI's](http://parl.ai) interface.
 * We will require that the winning systems also release their training code so that their work is reproducible (although we also encourage that for all systems).
 * Competitors are free to augment training with other datasets as long as they are publicly released (and hence, reproducable). Hence, all entrants are expected to work on publicly available data or release the data they use to train. 
+
+# Model Submission
+
+To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts:  edinan@fb.com, jaseweston@gmail.com.
+
+We will then run the automatic evaluations and update the leaderboard. You can submit a maximum of once per month.
+We will use the same code for computing human evaluations when the submission system is locked in September.
 
 # Schedule
 
