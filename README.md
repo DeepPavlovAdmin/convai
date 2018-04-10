@@ -18,8 +18,8 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
-|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 42.57&#x1F34E;        | -       | 16.18&#x1F34E; |
-|  Language Model       | ParlAI team          | 85.44         | -       |  14.86 |
+|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 29.91&#x1F34E;        | 16.6       | 16.18&#x1F34E; |
+|  Language Model       | ParlAI team          | 42.55         | -       |  14.86 |
 |  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.1&#x1F34E;    |  13.3  |
 
 &#x1F34E; denotes the current best performing model for each metric on the hidden test set.
@@ -104,8 +104,10 @@ Finally, the solutions and any data collected will be made open source to the co
 
 To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts:  edinan@fb.com, jaseweston@gmail.com, jju@fb.com, kshuster@fb.com.
 
+See [this directory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2) for example baseline submissions.
+
 We will then run the automatic evaluations and update the leaderboard. You can submit a maximum of once per month.
-We will use the same code for computing human evaluations when the submission system is locked on September 30th.
+We will use the same submitted code for the top performing models for computing human evaluations when the submission system is locked on September 30th.
 
 # Schedule
 
