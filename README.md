@@ -20,7 +20,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 | -------------        | ---      | :------------- | :-----  |  :----- |
 |  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 32.09&#x1F34E;        | 16.6       | 16.18&#x1F34E; |
 |  Language Model       | ParlAI team          | 46.0         | -       |  15.02 |
-|  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.1&#x1F34E;    |  13.3  |
+|  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 56.8&#x1F34E;    |  11.9 |
 
 &#x1F34E; denotes the current best performing model for each metric on the hidden test set.
 
