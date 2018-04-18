@@ -19,12 +19,15 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
 |  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 32.09&#x1F34E;        | 16.6       | 16.18&#x1F34E; |
-|  Language Model       | ParlAI team          | 46.0         | -       |  15.02 |
+|  [Language Model](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/language_model)      | ParlAI team          | 46.0         | -       |  15.02 |
 |  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 56.8&#x1F34E;    |  11.9 |
 
 &#x1F34E; denotes the current best performing model for each metric on the hidden test set.
 
 Models by ParlAI team are baselines, and not entries into the competition; code is included for those models.
+
+Note that the [scripts](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines) that you can run locally will give metrics on the validation set, not the hidden test set which is reported here (for that, you need to submit your code, see below). 
+We do provide an additional validation set leaderboard [here](https://github.com/DeepPavlov/convai/blob/master/leaderboards.md) for your convenience.
 
 # PersonaChat ConvAI2 Dataset
 
