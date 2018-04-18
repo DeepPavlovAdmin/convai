@@ -14,6 +14,6 @@ We will add the revised persona leaderboard here soon too.
 |  Language Model       | ParlAI team          | ?       | -       |  15.31|
 |  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 56.1&#x1F34E;   |  11.73 |
 
-&#x1F34E; denotes the current best performing model for each metric on the hidden test set.
+&#x1F34E; denotes the current best performing model for each metric on the validation set.
 
 Models by ParlAI team are baselines, and not entries into the competition; code is included for those models.
