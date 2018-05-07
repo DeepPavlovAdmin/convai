@@ -9,6 +9,10 @@ This is the second Conversational Intelligence (ConvAI) Challenge. The previous 
 * making the conversations more engaging for humans
 * simpler evaluation process (automatic evaluation, followed then by human evaluation)
 
+# DeepHack.Chat
+
+If you submit your solution before the **10th of June**, you can participate in the qualification round of [DeepHack.Chat](http://deephack.me/chat) hackathon which will take place in Moscow on July 2-8. We will select 10 to 12 teams whose systems score best in terms of automatic metrics, and invite them to participate in the final round of the hackathon. At the hackathon teams will further improve their systems and listen to lectures from the top specialists in the field. Participants will also take part in live human evaluation of dialogue systems of other teams. The winning team will get a free journey to [NIPS](https://nips.cc/) to ConvAI finals.
+
 # Prize
 
 The winning entry will receive $20,000 in Mechanical Turk funding -- in order to encourage further data collection for dialogue research. 
@@ -105,12 +109,14 @@ Finally, the solutions and any data collected will be made open source to the co
 
 # Model Submission
 
-To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts:  edinan@fb.com, jaseweston@gmail.com, jju@fb.com, kshuster@fb.com.
+To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts:  edinan@fb.com, jaseweston@gmail.com, jju@fb.com, kshuster@fb.com, varvara.logacheva@gmail.com.
 
 See [this directory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2) for example baseline submissions.
 
 We will then run the automatic evaluations and update the leaderboard. You can submit a maximum of once per month.
 We will use the same submitted code for the top performing models for computing human evaluations when the submission system is locked on September 30th.
+
+**If you want to participate in [DeepHack.Chat](http://deephack.me/chat) hackathon**, please include a file ``TEAM'' in your repository. The file should contain names and emails of the members of your team. The team should consist of no more than 5 people.
 
 # Schedule
 
