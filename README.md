@@ -132,7 +132,8 @@ Winners will be announced at NIPS 2018.
 
 # DeepHack.Chat Hackathon
 
-This is not a compulsory part of the competition, but you may also be interested in this.
+This is not a compulsory part of the competition, but you may also be interested in the following hackathon:
+
 If you submit your solution before the **10th of June**, you can participate in the qualification round of [DeepHack.Chat](http://deephack.me/chat) hackathon which will take place in Moscow on July 2-8. We will select 10 to 12 teams whose systems score best in terms of automatic metrics, and invite them to participate in the final round of the hackathon. At the hackathon teams will further improve their systems and listen to lectures from the top specialists in the field. Participants will also take part in live human evaluation of dialogue systems of other teams. The winning team will get a free journey to [NIPS](https://nips.cc/) to ConvAI finals.
 
 # Organizing team
