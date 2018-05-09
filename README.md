@@ -112,7 +112,6 @@ See [this directory](https://github.com/facebookresearch/ParlAI/tree/master/proj
 We will then run the automatic evaluations and update the leaderboard. You can submit a maximum of once per month.
 We will use the same submitted code for the top performing models for computing human evaluations when the submission system is locked on September 30th.
 
-**If you want to participate in [DeepHack.Chat](http://deephack.me/chat) hackathon**, please include a file ``TEAM'' in your repository. The file should contain names and emails of the members of your team. The team should consist of no more than 5 people.
 
 # Schedule
 
@@ -135,6 +134,8 @@ Winners will be announced at NIPS 2018.
 This is not a compulsory part of the competition, but you may also be interested in the following hackathon:
 
 If you submit your solution before the **10th of June**, you can participate in the qualification round of [DeepHack.Chat](http://deephack.me/chat) hackathon which will take place in Moscow on July 2-8. We will select 10 to 12 teams whose systems score best in terms of automatic metrics, and invite them to participate in the final round of the hackathon. At the hackathon teams will further improve their systems and listen to lectures from the top specialists in the field. Participants will also take part in live human evaluation of dialogue systems of other teams. The winning team will get a free journey to [NIPS](https://nips.cc/) to ConvAI finals.
+
+**If you want to participate in [DeepHack.Chat](http://deephack.me/chat) hackathon**, please include a file ``TEAM'' in your repository when you submit your models. The file should contain names and emails of the members of your team. The team should consist of no more than 5 people.
 
 # Organizing team
 
