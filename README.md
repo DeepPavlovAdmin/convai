@@ -11,7 +11,9 @@ This is the second Conversational Intelligence (ConvAI) Challenge. The previous 
 
 # Prize
 
-The winning entry will receive $20,000 in Mechanical Turk funding -- in order to encourage further data collection for dialogue research. 
+The winning entry will receive $20,000 in Mechanical Turk funding -- in order to encourage further data collection for dialogue research.
+
+We will also provide a travel grant to attend NIPS 2018 for the most promising team as of the beginning of July. Travel grant winner will be decided at the [DeepHack.Chat Hackathon](http://convai.io/#deephackchat-hackathon).
 
 # Current Leaderboard
 
@@ -133,7 +135,7 @@ Winners will be announced at NIPS 2018.
 
 This is not a compulsory part of the competition, but you may also be interested in the following hackathon:
 
-If you submit your solution before the **10th of June**, you can participate in the qualification round of [DeepHack.Chat](http://deephack.me/chat) hackathon which will take place in Moscow on July 2-8. We will select 10 to 12 teams whose systems score best in terms of automatic metrics, and invite them to participate in the final round of the hackathon. At the hackathon teams will further improve their systems and listen to lectures from the top specialists in the field. Participants will also take part in live human evaluation of dialogue systems of other teams. The winning team will get a free journey to [NIPS](https://nips.cc/) to ConvAI finals.
+If you submit your solution before the **10th of June**, you can participate in the qualification round of [DeepHack.Chat](http://deephack.me/chat) hackathon which will take place in Moscow on July 2-8. We will select 10 to 12 teams whose systems score best in terms of automatic metrics, and invite them to participate in the final round of the hackathon. At the hackathon teams will further improve their systems and listen to lectures from the top researchers in the field. Participants will also take part in live human evaluation of dialogue systems of other teams. The winning team will get a travel grant to [NIPS](https://nips.cc/) to ConvAI finals.
 
 If you want to participate in the hackathon, please include a file ``TEAM'' in your repository when you submit your models. The file should contain names and emails of the members of your team. The team should consist of no more than 5 people.
 
