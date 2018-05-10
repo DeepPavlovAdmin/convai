@@ -13,7 +13,7 @@ This is the second Conversational Intelligence (ConvAI) Challenge. The previous 
 
 The winning entry will receive $20,000 in Mechanical Turk funding -- in order to encourage further data collection for dialogue research.
 
-We will also provide a travel grant to attend NIPS 2018 for the most promising team as of the beginning of July. Travel grant winner will be decided at the [DeepHack.Chat Hackathon](http://convai.io/#deephackchat-hackathon).
+We will also provide a **travel grant** to attend NIPS 2018 for the most promising team as of the beginning of July. Travel grant winner will be decided at the [DeepHack.Chat Hackathon](http://convai.io/#deephackchat-hackathon).
 
 # Current Leaderboard
 
