@@ -9,14 +9,18 @@ This is the second Conversational Intelligence (ConvAI) Challenge. The previous 
 * making the conversations more engaging for humans
 * simpler evaluation process (automatic evaluation, followed then by human evaluation)
 
-We will also provide a **travel grant** to attend NIPS 2018 for the one of the most promising team as of the beginning of July. Travel grant winner will be decided at the [DeepHack.Chat Hackathon](http://convai.io/#deephackchat-hackathon).
 
 # Prize
 
 The winning entry will receive $20,000 in Mechanical Turk funding -- in order to encourage further data collection for dialogue research.
 
-# Current Leaderboard
+# News 
 
+- May 9: **Hackathon:** We will be organizing a *non-compulsory* hackathon around the competition: [DeepHack.Chat Hackathon](http://convai.io/#deephackchat-hackathon). The most promising team attending will receive a **travel grant** to attend NIPS 2018!!
+
+- April 21: **Leaderboard and baselines:** Leaderboard, baseline numbers and code for training and evaluating them are up! 
+
+# Current Leaderboard
 
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
