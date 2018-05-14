@@ -151,6 +151,13 @@ The Team consists of: Mikhail Burtsev, Varvara Logacheva, Valentin Malykh, Ryan 
 
 Advisory board: Yoshua Bengio, Alan W. Black, Joelle Pineau, Alexander Rudnicky, Jason Williams.
 
+# Partners
+
+## Platinum Partner
+
+<a href="https://research.fb.com/category/facebook-ai-research-fair/"><img src="2017/facebook.png"></a>
+
+
 # ConvAI 2017
 
 Webpage of the 1st NIPS Conversational Intelligence Challenge is available at [convai.io/2017](http://convai.io/2017/)
