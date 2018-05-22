@@ -10,9 +10,9 @@ We will add the revised persona leaderboard here soon too.
 
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
-|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 37.9&#x1F34E;        | 18.3       | 16.82&#x1F34E; |
+|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 36.49&#x1F34E;        | 18.3       | 16.82&#x1F34E; |
 |  Language Model       | ParlAI team          | 51.1       | -       |  15.31|
-|  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 56.1&#x1F34E;   |  11.73 |
+|  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | ??55.1&#x1F34E;   |  11.72 |
 
 &#x1F34E; denotes the current best performing model for each metric on the validation set.
 
