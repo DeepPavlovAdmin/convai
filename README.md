@@ -116,7 +116,7 @@ https://github.com/klshuster, https://github.com/jaseweston, https://github.com/
 
 See [this directory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2) for example baseline submissions.
 
-We will then run the automatic evaluations and update the leaderboard. You can submit a maximum of once per month.
+The models should work with PyTorch 0.4, and the top level README should tell us where eval_ppl.py, eval_hits.py etc. are so we can run them. We will then run the automatic evaluations and update the leaderboard. You can submit a maximum of once per month.
 We will use the same submitted code for the top performing models for computing human evaluations when the submission system is locked on September 30th.
 
 
