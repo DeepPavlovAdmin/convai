@@ -34,7 +34,8 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 Models by ParlAI team are baselines, and not entries into the competition; code is included for those models.
 
 Note that the [scripts](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines) that you can run locally will give metrics on the validation set, not the hidden test set which is reported here (for that, you need to submit your code, see below). 
-We do provide an additional validation set leaderboard [here](https://github.com/DeepPavlov/convai/blob/master/leaderboards.md) for your convenience.
+
+**Validation Leaderboard**  We also provide an additional validation set leaderboard [here](https://github.com/DeepPavlov/convai/blob/master/leaderboards.md).
 
 # PersonaChat ConvAI2 Dataset
 
