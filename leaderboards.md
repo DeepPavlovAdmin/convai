@@ -10,8 +10,13 @@ We will add the revised persona leaderboard here soon too.
 
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
-|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 36.5&#x1F34E;        | 18.3       | 16.82&#x1F34E; |
-|                       | Tensorborne          | 44.64      |  12.1       |  16.13|
+|                     | NEUROBOTICS      | 39.7	 |-       | 16.82	| 
+|                     | Sonic            | 38.87	 |-       | 16.88&#x1F34E;	|  
+|                     | Tensorborne      | 44.64      |  12.1       |  16.13|
+|                     | loopAI           | -       |  29.7 |  -  |
+|                     | Lost in Conversation| 62.83	 | -    | 15.91 | 
+|                     | flooders         | -     	 |-       | 15.96	| 
+|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 36.5&#x1F34E;        | 18.3       | 16.82 |
 |  Language Model       | ParlAI team          | 51.1       | -       |  15.31|
 |  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.1&#x1F34E;   |  11.72 |
 
