@@ -26,6 +26,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 | -------------        | ---      | :------------- | :-----  |  :----- |
 |                     | NEUROBOTICS      | 35.47	 |-       | 16.68&#x1F34E;	| 
 |                     | Sonic            | 33.46	 |-       | 16.67	|  
+|                     | Pinta            | -	     |  44.4  | 16.52	|  
 |                     | Tensorborne      | 38.24   |  12.0  | 15.94   |
 |                     | loopAI           | -       |  25.6  |  -  |
 |                     | Team Dialog 6    | 40.35   | 10.9   |  7.27	 |
