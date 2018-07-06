@@ -10,6 +10,7 @@ We will add the revised persona leaderboard here soon too.
 
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
+|                      | High Five | - | 66.2 &#x1F34E;  | - |
 |                     | Pinta            | -	     | 51.4   | 17.25&#x1F34E;	|  
 |                     | NEUROBOTICS      | 39.7	   |-       | 16.82	| 
 |                     | Sonic            | 38.87	 |-       | 16.88	|  
@@ -19,7 +20,7 @@ We will add the revised persona leaderboard here soon too.
 |                     | flooders         | -     	 |-       | 15.96	| 
 |  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 36.5&#x1F34E;        | 18.3       | 16.82 |
 |  Language Model       | ParlAI team          | 51.1       | -       |  15.31|
-|  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.1&#x1F34E;   |  11.72 |
+|  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.1  |  11.72 |
 
 &#x1F34E; denotes the current best performing model for each metric on the validation set.
 
