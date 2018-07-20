@@ -28,7 +28,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
-|                     |&#x1F917;         | 20.47&#x1F34E;   | 74.7&#x1F34E;   | 17.52&#x1F34E; |
+|                     |&#x1F917; (Hugging Face) | 20.47&#x1F34E;   | 74.7&#x1F34E;   | 17.52&#x1F34E; |
 |                     | NEUROBOTICS      | 35.47	 |-       | 16.68	| 
 |                     | Sonic            | 33.46	 |-       | 16.67	|  
 |                     | Pinta            | -	     |  44.4  | 16.52	|  
