@@ -10,7 +10,7 @@ We will add the revised persona leaderboard here soon too.
 
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
-|                      |&#x1F917;         | 23.05&#x1F34E;   | 74.3&#x1F34E;   | 17.85&#x1F34E; |
+|                      |&#x1F917; (Hugging Face) | 23.05&#x1F34E;   | 74.3&#x1F34E;   | 17.85&#x1F34E; |
 |                      | High Five | - | 66.2   | - |
 |                     | Pinta            | -	     | 51.4   | 17.25	|  
 |                     | NEUROBOTICS      | 39.7	   |-       | 16.82	| 
