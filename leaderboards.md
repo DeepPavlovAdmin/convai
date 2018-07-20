@@ -10,15 +10,16 @@ We will add the revised persona leaderboard here soon too.
 
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
-|                      | High Five | - | 66.2 &#x1F34E;  | - |
-|                     | Pinta            | -	     | 51.4   | 17.25&#x1F34E;	|  
+|                      |&#x1F917;         | 23.05&#x1F34E;   | 74.3&#x1F34E;   | 17.85&#x1F34E; |
+|                      | High Five | - | 66.2   | - |
+|                     | Pinta            | -	     | 51.4   | 17.25	|  
 |                     | NEUROBOTICS      | 39.7	   |-       | 16.82	| 
 |                     | Sonic            | 38.87	 |-       | 16.88	|  
 |                     | Tensorborne      | 44.64      |  12.1       |  16.13|
 |                     | loopAI           | -       |  29.7 |  -  |
 |                     | Lost in Conversation| 62.83	 | -    | 15.91 | 
 |                     | flooders         | -     	 |-       | 15.96	| 
-|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 36.5&#x1F34E;        | 18.3       | 16.82 |
+|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 36.5        | 18.3       | 16.82 |
 |  Language Model       | ParlAI team          | 51.1       | -       |  15.31|
 |  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.1  |  11.72 |
 
