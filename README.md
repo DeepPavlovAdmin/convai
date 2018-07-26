@@ -18,7 +18,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 
 - July 20: **Additional dataset published:** This [dataset](http://convai.io/data/) was collected during [DeepHack.Chat](http://deephack.me/chat) hackathon as a part of [ConvAI2](http://convai.io/) competition. The dataset contains more than **2000 dialogues** for [PersonaChat task](http://convai.io/#personachat-convai2-dataset) where human evaluators recruited via crowd sourcing platform [Yandex.Toloka](https://toloka.yandex.com/) chatted with bots submitted by teams.
 
-- July 10: **'Wild' evaluation started:** Evaluation by human volunteers is open. Chat with competing bots to help us select the winner! Bots are available in Messenger [m.me/convai.io](https://m.me/convai.io) and Telegram [t.me/Convai_chat_bot](https://t.me/Convai_chat_bot).
+- July 10: **'Wild' evaluation started:** Evaluation by human volunteers is open. Chat with competing bots! Bots are available in Messenger [m.me/convai.io](https://m.me/convai.io) and Telegram [t.me/Convai_chat_bot](https://t.me/Convai_chat_bot).
 
 - May 9: **Hackathon:** We will be organizing a *non-compulsory* hackathon around the competition: [DeepHack.Chat Hackathon](http://convai.io/#deephackchat-hackathon). The most promising team attending will receive a **travel grant** to attend NIPS 2018!!
 
@@ -114,7 +114,7 @@ The automated metrics will be used to obtain a shortlist of best performing syst
 
 During NIPS the `wild' live conversation can continue, and the best performing systems will be showcased and conversed with.
 
-We will declare winners in both the automated metrics tracks, and in the live evaluations (which will be considered the grand prize, being more important). The latter will consist of the average of the Turk and wild (volunteer) scores.
+We will declare winners in both the automated metrics tracks, and in the live evaluations (which will be considered the grand prize, being more important). The latter will consist of the weighted average of the Turk and wild (volunteer) scores.
 Finally, the solutions and any data collected will be made open source to the community.
 
 # Rules
