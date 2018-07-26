@@ -126,7 +126,7 @@ Finally, the solutions and any data collected will be made open source to the co
 
 # Model Submission
 
-To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts: emilydinan, klshuster, jaseweston, JackUrb, varvara-l, madrugado.
+To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts: [emilydinan](https://github.com/emilydinan), [klshuster](https://github.com/klshuster), [jaseweston](https://github.com/jaseweston), [JackUrb](https://github.com/JackUrb), [varvara-l](https://github.com/varvara-l), [madrugado](https://github.com/madrugado).
 
 See [this directory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2) for example baseline submissions.
 
