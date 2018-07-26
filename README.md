@@ -29,15 +29,18 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
 |                     |&#x1F917; (Hugging Face) | 20.47&#x1F34E;   | 74.7&#x1F34E;   | 17.52&#x1F34E; |
+|                     | Little Baby      | -       | 61     | -     |
+|                     | High Five        | 52.8    | 50.3   | 13.73 |
+|                     | Pinta            | -	     | 44.4   | 16.52	| 
+|                     | loopAI           | -       |  25.6  |  -  |
+|                     | Tensorborne      | 38.24   |  12.0  | 15.94   |
+|                     | Team Dialog 6    | 40.35   | 10.9   |  7.27	 |
 |                     | NEUROBOTICS      | 35.47	 |-       | 16.68	| 
 |                     | Sonic            | 33.46	 |-       | 16.67	|  
-|                     | Pinta            | -	     |  44.4  | 16.52	|  
-|                     | Tensorborne      | 38.24   |  12.0  | 15.94   |                
-|                     | Team Dialog 6    | 40.35   | 10.9   |  7.27	 |
 |                     | Lost in Conversation| 55.84	 | -    | 15.74 | 
 |                     | flooders         | -     	 |-       | 15.47	| 
-|                     | High Five       | -       | 45.5   | -     |
-|                     | loopAI           | -       |  25.6  |  -  |
+
+
 |  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 31.35       | 16.6       | 16.18  |
 |  [Language Model](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/language_model)      | ParlAI team          | 46.0         | -       |  15.02 |
 |  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.2    |  11.9 |
