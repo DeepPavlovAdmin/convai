@@ -5,7 +5,7 @@ There are currently few datasets appropriate for training and evaluating models 
 The aim of our competition is therefore to establish a concrete scenario for testing chatbots that aim to engage humans, and become a standard evaluation tool in order to make such systems directly comparable.
 
 This is the second Conversational Intelligence (ConvAI) Challenge. The previous one was conducted under the scope of NIPS 2017 Competitions track. This year we aim to improve over last year:
-* providing a dataset from the beginning, [Persona-Chat](https://s3.amazonaws.com/fair-data/parlai/personachat/personachat.tgz)
+* providing a dataset from the beginning, [Persona-Chat](http://convai.io/#personachat-convai2-dataset)
 * making the conversations more engaging for humans
 * simpler evaluation process (automatic evaluation, followed then by human evaluation)
 
