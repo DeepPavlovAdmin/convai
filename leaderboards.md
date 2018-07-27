@@ -11,6 +11,7 @@ We will add the revised persona leaderboard here soon too.
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
 |                      |&#x1F917; (Hugging Face) | 23.05&#x1F34E;   | 74.3&#x1F34E;   | 17.85&#x1F34E; |
+|                      | Team Pat        | -       | -      | 17.85 |
 |                      | Little Baby     | -       | 72.9   | -     |
 |                      | High Five       | 59.83   | 78.2   | 15.34 |
 |                     | Pinta            | -	     | 51.4   | 17.25	|  
