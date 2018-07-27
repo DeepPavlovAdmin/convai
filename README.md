@@ -39,6 +39,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 |                     | Sonic            | 33.46	 |-       | 16.67	|  
 |                     | Lost in Conversation| 55.84	 | -    | 15.74 | 
 |                     | flooders         | -     	 |-       | 15.47	| 
+|                     | Team Pat         | -       | -      | 13.23 |
 |  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 31.35       | 16.6       | 16.18  |
 |  [Language Model](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/language_model)      | ParlAI team          | 46.0         | -       |  15.02 |
 |  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.2    |  11.9 |
