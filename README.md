@@ -152,6 +152,24 @@ On September 30th the source code submission system will be locked, and the best
 
 Winners will be announced at NIPS 2018.
 
+# FAQ 
+1. **Why does the eval_ppl.py script report different perplexity than my model training/testing logs?**
+The eval_ppl script will give different performance than the perplexity reported by our baseline model training scripts. For instance, the model reported perplexity for the seq2seq model includes “easier” tokens such as predicting the “__end__” token which the model appends to each target. The separate eval_ppl script does a more careful job of evaluating (comparable across models) and doesn't include these extra special tokens from the model.
+
+2. **Which personas (self:original, self:revised, etc.) will my model be evaluated on?**
+All submissions for the leaderboard will be evaluated using the “self:original” personas. 
+
+3. **How do I view the data?**
+The competition dataset is available in our open source system [ParlAI](http://parl.ai/), more specifically [here](https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/convai2). That is, install ParlAI and then run
+`python examples/display_data.py --task convai2 --datatype train`
+to look at the data.
+
+4. **What is the best way to store my model file for submission to the competition?**
+We recommend storing your model files and any other large files you are using with Git-LFS. Please see more information [here](https://git-lfs.github.com/). 
+
+5. **Can I submit different models for different metrics?**
+No. This is supposed to measure the performance of a single model in varying ways.
+
 
 # DeepHack.Chat Hackathon
 
