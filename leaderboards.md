@@ -23,7 +23,7 @@ We will add the revised persona leaderboard here soon too.
 |                     | flooders         | -     	 |-       | 15.96	| 
 |                     | Mohd Shadab Alam | 52.6    | -      | 15.1  |
 |                     | Salty Fish       | 42.3    | -      | -     |
-|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 36.5        | 18.3       | 16.82 |
+|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 35.07        | 12.5       | 16.82 |
 |  Language Model       | ParlAI team          | 51.1       | -       |  15.31|
 |  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.1  |  11.72 |
 
