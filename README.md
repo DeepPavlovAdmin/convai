@@ -42,7 +42,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 |                     | Mohd Shadab Alam | 45.06   | -      | 14.85 |
 |                     | Team Pat         | -       | -      | 13.23 |
 |                     | Salty Fish       | 45.87   | -      | -     |
-|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 31.35       | 16.6       | 16.18  |
+|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 29.8       | 12.6       | 16.18  |
 |  [Language Model](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/language_model)      | ParlAI team          | 46.0         | -       |  15.02 |
 |  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.2    |  11.9 |
 
