@@ -1,6 +1,6 @@
 # 'Wild' Evaluation
 
-Top 10 solutions from current leaderboard are eligible for the 'wild' evaluation. Solution submitted to the 'wild' evaluation should be the same as solution tested with automated evaluation metrics.
+Up to 10 top solutions from current leaderboard are eligible for the 'wild' evaluation. To be qualified the solution should have better scores in at least one metric out of F1, PPL or hits compared to ParlAI baselines. Solution submitted to the 'wild' evaluation should be the same as solution tested with automated evaluation metrics.
 
 ## Submission
 
