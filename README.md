@@ -32,9 +32,10 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 |                     | Little Baby      | -       | 61.0    | -     |
 |                     | High Five        | 52.8    | 50.3   | 13.73 |
 |                     | Pinta            | -	     | 44.4   | 16.52	| 
-|                     | loopAI           | -       |  25.6  |  -  |
-|                     | Tensorborne      | 38.24   |  12.0  | 15.94   |
-|                     | Team Dialog 6    | 40.35   | 10.9   |  7.27	 |
+|                     | loopAI           | -       |  25.6  |  -    |
+|                     | 1st-contact      | 31.98   | 13.2   | 16.42 |
+|                     | Tensorborne      | 38.24   |  12.0  | 15.94 |
+|                     | Team Dialog 6    | 40.35   | 10.9   |  7.27	|
 |                     | NEUROBOTICS      | 35.47	 |-       | 16.68	| 
 |                     | Sonic            | 33.46	 |-       | 16.67	|  
 |                     | Lost in Conversation| 55.84	 | -    | 15.74 | 
