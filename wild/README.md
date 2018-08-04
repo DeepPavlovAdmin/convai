@@ -10,6 +10,8 @@ To submit bot for the wild evaluation you should:
 3. when you are ready, send your system in form of Docker container or detailed run instruction to the organizers;
 4. Organizers run your bot in isolated environment.
 
+You can use an existing ParlAI integration from the first ConvAI competition [here](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai).
+
 ## Bot API Documentation
 
 Bots are connectesd to the evaluation system via simplified version of [Telegram Bot API](https://core.telegram.org/bots/api). There are only two methods are available: `getUpdates` and `sendMessage`. Only text messages are allowed. The method `sendMessage` ignores all other fields besides `chat_id` and `text` (and additionally out unique field `msg_evaluation` described below).  The method `getUpdates` allows to use only `limit` and `timeout` fields. The system provides updates only of type `message`.
