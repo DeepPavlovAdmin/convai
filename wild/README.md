@@ -10,7 +10,7 @@ To submit bot for the wild evaluation you should:
 3. when you are ready, send your system in form of Docker container or detailed run instruction to the organizers;
 4. Organizers run your bot in isolated environment.
 
-You can use an existing ParlAI integration from the first ConvAI competition [here](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai).
+You can use an existing [ParlAI integration](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai) from the first ConvAI competition.
 
 ## Bot API Documentation
 
