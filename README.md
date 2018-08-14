@@ -30,9 +30,11 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 | -------------        | ---      | :------------- | :-----  |  :----- |
 |                     |&#x1F917; (Hugging Face) | 20.47&#x1F34E;   | 74.7&#x1F34E;   | 17.52&#x1F34E; |
 |                     | Little Baby      | -       | 61.0    | -     |
+|                     | Happy Minions    | 32.94   | 52.1   | 14.76 |
 |                     | High Five        | 52.8    | 50.3   | 13.73 |
 |                     | Pinta            | -	     | 44.4   | 16.52	| 
 |                     | loopAI           | -       |  25.6  |  -    |
+|                     | Mohd Shadab Alam | 30.97   | 14.4   | 16.44 |
 |                     | 1st-contact      | 31.98   | 13.2   | 16.42 |
 |                     | Tensorborne      | 38.24   |  12.0  | 15.94 |
 |                     | Team Dialog 6    | 40.35   | 10.9   |  7.27	|
@@ -40,7 +42,6 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 |                     | Sonic            | 33.46	 |-       | 16.67	|  
 |                     | Lost in Conversation| 55.84	 | -    | 15.74 | 
 |                     | flooders         | -     	 |-       | 15.47	| 
-|                     | Mohd Shadab Alam | 45.06   | -      | 14.85 |
 |                     | Team Pat         | -       | -      | 13.23 |
 |                     | Salty Fish       | 45.87   | -      | -     |
 |  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 29.8       | 12.6       | 16.18  |
