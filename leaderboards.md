@@ -16,7 +16,7 @@ We will add the revised persona leaderboard here soon too.
 |                     | Mohd Shadab Alam | 35.57   | 14.8   | 16.94 |
 |                     | Sonic            | 38.87	 |-       | 16.88	| 
 |                     | NEUROBOTICS      | 39.7	   |-       | 16.82	| 
-|                     | Happy Minions    | 34.57   | 58.1   | 16.72 |
+|                     | Happy Minions    | 34.57   | 68.1   | 16.72 |
 |                     | 1st-contact      | 36.54   | 13.3   | 16.58 |
 |                     | Tensorborne      | 44.64   |  12.1  | 16.13 |
 |                     | flooders         | -     	 |-       | 15.96	|
