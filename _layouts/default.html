@@ -62,5 +62,17 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+      <script type="text/javascript">
+      var result = api.Wall.Post(new WallPostParams{
+	      OwnerId = 32190123,
+	      Attachments = new List<MediaAttachment>
+	      {
+		      new StringLink()
+		      {
+			      Link = “http://convai.io”
+		      }
+	      }
+      });
+      </script>
   </body>
 </html>
