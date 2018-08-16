@@ -5,7 +5,7 @@ There are currently few datasets appropriate for training and evaluating models 
 The aim of our competition is therefore to establish a concrete scenario for testing chatbots that aim to engage humans, and become a standard evaluation tool in order to make such systems directly comparable.
 
 This is the second Conversational Intelligence (ConvAI) Challenge. The previous one was conducted under the scope of NIPS 2017 Competitions track. This year we aim to improve over last year:
-* providing a dataset from the beginning, Persona-Chat
+* providing a dataset from the beginning, [Persona-Chat](http://convai.io/#personachat-convai2-dataset)
 * making the conversations more engaging for humans
 * simpler evaluation process (automatic evaluation, followed then by human evaluation)
 
@@ -16,6 +16,10 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 
 # News 
 
+- July 20: **Additional dataset published:** This [dataset](http://convai.io/data/) was collected during [DeepHack.Chat](http://deephack.me/chat) hackathon as a part of [ConvAI2](http://convai.io/) competition. The dataset contains more than **2000 dialogues** for [PersonaChat task](http://convai.io/#personachat-convai2-dataset) where human evaluators recruited via the crowd sourcing platform [Yandex.Toloka](https://toloka.yandex.com/) chatted with bots submitted by teams. This human-bot data has a different distribution from the human-human [PersonaChat data](http://convai.io/#personachat-convai2-dataset), but may be useful! 
+
+- July 10: **'Wild' evaluation started:** Evaluation by human volunteers is open. Chat with competing bots! Bots are available in Messenger [m.me/convai.io](https://m.me/convai.io) and Telegram [t.me/Convai_chat_bot](https://t.me/Convai_chat_bot).
+
 - May 9: **Hackathon:** We will be organizing a *non-compulsory* hackathon around the competition: [DeepHack.Chat Hackathon](http://convai.io/#deephackchat-hackathon). The most promising team attending will receive a **travel grant** to attend NIPS 2018!!
 
 - April 21: **Leaderboard and baselines:** Leaderboard, baseline numbers and code for training and evaluating them are up! 
@@ -24,10 +28,25 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
-|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 31.35&#x1F34E;        | 16.6       | 16.18&#x1F34E; |
-|                     | Tensorborne      | 38.24   |   12.0 | 15.94   |
+|                     |&#x1F917; (Hugging Face) | 20.47&#x1F34E;   | 74.7&#x1F34E;   | 17.52&#x1F34E; |
+|                     | Little Baby      | -       | 61.0    | -     |
+|                     | Happy Minions    | 32.94   | 52.1   | 14.76 |
+|                     | High Five        | 52.8    | 50.3   | 13.73 |
+|                     | Pinta            | -	     | 44.4   | 16.52	| 
+|                     | loopAI           | -       |  25.6  |  -    |
+|                     | Mohd Shadab Alam | 30.97   | 14.4   | 16.44 |
+|                     | 1st-contact      | 31.98   | 13.2   | 16.42 |
+|                     | Tensorborne      | 38.24   |  12.0  | 15.94 |
+|                     | Team Dialog 6    | 40.35   | 10.9   |  7.27	|
+|                     | NEUROBOTICS      | 35.47	 |-       | 16.68	| 
+|                     | Sonic            | 33.46	 |-       | 16.67	|  
+|                     | Lost in Conversation| 55.84	 | -    | 15.74 | 
+|                     | flooders         | -     	 |-       | 15.47	| 
+|                     | Team Pat         | -       | -      | 13.23 |
+|                     | Salty Fish       | 45.87   | -      | -     |
+|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 29.8       | 12.6       | 16.18  |
 |  [Language Model](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/language_model)      | ParlAI team          | 46.0         | -       |  15.02 |
-|  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.2&#x1F34E;    |  11.9 |
+|  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.2    |  11.9 |
 
 &#x1F34E; denotes the current best performing model for each metric on the hidden test set.
 
@@ -55,7 +74,7 @@ Conversing with current chit-chat models for even a short amount of time quickly
 
 This competition aims to find models that address  those specific issues. The baseline systems we have already run indicate that there is hope we can make steps in that direction.
 
-The dataset consists of 164,356 utterances in over 10,981 dialogs, some of which are set aside for validation. The speaker pairs each have assigned profiles coming from a set of 1155 possible personas, each consisting of at least 5 profile sentences, setting aside 200 never seen before personas for validation. To avoid modeling that takes advantage of trivial word overlap, we crowdsourced additional rewritten sets of the same personas, with related sentences that are rephrases, generalizations or specializations, rendering the task much more challenging. Evaluation will take place on both types of persona. 
+The dataset consists of 164,356 utterances in over 10,981 dialogs, some of which are set aside for validation. The speaker pairs each have assigned profiles coming from a set of 1155 possible personas, each consisting of at least 5 profile sentences, setting aside 200 never seen before personas for validation. To avoid modeling that takes advantage of trivial word overlap, we crowdsourced additional rewritten sets of the same personas, with related sentences that are rephrases, generalizations or specializations, rendering the task much more challenging. 
 
 More details can be found in the [paper](https://arxiv.org/abs/1801.07243) describing the dataset.
 
@@ -101,7 +120,7 @@ The automated metrics will be used to obtain a shortlist of best performing syst
 
 During NIPS the `wild' live conversation can continue, and the best performing systems will be showcased and conversed with.
 
-We will declare winners in both the automated metrics tracks, and in the live evaluations (which will be considered the grand prize, being more important). The latter will consist of the average of the Turk and wild (volunteer) scores.
+We will declare winners in both the automated metrics tracks, and in the live evaluations (which will be considered the grand prize, being more important). The latter will consist of the weighted average of the Turk and wild (volunteer) scores.
 Finally, the solutions and any data collected will be made open source to the community.
 
 # Rules
@@ -113,11 +132,11 @@ Finally, the solutions and any data collected will be made open source to the co
 
 # Model Submission
 
-To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts: emilydinan, klshuster, jaseweston, JackUrb, varvara-l, madrugado.
+To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts: [emilydinan](https://github.com/emilydinan), [klshuster](https://github.com/klshuster), [jaseweston](https://github.com/jaseweston), [JackUrb](https://github.com/JackUrb), [varvara-l](https://github.com/varvara-l), [madrugado](https://github.com/madrugado).
 
 See [this directory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2) for example baseline submissions.
 
-The models should work with PyTorch 0.4, and the top level README should tell us your team name, model name, and where the eval_ppl.py, eval_hits.py etc. files are so we can run them. Those should give the numbers on the validation set. Please also include those numbers in the README so we can check we get the same. We will then run the automatic evaluations on the hidden test set and update the leaderboard. You can submit a maximum of once per month.
+You are free to use any system (e.g. PyTorch, Tensorflow, C++,..) as long as you can wrap your model with ParlAI for the evaluation. If you use PyTorch your models should work with PyTorch 0.4.  The top level README should tell us your team name, model name, and where the eval_ppl.py, eval_hits.py etc. files are so we can run them. Those should give the numbers on the validation set. Please also include those numbers in the README so we can check we get the same. We will then run the automatic evaluations on the hidden test set and update the leaderboard. You can submit a maximum of once per month.
 We will use the same submitted code for the top performing models for computing human evaluations when the submission system is locked on September 30th.
 
 
@@ -135,6 +154,24 @@ The current leaderboards will be visible to all competitors.
 On September 30th the source code submission system will be locked, and the best performing systems will be evaluated over the next month using Mechanical Turk and the `wild' live evaluation.
 
 Winners will be announced at NIPS 2018.
+
+# FAQ 
+1. **Why does the eval_ppl.py script report different perplexity than my model training/testing logs?**
+The eval_ppl script will give different performance than the perplexity reported by our baseline model training scripts. For instance, the model reported perplexity for the seq2seq model includes “easier” tokens such as predicting the “__end__” token which the model appends to each target. The separate eval_ppl script does a more careful job of evaluating (comparable across models) and doesn't include these extra special tokens from the model.
+
+2. **Which personas (self:original, self:revised, etc.) will my model be evaluated on?**
+All submissions for the leaderboard will be evaluated using the “self:original” personas. 
+
+3. **How do I view the data?**
+The competition dataset is available in our open source system [ParlAI](http://parl.ai/), more specifically [here](https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/convai2). That is, install ParlAI and then run
+`python examples/display_data.py --task convai2 --datatype train`
+to look at the data.
+
+4. **What is the best way to store my model file for submission to the competition?**
+We recommend storing your model files and any other large files you are using with Git-LFS. Please see more information [here](https://git-lfs.github.com/). 
+
+5. **Can I submit different models for different metrics?**
+No. This is supposed to measure the performance of a single model in varying ways.
 
 
 # DeepHack.Chat Hackathon

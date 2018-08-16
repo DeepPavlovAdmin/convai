@@ -10,10 +10,24 @@ We will add the revised persona leaderboard here soon too.
 
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
-|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 36.5&#x1F34E;        | 18.3       | 16.82&#x1F34E; |
-|                       | Tensorborne          | 44.64      |  12.1       |  16.13|
+|                      |&#x1F917; (Hugging Face) | 23.05&#x1F34E;   | 74.3&#x1F34E;   | 17.85&#x1F34E; |
+|                      | Team Pat        | -       | -      | 17.85 |
+|                     | Pinta            | -	     | 51.4   | 17.25	|
+|                     | Mohd Shadab Alam | 35.57   | 14.8   | 16.94 |
+|                     | Sonic            | 38.87	 |-       | 16.88	| 
+|                     | NEUROBOTICS      | 39.7	   |-       | 16.82	| 
+|                     | Happy Minions    | 34.57   | 68.1   | 16.72 |
+|                     | 1st-contact      | 36.54   | 13.3   | 16.58 |
+|                     | Tensorborne      | 44.64   |  12.1  | 16.13 |
+|                     | flooders         | -     	 |-       | 15.96	|
+|                     | Lost in Conversation| 62.83	 | -    | 15.91 |
+|                     | High Five        | 59.83   | 78.2   | 15.34 |
+|                     | Little Baby      | -       | 72.9   | -     |
+|                     | loopAI           | -       |  29.7  |  -    |
+|                     | Salty Fish       | 42.3    | -      | -     |
+|  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 35.07        | 12.5       | 16.82 |
 |  Language Model       | ParlAI team          | 51.1       | -       |  15.31|
-|  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.1&#x1F34E;   |  11.72 |
+|  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.1  |  11.72 |
 
 &#x1F34E; denotes the current best performing model for each metric on the validation set.
 
