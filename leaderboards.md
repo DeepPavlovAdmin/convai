@@ -11,13 +11,13 @@ We will add the revised persona leaderboard here soon too.
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
 |                      |&#x1F917; (Hugging Face) | 23.05&#x1F34E;   | 74.3&#x1F34E;   | 17.85&#x1F34E; |
-|                      | Team Pat        | -       | -      | 17.85 |
 |                     | Pinta            | -	     | 51.4   | 17.25	|
 |                     | Mohd Shadab Alam | 35.57   | 14.8   | 16.94 |
 |                     | Sonic            | 38.87	 |-       | 16.88	| 
 |                     | NEUROBOTICS      | 39.7	   |-       | 16.82	| 
 |                     | Happy Minions    | 34.57   | 68.1   | 16.72 |
 |                     | 1st-contact      | 36.54   | 13.3   | 16.58 |
+| topicSeq2seq        | Team Pat         | -       | -      | 16.58 |
 |                     | Tensorborne      | 44.64   |  12.1  | 16.13 |
 |                     | flooders         | -     	 |-       | 15.96	|
 |                     | Lost in Conversation| 62.83	 | -    | 15.91 |
