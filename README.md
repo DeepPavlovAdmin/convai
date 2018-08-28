@@ -39,10 +39,10 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 |                     | Tensorborne      | 38.24   |  12.0  | 15.94 |
 |                     | Team Dialog 6    | 40.35   | 10.9   |  7.27	|
 |                     | NEUROBOTICS      | 35.47	 |-       | 16.68	| 
-|                     | Sonic            | 33.46	 |-       | 16.67	|  
+|                     | Sonic            | 33.46	 |-       | 16.67	|
+| topicSeq2seq        | Team Pat         | -       | -      | 16.11 |
 |                     | Lost in Conversation| 55.84	 | -    | 15.74 | 
 |                     | flooders         | -     	 |-       | 15.47	| 
-|                     | Team Pat         | -       | -      | 13.23 |
 |                     | Salty Fish       | 45.87   | -      | -     |
 |  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 29.8       | 12.6       | 16.18  |
 |  [Language Model](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/language_model)      | ParlAI team          | 46.0         | -       |  15.02 |
