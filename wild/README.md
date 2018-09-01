@@ -12,7 +12,15 @@ To submit bot for the wild evaluation you should:
 3. When you are ready, send your system in form of Docker container or detailed run instruction to the organizers.
 4. Organizers run your bot in isolated environment.
 
-You can use an existing [ParlAI integration](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai) from the first ConvAI competition.
+You can use an existing [ParlAI integration](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai) from the first ConvAI competition. To use the integration you need to use a ConvAI world, like this:
+
+```from parlai.projects.convai.convai_world import ConvAIWorld```
+
+and run your bot with these command line options:
+
+```python3 bot.py -bi <BOT_TOKEN> -rbu <SERVER_URL>```
+
+where `<BOT_TOKEN>` provided by the organizers and `<SERVER_URL>` is listed below (it differs for test & production servers).
 
 ## Testing submitted bot
 You can test your submitted bot via Telegram: 
