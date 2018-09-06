@@ -11,7 +11,6 @@ We will add the revised persona leaderboard here soon too.
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
 |                      |&#x1F917; (Hugging Face) | 23.05&#x1F34E;   | 74.3&#x1F34E;   | 17.85&#x1F34E; |
-|                     | Pinta            | -	     | 51.4   | 17.25	|
 |                     | Mohd Shadab Alam | 35.57   | 14.8   | 16.94 |
 |                     | Sonic            | 38.87	 |-       | 16.88	| 
 |                     | NEUROBOTICS      | 39.7	   |-       | 16.82	| 
@@ -22,8 +21,10 @@ We will add the revised persona leaderboard here soon too.
 |                     | flooders         | -     	 |-       | 15.96	|
 |                     | Lost in Conversation| 62.83	 | -    | 15.91 |
 |                     | High Five        | 59.83   | 78.2   | 15.34 |
-|                     | Little Baby      | -       | 72.9   | -     |
+|                     | IamNotAdele      | 53.46   | -      | 12.85 |
+|                     | Little Baby      | -       | 74.8   | -     |
 |                     | loopAI           | -       |  29.7  |  -    |
+|                     | Pinta            | 32.56   | -      | -   	|
 |                     | Salty Fish       | 42.3    | -      | -     |
 |  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 35.07        | 12.5       | 16.82 |
 |  Language Model       | ParlAI team          | 51.1       | -       |  15.31|
