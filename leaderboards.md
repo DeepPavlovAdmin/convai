@@ -23,6 +23,7 @@ We will add the revised persona leaderboard here soon too.
 |                     | High Five        | 59.83   | 78.2   | 15.34 |
 |                     | IamNotAdele      | 53.46   | -      | 12.85 |
 |                     | Little Baby      | -       | 74.8   | -     |
+|                     | Cats'team        | -       | 43.4   | -     |
 |                     | loopAI           | -       |  29.7  |  -    |
 |                     | Pinta            | 32.56   | -      | -   	|
 |                     | Salty Fish       | 42.3    | -      | -     |
