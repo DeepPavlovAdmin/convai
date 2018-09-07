@@ -32,6 +32,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 |                     | Little Baby      | -       | 63.4   | -     |
 |                     | Happy Minions    | 32.94   | 52.1   | 14.76 |
 |                     | High Five        | 52.8    | 50.3   | 13.73 |
+|                     | Cats'team        | -       | 35.9   | -     |
 |                     | loopAI           | -       |  25.6  |  -    |
 |                     | Mohd Shadab Alam | 30.97   | 14.4   | 16.44 |
 |                     | 1st-contact      | 31.98   | 13.2   | 16.42 |
