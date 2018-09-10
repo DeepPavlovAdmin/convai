@@ -30,8 +30,8 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 | -------------        | ---      | :------------- | :-----  |  :----- |
 |                     |&#x1F917; (Hugging Face) | 20.47&#x1F34E;   | 74.7&#x1F34E;   | 17.52&#x1F34E; |
 |                     | Little Baby      | -       | 63.4   | -     |
+|                     | High Five        | -       | 60.4   | -     |
 |                     | Happy Minions    | 32.94   | 52.1   | 14.76 |
-|                     | High Five        | 52.8    | 50.3   | 13.73 |
 |                     | Cats'team        | -       | 35.9   | -     |
 |                     | loopAI           | -       |  25.6  |  -    |
 |                     | Mohd Shadab Alam | 30.97   | 14.4   | 16.44 |
