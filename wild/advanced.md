@@ -1,4 +1,4 @@
-# Adavanced Topics
+# Advanced Topics
 ## Bot API Documentation
 
 Bots are connected to the evaluation system via simplified version of [Telegram Bot API](https://core.telegram.org/bots/api). There are only two methods are available: `getUpdates` and `sendMessage`. Only text messages are allowed. The method `sendMessage` ignores all other fields besides `chat_id` and `text` (and additionally out unique field `msg_evaluation` described below).  The method `getUpdates` allows to use only `limit` and `timeout` fields. The system provides updates only of type `message`.
