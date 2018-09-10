@@ -20,9 +20,9 @@ We will add the revised persona leaderboard here soon too.
 |                     | Tensorborne      | 44.64   |  12.1  | 16.13 |
 |                     | flooders         | -     	 |-       | 15.96	|
 |                     | Lost in Conversation| 62.83	 | -    | 15.91 |
-|                     | High Five        | 59.83   | 78.2   | 15.34 |
 |                     | IamNotAdele      | 53.46   | -      | 12.85 |
 |                     | Little Baby      | -       | 74.8   | -     |
+|                     | High Five        | -       | 73.9   | -     |
 |                     | Cats'team        | -       | 43.4   | -     |
 |                     | loopAI           | -       |  29.7  |  -    |
 |                     | Pinta            | 32.56   | -      | -   	|
