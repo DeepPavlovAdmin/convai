@@ -65,3 +65,9 @@ Evaluation of a specific message:
   "msg_evaluation": {"score": 0, "message_id": 12}
 }
 ```
+
+A limitation for sendMessage is applied. If a bot send more than a predefined number of malformed messages then a dialog will be forced to end.
+
+Maximum number of invalid messages sent by a bot:			10
+
+
