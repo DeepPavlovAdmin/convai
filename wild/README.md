@@ -56,7 +56,7 @@ Maximum inactivity time (s): 				600
 
 Maximum utterance number: 					1000
 
-Maximum number of invalid messages sent by a bot:			10
+Maximum inactivity time is a longest period between two successive messages of a bot or a person.
 
 ### Content Limitations
 
