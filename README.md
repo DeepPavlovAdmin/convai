@@ -34,7 +34,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 |                     | Happy Minions    | 32.94   | 52.1   | 14.76 |
 |                     | Cats'team        | -       | 35.9   | -     |
 |                     | loopAI           | -       |  25.6  |  -    |
-|                     | Mohd Shadab Alam | 30.97   | 14.4   | 16.44 |
+|                     | Mohd Shadab Alam | 29.94   | 13.8   | 16.91 |
 |                     | 1st-contact      | 31.98   | 13.2   | 16.42 |
 |                     | Tensorborne      | 38.24   |  12.0  | 15.94 |
 |                     | Team Dialog 6    | 40.35   | 10.9   |  7.27	|
