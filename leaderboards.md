@@ -26,7 +26,7 @@ We will add the revised persona leaderboard here soon too.
 |                     | Cats'team        | -       | 43.4   | -     |
 |                     | loopAI           | -       |  29.7  |  -    |
 |                     | Pinta            | 32.56   | -      | -   	|
-|                     | Salty Fish       | 42.3    | -      | -     |
+|                     | Salty Fish       | 36.7    | -      | -     |
 |  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 35.07        | 12.5       | 16.82 |
 |  Language Model       | ParlAI team          | 51.1       | -       |  15.31|
 |  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.1  |  11.72 |
