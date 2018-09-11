@@ -11,7 +11,7 @@ We will add the revised persona leaderboard here soon too.
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
 |                      |&#x1F917; (Hugging Face) | 23.05&#x1F34E;   | 74.3&#x1F34E;   | 17.85&#x1F34E; |
-|                     | Mohd Shadab Alam | 35.57   | 14.8   | 16.94 |
+|                     | Mohd Shadab Alam | 34.12   | 13.4   | 17.08 |
 |                     | Sonic            | 38.87	 |-       | 16.88	| 
 |                     | NEUROBOTICS      | 39.7	   |-       | 16.82	| 
 |                     | Happy Minions    | 34.57   | 68.1   | 16.72 |
