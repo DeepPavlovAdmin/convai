@@ -9,7 +9,7 @@ Wild evaluation itself is a process of human conversations with exposed bots. Th
 To submit bot for the wild evaluation you should:
 1. Get a token for your bot from organizers by writing an email to info@convai.io.
 2. Use the token for testing on a test server.
-3. When you are ready, add a run instruction to your repository. The instruction should also describe the environment to run your system in. Optionally, you could send a Docker container with your system to the organizers. 
+3. When you are ready, add a run instruction to your repository. The instruction should also describe the environment to run your system in. Optionally, you could put instruction in the form of Dockerfile commited to the same repository. 
 4. Organizers will run your bot in isolated environment.
 
 You can use an existing [ParlAI integration](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai) from the first ConvAI competition. To use the integration you need to use a ConvAI world, like this:
