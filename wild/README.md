@@ -24,7 +24,7 @@ where `<BOT_TOKEN>` provided by the organizers and `<SERVER_URL>` is listed belo
 
 ### Test server URL: 
 
-    https://2258.lnsigo.mipt.ru/
+    https://2258.lnsigo.mipt.ru/bot
 
 ## Testing a bot
 You can test your bot via Telegram: 
