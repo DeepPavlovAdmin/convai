@@ -5,11 +5,11 @@ Bots are connected to the evaluation system via simplified version of [Telegram 
 
 ### Test server URL: 
 
-    https://2258.lnsigo.mipt.ru/
+    https://2258.lnsigo.mipt.ru/bot
 
 ### Production server URL:
 
-    https://2242.lnsigo.mipt.ru/ 
+    https://2242.lnsigo.mipt.ru/bot 
 
 ## Server API usage:
 
