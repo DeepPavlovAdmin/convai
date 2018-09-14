@@ -1,18 +1,18 @@
 # 'Wild' Evaluation
 
-Up to 10 top solutions from current leaderboard are eligible for the 'wild' evaluation. To be qualified the solution should have better scores in at least one metric out of F1, PPL or hits compared to ParlAI baselines. Solution submitted to the 'wild' evaluation should be the same as solution tested with automated evaluation metrics.
+Up to 10 top solutions from the current leaderboard are eligible for the 'wild' evaluation. To be qualified the solution should have better scores in at least one metric out of F1, PPL or hits compared to the ParlAI Team baselines. The solution submitted to the 'wild' evaluation should be the same as the solution tested with automated evaluation metrics.
 
-Wild evaluation itself is a process of human conversations with exposed bots. The bots are exposed through so called proxy-bot which randomly connects a person with a bot. A person talks to a bot and gives it a score by two mearures: how a person likes the conversation and how well a bot is playing its part.
+Wild evaluation itself involves human conversations with bots. The bots are exposed through a so called proxy-bot which randomly connects a person with a bot. A person talks to a bot and gives it a score by two mearures: how a person likes the conversation and how well a bot is playing its part.
 
 ## Submission
 
-To submit bot for the wild evaluation you should:
+To submit a bot for the wild evaluation you should:
 1. Get a token for your bot from organizers by writing an email to info@convai.io.
 2. Use the token for testing on a test server.
-3. When you are ready, add a run instruction to your repository. The instruction should also describe the environment to run your system in. Optionally, you could put instruction in the form of Dockerfile commited to the same repository. 
-4. Organizers will run your bot in isolated environment.
+3. When you are ready, add a run instruction to your repository. The instruction should also describe the environment to run your system in. Optionally, you could put the instructions in the form of Dockerfile commited to the same repository. 
+4. Organizers will run your bot in an isolated environment.
 
-You can use an existing [ParlAI integration](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai) from the first ConvAI competition. To use the integration you need to use a ConvAI world, like this:
+You can use the existing [ParlAI integration](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai) from the first ConvAI competition. To use the integration you need to use a ConvAI world, like this:
 
 ```from parlai.projects.convai.convai_world import ConvAIWorld```
 
@@ -31,7 +31,7 @@ You can test your bot via Telegram:
 - test server's proxy-bot: [@Convai_test_chat_bot](https://t.me/Convai_test_chat_bot)
 - production server's proxy-bot: [@Convai_chat_bot](https://t.me/Convai_chat_bot)
 
-Also production server's proxy-bot is available through [Facebook Messenger](https://www.messenger.com/t/convai.io).
+Also the production server's proxy-bot is available through [Facebook Messenger](https://www.messenger.com/t/convai.io).
 
 Due to random nature of connection through a proxy-bot you may be not connected to your submitted bot. To overcome this there is an option to bind a Telegram account to a specific bot, so it will be always connected directly to the specific bot. If you want this option for your bot, please write an email with your Telegram `user_id` and your team name to info@convai.io.
 
