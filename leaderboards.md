@@ -17,12 +17,13 @@ We will add the revised persona leaderboard here soon too.
 |                     | Happy Minions    | 34.57   | 68.1   | 16.72 |
 |                     | 1st-contact      | 36.54   | 13.3   | 16.58 |
 | topicSeq2seq        | Team Pat         | -       | -      | 16.58 |
+|                     | Roboy            | -       | -      | 16.25 |
 |                     | Tensorborne      | 44.64   |  12.1  | 16.13 |
 |                     | flooders         | -     	 |-       | 15.96	|
 |                     | Lost in Conversation| 62.83	 | -    | 15.91 |
 |                     | IamNotAdele      | 53.46   | -      | 12.85 |
-|                     | Little Baby      | -       | 74.8&#x1F34E;   | -     |
-|                     | High Five        | -       | 73.9   | -     |
+|                     | Little Baby      | -       | 74.8   | -     |
+|                     | High Five        | -       | 79.1&#x1F34E;   | -     |
 |                     | Cats'team        | -       | 43.4   | -     |
 |                     | loopAI           | -       |  29.7  |  -    |
 |                     | Pinta            | 32.56   | -      | -   	|
