@@ -33,7 +33,9 @@ You can test your bot via Telegram:
 
 Also the production server's proxy-bot is available through [Facebook Messenger](https://www.messenger.com/t/convai.io).
 
-Due to random nature of connection through a proxy-bot you may be not connected to your submitted bot. To overcome this there is an option to bind a Telegram account to a specific bot, so it will be always connected directly to the specific bot. If you want this option for your bot, please write an email with your Telegram `user_id` and your team name to info@convai.io.
+Due to random nature of connection through a proxy-bot you may be not connected to your bot. To overcome this there is an option to bind a Telegram account to a specific bot by using `/setbot` command for proxy-bot. Once you've set a bot for your account this account will be always connected to the specified bot. You can unset preferred bot by using `/unset` command.
+
+This functionality will be available only on test server.
 
 
 ## Wild Evaluation Details
