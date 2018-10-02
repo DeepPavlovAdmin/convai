@@ -23,8 +23,8 @@ We will add the revised persona leaderboard here soon too.
 |                     | Tensorborne      | 44.64   |  12.1  | 16.13 |
 |                     | flooders         | -     	 |-       | 15.96	|
 |                     | IamNotAdele      | 53.46   | -      | 12.85 |
-|                     | Little Baby      | -       | 74.8   | -     |
-|                     | High Five        | -       | 79.1&#x1F34E;   | -     |
+|                     | Little Baby(AI小奶娃)| -    | 83.0&#x1F34E; | -     |
+|                     | High Five        | -       | 79.1   | -     |
 |                     | Cats'team        | -       | 43.4   | -     |
 |                     | loopAI           | -       |  29.7  |  -    |
 |                     | Salty Fish       | 36.7    | -      | -     |
