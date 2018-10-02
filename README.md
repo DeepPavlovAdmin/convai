@@ -48,6 +48,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 | topicSeq2seq        | Team Pat         | -       | -      | 16.11 |
 |                     | Roboy            | -       | -      | 15.83 |
 |                     | flooders         | -     	 |-       | 15.47	| 
+|                     | Clova Xiaodong Gu| -       | -      | 14.37 |
 |                     | IamNotAdele      | 66.47   | -      | 13.09 |
 |                     | Salty Fish       | 38.86   | -      | -     |
 |  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 29.8       | 12.6       | 16.18  |
