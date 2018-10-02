@@ -11,6 +11,7 @@ We will add the revised persona leaderboard here soon too.
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
 |                      |&#x1F917; (Hugging Face) | 23.05&#x1F34E;   | 74.3   | 17.85&#x1F34E; |
+|                     | Lost in Conversation| -  	 | -      | 17.79 |
 |                     | Pinta            | 23.86   | -      | 17.27	|
 |                     | Mohd Shadab Alam | 34.12   | 13.4   | 17.08 |
 |                     | Sonic            | 38.87	 |-       | 16.88	| 
@@ -21,7 +22,6 @@ We will add the revised persona leaderboard here soon too.
 |                     | Roboy            | -       | -      | 16.25 |
 |                     | Tensorborne      | 44.64   |  12.1  | 16.13 |
 |                     | flooders         | -     	 |-       | 15.96	|
-|                     | Lost in Conversation| 62.83	 | -    | 15.91 |
 |                     | IamNotAdele      | 53.46   | -      | 12.85 |
 |                     | Little Baby      | -       | 74.8   | -     |
 |                     | High Five        | -       | 79.1&#x1F34E;   | -     |
