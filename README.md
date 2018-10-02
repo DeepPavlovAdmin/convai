@@ -16,7 +16,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 
 # News 
 
-- September 27: **Final stage is almost here:** We invite teams to prepare and test their solutions for the 'wild' evaluation part of the challenge. More details can be found at http://convai.io/wild/. The final stage of the competition also includes MTurk evaluation. Every team should provide an interactive script to make it possible, e.g. like this [one](https://github.com/facebookresearch/ParlAI/blob/master/projects/convai2/baselines/kvmemnn/interactive.py).
+- September 30: **The submissions are locked and the final stage is almost here:** We invite teams to prepare and test their solutions for the 'wild' evaluation part of the challenge. More details can be found at http://convai.io/wild/. The final stage of the competition also includes MTurk evaluation. Every team should provide an interactive script to make it possible, e.g. like this [one](https://github.com/facebookresearch/ParlAI/blob/master/projects/convai2/baselines/kvmemnn/interactive.py).
 
 - July 20: **Additional dataset published:** This [dataset](http://convai.io/data/) was collected during [DeepHack.Chat](http://deephack.me/chat) hackathon as a part of [ConvAI2](http://convai.io/) competition. The dataset contains more than **2000 dialogues** for [PersonaChat task](http://convai.io/#personachat-convai2-dataset) where human evaluators recruited via the crowd sourcing platform [Yandex.Toloka](https://toloka.yandex.com/) chatted with bots submitted by teams. This human-bot data has a different distribution from the human-human [PersonaChat data](http://convai.io/#personachat-convai2-dataset), but may be useful! 
 
