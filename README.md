@@ -34,6 +34,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 |                     | High Five        | -       | 65.9   | -     |
 |                     | Little Baby(AI小奶娃)| -    | 64.8   | -     |
 |                     | Happy Minions    | 32.94   | 52.1   | 14.76 |
+|                     | Sweet Fish       | -       | 45.7   | -     |
 |                     | Cats'team        | -       | 35.9   | -     |
 |                     | Khai Mai Alt     | -       | 34.6   | 13.03 |
 |                     | loopAI           | -       |  25.6  |  -    |
