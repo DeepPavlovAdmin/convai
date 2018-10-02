@@ -47,8 +47,8 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 |                     | Lost in Conversation| 55.84	 | -    | 15.74 | 
 |                     | flooders         | -     	 |-       | 15.47	| 
 |                     | IamNotAdele      | 66.47   | -      | 13.09 |
+|                     | Pinta            | 32.49	 | -      | - 	  | 
 |                     | Salty Fish       | 38.86   | -      | -     |
-|                     | Pinta            | 37.85	 | -      | - 	  | 
 |  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 29.8       | 12.6       | 16.18  |
 |  [Language Model](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/language_model)      | ParlAI team          | 46.0         | -       |  15.02 |
 |  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.2    |  11.9 |
