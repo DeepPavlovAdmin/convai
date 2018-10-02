@@ -32,7 +32,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 | -------------        | ---      | :------------- | :-----  |  :----- |
 |                     |&#x1F917; (Hugging Face) | 20.47&#x1F34E;   | 74.7&#x1F34E;   | 17.52&#x1F34E; |
 |                     | High Five        | -       | 65.9   | -     |
-|                     | Little Baby      | -       | 63.4   | -     |
+|                     | Little Baby(AI小奶娃)| -    | 64.8   | -     |
 |                     | Happy Minions    | 32.94   | 52.1   | 14.76 |
 |                     | Cats'team        | -       | 35.9   | -     |
 |                     | loopAI           | -       |  25.6  |  -    |
