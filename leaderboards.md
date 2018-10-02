@@ -10,7 +10,7 @@ We will add the revised persona leaderboard here soon too.
 
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
-|                      |&#x1F917; (Hugging Face) | 23.05&#x1F34E;   | 74.3   | 17.85&#x1F34E; |
+|                      |&#x1F917; (Hugging Face) | 17.51&#x1F34E;   | 82.1   | 19.09&#x1F34E; |
 |                     | Lost in Conversation| -  	 | -      | 17.79 |
 |                     | Khai Mai Alt     | -       | 85.3&#x1F34E;| 17.64 |
 |                     | Pinta            | 23.86   | -      | 17.27	|
