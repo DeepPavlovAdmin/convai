@@ -27,6 +27,7 @@ We will add the revised persona leaderboard here soon too.
 |                     | IamNotAdele      | 53.46   | -      | 12.85 |
 |                     | Little Baby(AI小奶娃)| -    | 83.0   | -     |
 |                     | High Five        | -       | 79.1   | -     |
+|                     | Sweet Fish       | -       | 75.6   | -     |
 |                     | Cats'team        | -       | 43.4   | -     |
 |                     | loopAI           | -       |  29.7  |  -    |
 |                     | Salty Fish       | 36.7    | -      | -     |
