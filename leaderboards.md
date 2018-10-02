@@ -12,6 +12,7 @@ We will add the revised persona leaderboard here soon too.
 | -------------        | ---      | :------------- | :-----  |  :----- |
 |                      |&#x1F917; (Hugging Face) | 23.05&#x1F34E;   | 74.3   | 17.85&#x1F34E; |
 |                     | Lost in Conversation| -  	 | -      | 17.79 |
+|                     | Khai Mai Alt     | -       | 85.3&#x1F34E;| 17.64 |
 |                     | Pinta            | 23.86   | -      | 17.27	|
 |                     | Mohd Shadab Alam | 34.12   | 13.4   | 17.08 |
 |                     | Sonic            | 38.87	 |-       | 16.88	| 
@@ -23,7 +24,7 @@ We will add the revised persona leaderboard here soon too.
 |                     | Tensorborne      | 44.64   |  12.1  | 16.13 |
 |                     | flooders         | -     	 |-       | 15.96	|
 |                     | IamNotAdele      | 53.46   | -      | 12.85 |
-|                     | Little Baby(AI小奶娃)| -    | 83.0&#x1F34E; | -     |
+|                     | Little Baby(AI小奶娃)| -    | 83.0   | -     |
 |                     | High Five        | -       | 79.1   | -     |
 |                     | Cats'team        | -       | 43.4   | -     |
 |                     | loopAI           | -       |  29.7  |  -    |
