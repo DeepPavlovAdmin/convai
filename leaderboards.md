@@ -11,6 +11,7 @@ We will add the revised persona leaderboard here soon too.
 | Model                | Creator  | PPL           | Hits@1  |   F1   |
 | -------------        | ---      | :------------- | :-----  |  :----- |
 |                      |&#x1F917; (Hugging Face) | 23.05&#x1F34E;   | 74.3   | 17.85&#x1F34E; |
+|                     | Pinta            | 23.86   | -      | 17.27	|
 |                     | Mohd Shadab Alam | 34.12   | 13.4   | 17.08 |
 |                     | Sonic            | 38.87	 |-       | 16.88	| 
 |                     | NEUROBOTICS      | 39.7	   |-       | 16.82	| 
@@ -26,7 +27,6 @@ We will add the revised persona leaderboard here soon too.
 |                     | High Five        | -       | 79.1&#x1F34E;   | -     |
 |                     | Cats'team        | -       | 43.4   | -     |
 |                     | loopAI           | -       |  29.7  |  -    |
-|                     | Pinta            | 32.56   | -      | -   	|
 |                     | Salty Fish       | 36.7    | -      | -     |
 |  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 35.07        | 12.5       | 16.82 |
 |  Language Model       | ParlAI team          | 51.1       | -       |  15.31|
