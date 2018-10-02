@@ -35,6 +35,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 |                     | Little Baby(AI小奶娃)| -    | 64.8   | -     |
 |                     | Happy Minions    | 32.94   | 52.1   | 14.76 |
 |                     | Cats'team        | -       | 35.9   | -     |
+|                     | Khai Mai Alt     | -       | 34.6   | 13.03 |
 |                     | loopAI           | -       |  25.6  |  -    |
 |                     | Mohd Shadab Alam | 29.94   | 13.8   | 16.91 |
 |                     | 1st-contact      | 31.98   | 13.2   | 16.42 |
