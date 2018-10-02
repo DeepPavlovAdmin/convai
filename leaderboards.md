@@ -23,6 +23,7 @@ We will add the revised persona leaderboard here soon too.
 |                     | Roboy            | -       | -      | 16.25 |
 |                     | Tensorborne      | 44.64   |  12.1  | 16.13 |
 |                     | flooders         | -     	 |-       | 15.96	|
+|                     | Clova Xiaodong Gu| -       | -      | 15.39 |
 |                     | IamNotAdele      | 53.46   | -      | 12.85 |
 |                     | Little Baby(AI小奶娃)| -    | 83.0   | -     |
 |                     | High Five        | -       | 79.1   | -     |
