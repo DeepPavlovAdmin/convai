@@ -33,7 +33,6 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 |                     |&#x1F917; (Hugging Face) | 16.28&#x1F34E;   | 80.7&#x1F34E;   | 19.5&#x1F34E; |
 |                     | High Five        | -       | 65.9   | -     |
 |                     | Little Baby(AI小奶娃)| -    | 64.8   | -     |
-|                     | Happy Minions    | 32.94   | 52.1   | 14.76 |
 |                     | Sweet Fish       | -       | 45.7   | -     |
 |                     | Cats'team        | -       | 35.9   | -     |
 |                     | Khai Mai Alt     | -       | 34.6   | 13.03 |
@@ -47,6 +46,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 |                     | Pinta            | 32.49	 | -      | 16.39 | 
 |                     | Lost in Conversation| - 	 | -      | 17.77 | 
 | topicSeq2seq        | Team Pat         | -       | -      | 16.11 |
+|                     | Happy Minions    | 29.01   | -      | 16.01 |
 |                     | Roboy            | -       | -      | 15.83 |
 |                     | flooders         | -     	 |-       | 15.47	| 
 |                     | Clova Xiaodong Gu| -       | -      | 14.37 |
