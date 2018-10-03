@@ -33,20 +33,20 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 |                     |&#x1F917; (Hugging Face) | 16.28&#x1F34E;   | 80.7&#x1F34E;   | 19.5&#x1F34E; |
 |                     | High Five        | -       | 65.9   | -     |
 |                     | Little Baby(AI小奶娃)| -    | 64.8   | -     |
+|                     | Lost in Conversation| - 	 | -      | 17.77 | 
+|                     | Happy Minions    | 29.01   | -      | 16.01 |
+|                     | Mohd Shadab Alam | 29.94   | 13.8   | 16.91 |
+|                     | NEUROBOTICS      | 35.47	 |-       | 16.68	| 
+|                     | Sonic            | 33.46	 |-       | 16.67	|
 |                     | Sweet Fish       | -       | 45.7   | -     |
 |                     | Cats'team        | -       | 35.9   | -     |
 |                     | Khai Mai Alt     | -       | 34.6   | 13.03 |
 |                     | loopAI           | -       |  25.6  |  -    |
-|                     | Mohd Shadab Alam | 29.94   | 13.8   | 16.91 |
 |                     | 1st-contact      | 31.98   | 13.2   | 16.42 |
 |                     | Tensorborne      | 38.24   |  12.0  | 15.94 |
 |                     | Team Dialog 6    | 40.35   | 10.9   |  7.27	|
-|                     | NEUROBOTICS      | 35.47	 |-       | 16.68	| 
-|                     | Sonic            | 33.46	 |-       | 16.67	|
 |                     | Pinta            | 32.49	 | -      | 16.39 | 
-|                     | Lost in Conversation| - 	 | -      | 17.77 | 
 | topicSeq2seq        | Team Pat         | -       | -      | 16.11 |
-|                     | Happy Minions    | 29.01   | -      | 16.01 |
 |                     | Roboy            | -       | -      | 15.83 |
 |                     | flooders         | -     	 |-       | 15.47	| 
 |                     | Clova Xiaodong Gu| -       | -      | 14.37 |
