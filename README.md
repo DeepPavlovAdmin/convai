@@ -33,7 +33,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 |                     |&#x1F917; (Hugging Face) | 16.28&#x1F34E;   | 80.7&#x1F34E;   | 19.5&#x1F34E; |
 |                     | High Five        | -       | 65.9   | -     |
 |                     | Little Baby(AI小奶娃)| -    | 64.8   | -     |
-|                     | Lost in Conversation| - 	 | -      | 17.77 | 
+|                     | Lost in Conversation| - 	 | 17.1   | 17.77 | 
 |                     | Happy Minions    | 29.01   | -      | 16.01 |
 |                     | Mohd Shadab Alam | 29.94   | 13.8   | 16.91 |
 |                     | NEUROBOTICS      | 35.47	 |-       | 16.68	| 
