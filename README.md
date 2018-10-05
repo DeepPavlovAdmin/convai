@@ -26,7 +26,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 
 - April 21: **Leaderboard and baselines:** Leaderboard, baseline numbers and code for training and evaluating them are up! 
 
-# Final Leaderboard
+# Leaderboard
 
 | Rank | Creator | PPL | Hits@1 | F1 |
 | -- | -- | :-- | :-- | :--|
