@@ -26,38 +26,38 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 
 - April 21: **Leaderboard and baselines:** Leaderboard, baseline numbers and code for training and evaluating them are up! 
 
-# Current Leaderboard
+# Final Leaderboard
 
-| Model                | Creator  | PPL           | Hits@1  |   F1   |
-| -------------        | ---      | :------------- | :-----  |  :----- |
-|                     |&#x1F917; (Hugging Face) | 16.28&#x1F34E;   | 80.7&#x1F34E;   | 19.5&#x1F34E; |
-|                     | High Five        | -       | 65.9   | -     |
-|                     | Little Baby(AI小奶娃)| -    | 64.8   | -     |
-|                     | ADAPT Centre     | 31.4    | -      | 18.39 |
-|                     | Lost in Conversation| - 	 | 17.1   | 17.77 | 
-|                     | Happy Minions    | 29.01   | -      | 16.01 |
-|                     | Mohd Shadab Alam | 29.94   | 13.8   | 16.91 |
-|                     | NEUROBOTICS      | 35.47	 |-       | 16.68	| 
-|                     | Sonic            | 33.46	 |-       | 16.67	|
-|                     | Sweet Fish       | -       | 45.7   | -     |
-|                     | Cats'team        | -       | 35.9   | -     |
-|                     | Khai Mai Alt     | -       | 34.6   | 13.03 |
-|                     | loopAI           | -       |  25.6  |  -    |
-|                     | 1st-contact      | 31.98   | 13.2   | 16.42 |
-|                     | Tensorborne      | 38.24   |  12.0  | 15.94 |
-|                     | Team Dialog 6    | 40.35   | 10.9   |  7.27	|
-|                     | Pinta            | 32.49	 | -      | 16.39 | 
-| topicSeq2seq        | Team Pat         | -       | -      | 16.11 |
-|                     | Roboy            | -       | -      | 15.83 |
-|                     | flooders         | -     	 |-       | 15.47	| 
-|                     | Clova Xiaodong Gu| -       | -      | 14.37 |
-|                     | IamNotAdele      | 66.47   | -      | 13.09 |
-|                     | Salty Fish       | 34.32   | -      | -     |
+| Rank | Creator | PPL | Hits@1 | F1 |
+| -- | -- | :-- | :-- | :--|
+| **1** | 🤗 (Hugging Face) | 16.28&#x1F34E; | 80.7&#x1F34E; | 19.5&#x1F34E; |
+| **2** | ADAPT Centre | 31.4 | - | 18.39 |
+| **3** | Happy Minions | 29.01 | - | 16.01 |
+| **4** | High Five | - | 65.9 | - |
+| **5** | Mohd Shadab Alam | 29.94 | 13.8 | 16.91 |
+| **6** | Lost in Conversation | - | 17.1 | 17.77 |
+| **7** | Little Baby(AI小奶娃) | - | 64.8 | - |
+| 8 | Sweet Fish | - | 45.7 | - |
+| 9 | 1st-contact | 31.98 | 13.2 | 16.42 |
+| 10 | NEUROBOTICS | 35.47 | - | 16.68 |
+| 11 | Cats'team | - | 35.9 | - |
+| 12 | Sonic | 33.46 | - | 16.67 |
+| 13 | Pinta | 32.49 | - | 16.39 |
+| 14 | Khai Mai Alt | - | 34.6 | 13.03 |
+| 15 | loopAI | - | 25.6 | - |
+| 16 | Salty Fish | 34.32 | - | - |
+| 17 | Team Pat | - | - | 16.11 |
+| 18 | Tensorborne | 38.24 | 12.0 | 15.94 |
+| 19 | Team Dialog 6 | 40.35 | 10.9 | 7.27 |
+| 20 | Roboy | - | - | 15.83 |
+| 21 | IamNotAdele | 66.47 | - | 13.09 |
+| 22 | flooders | - | - | 15.47 |
+| 23 | Clova Xiaodong Gu | - | - | 14.37 |
 |  [Seq2Seq + Attention](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/seq2seq)  | ParlAI team          | 29.8       | 12.6       | 16.18  |
 |  [Language Model](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/language_model)      | ParlAI team          | 46.0         | -       |  15.02 |
 |  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.2    |  11.9 |
 
-&#x1F34E; denotes the current best performing model for each metric on the hidden test set.
+&#x1F34E; denotes the best performing model for each metric on the hidden test set. The **rank** is determined by sorting by the minimum rank of the score in any of the three metrics, where ties are broken by considering the second (and then third) smallest ranks. **The top 7 teams have made it to the next round. For these teams: please make sure your GitHub repo contains an interactive script (see [here](https://github.com/facebookresearch/ParlAI/blob/master/projects/convai2/baselines/kvmemnn/interactive.py) for example) that allows your model to funciton in interactive mode. (To be clear, this must be the _same_ model that we evaluated for the leaderboard above.)**
 
 Models by ParlAI team are baselines, and not entries into the competition; code is included for those models.
 
