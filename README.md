@@ -30,13 +30,13 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 
 | Rank | Creator | PPL | Hits@1 | F1 |
 | -- | -- | :-- | :-- | :--|
-| **1** | 🤗 (Hugging Face) | 16.28&#x1F34E; | 80.7&#x1F34E; | 19.5&#x1F34E; |
-| **2** | ADAPT Centre | 31.4 | - | 18.39 |
-| **3** | Happy Minions | 29.01 | - | 16.01 |
-| **4** | High Five | - | 65.9 | - |
-| **5** | Mohd Shadab Alam | 29.94 | 13.8 | 16.91 |
-| **6** | Lost in Conversation | - | 17.1 | 17.77 |
-| **7** | Little Baby(AI小奶娃) | - | 64.8 | - |
+| **1** &#x1F350; | 🤗 (Hugging Face) | 16.28&#x1F34E; | 80.7&#x1F34E; | 19.5&#x1F34E; |
+| **2** &#x1F350; | ADAPT Centre | 31.4 | - | 18.39 |
+| **3** &#x1F350; | Happy Minions | 29.01 | - | 16.01 |
+| **4** &#x1F350; | High Five | - | 65.9 | - |
+| **5** &#x1F350; | Mohd Shadab Alam | 29.94 | 13.8 | 16.91 |
+| **6** &#x1F350; | Lost in Conversation | - | 17.1 | 17.77 |
+| **7** &#x1F350;  | Little Baby(AI小奶娃) | - | 64.8 | - |
 | 8 | Sweet Fish | - | 45.7 | - |
 | 9 | 1st-contact | 31.98 | 13.2 | 16.42 |
 | 10 | NEUROBOTICS | 35.47 | - | 16.68 |
@@ -57,7 +57,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 |  [Language Model](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/language_model)      | ParlAI team          | 46.0         | -       |  15.02 |
 |  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | -             | 55.2    |  11.9 |
 
-&#x1F34E; denotes the best performing model for each metric on the hidden test set. The **rank** is determined by sorting by the minimum rank of the score in any of the three metrics, where ties are broken by considering the second (and then third) smallest ranks. **The top 7 teams have made it to the next round. For these teams: please make sure your GitHub repo contains an interactive script (see [here](https://github.com/facebookresearch/ParlAI/blob/master/projects/convai2/baselines/kvmemnn/interactive.py) for example) that allows your model to function in interactive mode. (To be clear, this must be the _same_ model that we evaluated for the leaderboard above.)**
+&#x1F34E; denotes the best performing model for each metric on the hidden test set. The **rank** is determined by sorting by the minimum rank of the score in any of the three metrics, where ties are broken by considering the second (and then third) smallest ranks. **The &#x1F350; teams have made it to the next round (top 3 in each metric).** _For these teams: please make sure your GitHub repo contains an interactive script (see [here](https://github.com/facebookresearch/ParlAI/blob/master/projects/convai2/baselines/kvmemnn/interactive.py) for example) that allows your model to function in interactive mode. (To be clear, this must be the _same_ model that we evaluated for the leaderboard above.)_
 
 Models by ParlAI team are baselines, and not entries into the competition; code is included for those models.
 
