@@ -1,6 +1,6 @@
 # 'Wild' Evaluation
 
-Up to 10 top solutions from the current leaderboard are eligible for the 'wild' evaluation. To be qualified the solution should have better scores in at least one metric out of F1, PPL or hits compared to the ParlAI Team baselines. The solution submitted to the 'wild' evaluation should be the same as the solution tested with automated evaluation metrics.
+Top 7 solutions from the current leaderboard are eligible for the 'wild' evaluation. To be qualified the solution should have better scores in at least one metric out of F1, PPL or hits compared to the ParlAI Team baselines. The solution submitted to the 'wild' evaluation should be the same as the solution tested with automated evaluation metrics.
 
 Wild evaluation itself involves human conversations with bots. The bots are exposed through a so called proxy-bot which randomly connects a person with a bot. A person talks to a bot and gives it a score by two mearures: how a person likes the conversation and how well a bot is playing its part.
 
