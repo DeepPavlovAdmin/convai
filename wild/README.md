@@ -50,7 +50,16 @@ Profile description
 Profile description
 Profile description
 ```
-i.e. one line with “/start” text, and four lines afterwards with sentences describing profile.
+i.e. one line with “/start” text, and four lines afterwards with sentences describing profile. 
+
+If you're using provided ParlAI integration then the first message will be:
+```
+Your persona:
+Profile description
+Profile description
+Profile description
+Profile description
+```
 
 ### Timeouts and Limitations:
 
