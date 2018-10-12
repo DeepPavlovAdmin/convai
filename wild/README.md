@@ -54,11 +54,10 @@ i.e. one line with “/start” text, and four lines afterwards with sentences d
 
 If you're using provided ParlAI integration then the first message will be:
 ```
-Your persona:
-Profile description
-Profile description
-Profile description
-Profile description
+your persona: profile description
+your persona: profile description
+your persona: profile description
+your persona: profile description
 ```
 
 ### Timeouts and Limitations:
