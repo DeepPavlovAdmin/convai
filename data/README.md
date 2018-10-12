@@ -4,6 +4,12 @@ Every `json` file contains dialogues for [PersonaChat task](http://convai.io/#pe
 
 You can contribute to collection of this open source dataset by participating in evaluation of teams's bots on [Facebook Messenger](https://m.me/convai.io).
 
+
+Whole dataset, containing all the dialogs from the hackathon with human-bot markup: [summer_wild_evaluation_dialogs.json](summer_wild_evaluation_dialogs.json)
+
+</br></br>
+Partial datasets from days of the hackathon:
+
 [export_2018-07-04_train.json](export_2018-07-04_train.json)
 
 [export_2018-07-05_train.json](export_2018-07-05_train.json)
