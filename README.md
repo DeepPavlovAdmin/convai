@@ -209,7 +209,7 @@ Advisory board: Yoshua Bengio, Alan W. Black, Joelle Pineau, Alexander Rudnicky,
 
 ## Gold Partner
 
-<a href="https://aws.amazon.com/"><img width=200 src="aws.png"></a>
+<a href="https://aws.amazon.com/"><img src="aws_small.png"></a>
 
 
 # ConvAI 2017
