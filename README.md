@@ -207,6 +207,10 @@ Advisory board: Yoshua Bengio, Alan W. Black, Joelle Pineau, Alexander Rudnicky,
 
 <a href="https://research.fb.com/category/facebook-ai-research-fair/"><img src="2017/facebook.png"></a>
 
+## Gold Partner
+
+<a href="https://aws.amazon.com/"><img src="aws.png"></a>
+
 
 # ConvAI 2017
 
