@@ -16,7 +16,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 
 # News 
 
-- November 12: &#x1F64B; **Call for chat volunteers.** ConvAI2 competition is now at the final stage and we kindly invite community to volunteer in evaluating submitted solutions. Even 2-3 evaluated dialogues from you will contribute significantly to the success of the competition. Importantly, all the dialogues collected during competition will be published open source to promote future dialogue system research. Final results will be presented at NIPS 2018 Competition track. Evaluation system is available at FB Messenger via link [https://m.me/convai.io](https://m.me/convai.io)
+- November 12: &#x1F64B; **Call for chat volunteers.** ConvAI2 competition is now at the final stage and we kindly invite community to volunteer in evaluating submitted solutions. Even 2-3 evaluated dialogues from you will contribute significantly to the success of the competition. Importantly, all the dialogues collected during competition will be published open source to promote future dialogue system research. Final results will be presented at NeurIPS 2018 Competition track. Evaluation system is available at FB Messenger via link [https://m.me/convai.io](https://m.me/convai.io)
 
 - September 30: **The submissions are locked, automatic evals are final on the leaderboard, and the final stage of human evaluation is almost here.** We invite successful teams from the first round (&#x1F350; teams)  to prepare and test their solutions for MTurk and the 'wild' evaluation part of the challenge. For wild evaluation more details can be found at [here](http://convai.io/wild/). For MTurk evaluation, teams should provide an interactive script, e.g. like this [one](https://github.com/facebookresearch/ParlAI/blob/master/projects/convai2/baselines/kvmemnn/interactive.py).
 
@@ -24,7 +24,7 @@ The winning entry will receive $20,000 in Mechanical Turk funding -- in order to
 
 - July 10: **'Wild' evaluation started:** Evaluation by human volunteers is open. Chat with competing bots! Bots are available in Messenger [m.me/convai.io](https://m.me/convai.io) and Telegram [t.me/Convai_chat_bot](https://t.me/Convai_chat_bot).
 
-- May 9: **Hackathon:** We will be organizing a *non-compulsory* hackathon around the competition: [DeepHack.Chat Hackathon](http://convai.io/#deephackchat-hackathon). The most promising team attending will receive a **travel grant** to attend NIPS 2018!!
+- May 9: **Hackathon:** We will be organizing a *non-compulsory* hackathon around the competition: [DeepHack.Chat Hackathon](http://convai.io/#deephackchat-hackathon). The most promising team attending will receive a **travel grant** to attend NeurIPS 2018!!
 
 - April 21: **Leaderboard and baselines:** Leaderboard, baseline numbers and code for training and evaluating them are up! 
 
@@ -129,7 +129,7 @@ We will run live volunteer chat throughout the competition so that competitors c
 
 The automated metrics will be used to obtain a shortlist of best performing systems, likely the top 3 scoring systems from each of the three metrics (Perplexity, F1 and hits@k). If those three leaderboards feature the same models at the top we will take  systems further down the leaderboards, up to a maximum of 10. These systems will be evaluated in the final live experiments on Mechanical Turk and via volunteers using the same scoring protocols, already described.
 
-During NIPS the `wild' live conversation can continue, and the best performing systems will be showcased and conversed with.
+During NeurIPS the `wild' live conversation can continue, and the best performing systems will be showcased and conversed with.
 
 We will declare winners in both the automated metrics tracks, and in the live evaluations (which will be considered the grand prize, being more important). The latter will consist of the weighted average of the Turk and wild (volunteer) scores.
 Finally, the solutions and any data collected will be made open source to the community.
@@ -164,7 +164,7 @@ The current leaderboards will be visible to all competitors.
 
 On September 30th the source code submission system will be locked, and the best performing systems will be evaluated over the next month using Mechanical Turk and the `wild' live evaluation.
 
-Winners will be announced at NIPS 2018.
+Winners will be announced at NeurIPS 2018.
 
 # FAQ 
 1. **Why does the eval_ppl.py script report different perplexity than my model training/testing logs?**
@@ -189,7 +189,7 @@ No. This is supposed to measure the performance of a single model in varying way
 
 This is not a compulsory part of the competition, but you may also be interested in the following hackathon:
 
-If you submit your solution before the **15th of June**, you can participate in the qualification round of [DeepHack.Chat](http://deephack.me/chat) hackathon which will take place in Moscow on July 2-8. We will select 10 to 12 teams whose systems score best in terms of automatic metrics, and invite them to participate in the final round of the hackathon. At the hackathon teams will further improve their systems and listen to lectures from the top researchers in the field. Participants will also take part in live human evaluation of dialogue systems of other teams. The winning team will get a travel grant to [NIPS](https://nips.cc/) to ConvAI finals.
+If you submit your solution before the **15th of June**, you can participate in the qualification round of [DeepHack.Chat](http://deephack.me/chat) hackathon which will take place in Moscow on July 2-8. We will select 10 to 12 teams whose systems score best in terms of automatic metrics, and invite them to participate in the final round of the hackathon. At the hackathon teams will further improve their systems and listen to lectures from the top researchers in the field. Participants will also take part in live human evaluation of dialogue systems of other teams. The winning team will get a travel grant to [NeurIPS](https://neurips.cc/) to ConvAI finals.
 
 If you want to participate in the hackathon, please include a file ``TEAM'' in your repository when you submit your models. The file should contain names and emails of the members of your team. The team should consist of no more than 5 people.
 
