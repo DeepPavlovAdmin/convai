@@ -12,7 +12,7 @@ This is the second Conversational Intelligence (ConvAI) Challenge. The previous 
 
 # Prize
 
-The winning entry in human evaluations will receive $20,000 in Mechanical Turk funding -- in order to encourage further data collection for dialogue research. The winner in the automatic metrics also receive $5000 in AWS compute.
+The winning entry in human evaluations will receive $20,000 in Mechanical Turk funding -- in order to encourage further data collection for dialogue research. The winner in the automatic metrics also receives $5000 in AWS compute.
 
 # News 
 
