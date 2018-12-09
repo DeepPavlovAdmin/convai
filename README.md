@@ -12,9 +12,13 @@ This is the second Conversational Intelligence (ConvAI) Challenge. The previous 
 
 # Prize
 
-The winning entry will receive $20,000 in Mechanical Turk funding -- in order to encourage further data collection for dialogue research.
+The winning entry in human evaluations will receive $20,000 in Mechanical Turk funding -- in order to encourage further data collection for dialogue research. The winner in the automatic metrics also receive $5000 in AWS compute.
 
 # News 
+
+- December 9: And the winner has been announced!  See the presentation slides for all details: 
+[intro](NeurIPSConvAI2-IntroPres.pptx), [results](NeurIPSConvAI2ResultsPres.pptx) and [future work](NeurIPSConvAI2FutureWork.pptx).
+
 
 - November 20: Schedule for the presentations and awards for the competition at NeurIPS are up [here](https://neurips.cc/Conferences/2018/Schedule?showEvent=10945).
 
