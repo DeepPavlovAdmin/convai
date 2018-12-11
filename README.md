@@ -34,7 +34,7 @@ The winning entry in human evaluations will receive $20,000 in Mechanical Turk f
 
 - April 21: **Leaderboard and baselines:** Leaderboard, baseline numbers and code for training and evaluating them are up! 
 
-# Human Evaluation Leaderboard (MTurk)
+# Human Evaluation Leaderboard 
 
 | Rank | Creator | Rating | Persona detect |
 | -- | -- | :-- | :-- | 
