@@ -34,7 +34,21 @@ The winning entry in human evaluations will receive $20,000 in Mechanical Turk f
 
 - April 21: **Leaderboard and baselines:** Leaderboard, baseline numbers and code for training and evaluating them are up! 
 
-# Leaderboard
+# Human Evaluation Leaderboard (MTurk)
+
+| Rank | Creator | Rating | Persona detect |
+| -- | -- | :-- | :-- | 
+| **1** &#x1F350;&#127820; | Lost in Conversation | 3.11&#127820; | 0.9 | 
+| **2** &#x1F350;&#x1F34E; &#x1F34E; &#x1F34E;  | 🤗 (Hugging Face) | 2.68  | 0.98 | 
+| **3** &#x1F350;  | Little Baby(AI小奶娃) | 2.44 | 0.79 | 
+| **4** &#x1F350; | Mohd Shadab Alam | 2.33 | 0.93 | 
+| **5** &#x1F350; | Happy Minions | 1.92 | 0.46 | 
+| **6** &#x1F350; | ADAPT Centre | 1.6 | 0.93 | 
+|  [KV Profile Memory](https://github.com/facebookresearch/ParlAI/tree/master/projects/convai2/baselines/kvmemnn)    | ParlAI team          | 2.44   |  0.76 |
+|  Human   | MTurk       |  3.48  |  0.96 |
+
+
+# Automatic Evaluation Leaderboard (hidden test set)
 
 | Rank | Creator | PPL | Hits@1 | F1 |
 | -- | -- | :-- | :-- | :--|
