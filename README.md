@@ -17,7 +17,7 @@ The winning entry in human evaluations will receive $20,000 in Mechanical Turk f
 # News 
 
 - December 9: And the winner has been announced:  "Lost in Conversation"!  See the presentation slides for all details: 
-[intro](NeurIPSConvAI2-IntroPres.pptx), [results](NeurIPSConvAI2ResultsPres.pptx) and [future work](NeurIPSConvAI2FutureWork.pptx).
+[intro](NeurIPSConvAI2-IntroPres.pptx), [results](NeurIPSConvAI2ResultsPres.pptx), [top team presentations](NeurIPSParticipantSlides.pptx), and [future work](NeurIPSConvAI2FutureWork.pptx).
 
 
 - November 20: Schedule for the presentations and awards for the competition at NeurIPS are up [here](https://neurips.cc/Conferences/2018/Schedule?showEvent=10945).
