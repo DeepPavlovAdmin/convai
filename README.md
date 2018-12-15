@@ -16,7 +16,7 @@ The winning entry in human evaluations will receive $20,000 in Mechanical Turk f
 
 # News 
 
-- December 9: And the winner has been announced:  "Lost in Conversation"!  See the presentation slides for all details: 
+- December 9: And the winner has been announced:  ["Lost in Conversation"](https://github.com/atselousov/transformer_chatbot)!  See the presentation slides for all details: 
 [intro](NeurIPSConvAI2-IntroPres.pptx), [results](NeurIPSConvAI2ResultsPres.pptx), [top team presentations](NeurIPSParticipantSlides.pptx), and [future work](NeurIPSConvAI2FutureWork.pptx).
 
 
