@@ -7,7 +7,6 @@ You can contribute to collection of this open source dataset by participating in
 
 Whole dataset, containing all the dialogs from the hackathon with human-bot markup: [summer_wild_evaluation_dialogs.json](summer_wild_evaluation_dialogs.json)
 
-</br></br>
 Partial datasets from days of the hackathon:
 
 [export_2018-07-04_train.json](export_2018-07-04_train.json)
