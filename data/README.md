@@ -1,6 +1,4 @@
-These datasets were collected during [ConvAI2](http://convai.io/) competition.
-
-Every `json` file contains dialogues for [PersonaChat task](http://convai.io/#personachat-convai2-dataset).
+These datasets were collected during [ConvAI2](http://convai.io/) competition. Every `json` file contains dialogues for [PersonaChat task](http://convai.io/#personachat-convai2-dataset).
 
 Datasets:
 
