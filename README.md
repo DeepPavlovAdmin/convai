@@ -38,7 +38,7 @@ The winning entry in human evaluations will receive $20,000 in Mechanical Turk f
 
 | Rank | Creator | Rating | Persona detect |
 | -- | -- | :-- | :-- | 
-| **1** &#x1F350;&#127820; | Lost in Conversation | 3.11&#127820; | 0.9 | 
+| **1** &#x1F350;&#127820; | Lost in Conversation [[code]](https://github.com/atselousov/transformer_chatbot) | 3.11&#127820; | 0.9 | 
 | **2** &#x1F350;&#x1F34E; &#x1F34E; &#x1F34E;  | 🤗 (Hugging Face) | 2.68  | 0.98 | 
 | **3** &#x1F350;  | Little Baby(AI小奶娃) | 2.44 | 0.79 | 
 | **4** &#x1F350; | Mohd Shadab Alam | 2.33 | 0.93 | 
