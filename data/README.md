@@ -7,6 +7,8 @@ Datasets:
 * [data_volunteers.json](data_volunteers.json) -- wild evaluation for ConvAI final round from October 29 to December 17, 2018. Dialogues by bots from ConvAI finals and volunteers. 1111 dialogues
 
 
-The whole data collected during ConvAI Wild Evaluation is available here: [summer_wild_evaluation_dialogs.json](./summer_wild_evaluation_dialogs.json).
+The whole dataset collected during DeepHack.Chat and ConvAI2 Wild Evaluation round: [summer_wild_evaluation_dialogs.json](./summer_wild_evaluation_dialogs.json).
 
-The data during other evaluation is available though Parl.ai framework [here](https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/convai2).
+The data collected during other evaluation is available though Parl.ai framework [here](https://github.com/facebookresearch/ParlAI/tree/master/parlai/tasks/convai2).
+
+The 2017 dataset can be found [here](http://convai.io/2017/data/).
