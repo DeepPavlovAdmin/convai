@@ -8,7 +8,7 @@ The goal of the current challenge is to explore the situation of users asking am
 
 # Previous competitions
 
-The challenge is happening together with the Search-oriented Conversational AI workshop at EMNLP 2020 and builds upon the two previously run ConvAI challenges: [ConvAI @ NIPS 2017](http://convai.io/2017) (The Conversational Intelligence Challenge) and [ConvAI2 @ NeurIPS 2018](http://convai.io) (The Persona-Chat Challenge).
+The challenge is happening together with the Search-oriented Conversational AI workshop at EMNLP 2020 and builds upon the two previously run ConvAI challenges: [ConvAI @ NIPS 2017](http://convai.io/2017) (The Conversational Intelligence Challenge) and [ConvAI2 @ NeurIPS 2018](http://convai.io/2018) (The Persona-Chat Challenge).
 
 
 # Prize
