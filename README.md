@@ -1,7 +1,5 @@
 # ConvAI3: Clarifying Questions for Open-Domain Dialogue Systems (ClariQ)
 
-# ClariQ Overview 
-
 ClariQ (pronounce as Claire-ee-que) challenge is organized as part of the [Search-oriented Conversational AI (SCAI)]() EMNLP workshop in 2020. The main aim of the conversational systems is to return an appropriate answer in response to the user requests. However, some user requests might be ambiguous. In Information Retrieval (IR) settings such a situation is handled mainly through the diversification of the search result page. It is however much more challenging in dialogue settings. Hence, we aim to study the following situation for dialogue settings:
 
 a user is asking an ambiguous question (where the ambiguous question is a question to which one can return > 1 possible answers);
@@ -30,7 +28,7 @@ The detailed description of the challenge can be found [in the following doccume
 
 The challenge will be run in two stages:
 
-## Stage 1
+## Stage 1: intial dataset
 In Stage 1, we provide to the participants the datasets that include:
 * **User Request:** an initial user request in the conversational form, e.g., "What is Fickle Creek Farm?", with a label reflects if clarification is needed to be ranged from 1 to 4;
 * **Clarification questions:** a set of possible clarifying questions, e.g., "Do you want to know the location of fickle creek farm?";
@@ -43,9 +41,9 @@ choose not to ask any question (by choosing `Q0001` from the question bank.)
 
 The dataset is stored in the following repository [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ), together with evaluation scripts and baseline.
 
-## Stage 2
+## Stage 2: human-in-the-loop
 
-The  TOP-5  systems from Stage  1  are exposed to real users.   Their responses—answers and clarifying questions—are rated by the users.
+The TOP-5 systems from Stage 1 are exposed to real users. Their responses—answers and clarifying questions—are rated by the users.
 At that stage, the participating systems are put in front of human users. The systems are rated on their overall performance.
 At each dialog step, a system should give either a factual answer to the user's query or ask for clarification.
 Therefore, the participants would need to:
@@ -72,9 +70,9 @@ Winners will be announced at SCAI@EMNLP2020 which will take place in November 19
 
 # Evaluation
 
-Participants' models will then be compared in two ways: 
-* (i) automated evaluation metrics on a new test set hidden from the competitors; 
-* (ii) evaluation with crowd workers through MTurk.
+Participants' models will then be compared in two ways after two stages: 
+*  automated evaluation metrics on a new test set hidden from the competitors; 
+*  evaluation with crowd workers through MTurk.
 
 The winning  will be chosen based on these scores. 
 
@@ -103,6 +101,7 @@ To submit an entry, create a private repo with your model that works with our ev
 See https://github.com/aliannejadi/ClariQ#ref1 for example baseline submissions.
 
 You are free to use any system (e.g. PyTorch, Tensorflow, C++,..) as long as you can wrap your model for the evaluation. The top level README should tell us your team name, model name, and where the eval_ppl.py, eval_hits.py etc. files are so we can run them. Those should give the numbers on the validation set. Please also include those numbers in the README so we can check we get the same. We will then run the automatic evaluations on the hidden test set and update the leaderboard. You can submit a maximum of once per month.
+
 We will use the same submitted code for the top performing models for computing human evaluations when the submission system is locked on September 9, 2020.
 
 
