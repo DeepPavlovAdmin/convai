@@ -1,67 +1,50 @@
-# SCAI Challenge / ConvAI3: Overview of the competition
+# ConvAI3: ClariQ Overview of the competition 
 
-There are currently few datasets appropriate for training and evaluating models for systems that are neither domain-specific goal-oriented dialogue systems nor chit-chat bots.
+ClariQ challenge is organized as part of the [Search-oriented Conversational AI (SCAI)]() EMNLP workshop in 2020. The main aim of the conversational systems is to return an appropriate answer in response to the user requests. However, some user requests might be ambiguous. In Information Retrieval (IR) settings such a situation is handled mainly through the diversification of search result page. It is however much more challenging in dialogue settings. Hence, we aim to study the following situation for dialogue settings:
 
-The aim of our competition is therefore to establish a concrete scenario for testing conversational systems that aim to satisfy user's information need in a conversational manner.
+a user is asking an ambiguous question (where ambiguous question is a question to which one can return > 1 possible answers);
+the system must identify that the question is ambiguous, and, instead of trying to answer it directly, ask a good clarifying question.
+The main research questions we aim to answer as part of the challenge are the following:
 
-The goal of the current challenge is to explore the situation of users asking ambigous questions and the systems providing clarifications. Unlike traditional search systems, where the users can browse answers from multiple sources, conversational systems are limited to one answer per user's request. Therefore, a better understanding is needed as to when and how the system should clarify the users' need or help them refine it. Detailed description of the challenge can be found [here](CONVAI3_SCAI_challenge.pdf).
+* **RQ1**: When to ask clarifying questions during dialogues?
+* **RQ2**: How to generate the clarifying questions?
 
-# Registration form
+The detailed description of the challenge can be found [here](ConvAI3_ClariQ2020.pdf).
 
-[Please register here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform).
 
-# Github repo
+# How to start?
 
-[https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ)
+- In order to get to the leaderbord please register your team [here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform).
+- The datasets/baselines/evaluation scripts fot he Stage 1 can be found in the following repository [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ)
+- [Email us if you have any questions](mailto:clariq@convai.io)
 
-# Prize
 
-Stay tuned for the price announcements.
 
 # News 
 
-- June 26, 2020: Announcing the challenge
+- July 7, 2020: Announcing the challenge
+- 
 
-# Stage 1: Automatic Evaluation Leaderboard (held out test set)
-
-**Validation Leaderboard**  We will also provide an additional validation set leaderboard.
-
-# Stage 2: Human Evaluation Leaderboard 
-TBD
 
 #Challenge Design
 
 The challenge will be run in two stages:
-  1. **Stage 1:  static dataset** The participants are given a static dataset, similar to [Qulac](https://github.com/aliannejadi/qulac), which they are free to use for training and development purposes. At  the  end  of  the  first  stage  their  systems  are  then  ranked based on a held-out dataset of the same nature.
-  2. **Stage  2:   human-in-the-loop** The  TOP-N  systems  from  the  stage  1 are  exposed  to  the  real  users.   Their  responses—answers  and  clarifyingquestions—are rated by the users.
-
-The first stage is essentially a classification and ranking problem.  For a given user query a participating system must decide whether a clarification is neededand, if so, give the best clarifying question.
-
-# Datasets
-The competion is run in two stages, each with a unique dataset.
 
 ## Stage 1
-In Stage 1, we provide to the participants an extended version of the Qulacdataset.  The extension includes:
-  - A set of single-faceted queries added to the set of queries, together withpossible clarifying questions and answers on them.
-  - The initial queries are in a conversational format.
-  - Clarification need labels for each topic.
-  - (Optional) Some additional questions and answers.
+In Stage 1, we provide to the participants the datasets that includes:
+* **User Request:** an initial user request in the conversational form, e.g., "What is Fickle Creek Farm?", with a label reflects if clarification is needed ranged from 1 to 4;
+* **Clarification questions:** a set of possible clarifying questions, e.g., "Do you want to know the location of fickle creek farm?";
+* **User Answers:** each questions is supplied with a user answer, e.g., "No, I want to find out where can i purchase fickle creek farm products."
 
-Dataset statistics:
+* To answer RQ1: Given a user request, return a score [1 −4] indicating the necessity of asking clarifying questions.
+* To answer RQ2: Given a user request which needs clarification, return the most suitable clarifying question. Here participants are able to choose: (1) either select the clarifying question from the provided question bank (all clarifying questions we collected), aiming to maximize the precision, (2) or
+choose not to ask any question (by choosing `Q0001` from the question bank.)
 
-Feature  						            | Value
---------------------------------| -----
-\# topics			                  | 298 
-\# facets 						          | ~ 1300
-\# total questions              | 3,929
-\# single-turn conversations    | ~ 16K
-\# multi-turn conversations     | ~ 2 million 
-\# documents                    | ~ 2.6 million
-
-TODO: finish description
+The dataset is stored in the following repositoty [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ), together with evaluation scripts and baseline.
 
 ## Stage 2
 
+The  TOP-5  systems  from  the  Stage  1  are  exposed  to  the  real  users.   Their  responses—answers  and  clarifyingquestions—are rated by the users.
 At that stage the participating systems are put in front of human users. The systems are rated on their overall performance.
 At each dialog step, a system should give either a factual answer to the user's query or ask for a clarification.
 Therefore, the participants would need to:
@@ -78,68 +61,63 @@ Note that the setup of this stage is quite different from the Stage 1. Participa
 Alternatively, one may solve Stage 2 by retrieving a list of candidate answers (e.g., by invoking Wikipedia API or the [Chat Noir](https://www.chatnoir.eu) API that we describe above) and ranking them as in Stage 1.
 
 
+# Timeline
+- **Stage 1** will take place from July 7, 2020 -- September 9, 2020. Up until September 9, 2020 participants will be able to submit their models (source code) and solutions to be evaluated on the test set using automated metrics (which we will run on our servers).  The current leaderboards will be visible to everyone.
+- **Stage 2** will start at September 10, 2020. On September 10, 2020  the source code submission system will be locked, and the best performing systems will be evaluated over the next month using crowd workers.
+
+
+Winners will be announced at SCAI@EMNLP2020 which will take place in November 19-20 (exact details TBD).
+
+
 # Evaluation
 
-Competitors' models will then be compared in three ways: 
+Participants' models will then be compared in two ways: 
 * (i) automated evaluation metrics on a new test set hidden from the competitors; 
-* (ii) evaluation with crowd workers; and 
-* (iii) `wild' live evaluation by volunteers having conversations with the bots. 
+* (ii) evaluation with crowd workers through MTurk.
 
-The winning dialogue systems will be chosen based on these scores. 
+The winning  will be chosen based on these scores. 
 
 ## Metrics
 
 There are three types of metrics we will evaluate:
 
-* **Automated metrics**  - 
+* **Automated metrics** As system automatic evaluation metrics we use MRR, P@[1,3,5,10,20], nDCG@[1,3,5,20].
+These metrics are computed as follows: a selected clarifying question, together with its corresponding answer are added to the original request.
+The updated query is then used to retrieve (or re-rank) documents from the collection. The quality of a question is then evaluated by taking into account how much the question and its answer affect the performance of document retrieval. Models are also evaluated in how well they are able to rank relevant questions higher than other questions in the question bank. For this task, that we call 'question relevance', the models are evaluated in terms of Recall@[10,20,30]. Since the precision of models is evaluated in the document relevance task, here we focus only on recall.
 
-* **Crowd workers** - 
-
-* **`Wild' Live Chat with Volunteers** - Finally, we will solicit volunteers to also chat to the models in a similar way to the crowdsourcing setup. As volunteers, unlike crowd workers, are not paid and will likely not follow the instructions as closely, the distribution will likely be different, hence serving as a test of the robustness of the models. This setup will be hosted through the Messenger and Telegram APIs.
-
-
-## Protocol
-
-TBD
+* **Crowd workers** given the entrant's model code, we will run live experiments where Turkers chat to their model given instructions identical to the creation of the original dataset, but with new profiles, and then score its performance. Turkers will score the models between 1-5.
 
 # Rules
 
-* Competitors should indicate which training sources are used to build their models, and whether (and how) ensembling is used (we may place these in separate tracks in an attempt to deemphasize the use of ensembles).
-* Competitors must provide their source code so that the hidden test set evaluation and live experiments can be computed without the team's influence, and so that  the competition has further impact as those models can be released for future research to build off them. Code can be in any language but a thin python wrapper must be provided in order to work with our evaluation and live experiment code.
+* Participants should indicate which training sources are used to build their models, and whether (and how) ensembling is used (we may place these in separate tracks in an attempt to deemphasize the use of ensembles).
+* Participants must provide their source code so that the hidden test set evaluation and live experiments can be computed without the team's influence, and so that  the competition has further impact as those models can be released for future research to build off them. Code can be in any language but a thin python wrapper must be provided in order to work with our evaluation and live experiment code.
 * We will require that the winning systems also release their training code so that their work is reproducible (although we also encourage that for all systems).
-* Competitors are free to augment training with other datasets as long as they are publicly released (and hence, reproducible). Hence, all entrants are expected to work on publicly available data or release the data they use to train. 
+* Participants are free to augment training with other datasets as long as they are publicly released (and hence, reproducible). Hence, all entrants are expected to work on publicly available data or release the data they use to train. 
+
 
 # Model Submission
 
+To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts:[aliannejadi](https://github.com/aliannejadi), [varepsilon](https://github.com/varepsilon), [julianakiseleva](https://github.com/julianakiseleva).
 
-To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts: [varepsilon](https://github.com/varepsilon), [aliannejadi](https://github.com/aliannejadi).
-
-See https://github.com/aliannejadi/ClariQ for example baseline submissions.
+See https://github.com/aliannejadi/ClariQ#ref1 for example baseline submissions.
 
 You are free to use any system (e.g. PyTorch, Tensorflow, C++,..) as long as you can wrap your model for the evaluation. The top level README should tell us your team name, model name, and where the eval_ppl.py, eval_hits.py etc. files are so we can run them. Those should give the numbers on the validation set. Please also include those numbers in the README so we can check we get the same. We will then run the automatic evaluations on the hidden test set and update the leaderboard. You can submit a maximum of once per month.
-We will use the same submitted code for the top performing models for computing human evaluations when the submission system is locked on **DATE**.
+We will use the same submitted code for the top performing models for computing human evaluations when the submission system is locked on September 9, 2020.
 
-# Schedule
-
-Up unti **DATE** competitors will be able to submit models (source code) to be evaluated on the hidden test set using automated metrics (which we will run on our servers). 
-
-Ability to submit a model for evaluation by automatic metrics to be displayed on the leaderboard will be available by **DATE**. The current leaderboards will be visible to all competitors.
-
-`Wild' live evaluation can also be performed at this time to obtain evaluation metrics and data, although those metrics will not be used for final judgement of the systems, but more for tuning systems if the competitors so wish. 
-
-
-On  **DATE**  the source code submission system will be locked, and the best performing systems will be evaluated over the next month using crowd workers and the `wild' live evaluation.
-
-Winners will be announced at EMNLP 2020.
 
 # Organizing team
 
 - [Mohammad Aliannejadi](http://aliannejadi.com), *University of Amsterdam*, Amsterdam
-- [Julia Kiseleva](http://juliakiseleva.com/), *Microsoft Research & AI*, Seattle
+- [Julia Kiseleva](https://twitter.com/julia_kiseleva), *Microsoft Research & AI*, Seattle
 - [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), *University of Glasgow*, Glasgow
 - [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google AI*, Zürich
 - [Mikhail Burtsev](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), *MIPT*, Moscow
 
-# Previous competitions
+# Previous ConvAI competitions
 
-The challenge is happening together with the Search-oriented Conversational AI workshop at EMNLP 2020 and builds upon the two previously run ConvAI challenges: [ConvAI @ NIPS 2017](http://convai.io/2017) (The Conversational Intelligence Challenge) and [ConvAI2 @ NeurIPS 2018](http://convai.io/2018) (The Persona-Chat Challenge).
+## [ConvAI @ NIPS 2017](http://convai.io/2017) (The Conversational Intelligence Challenge) 
+## [ConvAI2 @ NeurIPS 2018](http://convai.io/2018) (The Persona-Chat Challenge).
+
+# Sponsors
+<a href="https://www.microsoft.com/en-us/research/"><img src="ms_logo.png"></a>
+
