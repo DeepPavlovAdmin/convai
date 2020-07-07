@@ -10,9 +10,7 @@ The goal of the current challenge is to explore the situation of users asking am
 
 [Please register here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform).
 
-# Previous competitions
-
-The challenge is happening together with the Search-oriented Conversational AI workshop at EMNLP 2020 and builds upon the two previously run ConvAI challenges: [ConvAI @ NIPS 2017](http://convai.io/2017) (The Conversational Intelligence Challenge) and [ConvAI2 @ NeurIPS 2018](http://convai.io/2018) (The Persona-Chat Challenge).
+# Github repo
 
 
 # Prize
@@ -50,8 +48,6 @@ In Stage 1, we provide to the participants an extended version of the Qulacdatas
 
 Dataset statistics:
 <img src="train_stats.png">
-
-<img src="test_stats.png">
 
 TODO: finish description
 
@@ -138,11 +134,6 @@ Winners will be announced at EMNLP 2020.
 - [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google AI*, Zürich
 - [Mikhail Burtsev](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), *MIPT*, Moscow
 
+# Previous competitions
 
-# ConvAI 2018
-
-Webpage of the 2st NIPS Conversational Intelligence Challenge (ConvAI2) is available at [convai.io/2018](http://convai.io/2018/)
-
-# ConvAI 2017
-
-Webpage of the 1st NIPS Conversational Intelligence Challenge is available at [convai.io/2017](http://convai.io/2017/)
+The challenge is happening together with the Search-oriented Conversational AI workshop at EMNLP 2020 and builds upon the two previously run ConvAI challenges: [ConvAI @ NIPS 2017](http://convai.io/2017) (The Conversational Intelligence Challenge) and [ConvAI2 @ NeurIPS 2018](http://convai.io/2018) (The Persona-Chat Challenge).
