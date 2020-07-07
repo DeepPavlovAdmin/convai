@@ -48,7 +48,15 @@ In Stage 1, we provide to the participants an extended version of the Qulacdatas
   - (Optional) Some additional questions and answers.
 
 Dataset statistics:
-<img src="train_stats.png">
+
+Feature  						            | Value
+--------------------------------| -----
+\# topics			                  | 298 
+\# facets 						          | ~ 1300
+\# total questions              | 3,929
+\# single-turn conversations    | ~ 16K
+\# multi-turn conversations     | ~ 2 million 
+\# documents                    | ~ 2.6 million
 
 TODO: finish description
 
