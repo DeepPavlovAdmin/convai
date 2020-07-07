@@ -1,8 +1,10 @@
-# ConvAI3: ClariQ Overview of the competition 
+# ConvAI3: Clarifying Questions for Open-Domain Dialogue Systems (ClariQ)
 
-ClariQ challenge is organized as part of the [Search-oriented Conversational AI (SCAI)]() EMNLP workshop in 2020. The main aim of the conversational systems is to return an appropriate answer in response to the user requests. However, some user requests might be ambiguous. In Information Retrieval (IR) settings such a situation is handled mainly through the diversification of search result page. It is however much more challenging in dialogue settings. Hence, we aim to study the following situation for dialogue settings:
+# ClariQ Overview 
 
-a user is asking an ambiguous question (where ambiguous question is a question to which one can return > 1 possible answers);
+ClariQ (pronounce as Claire-ee-que) challenge is organized as part of the [Search-oriented Conversational AI (SCAI)]() EMNLP workshop in 2020. The main aim of the conversational systems is to return an appropriate answer in response to the user requests. However, some user requests might be ambiguous. In Information Retrieval (IR) settings such a situation is handled mainly through the diversification of the search result page. It is however much more challenging in dialogue settings. Hence, we aim to study the following situation for dialogue settings:
+
+a user is asking an ambiguous question (where the ambiguous question is a question to which one can return > 1 possible answers);
 the system must identify that the question is ambiguous, and, instead of trying to answer it directly, ask a good clarifying question.
 The main research questions we aim to answer as part of the challenge are the following:
 
@@ -14,14 +16,14 @@ The detailed description of the challenge can be found [in the following doccume
 
 # How to participate?
 
-- In order to get to the leaderbord please register your team [here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform).
-- The datasets, baselines and evaluation scripts for he Stage 1 are avalible in the following repository [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ)
+- In order to get to the leaderboard please register your team [here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform).
+- The datasets, baselines and evaluation scripts for he Stage 1 are available in the following repository [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ)
 - [Email us if you have any questions](mailto:clariq@convai.io)
 
 
 # News 
 
-- July 7, 2020: Announcing the the Stage 1 of ClariQ challenge 
+- July 7, 2020: Announcing the Stage 1 of ClariQ challenge 
 
 
 # Challenge Design
@@ -29,22 +31,22 @@ The detailed description of the challenge can be found [in the following doccume
 The challenge will be run in two stages:
 
 ## Stage 1
-In Stage 1, we provide to the participants the datasets that includes:
-* **User Request:** an initial user request in the conversational form, e.g., "What is Fickle Creek Farm?", with a label reflects if clarification is needed ranged from 1 to 4;
+In Stage 1, we provide to the participants the datasets that include:
+* **User Request:** an initial user request in the conversational form, e.g., "What is Fickle Creek Farm?", with a label reflects if clarification is needed to be ranged from 1 to 4;
 * **Clarification questions:** a set of possible clarifying questions, e.g., "Do you want to know the location of fickle creek farm?";
-* **User Answers:** each questions is supplied with a user answer, e.g., "No, I want to find out where can i purchase fickle creek farm products."
+* **User Answers:** each question is supplied with a user answer, e.g., "No, I want to find out where can i purchase fickle creek farm products."
 
 * To answer RQ1: Given a user request, return a score [1 −4] indicating the necessity of asking clarifying questions.
-* To answer RQ2: Given a user request which needs clarification, return the most suitable clarifying question. Here participants are able to choose: (1) either select the clarifying question from the provided question bank (all clarifying questions we collected), aiming to maximize the precision, (2) or
+* To answer RQ2: Given a user request which needs clarification, returns the most suitable clarifying question. Here participants are able to choose: (1) either select the clarifying question from the provided question bank (all clarifying questions we collected), aiming to maximize the precision, (2) or
 choose not to ask any question (by choosing `Q0001` from the question bank.)
 
-The dataset is stored in the following repositoty [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ), together with evaluation scripts and baseline.
+The dataset is stored in the following repository [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ), together with evaluation scripts and baseline.
 
 ## Stage 2
 
-The  TOP-5  systems  from  the  Stage  1  are  exposed  to  the  real  users.   Their  responses—answers  and  clarifyingquestions—are rated by the users.
-At that stage the participating systems are put in front of human users. The systems are rated on their overall performance.
-At each dialog step, a system should give either a factual answer to the user's query or ask for a clarification.
+The  TOP-5  systems from Stage  1  are exposed to real users.   Their responses—answers and clarifying questions—are rated by the users.
+At that stage, the participating systems are put in front of human users. The systems are rated on their overall performance.
+At each dialog step, a system should give either a factual answer to the user's query or ask for clarification.
 Therefore, the participants would need to:
   - ensure their system can answer simple user questions
   - make their own decisions on when clarification might be appropriate
@@ -54,14 +56,14 @@ Therefore, the participants would need to:
 The participants would need to strike a balance between asking too many questions
 and providing irrelevant answers.
 
-Note that the setup of this stage is quite different from the Stage 1. Participating systems would likely need to operate as a generative model, rather than a retrieval model. One option would be to cast the problem as generative from the beginning, and solve the retrieval part of Stage 1, e.g., by ranking the offered candidates by their likelihood.
+Note that the setup of this stage is quite different from Stage 1. Participating systems would likely need to operate as a generative model, rather than a retrieval model. One option would be to cast the problem as generative from the beginning and solve the retrieval part of Stage 1, e.g., by ranking the offered candidates by their likelihood.
 
 Alternatively, one may solve Stage 2 by retrieving a list of candidate answers (e.g., by invoking Wikipedia API or the [Chat Noir](https://www.chatnoir.eu) API that we describe above) and ranking them as in Stage 1.
 
 
 # Timeline
 - **Stage 1** will take place from July 7, 2020 -- September 9, 2020. Up until September 9, 2020 participants will be able to submit their models (source code) and solutions to be evaluated on the test set using automated metrics (which we will run on our servers).  The current leaderboards will be visible to everyone.
-- **Stage 2** will start at September 10, 2020. On September 10, 2020  the source code submission system will be locked, and the best performing systems will be evaluated over the next month using crowd workers.
+- **Stage 2** will start on September 10, 2020. On September 10, 2020  the source code submission system will be locked, and the best performing systems will be evaluated over the next month using crowd workers.
 
 
 Winners will be announced at SCAI@EMNLP2020 which will take place in November 19-20 (exact details TBD).
