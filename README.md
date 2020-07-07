@@ -115,8 +115,8 @@ We will use the same submitted code for the top performing models for computing 
 
 # Previous ConvAI competitions
 
-## [ConvAI @ NIPS 2017](http://convai.io/2017) (The Conversational Intelligence Challenge) 
-## [ConvAI2 @ NeurIPS 2018](http://convai.io/2018) (The Persona-Chat Challenge).
+- [ConvAI @ NIPS 2017](http://convai.io/2017) (The Conversational Intelligence Challenge) 
+- [ConvAI2 @ NeurIPS 2018](http://convai.io/2018) (The Persona-Chat Challenge).
 
 # Sponsors
 <a href="https://www.microsoft.com/en-us/research/"><img src="ms_logo.png"></a>
