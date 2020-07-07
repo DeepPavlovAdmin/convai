@@ -4,7 +4,7 @@ There are currently few datasets appropriate for training and evaluating models 
 
 The aim of our competition is therefore to establish a concrete scenario for testing conversational systems that aim to satisfy user's information need in a conversational manner.
 
-The goal of the current challenge is to explore the situation of users asking ambigous questions and the systems providing clarifications. Unlike traditional search systems, where the users can browse answers from multiple sources, conversational systems are limited to one answer per user's request. Therefore, a better understanding is needed as to when and how the system should clarify the users' need or help them refine it.
+The goal of the current challenge is to explore the situation of users asking ambigous questions and the systems providing clarifications. Unlike traditional search systems, where the users can browse answers from multiple sources, conversational systems are limited to one answer per user's request. Therefore, a better understanding is needed as to when and how the system should clarify the users' need or help them refine it. Detailed description of the challenge can be found [here](CONVAI3_SCAI_challenge.pdf).
 
 # Registration form
 
