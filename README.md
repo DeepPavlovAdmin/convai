@@ -103,27 +103,24 @@ TBD
 
 # Model Submission
 
-TBD
 
-<!---
 To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts: [varepsilon](https://github.com/varepsilon), [aliannejadi](https://github.com/aliannejadi).
 
-See **SOURCE_TBD** for example baseline submissions.
+See https://github.com/aliannejadi/ClariQ#ref1 for example baseline submissions.
 
 You are free to use any system (e.g. PyTorch, Tensorflow, C++,..) as long as you can wrap your model for the evaluation. The top level README should tell us your team name, model name, and where the eval_ppl.py, eval_hits.py etc. files are so we can run them. Those should give the numbers on the validation set. Please also include those numbers in the README so we can check we get the same. We will then run the automatic evaluations on the hidden test set and update the leaderboard. You can submit a maximum of once per month.
-We will use the same submitted code for the top performing models for computing human evaluations when the submission system is locked on **DATE_TBD**.
--->
+We will use the same submitted code for the top performing models for computing human evaluations when the submission system is locked on **DATE**.
 
 # Schedule
 
-Up unti **TBD** competitors will be able to submit models (source code) to be evaluated on the hidden test set using automated metrics (which we will run on our servers). 
+Up unti **DATE** competitors will be able to submit models (source code) to be evaluated on the hidden test set using automated metrics (which we will run on our servers). 
 
-Ability to submit a model for evaluation by automatic metrics to be displayed on the leaderboard will be available by **TBD**. The current leaderboards will be visible to all competitors.
+Ability to submit a model for evaluation by automatic metrics to be displayed on the leaderboard will be available by **DATE**. The current leaderboards will be visible to all competitors.
 
 `Wild' live evaluation can also be performed at this time to obtain evaluation metrics and data, although those metrics will not be used for final judgement of the systems, but more for tuning systems if the competitors so wish. 
 
 
-On  **TBD**  the source code submission system will be locked, and the best performing systems will be evaluated over the next month using crowd workers and the `wild' live evaluation.
+On  **DATE**  the source code submission system will be locked, and the best performing systems will be evaluated over the next month using crowd workers and the `wild' live evaluation.
 
 Winners will be announced at EMNLP 2020.
 
