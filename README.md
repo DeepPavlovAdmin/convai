@@ -36,8 +36,9 @@ In Stage 1, we provide to the participants the datasets that include:
 * **Clarification questions:** a set of possible clarifying questions, e.g., "Do you want to know the location of fickle creek farm?";
 * **User Answers:** each question is supplied with a user answer, e.g., "No, I want to find out where can i purchase fickle creek farm products."
 
-* To answer RQ1: Given a user request, return a score [1 −4] indicating the necessity of asking clarifying questions.
-* To answer RQ2: Given a user request which needs clarification, returns the most suitable clarifying question. Here participants are able to choose: (1) either select the clarifying question from the provided question bank (all clarifying questions we collected), aiming to maximize the precision, (2) or
+To answer **RQ1**: Given a user request, return a score [1 −4] indicating the necessity of asking clarifying questions.
+
+To answer **RQ2**: Given a user request which needs clarification, returns the most suitable clarifying question. Here participants are able to choose: (1) either select the clarifying question from the provided question bank (all clarifying questions we collected), aiming to maximize the precision, (2) or
 choose not to ask any question (by choosing `Q0001` from the question bank.)
 
 The dataset is stored in the following repository [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ), together with evaluation scripts and baseline.
