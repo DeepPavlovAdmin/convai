@@ -12,7 +12,7 @@ The goal of the current challenge is to explore the situation of users asking am
 
 # Github repo
 
-https://github.com/aliannejadi/ClariQ
+[https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ)
 
 # Prize
 
