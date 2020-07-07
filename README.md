@@ -6,6 +6,10 @@ The aim of our competition is therefore to establish a concrete scenario for tes
 
 The goal of the current challenge is to explore the situation of users asking ambigous questions and the systems providing clarifications. Unlike traditional search systems, where the users can browse answers from multiple sources, conversational systems are limited to one answer per user's request. Therefore, a better understanding is needed as to when and how the system should clarify the users' need or help them refine it.
 
+# Registration form
+
+[Please register here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform).
+
 # Previous competitions
 
 The challenge is happening together with the Search-oriented Conversational AI workshop at EMNLP 2020 and builds upon the two previously run ConvAI challenges: [ConvAI @ NIPS 2017](http://convai.io/2017) (The Conversational Intelligence Challenge) and [ConvAI2 @ NeurIPS 2018](http://convai.io/2018) (The Persona-Chat Challenge).
