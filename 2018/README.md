@@ -231,7 +231,7 @@ Advisory board: Yoshua Bengio, Alan W. Black, Joelle Pineau, Alexander Rudnicky,
 
 ## Platinum Partner
 
-<a href="https://research.fb.com/category/facebook-ai-research-fair/"><img src="2017/facebook.png"></a>
+<a href="https://research.fb.com/category/facebook-ai-research-fair/"><img src="facebook.png"></a>
 
 ## Gold Partner
 
