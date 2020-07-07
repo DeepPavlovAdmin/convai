@@ -9,24 +9,22 @@ The main research questions we aim to answer as part of the challenge are the fo
 * **RQ1**: When to ask clarifying questions during dialogues?
 * **RQ2**: How to generate the clarifying questions?
 
-The detailed description of the challenge can be found [here](ConvAI3_ClariQ2020.pdf).
+The detailed description of the challenge can be found [in the following doccument](ConvAI3_ClariQ2020.pdf).
 
 
-# How to start?
+# How to participate?
 
 - In order to get to the leaderbord please register your team [here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform).
-- The datasets/baselines/evaluation scripts fot he Stage 1 can be found in the following repository [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ)
+- The datasets, baselines and evaluation scripts for he Stage 1 are avalible in the following repository [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ)
 - [Email us if you have any questions](mailto:clariq@convai.io)
-
 
 
 # News 
 
-- July 7, 2020: Announcing the challenge
-- 
+- July 7, 2020: Announcing the the Stage 1 of ClariQ challenge 
 
 
-#Challenge Design
+# Challenge Design
 
 The challenge will be run in two stages:
 
