@@ -110,7 +110,7 @@ We will use the same submitted code for the top performing models for computing 
 
 ## Document Relevance
 
-<table width=80%>
+<table>
   <tr>
     <td>ً<b>Rank</b></td>
     <td><b>Creator</b></td>
@@ -185,10 +185,9 @@ We will use the same submitted code for the top performing models for computing 
   </tr>
 </table>
 
-
 ## Question Relevance
 
-<table width=80%>
+<table>
   <tr>
     <td>ً<b>Rank</b></td>
     <td><b>Creator</b></td>
@@ -223,7 +222,6 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.7682</td>
   </tr>
 </table>
-
 
 # Organizing team
 
