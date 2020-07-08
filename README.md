@@ -100,7 +100,7 @@ The updated query is then used to retrieve (or re-rank) documents from the colle
 
 To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts:[aliannejadi](https://github.com/aliannejadi), [varepsilon](https://github.com/varepsilon), [julianakiseleva](https://github.com/julianakiseleva).
 
-See https://github.com/aliannejadi/ClariQ#ref1 for example baseline submissions.
+See https://github.com/aliannejadi/ClariQ for example baseline submissions.
 
 You are free to use any system (e.g. PyTorch, Tensorflow, C++,..) as long as you can wrap your model for the evaluation. The top level README should tell us your team name, model name, and where the eval_ppl.py, eval_hits.py etc. files are so we can run them. Those should give the numbers on the validation set. Please also include those numbers in the README so we can check we get the same. We will then run the automatic evaluations on the hidden test set and update the leaderboard. You can submit a maximum of once per month.
 
