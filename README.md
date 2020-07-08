@@ -1,9 +1,13 @@
 # ClariQ Overview
 
-ClariQ (pronounce as Claire-ee-que) challenge is organized as part of the [Search-oriented Conversational AI (SCAI)]() EMNLP workshop in 2020. The main aim of the conversational systems is to return an appropriate answer in response to the user requests. However, some user requests might be ambiguous. In Information Retrieval (IR) settings such a situation is handled mainly through the diversification of the search result page. It is however much more challenging in dialogue settings. Hence, we aim to study the following situation for dialogue settings:
 
-a user is asking an ambiguous question (where the ambiguous question is a question to which one can return > 1 possible answers);
-the system must identify that the question is ambiguous, and, instead of trying to answer it directly, ask a good clarifying question.
+ClariQ (pronounce as Claire-ee-que) challenge is organized as part of the Conversational AI challenge series (ConvAI3) at [Search-oriented Conversational AI (SCAI) EMNLP workshop in 2020](https://scai.info).
+The main aim of the conversational systems is to return an appropriate answer in response to the user requests. However, some user requests might be ambiguous. In IR settings such a situation is handled mainly thought the diversification of search result page.
+It is however much more challenging in dialogue settings. Hence, we aim to study the following situation for dialogue settings:
+
+* a user is asking an ambiguous question (where the ambiguous question is a question to which one can return > 1 possible answers);
+* the system must identify that the question is ambiguous, and, instead of trying to answer it directly, ask a good clarifying question.
+
 The main research questions we aim to answer as part of the challenge are the following:
 
 * **RQ1**: When to ask clarifying questions during dialogues?
