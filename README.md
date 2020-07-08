@@ -115,7 +115,7 @@ We will use the same submitted code for the top performing models for computing 
     <td>ً<b>Rank</b></td>
     <td><b>Creator</b></td>
     <td><b>Model Name</b></td>
-    <td colspan="4" align="center"><b>Eval</b></td>
+    <td colspan="4" align="center"><b>Dev</b></td>
     <td colspan="4" align="center"><b>Test</b></td>
   </tr>
   <tr>
@@ -192,7 +192,7 @@ We will use the same submitted code for the top performing models for computing 
     <td>ً<b>Rank</b></td>
     <td><b>Creator</b></td>
     <td><b>Model Name</b></td>
-    <td colspan="4" align="center"><b>Eval</b></td>
+    <td colspan="4" align="center"><b>Dev</b></td>
     <td colspan="4" align="center"><b>Test</b></td>
   </tr>
   <tr>
