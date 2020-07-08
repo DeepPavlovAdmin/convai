@@ -106,6 +106,122 @@ You are free to use any system (e.g. PyTorch, Tensorflow, C++,..) as long as you
 
 We will use the same submitted code for the top performing models for computing human evaluations when the submission system is locked on September 9, 2020.
 
+# Automatic Evaluation Leaderboard (hidden test set)
+
+## Document Relevance
+
+<table>
+  <tr>
+    <td>ً<b>Rank</b></td>
+    <td><b>Creator</b></td>
+    <td><b>Model Name</b></td>
+    <td colspan="4" align="center"><b>Eval</b></td>
+    <td colspan="4" align="center"><b>Test</b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><b>MRR</b></td>
+    <td><b>P@1</b></td>
+    <td><b>nDCG@3</b></td>
+    <td><b>nDCG@5</b></td>    
+    <td><b>MRR</b></td>
+    <td><b>P@1</b></td>
+    <td><b>nDCG@3</b></td>
+    <td><b>nDCG@5</b></td>    
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>ClariQ</td>
+    <td>Oracle BestQuestion</td>
+    <td>0.4541</td>
+    <td>0.3687</td>
+    <td>0.2578</td>
+    <td>0.2470</td>    
+    <td>0.4640</td>
+    <td>0.3829</td>
+    <td>0.1796</td>
+    <td>0.1591</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>ClariQ</td>
+    <td>NoQuestion</td>
+    <td>0.3000</td>
+    <td>0.2063</td>
+    <td>0.1475</td>  
+    <td>0.1530</td>  
+    <td>0.3223</td>
+    <td>0.2268</td>
+    <td>0.1134</td>
+    <td>0.1059</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>ClariQ</td>
+    <td>BM25</td>
+    <td>0.3096</td>
+    <td>0.2313</td>
+    <td>0.1608</td>  
+    <td>0.1530</td>  
+    <td>0.3134</td>
+    <td>0.2193</td>
+    <td>0.1151</td>
+    <td>0.1061</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>ClariQ</td>
+    <td>Oracle WorstQuestion</td>
+    <td>0.0841</td>
+    <td>0.0125</td>
+    <td>0.0252</td>  
+    <td>0.0313</td>  
+    <td>0.0541</td>
+    <td>0.0000</td>
+    <td>0.0097</td>
+    <td>0.0154</td>
+  </tr>
+</table>
+
+## Question Relevance
+
+<table>
+  <tr>
+    <td>ً<b>Rank</b></td>
+    <td><b>Creator</b></td>
+    <td><b>Model Name</b></td>
+    <td colspan="4" align="center"><b>Eval</b></td>
+    <td colspan="4" align="center"><b>Test</b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><b>Recall@5</b></td>
+    <td><b>Recall@10</b></td>
+    <td><b>Recall@20</b></td>
+    <td><b>Recall@30</b></td>    
+    <td><b>Recall@5</b></td>
+    <td><b>Recall@10</b></td>
+    <td><b>Recall@20</b></td>
+    <td><b>Recall@30</b></td>      
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>ClariQ</td>
+    <td>BM25</td>
+    <td>0.3245</td>
+    <td>0.5638</td>
+    <td>0.6675</td>
+    <td>0.6913</td>    
+    <td>0.3170</td>
+    <td>0.5705</td>
+    <td>0.7292</td>
+    <td>0.7682</td>
+  </tr>
+</table>
 
 # Organizing team
 
