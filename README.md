@@ -1,4 +1,4 @@
-# ConvAI3: Clarifying Questions for Open-Domain Dialogue Systems (ClariQ)
+# ClariQ Overview
 
 ClariQ (pronounce as Claire-ee-que) challenge is organized as part of the [Search-oriented Conversational AI (SCAI)]() EMNLP workshop in 2020. The main aim of the conversational systems is to return an appropriate answer in response to the user requests. However, some user requests might be ambiguous. In Information Retrieval (IR) settings such a situation is handled mainly through the diversification of the search result page. It is however much more challenging in dialogue settings. Hence, we aim to study the following situation for dialogue settings:
 
@@ -11,7 +11,6 @@ The main research questions we aim to answer as part of the challenge are the fo
 
 The detailed description of the challenge can be found [in the following doccument](ConvAI3_ClariQ2020.pdf).
 
-
 # How to participate?
 
 - In order to get to the leaderboard please register your team [here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform).
@@ -22,7 +21,6 @@ The detailed description of the challenge can be found [in the following doccume
 # News 
 
 - July 7, 2020: Announcing the Stage 1 of ClariQ challenge 
-
 
 # Challenge Design
 
@@ -74,7 +72,7 @@ Participants' models will then be compared in two ways after two stages:
 *  automated evaluation metrics on a new test set hidden from the competitors; 
 *  evaluation with crowd workers through MTurk.
 
-The winning  will be chosen based on these scores. 
+The winning will be chosen based on these scores. 
 
 ## Metrics
 
