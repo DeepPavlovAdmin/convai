@@ -17,7 +17,7 @@ The detailed description of the challenge can be found [in the following doccume
 
 # How to participate?
 
-- In order to get to the leaderboard please register your team [here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform).
+- In order to get to the leaderboard please **register your team** [here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform).
 - The datasets, baselines and evaluation scripts for he Stage 1 are available in the following repository [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ)
 - [Email us if you have any questions](mailto:clariq@convai.io)
 
