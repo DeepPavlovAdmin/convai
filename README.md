@@ -5,7 +5,7 @@ ClariQ (pronounced as Claire-ee-que) challenge is organized as part of the Conve
 The main aim of the conversational systems is to return an appropriate answer in response to the user requests. However, some user requests might be ambiguous. In IR settings such a situation is handled mainly through the diversification of a search result page.
 It is however much more challenging in dialogue settings. Hence, we aim to study the following situation for dialogue settings:
 
-* a user is asking an ambiguous question (where the ambiguous question is a question to which one can return > 1 possible answers);
+* a user is asking an ambiguous question (a question to which one can return > 1 possible answers);
 * the system must identify that the question is ambiguous, and, instead of trying to answer it directly, ask a good clarifying question.
 
 The main research questions we aim to answer as part of the challenge are the following:
@@ -18,7 +18,7 @@ The detailed description of the challenge can be found [in the following doccume
 # How to participate?
 
 - In order to get to the leaderboard please **register your team** [here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform).
-- The datasets, baselines and evaluation scripts for he Stage 1 are available in the following repository [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ)
+- The datasets, baselines and evaluation scripts for the Stage 1 are available in the following repository [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ)
 - [Email us if you have any questions](mailto:clariq@convai.io)
 
 
