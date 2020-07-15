@@ -1,8 +1,8 @@
 # ClariQ Overview
 
 
-ClariQ (pronounce as Claire-ee-que) challenge is organized as part of the Conversational AI challenge series (ConvAI3) at [Search-oriented Conversational AI (SCAI) EMNLP workshop in 2020](https://scai.info).
-The main aim of the conversational systems is to return an appropriate answer in response to the user requests. However, some user requests might be ambiguous. In IR settings such a situation is handled mainly thought the diversification of search result page.
+ClariQ (pronounced as Claire-ee-que) challenge is organized as part of the Conversational AI challenge series (ConvAI3) at [Search-oriented Conversational AI (SCAI) EMNLP workshop in 2020](https://scai.info).
+The main aim of the conversational systems is to return an appropriate answer in response to the user requests. However, some user requests might be ambiguous. In IR settings such a situation is handled mainly through the diversification of search result page.
 It is however much more challenging in dialogue settings. Hence, we aim to study the following situation for dialogue settings:
 
 * a user is asking an ambiguous question (where the ambiguous question is a question to which one can return > 1 possible answers);
