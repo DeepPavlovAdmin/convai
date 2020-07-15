@@ -25,6 +25,7 @@ The detailed description of the challenge can be found [in the following doccume
 # News 
 
 - July 7, 2020: Announcing the Stage 1 of ClariQ challenge 
+- July 8, 2020: Announcing the performance of the baselines
 
 # Challenge Design
 
