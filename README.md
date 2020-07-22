@@ -13,7 +13,7 @@ The main research questions we aim to answer as part of the challenge are the fo
 * **RQ1**: When to ask clarifying questions during dialogues?
 * **RQ2**: How to generate the clarifying questions?
 
-The detailed description of the challenge can be found [in the following doccument](ConvAI3_ClariQ2020.pdf).
+The detailed description of the challenge can be found [in the following document](ConvAI3_ClariQ2020.pdf).
 
 # How to participate?
 
@@ -97,9 +97,48 @@ The updated query is then used to retrieve (or re-rank) documents from the colle
 * Participants are free to augment training with other datasets as long as they are publicly released (and hence, reproducible). Hence, all entrants are expected to work on publicly available data or release the data they use to train. 
 
 
-# Model Submission
+# Submission
 
-To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts:[aliannejadi](https://github.com/aliannejadi), [varepsilon](https://github.com/varepsilon), [julianakiseleva](https://github.com/julianakiseleva).
+## Stage 1
+Please send two files per run as to `clariq@convai.io`, indicating your team's name, as well as your run ID. 
+Each team is allowed to send a maximum of one run per week.
+You'll also need to share your GitHub repository with us. The run files should be formatted as described below.
+
+### Run file format
+Each run consists of two separate files: 
+
+* Ranked list of questions for each topic;
+* Predicted `clarification_need` label for each topic. 
+
+Below we explain how each file should be formatted.
+
+#### Question ranking
+This file is supposed to contain a ranked list of questions per topic. The number of questions per topic could be any number, but we evaluate only the top 30 questions. We follow the traditional TREC run format. Each line of the file should be formatted as follows:
+
+    <topic_id> 0 <question_id> <ranking> <relevance_score> <run_id>
+
+Each line represents a relevance prediction. `<relevance_score>` is the relevance score that a model predicts for a given `<topic_id>` and `<question_id>`. `<run_id>` is a string indicating the ID of the submitted run. `<ranking>` denotes the ranking of the `<question_id>` for `<topic_id>`. Practically, the ranking is computed by sorting the questions for each topic by their relevance scores.
+Here are some example lines:
+
+	170 0 Q00380 1 6.53252 sample_run
+	170 0 Q02669 2 6.42323 sample_run
+	170 0 Q03333 3 6.34980 sample_run
+	171 0 Q03775 1 4.32344 sample_run
+	171 0 Q00934 2 3.98838 sample_run
+	171 0 Q01138 3 2.34534 sample_run
+
+This run file will be used to evaluate both question relevance and document relevance. Sample runs can found in `./sample_runs/` directory.
+
+#### Clarification need
+This file is supposed to contain the predicted `clarification_need` labels. Therefore, the file format is simply the `topic_id` and the predicted label. Sample lines can be found below:
+
+    171 1
+    170 3
+    182 4
+
+More information and example run files can be found at https://github.com/aliannejadi/ClariQ.
+## Stage 2
+To submit an entry, create a private repo with your model that works with our evaluation code, and share it with the following github accounts: [aliannejadi](https://github.com/aliannejadi), [varepsilon](https://github.com/varepsilon), [julianakiseleva](https://github.com/julianakiseleva).
 
 See https://github.com/aliannejadi/ClariQ for example baseline submissions.
 
