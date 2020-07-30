@@ -30,9 +30,9 @@ The detailed description of the challenge can be found [in the following documen
 - July 20, 2020: Send us your solution for Stage 1 every Friday via [email](mailto:clariq@convai.io) 
 - July 25, 2020: Ask us question [![Join the chat at https://gitter.im/ClariQ/community](https://badges.gitter.im/ClariQ/community.svg)](https://gitter.im/ClariQ/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 - July 30, 2020: Announcing a kick-off webinar, where 
-       -- we give a brief overview of the challenge;
-       -- show how to run baselines; 
-       -- answer all your questions.
+       - we give a brief overview of the challenge;
+       - show how to run baselines; 
+       - answer all your questions.
    Please join us on August 4, 8 am PST (convert to your time zone) using the following [meeting link](https://uva-live.zoom.us/j/91023840049)
 
 
