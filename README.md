@@ -32,7 +32,8 @@ The detailed description of the challenge can be found [in the following documen
 - July 30, 2020: Please join our kick-off webinar on August 4, 8 am PST (convert to your time zone) using the following [meeting link](https://uva-live.zoom.us/j/91023840049), where 
     - we give a brief overview of the challenge;
     - show how to run baselines; 
-    - answer all your questions.
+    - answer all your questions.    
+- July 30, 2020: Don't want to miss any updates please register [here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform)  
  
 
 
