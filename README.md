@@ -28,7 +28,8 @@ The detailed description of the challenge can be found [in the following documen
 - July 7, 2020: Announcing the Stage 1 of ClariQ challenge 
 - July 8, 2020: Announcing the performance of the baselines
 - July 20, 2020: Send us your solution for Stage 1 every Friday via [email](mailto:clariq@convai.io) 
-- July 30, 2020: Join our 
+- July 25, 2020: Ask us question [![Join the chat at https://gitter.im/ClariQ/community](https://badges.gitter.im/ClariQ/community.svg)](https://gitter.im/ClariQ/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
+
 
 # Challenge Design
 
