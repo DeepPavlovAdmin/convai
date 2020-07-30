@@ -20,12 +20,15 @@ The detailed description of the challenge can be found [in the following documen
 - In order to get to the leaderboard please **register your team** [here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform).
 - The datasets, baselines and evaluation scripts for the Stage 1 are available in the following repository [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ)
 - [Email us if you have any questions](mailto:clariq@convai.io)
+- [![Ask us questions at chat https://gitter.im/ClariQ/community](https://badges.gitter.im/ClariQ/community.svg)](https://gitter.im/ClariQ/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 # News 
-
+- June 10, 2020: Microsoft Research is sponsoring data collection for the Stage 1
 - July 7, 2020: Announcing the Stage 1 of ClariQ challenge 
 - July 8, 2020: Announcing the performance of the baselines
+- July 20, 2020: Send us your solution for Stage 1 every Friday via [email](mailto:clariq@convai.io) 
+- July 30, 2020: Join our 
 
 # Challenge Design
 
