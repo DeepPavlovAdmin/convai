@@ -33,7 +33,7 @@ The detailed description of the challenge can be found [in the following documen
     - we give a brief overview of the challenge;
     - show how to run baselines; 
     - answer all your questions.
-  Please join us on August 4, 8 am PST (convert to your time zone) using the following [meeting link](https://uva-live.zoom.us/j/91023840049)
+ Please join us on August 4, 8 am PST (convert to your time zone) using the following [meeting link](https://uva-live.zoom.us/j/91023840049)
 
 
 # Challenge Design
