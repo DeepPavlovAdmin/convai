@@ -37,6 +37,7 @@ The detailed description of the challenge can be found [in the following documen
     - answer all your questions.    
 - July 30, 2020: Don't want to miss any updates please register [here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform) 
 - August 4, 2020: Google is sponsoring the competion prize (see the details below)
+- August 4, 2020: We held the kick-off webinar. Missed it? You can watch the playback [here](https://www.youtube.com/watch?v=2cSLNScJqFk).
 
 # Prize 
 
