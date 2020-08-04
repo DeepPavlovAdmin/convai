@@ -1,3 +1,5 @@
+> NEW! Prizes have been announed (see below for details).
+
 # ClariQ Overview
 
 
@@ -33,9 +35,18 @@ The detailed description of the challenge can be found [in the following documen
     - we give a brief overview of the challenge;
     - show how to run baselines; 
     - answer all your questions.    
-- July 30, 2020: Don't want to miss any updates please register [here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform)  
- 
+- July 30, 2020: Don't want to miss any updates please register [here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform) 
+- August 4, 2020: Google is sponsoring the competion prize (see the details below)
 
+# Prize 
+
+Google is sponsoring the competition prize with the GCP Credits, which we are planning to award as follows:
+
+* 1st place: 2'500 credits
+* 2nd place: 1'500 credits
+* 3rd place: 1'000 credits
+
+**IMPORTANT!** Please note that GCP Credits can only be granted where available and are subject to the [Terms and Conditions](https://cloud.google.com/terms?hl=en) and product availability. If the competition winner is from a region where the program is not launched, we will, unfortunately, not be able to issue the prize. 
 
 # Challenge Design
 
@@ -288,4 +299,6 @@ We will use the same submitted code for the top performing models for computing 
 
 # Sponsors
 <a href="https://www.microsoft.com/en-us/research/"><img src="ms_logo.png"></a>
+
+<a href="https://research.google" style="max-width: 60%"><img src="google_logo.png"></a>
 
