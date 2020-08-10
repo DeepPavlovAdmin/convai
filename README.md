@@ -1,4 +1,4 @@
-> NEW! Prizes have been announed (see below for details).
+> NEW! Awards have been announed (see below for details).
 
 # ClariQ Overview
 
@@ -38,14 +38,15 @@ The detailed description of the challenge can be found [in the following documen
 - July 30, 2020: Don't want to miss any updates please register [here](https://docs.google.com/forms/d/e/1FAIpQLSer8lvNvtt-SBwEtqZKjMtPJRWmw5zHUxoNgRJntzBIuVXrmw/viewform) 
 - August 4, 2020: Google is sponsoring the competion prize (see the details below)
 - August 4, 2020: We held the kick-off webinar. Missed it? You can watch the playback [here](https://www.youtube.com/watch?v=2cSLNScJqFk).
+- August 10, 2020: New baselines for the `question_relevance` have been added. The code is also available on Google Colab. 
 
-# Prize 
+# Awards 
 
-Google is sponsoring the competition prize with the GCP Credits, which we are planning to award as follows:
+Google is sponsoring the competition award with the GCP Credits, which we are planning to award as follows:
 
-* 1st place: 2'500 credits
-* 2nd place: 1'500 credits
-* 3rd place: 1'000 credits
+* 1st place: $2'500 credits
+* 2nd place: $1'500 credits
+* 3rd place: $1'000 credits
 
 **IMPORTANT!** Please note that GCP Credits can only be granted where available and are subject to the [Terms and Conditions](https://cloud.google.com/terms?hl=en) and product availability. If the competition winner is from a region where the program is not launched, we will, unfortunately, not be able to issue the prize. 
 
@@ -150,6 +151,7 @@ Here are some example lines:
 	171 0 Q01138 3 2.34534 sample_run
 
 This run file will be used to evaluate both question relevance and document relevance. Sample runs can found in `./sample_runs/` directory.
+Also, sample Google Colab Notebookes are available. Please check [ClariQ repo](https://github.com/aliannejadi/ClariQ) for more information.
 
 #### Clarification need
 This file is supposed to contain the predicted `clarification_need` labels. Therefore, the file format is simply the `topic_id` and the predicted label. Sample lines can be found below:
