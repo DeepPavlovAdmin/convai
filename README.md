@@ -270,8 +270,34 @@ We will use the same submitted code for the top performing models for computing 
     <td><b>Recall@20</b></td>
     <td><b>Recall@30</b></td>      
   </tr>
+<tr>
+    <td>-</td>
+    <td>ClariQ</td>
+    <td>BERT-ranker</td>
+    <td>0.3494</td>
+    <td>0.6134</td>
+    <td>0.7248</td>
+    <td>0.7542</td>    
+    <td>0.3440</td>
+    <td>0.6242</td>
+    <td>0.7849</td>
+    <td>0.8190</td>
+  </tr>	
   <tr>
     <td>-</td>
+    <td>ClariQ</td>
+    <td>BERT-reranker</td>
+    <td>0.3475</td>
+    <td>0.6122</td>
+    <td>0.6913</td>
+    <td>0.6913</td>    
+    <td>0.3444</td>
+    <td>0.6062</td>
+    <td>0.7585</td>
+    <td>0.7682</td>
+  </tr>
+  <tr>
+    <td>2</td>
     <td>ClariQ</td>
     <td>BM25</td>
     <td>0.3245</td>
