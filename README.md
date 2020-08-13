@@ -190,7 +190,7 @@ We will use the same submitted code for the top performing models for computing 
     <td><b>P@1</b></td>
     <td><b>nDCG@3</b></td>
     <td><b>nDCG@5</b></td>    
-    <td><b>MRR</b></td>
+    <td><b><u>MRR</u></b></td>
     <td><b>P@1</b></td>
     <td><b>nDCG@3</b></td>
     <td><b>nDCG@5</b></td>    
@@ -235,6 +235,19 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.1061</td>
   </tr>
   <tr>
+    <td>3</td>
+    <td>Algis</td>
+    <td>Run 1</td>
+    <td>0.3517</td>
+    <td>0.2563</td>
+    <td>0.1943</td>  
+    <td>0.1815</td>  
+    <td>0.2782</td>
+    <td>0.1822</td>
+    <td>0.0978</td>
+    <td>0.1003</td>
+  </tr>
+  <tr>
     <td>-</td>
     <td>ClariQ</td>
     <td>Oracle WorstQuestion</td>
@@ -270,9 +283,9 @@ We will use the same submitted code for the top performing models for computing 
     <td><b>Recall@5</b></td>
     <td><b>Recall@10</b></td>
     <td><b>Recall@20</b></td>
-    <td><b>Recall@30</b></td>      
+    <td><b><u>Recall@30</u></b></td>      
   </tr>
-<tr>
+  <tr>
     <td>1</td>
     <td>ClariQ</td>
     <td>BERT-ranker</td>
@@ -287,6 +300,19 @@ We will use the same submitted code for the top performing models for computing 
   </tr>	
   <tr>
     <td>2</td>
+    <td>Algis</td>
+    <td>Run 1</td>
+    <td>0.3469</td>
+    <td>0.6112</td>
+    <td>0.7052</td>
+    <td>0.7228</td>    
+    <td>0.3454</td>
+    <td>0.6071</td>
+    <td>0.7688</td>
+    <td>0.8013</td>
+  </tr>	
+  <tr>
+    <td>3</td>
     <td>ClariQ</td>
     <td>BERT-reranker</td>
     <td>0.3475</td>
@@ -299,7 +325,7 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.7682</td>
   </tr>
   <tr>
-    <td>3</td>
+    <td>4</td>
     <td>ClariQ</td>
     <td>BM25</td>
     <td>0.3245</td>
@@ -310,6 +336,40 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.5705</td>
     <td>0.7292</td>
     <td>0.7682</td>
+  </tr>
+</table>
+
+## Clarification Need Prediction
+
+<table>
+  <tr>
+    <td>ً<b>Rank</b></td>
+    <td><b>Creator</b></td>
+    <td><b>Model Name</b></td>
+    <td colspan="3" align="center"><b>Dev</b></td>
+    <td colspan="3" align="center"><b>Test</b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><b>Precision</b></td>
+    <td><b>Recall</b></td>
+    <td><b>F1-Score</b></td>
+    <td><b>Precision</b></td>    
+    <td><b>Recall</b></td>
+    <td><b><u>F1-Score</u></b></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Algis</td>
+    <td>Run 1</td>
+    <td>0.1402</td>
+    <td>0.2800</td>
+    <td>0.1854</td>
+    <td>0.5171</td>    
+    <td>0.5246</td>
+    <td>0.5138</td>
   </tr>
 </table>
 
