@@ -250,7 +250,7 @@ We will use the same submitted code for the top performing models for computing 
   <tr>
     <td>4</td>
     <td>Algis</td>
-    <td>Run 1</td>
+    <td>USE-QA</td>
     <td>0.3517</td>
     <td>0.2563</td>
     <td>0.1943</td>  
@@ -314,7 +314,7 @@ We will use the same submitted code for the top performing models for computing 
   <tr>
     <td>2</td>
     <td>Algis</td>
-    <td>Run 1</td>
+    <td>USE-QA</td>
     <td>0.3469</td>
     <td>0.6112</td>
     <td>0.7052</td>
@@ -389,7 +389,7 @@ We will use the same submitted code for the top performing models for computing 
   <tr>
     <td>1</td>
     <td>Algis</td>
-    <td>Run 1</td>
+    <td>Roberta+CatBoost</td>
     <td>0.1402</td>
     <td>0.2800</td>
     <td>0.1854</td>
