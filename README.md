@@ -236,8 +236,8 @@ We will use the same submitted code for the top performing models for computing 
   </tr>
   <tr>
     <td>3</td>
-    <td>NTES</td>
-    <td>BM25+Roberta Large</td>
+    <td>NTES_ALONG</td>
+    <td>BM25+Roberta</td>
     <td>0.3606</td>
     <td>0.2813</td>
     <td>0.1942</td>  
@@ -326,8 +326,8 @@ We will use the same submitted code for the top performing models for computing 
   </tr>	
  <tr>
     <td>3</td>
-    <td>NTES</td>
-    <td>BM25+Roberta Large</td>
+    <td>NTES_ALONG</td>
+    <td>BM25+Roberta</td>
     <td>0.3629</td>
     <td>0.6389</td>
     <td>0.7285</td>
@@ -399,8 +399,8 @@ We will use the same submitted code for the top performing models for computing 
   </tr>
   <tr>
     <td>2</td>
-    <td>NTES</td>
-    <td>Roberta Large</td>
+    <td>NTES_ALONG</td>
+    <td>Roberta</td>
     <td>0.3967</td>
     <td>0.5200</td>
     <td>0.4305</td>
