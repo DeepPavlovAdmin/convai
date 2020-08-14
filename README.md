@@ -236,6 +236,19 @@ We will use the same submitted code for the top performing models for computing 
   </tr>
   <tr>
     <td>3</td>
+    <td>NTES</td>
+    <td>BM25+Roberta Large</td>
+    <td>0.3606</td>
+    <td>0.2813</td>
+    <td>0.1942</td>  
+    <td>0.1891</td>  
+    <td>0.3044</td>
+    <td>0.2156</td>
+    <td>0.1108</td>
+    <td>0.1025</td>
+  </tr>
+  <tr>
+    <td>4</td>
     <td>Algis</td>
     <td>Run 1</td>
     <td>0.3517</td>
@@ -311,8 +324,21 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.7688</td>
     <td>0.8013</td>
   </tr>	
-  <tr>
+ <tr>
     <td>3</td>
+    <td>NTES</td>
+    <td>BM25+Roberta Large</td>
+    <td>0.3629</td>
+    <td>0.6389</td>
+    <td>0.7285</td>
+    <td>0.7657</td>    
+    <td>0.3329</td>
+    <td>0.6027</td>
+    <td>0.7650</td>
+    <td>0.8004</td>
+  </tr>
+  <tr>
+    <td>4</td>
     <td>ClariQ</td>
     <td>BERT-reranker</td>
     <td>0.3475</td>
@@ -325,7 +351,7 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.7682</td>
   </tr>
   <tr>
-    <td>4</td>
+    <td>5</td>
     <td>ClariQ</td>
     <td>BM25</td>
     <td>0.3245</td>
@@ -370,6 +396,17 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.5171</td>    
     <td>0.5246</td>
     <td>0.5138</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>NTES</td>
+    <td>Roberta Large</td>
+    <td>0.3967</td>
+    <td>0.5200</td>
+    <td>0.4305</td>
+    <td>0.3546</td>    
+    <td>0.4754</td>
+    <td>0.3995</td>
   </tr>
 </table>
 
