@@ -242,7 +242,7 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.2813</td>
     <td>0.1942</td>  
     <td>0.1891</td>  
-    <td>0.3044</td>
+    <td>0.3045</td>
     <td>0.2156</td>
     <td>0.1108</td>
     <td>0.1025</td>
@@ -259,6 +259,19 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.1822</td>
     <td>0.0978</td>
     <td>0.1003</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Soda</td>
+    <td>BERT-based</td>
+    <td>0.3497</td>
+    <td>0.2625</td>
+    <td>0.1849</td>  
+    <td>0.1762</td>  
+    <td>0.2600</td>
+    <td>0.1784</td>
+    <td>0.0983</td>
+    <td>0.0915</td>
   </tr>
   <tr>
     <td>-</td>
@@ -300,6 +313,19 @@ We will use the same submitted code for the top performing models for computing 
   </tr>
   <tr>
     <td>1</td>
+    <td>Soda</td>
+    <td>BERT-based</td>
+    <td>0.3523</td>
+    <td>0.6247</td>
+    <td>0.7354</td>
+    <td>0.7636</td>    
+    <td>0.3338</td>
+    <td>0.6099</td>
+    <td>0.8023</td>
+    <td>0.8432</td>
+  </tr>	
+  <tr>
+    <td>2</td>
     <td>ClariQ</td>
     <td>BERT-ranker</td>
     <td>0.3494</td>
@@ -312,7 +338,7 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.8190</td>
   </tr>	
   <tr>
-    <td>2</td>
+    <td>3</td>
     <td>Algis</td>
     <td>USE-QA</td>
     <td>0.3469</td>
@@ -325,7 +351,7 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.8013</td>
   </tr>	
  <tr>
-    <td>3</td>
+    <td>4</td>
     <td>NTES_ALONG</td>
     <td>BM25+Roberta</td>
     <td>0.3629</td>
@@ -338,7 +364,7 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.8004</td>
   </tr>
   <tr>
-    <td>4</td>
+    <td>5</td>
     <td>ClariQ</td>
     <td>BERT-reranker</td>
     <td>0.3475</td>
@@ -351,7 +377,7 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.7682</td>
   </tr>
   <tr>
-    <td>5</td>
+    <td>6</td>
     <td>ClariQ</td>
     <td>BM25</td>
     <td>0.3245</td>
@@ -399,6 +425,17 @@ We will use the same submitted code for the top performing models for computing 
   </tr>
   <tr>
     <td>2</td>
+    <td>Soda</td>
+    <td>BERT-based</td>
+    <td>0.5224</td>
+    <td>0.5400</td>
+    <td>0.5180</td>
+    <td>0.3901</td>    
+    <td>0.4754</td>
+    <td>0.4282</td>
+  </tr>
+  <tr>
+    <td>3</td>
     <td>NTES_ALONG</td>
     <td>Roberta</td>
     <td>0.3967</td>
