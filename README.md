@@ -174,119 +174,28 @@ We will use the same submitted code for the top performing models for computing 
 
 ## Document Relevance
 
-<table>
-  <tr>
-    <td>ً<b>Rank</b></td>
-    <td><b>Creator</b></td>
-    <td><b>Model Name</b></td>
-    <td colspan="4" align="center"><b>Dev</b></td>
-    <td colspan="4" align="center"><b>Test</b></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><b>MRR</b></td>
-    <td><b>P@1</b></td>
-    <td><b>nDCG@3</b></td>
-    <td><b>nDCG@5</b></td>    
-    <td><b><u>MRR</u></b></td>
-    <td><b>P@1</b></td>
-    <td><b>nDCG@3</b></td>
-    <td><b>nDCG@5</b></td>    
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>ClariQ</td>
-    <td>Oracle BestQuestion</td>
-    <td>0.4541</td>
-    <td>0.3687</td>
-    <td>0.2578</td>
-    <td>0.2470</td>    
-    <td>0.4640</td>
-    <td>0.3829</td>
-    <td>0.1796</td>
-    <td>0.1591</td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>ClariQ</td>
-    <td>NoQuestion</td>
-    <td>0.3000</td>
-    <td>0.2063</td>
-    <td>0.1475</td>  
-    <td>0.1530</td>  
-    <td>0.3223</td>
-    <td>0.2268</td>
-    <td>0.1134</td>
-    <td>0.1059</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>ClariQ</td>
-    <td>BM25</td>
-    <td>0.3096</td>
-    <td>0.2313</td>
-    <td>0.1608</td>  
-    <td>0.1530</td>  
-    <td>0.3134</td>
-    <td>0.2193</td>
-    <td>0.1151</td>
-    <td>0.1061</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>NTES_ALONG</td>
-    <td>BM25+Roberta</td>
-    <td>0.3606</td>
-    <td>0.2813</td>
-    <td>0.1942</td>  
-    <td>0.1891</td>  
-    <td>0.3045</td>
-    <td>0.2156</td>
-    <td>0.1108</td>
-    <td>0.1025</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Algis</td>
-    <td>USE-QA</td>
-    <td>0.3517</td>
-    <td>0.2563</td>
-    <td>0.1943</td>  
-    <td>0.1815</td>  
-    <td>0.2782</td>
-    <td>0.1822</td>
-    <td>0.0978</td>
-    <td>0.1003</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>Soda</td>
-    <td>BERT-based</td>
-    <td>0.3497</td>
-    <td>0.2625</td>
-    <td>0.1849</td>  
-    <td>0.1762</td>  
-    <td>0.2600</td>
-    <td>0.1784</td>
-    <td>0.0983</td>
-    <td>0.0915</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>ClariQ</td>
-    <td>Oracle WorstQuestion</td>
-    <td>0.0841</td>
-    <td>0.0125</td>
-    <td>0.0252</td>  
-    <td>0.0313</td>  
-    <td>0.0541</td>
-    <td>0.0000</td>
-    <td>0.0097</td>
-    <td>0.0154</td>
-  </tr>
-</table>
+**Dev**
+
+| ًRank | Creator    | Model Name | MRR    | P@1    | nDCG@3 | nDCG@5 |
+| ---- | ---------- | -------------------- | ------ | ------ | ------ | ------ |
+| -    | ClariQ     | Oracle BestQuestion  | 0.4541 | 0.3687 | 0.2578 | 0.2470 |
+| 1    | ClariQ     | NoQuestion           | 0.3000 | 0.2063 | 0.1475 | 0.1530 |
+| 2    | ClariQ     | BM25                 | 0.3096 | 0.2313 | 0.1608 | 0.1530 |
+| 3    | NTES_ALONG | BM25+Roberta         | 0.3606 | 0.2813 | 0.1942 | 0.1891 |
+| 4    | Algis      | USE-QA               | 0.3517 | 0.2563 | 0.1943 | 0.1815 |
+| 5    | Soda       | BERT-based           | 0.3497 | 0.2625 | 0.1849 | 0.1762 |
+| -    | ClariQ     | Oracle WorstQuestion | 0.0841 | 0.0125 | 0.0252 | 0.0313 |
+
+**Test**
+| ًRank | Creator    | Model Name | MRR    | P@1    | nDCG@3 | nDCG@5 |
+| ---- | ---------- | -------------------- | ------ | ------ | ------ | ------ |
+| -    | ClariQ     | Oracle BestQuestion  | 0.4640 | 0.3829 | 0.1796 | 0.1591 |
+| 1    | ClariQ     | NoQuestion           | 0.3223 | 0.2268 | 0.1134 | 0.1059 |
+| 2    | ClariQ     | BM25                 | 0.3134 | 0.2193 | 0.1151 | 0.1061 |
+| 3    | NTES_ALONG | BM25+Roberta         | 0.3045 | 0.2156 | 0.1108 | 0.1025 |
+| 4    | Algis      | USE-QA               | 0.2782 | 0.1822 | 0.0978 | 0.1003 |
+| 5    | Soda       | BERT-based           | 0.2600 | 0.1784 | 0.0983 | 0.0915 |
+| -    | ClariQ     | Oracle WorstQuestion | 0.0541 | 0.0000 | 0.0097 | 0.0154 |
 
 ## Question Relevance
 
