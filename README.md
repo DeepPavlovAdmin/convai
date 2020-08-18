@@ -200,106 +200,28 @@ We will use the same submitted code for the top performing models for computing 
 
 ## Question Relevance
 
-<table>
-  <tr>
-    <td>ً<b>Rank</b></td>
-    <td><b>Creator</b></td>
-    <td><b>Model Name</b></td>
-    <td colspan="4" align="center"><b>Dev</b></td>
-    <td colspan="4" align="center"><b>Test</b></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><b>Recall@5</b></td>
-    <td><b>Recall@10</b></td>
-    <td><b>Recall@20</b></td>
-    <td><b>Recall@30</b></td>    
-    <td><b>Recall@5</b></td>
-    <td><b>Recall@10</b></td>
-    <td><b>Recall@20</b></td>
-    <td><b><u>Recall@30</u></b></td>      
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Soda</td>
-    <td>BERT-based</td>
-    <td>0.3523</td>
-    <td>0.6247</td>
-    <td>0.7354</td>
-    <td>0.7636</td>    
-    <td>0.3338</td>
-    <td>0.6099</td>
-    <td>0.8023</td>
-    <td>0.8432</td>
-  </tr>	
-  <tr>
-    <td>2</td>
-    <td>ClariQ</td>
-    <td>BERT-ranker</td>
-    <td>0.3494</td>
-    <td>0.6134</td>
-    <td>0.7248</td>
-    <td>0.7542</td>    
-    <td>0.3440</td>
-    <td>0.6242</td>
-    <td>0.7849</td>
-    <td>0.8190</td>
-  </tr>	
-  <tr>
-    <td>3</td>
-    <td>Algis</td>
-    <td>USE-QA</td>
-    <td>0.3469</td>
-    <td>0.6112</td>
-    <td>0.7052</td>
-    <td>0.7228</td>    
-    <td>0.3454</td>
-    <td>0.6071</td>
-    <td>0.7688</td>
-    <td>0.8013</td>
-  </tr>	
- <tr>
-    <td>4</td>
-    <td>NTES_ALONG</td>
-    <td>BM25+Roberta</td>
-    <td>0.3629</td>
-    <td>0.6389</td>
-    <td>0.7285</td>
-    <td>0.7657</td>    
-    <td>0.3329</td>
-    <td>0.6027</td>
-    <td>0.7650</td>
-    <td>0.8004</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>ClariQ</td>
-    <td>BERT-reranker</td>
-    <td>0.3475</td>
-    <td>0.6122</td>
-    <td>0.6913</td>
-    <td>0.6913</td>    
-    <td>0.3444</td>
-    <td>0.6062</td>
-    <td>0.7585</td>
-    <td>0.7682</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>ClariQ</td>
-    <td>BM25</td>
-    <td>0.3245</td>
-    <td>0.5638</td>
-    <td>0.6675</td>
-    <td>0.6913</td>    
-    <td>0.3170</td>
-    <td>0.5705</td>
-    <td>0.7292</td>
-    <td>0.7682</td>
-  </tr>
-</table>
+**Dev**
+
+| ًRank | Creator    | Model Name   | Recall@5 | Recall@10 | Recall@20 | Recall@30 |
+| ---- | ---------- | ------------- | -------- | --------- | --------- | --------- |
+| 1    | Soda       | BERT-based    | 0.3523   | 0.6247    | 0.7354    | 0.7636     |
+| 2    | ClariQ     | BERT-ranker   | 0.3494   | 0.6134    | 0.7248    | 0.7542    |
+| 3    | Algis      | USE-QA        | 0.3469   | 0.6112    | 0.7052    | 0.7228    |
+| 4    | NTES_ALONG | BM25+Roberta  | 0.3629   | 0.6389    | 0.7285    | 0.7657    |
+| 5    | ClariQ     | BERT-reranker | 0.3475   | 0.6122    | 0.6913    | 0.6913    |
+| 6    | ClariQ     | BM25          | 0.3245   | 0.5638    | 0.6675    | 0.6913    |
+
+**Test**
+
+| ًRank | Creator    | Model Name   | Recall@5 | Recall@10 | Recall@20 | Recall@30 |
+| ---- | ---------- | ------------- | -------- | --------- | --------- | --------- |
+| 1    | Soda       | BERT-based    | 0.3338   | 0.6099    | 0.8023    | 0.8432    |
+| 2    | ClariQ     | BERT-ranker   | 0.3440   | 0.6242    | 0.7849    | 0.8190    |
+| 3    | Algis      | USE-QA        | 0.3454   | 0.6071    | 0.7688    | 0.8013    |
+| 4    | NTES_ALONG | BM25+Roberta  | 0.3329   | 0.6027    | 0.7650    | 0.8004    |
+| 5    | ClariQ     | BERT-reranker | 0.3444   | 0.6062    | 0.7585    | 0.7682    |
+| 6    | ClariQ     | BM25          | 0.3170   | 0.5705    | 0.7292    | 0.7682    |
+
 
 ## Clarification Need Prediction
 
