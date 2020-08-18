@@ -187,6 +187,7 @@ We will use the same submitted code for the top performing models for computing 
 | -    | ClariQ     | Oracle WorstQuestion | 0.0841 | 0.0125 | 0.0252 | 0.0313 |
 
 **Test**
+
 | ًRank | Creator    | Model Name | MRR    | P@1    | nDCG@3 | nDCG@5 |
 | ---- | ---------- | -------------------- | ------ | ------ | ------ | ------ |
 | -    | ClariQ     | Oracle BestQuestion  | 0.4640 | 0.3829 | 0.1796 | 0.1591 |
@@ -304,22 +305,19 @@ We will use the same submitted code for the top performing models for computing 
 
 <table>
   <tr>
-    <td>ً<b>Rank</b></td>
-    <td><b>Creator</b></td>
-    <td><b>Model Name</b></td>
+    <td rowspan="2">ً<b>Rank</b></td>
+    <td rowspan="2"><b>Creator</b></td>
+    <td rowspan="2"><b>Model Name</b></td>
     <td colspan="3" align="center"><b>Dev</b></td>
     <td colspan="3" align="center"><b>Test</b></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><b>Precision</b></td>
-    <td><b>Recall</b></td>
-    <td><b>F1-Score</b></td>
-    <td><b>Precision</b></td>    
-    <td><b>Recall</b></td>
-    <td><b><u>F1-Score</u></b></td>
+    <td><b>P</b></td>
+    <td><b>R</b></td>
+    <td><b>F1</b></td>
+    <td><b>P</b></td>    
+    <td><b>R</b></td>
+    <td><b><u>F1</u></b></td>
   </tr>
   <tr>
     <td>1</td>
@@ -355,6 +353,7 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.3995</td>
   </tr>
 </table>
+
 
 # Organizing team
 
