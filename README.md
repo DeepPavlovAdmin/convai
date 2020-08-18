@@ -322,7 +322,7 @@ We will use the same submitted code for the top performing models for computing 
   <tr>
     <td>1</td>
     <td>Algis</td>
-    <td>Roberta+CatBoost</td>
+    <td>Roberta+<br>CatBoost</td>
     <td>0.1402</td>
     <td>0.2800</td>
     <td>0.1854</td>
@@ -353,6 +353,7 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.3995</td>
   </tr>
 </table>
+
 
 
 # Organizing team
