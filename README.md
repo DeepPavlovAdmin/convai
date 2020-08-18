@@ -1,4 +1,4 @@
-> NEW! Awards have been announed (see below for details).
+> NEW! Awards have been announced (see below for details).
 
 # ClariQ Overview
 
