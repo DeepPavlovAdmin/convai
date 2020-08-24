@@ -187,6 +187,8 @@ We will use the same submitted code for the top performing models for computing 
 | 6    | Algis      | USE-QA               | 0.3517 | 0.2563 | 0.1943 | 0.1815 |
 | 7    | NTES_ALONG | BM25_plus+Roberta    | 0.3587 | 0.2813 | 0.1952 | 0.1869 |
 | 8    | Soda       | BERT-based           | 0.3497 | 0.2625 | 0.1849 | 0.1762 |
+| 9    | ClariQ     | BERT-ranker          | 0.3453 | 0.2563 | 0.1824 | 0.1744 |
+| 10   | ClariQ     | BERT-reranker        | 0.3453 | 0.2563 | 0.1824 | 0.1744 |
 | -    | ClariQ     | Oracle WorstQuestion | 0.0841 | 0.0125 | 0.0252 | 0.0313 |
 
 **Test**
@@ -202,6 +204,8 @@ We will use the same submitted code for the top performing models for computing 
 | 6    | Algis      | USE-QA               | 0.2782 | 0.1822 | 0.0978 | 0.1003 |
 | 7    | NTES_ALONG | BM25_plus+Roberta    | 0.2720 | 0.1822 | 0.0930 | 0.0870 |  
 | 8    | Soda       | BERT-based           | 0.2600 | 0.1784 | 0.0983 | 0.0915 |
+| 9    | ClariQ     | BERT-ranker          | 0.2562 | 0.1784 | 0.0896 | 0.0821 |
+| 10   | ClariQ     | BERT-reranker        | 0.2553 | 0.1784 | 0.0892 | 0.0818 |
 | -    | ClariQ     | Oracle WorstQuestion | 0.0541 | 0.0000 | 0.0097 | 0.0154 |
 
 ## Question Relevance
