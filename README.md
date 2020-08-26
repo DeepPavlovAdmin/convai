@@ -306,9 +306,9 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.4273</td>
   </tr>
 <tr>
-    <td>5/td>
+    <td>5</td>
     <td>Soda</td>
-    <td>BERT+BM25-v2<td>
+    <td>BERT+BM25-v2</td>
     <td>0.5992</td>
     <td>0.5800</td>
     <td>0.5793</td>
