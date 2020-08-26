@@ -179,33 +179,35 @@ We will use the same submitted code for the top performing models for computing 
 | ًRank | Creator    | Model Name | MRR    | P@1    | nDCG@3 | nDCG@5 |
 | ---- | ---------- | -------------------- | ------ | ------ | ------ | ------ |
 | -    | ClariQ     | Oracle BestQuestion  | 0.4541 | 0.3687 | 0.2578 | 0.2470 |
-| 1    | ClariQ     | NoQuestion           | 0.3000 | 0.2063 | 0.1475 | 0.1530 |
-| 2    | Karl       | Roberta              | 0.3640 | 0.2813 | 0.2002 | 0.1954 |
+| 1    | Karl       | Roberta              | 0.3640 | 0.2813 | 0.2002 | 0.1954 |
+| 2    | Soda       | BERT+BM25-v2         | 0.3180 | 0.2437 | 0.1625 | 0.1550 |
 | 3    | ClariQ     | BM25                 | 0.3096 | 0.2313 | 0.1608 | 0.1530 |
 | 4    | Soda       | BERT+BM25            | 0.3096 | 0.2313 | 0.1608 | 0.1530 |
-| 5    | NTES_ALONG | BM25+Roberta         | 0.3606 | 0.2813 | 0.1942 | 0.1891 |
-| 6    | Algis      | USE-QA               | 0.3517 | 0.2563 | 0.1943 | 0.1815 |
-| 7    | NTES_ALONG | BM25_plus+Roberta    | 0.3587 | 0.2813 | 0.1952 | 0.1869 |
-| 8    | Soda       | BERT-based           | 0.3497 | 0.2625 | 0.1849 | 0.1762 |
-| 9    | ClariQ     | BERT-ranker          | 0.3453 | 0.2563 | 0.1824 | 0.1744 |
-| 10   | ClariQ     | BERT-reranker        | 0.3453 | 0.2563 | 0.1824 | 0.1744 |
+| 5    | ClariQ     | NoQuestion           | 0.3000 | 0.2063 | 0.1475 | 0.1530 |
+| 6    | NTES_ALONG | BM25+Roberta         | 0.3606 | 0.2813 | 0.1942 | 0.1891 |
+| 7    | Soda       | BERT-based           | 0.3497 | 0.2625 | 0.1849 | 0.1762 |
+| 8    | Algis      | USE-QA               | 0.3517 | 0.2563 | 0.1943 | 0.1815 |
+| 9    | NTES_ALONG | BM25_plus+Roberta    | 0.3587 | 0.2813 | 0.1952 | 0.1869 |
+| 10   | ClariQ     | BERT-ranker          | 0.3453 | 0.2563 | 0.1824 | 0.1744 |
+| 11   | ClariQ     | BERT-reranker        | 0.3453 | 0.2563 | 0.1824 | 0.1744 |
 | -    | ClariQ     | Oracle WorstQuestion | 0.0841 | 0.0125 | 0.0252 | 0.0313 |
 
 **Test**
 
-| ًRank | Creator    | Model Name | <ins>MRR</ins>    | P@1    | nDCG@3 | nDCG@5 |
+| ًRank | Creator    | Model Name | MRR    | P@1    | <ins>nDCG@3</ins> | nDCG@5 |
 | ---- | ---------- | -------------------- | ------ | ------ | ------ | ------ |
 | -    | ClariQ     | Oracle BestQuestion  | 0.4640 | 0.3829 | 0.1796 | 0.1591 |
-| 1    | ClariQ     | NoQuestion           | 0.3223 | 0.2268 | 0.1134 | 0.1059 |
-| 2    | Karl       | Roberta              | 0.3190 | 0.2342 | 0.1265 | 0.1130 |
+| 1    | Karl       | Roberta              | 0.3190 | 0.2342 | 0.1265 | 0.1130 |
+| 2    | Soda       | BERT+BM25-v2         | 0.3216 | 0.2453 | 0.1196 | 0.1097 |
 | 3    | ClariQ     | BM25                 | 0.3134 | 0.2193 | 0.1151 | 0.1061 |
 | 4    | Soda       | BERT+BM25            | 0.3134 | 0.2193 | 0.1151 | 0.1061 |
-| 5    | NTES_ALONG | BM25+Roberta         | 0.3045 | 0.2156 | 0.1108 | 0.1025 |
-| 6    | Algis      | USE-QA               | 0.2782 | 0.1822 | 0.0978 | 0.1003 |
-| 7    | NTES_ALONG | BM25_plus+Roberta    | 0.2720 | 0.1822 | 0.0930 | 0.0870 |  
-| 8    | Soda       | BERT-based           | 0.2600 | 0.1784 | 0.0983 | 0.0915 |
-| 9    | ClariQ     | BERT-ranker          | 0.2562 | 0.1784 | 0.0896 | 0.0821 |
-| 10   | ClariQ     | BERT-reranker        | 0.2553 | 0.1784 | 0.0892 | 0.0818 |
+| 5    | ClariQ     | NoQuestion           | 0.3223 | 0.2268 | 0.1134 | 0.1059 |
+| 6    | NTES_ALONG | BM25+Roberta         | 0.3045 | 0.2156 | 0.1108 | 0.1025 |
+| 7    | Soda       | BERT-based           | 0.2600 | 0.1784 | 0.0983 | 0.0915 |
+| 8    | Algis      | USE-QA               | 0.2782 | 0.1822 | 0.0978 | 0.1003 |
+| 9    | NTES_ALONG | BM25_plus+Roberta    | 0.2720 | 0.1822 | 0.0930 | 0.0870 |  
+| 10   | ClariQ     | BERT-ranker          | 0.2562 | 0.1784 | 0.0896 | 0.0821 |
+| 11   | ClariQ     | BERT-reranker        | 0.2553 | 0.1784 | 0.0892 | 0.0818 |
 | -    | ClariQ     | Oracle WorstQuestion | 0.0541 | 0.0000 | 0.0097 | 0.0154 |
 
 ## Question Relevance
@@ -216,13 +218,14 @@ We will use the same submitted code for the top performing models for computing 
 | ---- | ---------- | ------------- | -------- | --------- | --------- | --------- |
 | 1    | Karl       | Roberta       | 0.3618   | 0.6631    | 0.8128    | 0.8434    |
 | 2    | Soda       | BERT+Bm25     | 0.3454   | 0.6166    | 0.7354    | 0.7621    |
-| 3    | Soda       | BERT-based    | 0.3523   | 0.6247    | 0.7354    | 0.7636    |
-| 4    | NTES_ALONG | BM25_plus+Roberta | 0.3637 | 0.6409  | 0.7484    | 0.7793    |
-| 5    | ClariQ     | BERT-ranker   | 0.3494   | 0.6134    | 0.7248    | 0.7542    |
-| 6    | Algis      | USE-QA        | 0.3469   | 0.6112    | 0.7052    | 0.7228    |
-| 7    | NTES_ALONG | BM25+Roberta  | 0.3629   | 0.6389    | 0.7285    | 0.7657    |
-| 8    | ClariQ     | BERT-reranker | 0.3475   | 0.6122    | 0.6913    | 0.6913    |
-| 9    | ClariQ     | BM25          | 0.3245   | 0.5638    | 0.6675    | 0.6913    |
+| 3    | Soda       | BERT+Bm25-v2  | 0.3398   | 0.6166    | 0.7525    | 0.7792    |
+| 4    | Soda       | BERT-based    | 0.3523   | 0.6247    | 0.7354    | 0.7636    |
+| 5    | NTES_ALONG | BM25_plus+Roberta | 0.3637 | 0.6409  | 0.7484    | 0.7793    |
+| 6    | ClariQ     | BERT-ranker   | 0.3494   | 0.6134    | 0.7248    | 0.7542    |
+| 7    | Algis      | USE-QA        | 0.3469   | 0.6112    | 0.7052    | 0.7228    |
+| 8    | NTES_ALONG | BM25+Roberta  | 0.3629   | 0.6389    | 0.7285    | 0.7657    |
+| 9    | ClariQ     | BERT-reranker | 0.3475   | 0.6122    | 0.6913    | 0.6913    |
+| 10   | ClariQ     | BM25          | 0.3245   | 0.5638    | 0.6675    | 0.6913    |
 
 **Test**
 
@@ -230,13 +233,14 @@ We will use the same submitted code for the top performing models for computing 
 | ---- | ---------- | ------------- | -------- | --------- | --------- | --------- |
 | 1    | Karl       | Roberta       | 0.3406   | 0.6255    | 0.8006    | 0.8436    |
 | 2    | Soda       | BERT+BM25     | 0.3272   | 0.6061    | 0.8013    | 0.8433    |
-| 3    | Soda       | BERT-based    | 0.3338   | 0.6099    | 0.8023    | 0.8432    |
-| 4    | NTES_ALONG | BM25_plus+Roberta | 0.3361 | 0.6219  | 0.7960    | 0.8360    |
-| 5    | ClariQ     | BERT-ranker   | 0.3440   | 0.6242    | 0.7849    | 0.8190    |
-| 6    | Algis      | USE-QA        | 0.3454   | 0.6071    | 0.7688    | 0.8013    |
-| 7    | NTES_ALONG | BM25+Roberta  | 0.3329   | 0.6027    | 0.7650    | 0.8004    |
-| 8    | ClariQ     | BERT-reranker | 0.3444   | 0.6062    | 0.7585    | 0.7682    |
-| 9    | ClariQ     | BM25          | 0.3170   | 0.5705    | 0.7292    | 0.7682    |
+| 3    | Soda       | BERT+BM25-v2  | 0.3013   | 0.5866    | 0.8006    | 0.8433    |
+| 4    | Soda       | BERT-based    | 0.3338   | 0.6099    | 0.8023    | 0.8432    |
+| 5    | NTES_ALONG | BM25_plus+Roberta | 0.3361 | 0.6219  | 0.7960    | 0.8360    |
+| 6    | ClariQ     | BERT-ranker   | 0.3440   | 0.6242    | 0.7849    | 0.8190    |
+| 7    | Algis      | USE-QA        | 0.3454   | 0.6071    | 0.7688    | 0.8013    |
+| 8    | NTES_ALONG | BM25+Roberta  | 0.3329   | 0.6027    | 0.7650    | 0.8004    |
+| 9    | ClariQ     | BERT-reranker | 0.3444   | 0.6062    | 0.7585    | 0.7682    |
+| 10   | ClariQ     | BM25          | 0.3170   | 0.5705    | 0.7292    | 0.7682    |
 
 
 ## Clarification Need Prediction
@@ -301,8 +305,19 @@ We will use the same submitted code for the top performing models for computing 
     <td>0.4754</td>
     <td>0.4273</td>
   </tr>
+<tr>
+    <td>5/td>
+    <td>Soda</td>
+    <td>BERT+BM25-v2<td>
+    <td>0.5992</td>
+    <td>0.5800</td>
+    <td>0.5793</td>
+    <td>0.4304</td>    
+    <td>0.4262</td>
+    <td>0.4207</td>
+  </tr>
   <tr>
-    <td>5</td>
+    <td>6</td>
     <td>NTES_ALONG</td>
     <td>Roberta</td>
     <td>0.3967</td>
