@@ -347,7 +347,7 @@ We will use the same submitted code for the top performing models for computing 
 
 
 # Organizing team
-
+ 
 - [Mohammad Aliannejadi](http://aliannejadi.com), *University of Amsterdam*, Amsterdam
 - [Julia Kiseleva](https://twitter.com/julia_kiseleva), *Microsoft Research & AI*, Seattle
 - [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), *University of Glasgow*, Glasgow
