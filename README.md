@@ -177,7 +177,7 @@ We will use the same submitted code for the top performing models for computing 
 
 | ًRank | Creator    | Model Name | MRR    | P@1    | nDCG@3 | nDCG@5 |
 | ---- | ---------- | -------------------- | ------ | ------ | ------ | ------ |
-| -    | ClariQ     | Oracle BestQuestion  | 0.4541 | 0.3687 | 0.2578 | 0.2470 |
+| -    | ClariQ     | Oracle BestQuestion  | 0.4882 | 0.4187 | 0.3337 | 0.3064 |
 | 1    | Karl       | Roberta              | 0.3640 | 0.2813 | 0.2002 | 0.1954 |
 | 2    | Soda       | BERT+BM25-v2         | 0.3180 | 0.2437 | 0.1625 | 0.1550 |
 | 3    | ClariQ     | BM25                 | 0.3096 | 0.2313 | 0.1608 | 0.1530 |
@@ -199,7 +199,7 @@ We will use the same submitted code for the top performing models for computing 
 
 | ًRank | Creator    | Model Name | MRR    | P@1    | <ins>nDCG@3</ins> | nDCG@5 |
 | ---- | ---------- | -------------------- | ------ | ------ | ------ | ------ |
-| -    | ClariQ     | Oracle BestQuestion  | 0.4640 | 0.3829 | 0.1796 | 0.1591 |
+| -    | ClariQ     | Oracle BestQuestion  | 0.4881 | 0.4275 | 0.2107 | 0.1759 |
 | 1    | Karl       | Roberta              | 0.3190 | 0.2342 | 0.1265 | 0.1130 |
 | 2    | Soda       | BERT+BM25-v2         | 0.3216 | 0.2453 | 0.1196 | 0.1097 |
 | 3    | ClariQ     | BM25                 | 0.3134 | 0.2193 | 0.1151 | 0.1061 |
