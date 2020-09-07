@@ -419,7 +419,7 @@ We will use the same submitted code for the top performing models for computing 
 <td>0.5014</td>
 <td>0.3929</td>
 <td>0.4098</td>
-	  <td><br>0.4004</br></td>
+	  <td><b>0.4004</b></td>
   </tr>
   <tr>
     <td>12</td>
