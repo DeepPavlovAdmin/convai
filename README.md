@@ -302,6 +302,17 @@ We will use the same submitted code for the top performing models for computing 
   </tr>
   <tr>
     <td>1</td>
+    <td>CactusJam</td>
+    <td>Roberta+<br>Stats</td>
+    <td>0.6200</td>
+<td>0.5800</td>
+<td>0.5717</td>
+<td>0.5963</td>
+<td>0.5902</td>
+  <td><b>0.5416</b></td>
+  </tr>
+  <tr>
+    <td>2</td>
     <td>Algis</td>
     <td>Roberta+<br>CatBoost</td>
     <td>0.1402</td>
@@ -312,7 +323,7 @@ We will use the same submitted code for the top performing models for computing 
     <td><b>0.5138</b></td>
   </tr>
 <tr>
-    <td>2</td>
+    <td>3</td>
     <td>NTES_ALONG</td>
     <td>cneed_merge</td>
     <td>0.5830</td>
@@ -323,7 +334,7 @@ We will use the same submitted code for the top performing models for computing 
 	<td><b>0.4960</b></td>
   </tr>
 <tr>
-    <td>3</td>
+    <td>4</td>
     <td>NTES_ALONG</td>
     <td>cneed_dist</td>
     <td>0.5452</td>
@@ -334,7 +345,7 @@ We will use the same submitted code for the top performing models for computing 
 	<td><b>0.4868</b></td>
   </tr>
   <tr>
-    <td>4</td>
+    <td>5</td>
     <td>Karl</td>
     <td>Roberta-v2</td>
     	<td>0.4609</td>
@@ -345,7 +356,7 @@ We will use the same submitted code for the top performing models for computing 
 	  <td><b>0.4871</b></td>
   </tr>
   <tr>
-    <td>5</td>
+    <td>6</td>
     <td>NTES_ALONG</td>
     <td>Roberta+prior</td>
     <td>0.4554</td>
@@ -356,7 +367,7 @@ We will use the same submitted code for the top performing models for computing 
 	  <td><b>0.4799</b></td>
   </tr>
   <tr>
-    <td>6</td>
+    <td>7</td>
     <td>Soda</td>
     <td>BERT-based-v2</td>
     <td>0.5218</td>
@@ -367,7 +378,7 @@ We will use the same submitted code for the top performing models for computing 
 	  <td><b>0.4350</b></td>
   </tr>
   <tr>
-    <td>7</td>
+    <td>8</td>
     <td>Soda</td>
     <td>BERT-based</td>
     <td>0.5224</td>
@@ -378,7 +389,7 @@ We will use the same submitted code for the top performing models for computing 
 	  <td><b>0.4282</b></td>
   </tr>
 <tr>
-    <td>8</td>
+    <td>9</td>
     <td>Soda</td>
     <td>BERT+BM25</td>
     <td>0.5386</td>
@@ -389,7 +400,7 @@ We will use the same submitted code for the top performing models for computing 
 	<td><b>0.4273</b></td>
   </tr>
 <tr>
-    <td>9</td>
+    <td>10</td>
     <td>Soda</td>
     <td>BERT+BM25-v2</td>
     <td>0.5992</td>
@@ -400,7 +411,7 @@ We will use the same submitted code for the top performing models for computing 
 	<td><b>0.4207</b></td>
   </tr>
 <tr>
-    <td>10</td>
+    <td>11</td>
     <td>Pinta</td>
     <td>Triplet</td>
     <td>0.4161</td>
@@ -411,7 +422,7 @@ We will use the same submitted code for the top performing models for computing 
 	<td><b>0.4074</b></td>
   </tr>
   <tr>
-    <td>11</td>
+    <td>12</td>
     <td>Pinta</td>
     <td>BERT</td>
 <td>0.5204</td>
@@ -422,7 +433,7 @@ We will use the same submitted code for the top performing models for computing 
 	  <td><b>0.4004</b></td>
   </tr>
   <tr>
-    <td>12</td>
+    <td>13</td>
     <td>NTES_ALONG</td>
     <td>Roberta</td>
     <td>0.3967</td>
