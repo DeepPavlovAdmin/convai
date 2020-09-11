@@ -186,23 +186,24 @@ We will use the same submitted code for the top performing models for computing 
 | 6    | Soda       | BERT+BM25            | 0.3096 | 0.2313 | 0.1608 | 0.1530 |
 | 7    | ClariQ     | NoQuestion           | 0.3000 | 0.2063 | 0.1475 | 0.1530 |
 | 8    | NTES_ALONG | BM25+Roberta         | 0.3606 | 0.2813 | 0.1942 | 0.1891 |
-| 9    | NTES_ALONG | Reranker-v3          | 0.3520 | 0.2687 | 0.2033 | 0.1925 |
-| 10   | CogIR      | BERTlets-fusion<br>-topics-passages | 0.3103 | 0.2125 | 0.1747 | 0.1701 |
-| 11   | Pinta      | BERT                 | 0.3297 | 0.2250 | 0.1792 | 0.1701 |
+| 9   | CogIR      | BERTlets-fusion<br>-topics-passages | 0.3103 | 0.2125 | 0.1747 | 0.1701 |
+| 10   | Pinta      | BERT                 | 0.3297 | 0.2250 | 0.1792 | 0.1701 |
+| 11    | CogIR      | BERTlets-fusion-<br>topics-div-passages-v2       | 0.3315 | 0.2500 | 0.1763 | 0.1660 |
 | 12    | CogIR      | BERTlets-fusion-<br>topics-div-passages       | 0.3236 | 0.2250 | 0.1739 | 0.1653 |
 | 13   | Pinta      | BERT-v2              | 0.3158 | 0.2313 | 0.1669 | 0.1600  
 | 14    | Karl       | Roberta-v2           | 0.3811 | 0.2938 | 0.2193 | 0.2093 |
-| 15    | NTES_ALONG | Recall+Rerank        | 0.3627 | 0.2750 | 0.2047 | 0.1935 |
-| 16   | Soda       | BERT-based-v2        | 0.3306 | 0.2437 | 0.1699 | 0.1702 |
-| 17   | Soda       | BERT-based           | 0.3497 | 0.2625 | 0.1849 | 0.1762 |
-| 18   | Algis      | USE-QA               | 0.3517 | 0.2563 | 0.1943 | 0.1815 |
-| 19   | Pinta      | Triplet              | 0.3573 | 0.2688 | 0.1988 | 0.1920 |  
-| 20   | NTES_ALONG | Recall+Rescore       | 0.3722 | 0.2813 | 0.2185 | 0.2047 |  
-| 21   | NTES_ALONG | BM25_plus+Roberta    | 0.3587 | 0.2813 | 0.1952 | 0.1869 |
-| 22   | Algis      | BART-based           | 0.3628 | 0.2687 | 0.2003 | 0.1914 |
-| 23   | TAL ML     | Roberta++            | 0.3583 | 0.2687 | 0.1977 | 0.1931 |
-| 24   | ClariQ     | BERT-ranker          | 0.3453 | 0.2563 | 0.1824 | 0.1744 |
-| 25   | ClariQ     | BERT-reranker        | 0.3453 | 0.2563 | 0.1824 | 0.1744 |
+| 15    | NTES_ALONG | Reranker-v3          | 0.3520 | 0.2687 | 0.2033 | 0.1925 |
+| 16    | NTES_ALONG | Recall+Rerank        | 0.3627 | 0.2750 | 0.2047 | 0.1935 |
+| 17   | Soda       | BERT-based-v2        | 0.3306 | 0.2437 | 0.1699 | 0.1702 |
+| 18   | Soda       | BERT-based           | 0.3497 | 0.2625 | 0.1849 | 0.1762 |
+| 19   | Algis      | USE-QA               | 0.3517 | 0.2563 | 0.1943 | 0.1815 |
+| 20   | Pinta      | Triplet              | 0.3573 | 0.2688 | 0.1988 | 0.1920 |  
+| 21   | NTES_ALONG | Recall+Rescore       | 0.3722 | 0.2813 | 0.2185 | 0.2047 |  
+| 22   | NTES_ALONG | BM25_plus+Roberta    | 0.3587 | 0.2813 | 0.1952 | 0.1869 |
+| 23   | Algis      | BART-based           | 0.3628 | 0.2687 | 0.2003 | 0.1914 |
+| 24   | TAL ML     | Roberta++            | 0.3583 | 0.2687 | 0.1977 | 0.1931 |
+| 25   | ClariQ     | BERT-ranker          | 0.3453 | 0.2563 | 0.1824 | 0.1744 |
+| 26   | ClariQ     | BERT-reranker        | 0.3453 | 0.2563 | 0.1824 | 0.1744 |
 | -    | ClariQ     | Oracle WorstQuestion | 0.0841 | 0.0125 | 0.0252 | 0.0313 |
 
 **Test**
@@ -218,23 +219,24 @@ We will use the same submitted code for the top performing models for computing 
 | 6    | Soda       | BERT+BM25            | 0.3134 | 0.2193 | **0.1151** | 0.1061 |
 | 7    | ClariQ     | NoQuestion           | 0.3223 | 0.2268 | **0.1134** | 0.1059 |
 | 8    | NTES_ALONG | BM25+Roberta         | 0.3045 | 0.2156 | **0.1108** | 0.1025 |
-| 9    | NTES_ALONG | Reranker-v3          | 0.3006 | 0.2230 | **0.1031** | 0.0970 |
-| 10   | CogIR      | BERTlets-fusion<br>-topics-passages | 0.3025 | 0.2193 | **0.1078** | 0.0983 |
-| 11   | Pinta      | BERT                 | 0.2934 | 0.2045 | **0.1078** | 0.0969 |
+|  9   | CogIR      | BERTlets-fusion<br>-topics-passages | 0.3025 | 0.2193 | **0.1078** | 0.0983 |
+| 10   | Pinta      | BERT                 | 0.2934 | 0.2045 | **0.1078** | 0.0969 |
+| 11    | CogIR      | BERTlets-fusion-<br>topics-div-passages-v2       | 0.2885 | 0.1859 | **0.1072** | 0.1010 |
 | 12    | CogIR      | BERTlets-fusion-<br>topics-div-passages       | 0.2908 | 0.1970 | **0.1055** | 0.0990 |
 | 13   | Pinta      | BERT-v2              | 0.2815 | 0.1933 | **0.1043** | 0.0934 |  
 | 14    | Karl       | Roberta-v2           | 0.2890 | 0.1933 | **0.1035** | 0.0941 |
-| 15    | NTES_ALONG | Recall+Rerank        | 0.2948 | 0.1933 | **0.1029** | 0.0919 |
-| 16   | Soda       | BERT-based-v2        | 0.2803 | 0.1896 | **0.1021** | 0.0981 |
-| 17   | Soda       | BERT-based           | 0.2600 | 0.1784 | **0.0983** | 0.0915 |
-| 18    | Algis      | USE-QA               | 0.2782 | 0.1822 | **0.0978** | 0.1003 |
-| 19   | Pinta      | Triplet              | 0.2672 | 0.1747 | **0.0968** | 0.0906 |  
-| 20   | NTES_ALONG | Recall+Rescore       | 0.2799 | 0.1970 | **0.0955** | 0.0856 |  
-| 21   | NTES_ALONG | BM25_plus+Roberta    | 0.2720 | 0.1822 | **0.0930** | 0.0870 |  
-| 22   | Algis      | BART-based           | 0.2622 | 0.1710 | **0.0923** | 0.0848 |
-| 23   | TAL ML     | Roberta++            | 0.2602 | 0.1747 | **0.0922** | 0.0833 |
-| 24   | ClariQ     | BERT-ranker          | 0.2562 | 0.1784 | **0.0896** | 0.0821 |
-| 25   | ClariQ     | BERT-reranker        | 0.2553 | 0.1784 | **0.0892** | 0.0818 |
+| 15    | NTES_ALONG | Reranker-v3          | 0.3006 | 0.2230 | **0.1031** | 0.0970 |
+| 16    | NTES_ALONG | Recall+Rerank        | 0.2948 | 0.1933 | **0.1029** | 0.0919 |
+| 17   | Soda       | BERT-based-v2        | 0.2803 | 0.1896 | **0.1021** | 0.0981 |
+| 18   | Soda       | BERT-based           | 0.2600 | 0.1784 | **0.0983** | 0.0915 |
+| 19    | Algis      | USE-QA               | 0.2782 | 0.1822 | **0.0978** | 0.1003 |
+| 20   | Pinta      | Triplet              | 0.2672 | 0.1747 | **0.0968** | 0.0906 |  
+| 21   | NTES_ALONG | Recall+Rescore       | 0.2799 | 0.1970 | **0.0955** | 0.0856 |  
+| 22   | NTES_ALONG | BM25_plus+Roberta    | 0.2720 | 0.1822 | **0.0930** | 0.0870 |  
+| 23   | Algis      | BART-based           | 0.2622 | 0.1710 | **0.0923** | 0.0848 |
+| 24   | TAL ML     | Roberta++            | 0.2602 | 0.1747 | **0.0922** | 0.0833 |
+| 25   | ClariQ     | BERT-ranker          | 0.2562 | 0.1784 | **0.0896** | 0.0821 |
+| 26   | ClariQ     | BERT-reranker        | 0.2553 | 0.1784 | **0.0892** | 0.0818 |
 | -    | ClariQ     | Oracle WorstQuestion | 0.0541 | 0.0000 | **0.0097** | 0.0154 |
 
 ## Question Relevance
@@ -246,27 +248,28 @@ We will use the same submitted code for the top performing models for computing 
 | 1    | NTES_ALONG | Reranker-v4   | 0.3604 | 0.6749 | 0.8478 | 0.8761 |
 | 2    | NTES_ALONG | Reranker-v3   | 0.3648 | 0.6753 | 0.8510 | 0.8744 |
 | 3    | NTES_ALONG | Reranker-v2   | 0.3648 | 0.6738 | 0.8417 | 0.8633 |
-| 4    | TAL ML     | Roberta++     | 0.3649 | 0.6694 | 0.8265 | 0.8587 |
-| 5    | Karl       | Roberta-v2    | 0.3611 | 0.6539 | 0.7993 | 0.8384 |
-| 6    | CogIR      | BERTlets-fusion<br>-topics-passages       | 0.3555   | 0.6429    | 0.7640    | 0.7854    |
-| 7    | Karl       | Roberta       | 0.3618   | 0.6631    | 0.8128    | 0.8434    |
-| 8    | Soda       | BERT+Bm25     | 0.3454   | 0.6166    | 0.7354    | 0.7621    |
-| 9    | Soda       | BERT+Bm25-v2  | 0.3398   | 0.6166    | 0.7525    | 0.7792    |
-| 10   | Soda       | BERT-based    | 0.3523   | 0.6247    | 0.7354    | 0.7636    |
-| 11   | NTES_ALONG | Recall+Rerank | 0.3674   | 0.6678    | 0.7869    | 0.8085    |
-| 12   | Soda       | BERT-based-v2 | 0.3544   | 0.6287    | 0.7544    | 0.8177    |
-| 13    | Pinta      | BERT          | 0.3492 | 0.6196 | 0.7337 | 0.7632 |
-| 14    | CogIR      | BERTlets-fusion-<br>topics-div-passages       | 0.3528 | 0.6393 | 0.7506 | 0.7890 |
-| 15    | NTES_ALONG | BM25_plus+Roberta | 0.3637 | 0.6409  | 0.7484    | 0.7793    |
-| 16   | NTES_ALONG | Recall+Rescore | 0.3648  | 0.6553    | 0.8230    | 0.8367    |
-| 17   | ClariQ     | BERT-ranker   | 0.3494   | 0.6134    | 0.7248    | 0.7542    |
-| 18   | Pinta      | BERT-v2              | 0.3528 | 0.6393 | 0.7506 | 0.7890 |
-| 19   | Algis      | BART-based    | 0.3333 | 0.5910 | 0.6689 | 0.6926 
-| 20   | Algis      | USE-QA        | 0.3469   | 0.6112    | 0.7052    | 0.7228    |
-| 21    | NTES_ALONG | BM25+Roberta  | 0.3629  | 0.6389    | 0.7285    | 0.7657    |
-| 22   | ClariQ     | BERT-reranker | 0.3475   | 0.6122    | 0.6913    | 0.6913    |
-| 23   | ClariQ     | BM25          | 0.3245   | 0.5638    | 0.6675    | 0.6913    |
-| 24   | Pinta      | Triplet       | 0.3471   | 0.5871    | 0.6653    | 0.6846    |
+| 4    | CogIR      | BERTlets-fusion-<br>topics-div-passages-v2       | 0.3542 | 0.6424 | 0.7653 | 0.7997 |
+| 5    | TAL ML     | Roberta++     | 0.3649 | 0.6694 | 0.8265 | 0.8587 |
+| 6    | Karl       | Roberta-v2    | 0.3611 | 0.6539 | 0.7993 | 0.8384 |
+| 7    | CogIR      | BERTlets-fusion<br>-topics-passages       | 0.3555   | 0.6429    | 0.7640    | 0.7854    |
+| 8    | Karl       | Roberta       | 0.3618   | 0.6631    | 0.8128    | 0.8434    |
+| 9    | Soda       | BERT+Bm25     | 0.3454   | 0.6166    | 0.7354    | 0.7621    |
+| 10   | Soda       | BERT+Bm25-v2  | 0.3398   | 0.6166    | 0.7525    | 0.7792    |
+| 11   | Soda       | BERT-based    | 0.3523   | 0.6247    | 0.7354    | 0.7636    |
+| 12   | NTES_ALONG | Recall+Rerank | 0.3674   | 0.6678    | 0.7869    | 0.8085    |
+| 13   | Soda       | BERT-based-v2 | 0.3544   | 0.6287    | 0.7544    | 0.8177    |
+| 14    | Pinta      | BERT          | 0.3492 | 0.6196 | 0.7337 | 0.7632 |
+| 15    | CogIR      | BERTlets-fusion-<br>topics-div-passages       | 0.3528 | 0.6393 | 0.7506 | 0.7890 |
+| 16    | NTES_ALONG | BM25_plus+Roberta | 0.3637 | 0.6409  | 0.7484    | 0.7793    |
+| 17   | NTES_ALONG | Recall+Rescore | 0.3648  | 0.6553    | 0.8230    | 0.8367    |
+| 18   | ClariQ     | BERT-ranker   | 0.3494   | 0.6134    | 0.7248    | 0.7542    |
+| 19   | Pinta      | BERT-v2              | 0.3528 | 0.6393 | 0.7506 | 0.7890 |
+| 20   | Algis      | BART-based    | 0.3333 | 0.5910 | 0.6689 | 0.6926 
+| 21   | Algis      | USE-QA        | 0.3469   | 0.6112    | 0.7052    | 0.7228    |
+| 22    | NTES_ALONG | BM25+Roberta  | 0.3629  | 0.6389    | 0.7285    | 0.7657    |
+| 23   | ClariQ     | BERT-reranker | 0.3475   | 0.6122    | 0.6913    | 0.6913    |
+| 24   | ClariQ     | BM25          | 0.3245   | 0.5638    | 0.6675    | 0.6913    |
+| 25   | Pinta      | Triplet       | 0.3471   | 0.5871    | 0.6653    | 0.6846    |
 
 **Test**
 
@@ -275,27 +278,28 @@ We will use the same submitted code for the top performing models for computing 
 | 1    | NTES_ALONG | Reranker-v4   | 0.3404 | 0.6329 | 0.8335 | **0.8744** |
 | 2    | NTES_ALONG | Reranker-v3   | 0.3414 | 0.6351 | 0.8316 | **0.8721** |
 | 3    | NTES_ALONG | Reranker-v2   | 0.3382 | 0.6242 | 0.8177 | **0.8685** |
-| 4    | TAL ML     | Roberta++     | 0.3395 | 0.6251 | 0.8176 | **0.8568** |
-| 5    | Karl       | Roberta-v2    | 0.3355 | 0.6237 | 0.7990 | **0.8492** |
-| 6    | CogIR      | BERTlets-fusion<br>-topics-passages       | 0.3314   | 0.6149    | 0.8074    | **0.8448**    |
-| 7    | Karl       | Roberta       | 0.3406   | 0.6255    | 0.8006    | **0.8436**    |
-| 8    | Soda       | BERT+BM25     | 0.3272   | 0.6061    | 0.8013    | **0.8433**    |
-| 9    | Soda       | BERT+BM25-v2  | 0.3013   | 0.5866    | 0.8006    | **0.8433**    |
-| 10   | Soda       | BERT-based    | 0.3338   | 0.6099    | 0.8023    | **0.8432**    |
-| 11   | NTES_ALONG | Recall+Rerank | 0.3435   | 0.6296    | 0.7959    | **0.8424**    |
-| 12   | Soda       | BERT-based-v2 | 0.3067   | 0.5893    | 0.7991    | **0.8415**    |   
-| 13    | Pinta      | BERT          | 0.3438 | 0.6228 | 0.7987 | **0.8409** |
-| 14    | CogIR      | BERTlets-fusion-<br>topics-div-passages       | 0.3333 | 0.6225 | 0.8039 | **0.8392** |
-| 15    | NTES_ALONG | BM25_plus+Roberta | 0.3361 | 0.6219  | 0.7960    | **0.8360**    |
-| 16   | NTES_ALONG | Recall+Rescore | 0.3432  | 0.6229    | 0.7857    | **0.8211**    |
-| 17   | ClariQ     | BERT-ranker   | 0.3440   | 0.6242    | 0.7849    | **0.8190**    |
-| 18   | Pinta      | BERT-v2              | 0.3271 | 0.6012 | 0.7884 | **0.8188** |  
-| 19   | Algis      | BART-based    | 0.3408 | 0.6156 | 0.7721 | **0.8081** |
-| 20   | Algis      | USE-QA        | 0.3454   | 0.6071    | 0.7688    | **0.8013**    |
-| 21    | NTES_ALONG | BM25+Roberta | 0.3329   | 0.6027    | 0.7650    | **0.8004**    |
-| 22   | ClariQ     | BERT-reranker | 0.3444   | 0.6062    | 0.7585    | **0.7682**    |
-| 23   | ClariQ     | BM25          | 0.3170   | 0.5705    | 0.7292    | **0.7682**    |
-| 24   | Pinta      | Triplet       | 0.3330   | 0.5809    | 0.7289    | **0.7589**    |
+| 4    | CogIR      | BERTlets-fusion-<br>topics-div-passages-v2       | 0.3384 | 0.6314 | 0.8073 | **0.8573** |
+| 5    | TAL ML     | Roberta++     | 0.3395 | 0.6251 | 0.8176 | **0.8568** |
+| 6    | Karl       | Roberta-v2    | 0.3355 | 0.6237 | 0.7990 | **0.8492** |
+| 7    | CogIR      | BERTlets-fusion<br>-topics-passages       | 0.3314   | 0.6149    | 0.8074    | **0.8448**    |
+| 8    | Karl       | Roberta       | 0.3406   | 0.6255    | 0.8006    | **0.8436**    |
+| 9    | Soda       | BERT+BM25     | 0.3272   | 0.6061    | 0.8013    | **0.8433**    |
+| 10   | Soda       | BERT+BM25-v2  | 0.3013   | 0.5866    | 0.8006    | **0.8433**    |
+| 11   | Soda       | BERT-based    | 0.3338   | 0.6099    | 0.8023    | **0.8432**    |
+| 12   | NTES_ALONG | Recall+Rerank | 0.3435   | 0.6296    | 0.7959    | **0.8424**    |
+| 13   | Soda       | BERT-based-v2 | 0.3067   | 0.5893    | 0.7991    | **0.8415**    |   
+| 14    | Pinta      | BERT          | 0.3438 | 0.6228 | 0.7987 | **0.8409** |
+| 15    | CogIR      | BERTlets-fusion-<br>topics-div-passages       | 0.3333 | 0.6225 | 0.8039 | **0.8392** |
+| 16    | NTES_ALONG | BM25_plus+Roberta | 0.3361 | 0.6219  | 0.7960    | **0.8360**    |
+| 17   | NTES_ALONG | Recall+Rescore | 0.3432  | 0.6229    | 0.7857    | **0.8211**    |
+| 18   | ClariQ     | BERT-ranker   | 0.3440   | 0.6242    | 0.7849    | **0.8190**    |
+| 19   | Pinta      | BERT-v2              | 0.3271 | 0.6012 | 0.7884 | **0.8188** |  
+| 20   | Algis      | BART-based    | 0.3408 | 0.6156 | 0.7721 | **0.8081** |
+| 21   | Algis      | USE-QA        | 0.3454   | 0.6071    | 0.7688    | **0.8013**    |
+| 22    | NTES_ALONG | BM25+Roberta | 0.3329   | 0.6027    | 0.7650    | **0.8004**    |
+| 23   | ClariQ     | BERT-reranker | 0.3444   | 0.6062    | 0.7585    | **0.7682**    |
+| 24   | ClariQ     | BM25          | 0.3170   | 0.5705    | 0.7292    | **0.7682**    |
+| 25   | Pinta      | Triplet       | 0.3330   | 0.5809    | 0.7289    | **0.7589**    |
 
 
 ## Clarification Need Prediction
