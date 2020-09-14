@@ -39,6 +39,7 @@ The detailed description of the challenge can be found [in the following documen
 - August 4, 2020: Google is sponsoring the competion prize (see the details below)
 - August 4, 2020: We held the kick-off webinar. Missed it? You can watch the playback [here](https://www.youtube.com/watch?v=2cSLNScJqFk).
 - August 10, 2020: New baselines for the `question_relevance` have been added. The code is also available on Google Colab. 
+- September 08, 2020: Due to multiple requests, we have extended the deadline for participation in Stage 1 for one week.
 
 # Awards 
 
@@ -87,8 +88,8 @@ Alternatively, one may solve Stage 2 by retrieving a list of candidate answers (
 
 
 # Timeline
-- **Stage 1** will take place from July 7, 2020 -- September 9, 2020. Up until September 9, 2020 participants will be able to submit their models (source code) and solutions to be evaluated on the test set using automated metrics (which we will run on our servers).  The current leaderboards will be visible to everyone.
-- **Stage 2** will start on September 10, 2020. On September 10, 2020  the source code submission system will be locked, and the best performing systems will be evaluated over the next month using crowd workers.
+- **Stage 1** will take place from July 7, 2020 -- ~~September 9, 2020~~ September 16, 2020. Up until ~~September 9, 2020~~ September 16, 2020 participants will be able to submit their models (source code) and solutions to be evaluated on the test set using automated metrics (which we will run on our servers).  The current leaderboards will be visible to everyone.
+- **Stage 2** will start on ~~September 10, 2020~~ September 17 2020. On ~~September 10, 2020~~ September 17 2020 the run submission for Stage 1 will be locked, and the best teams will be invited to submit their codes for the second stage to be evaluated over the next month using crowd workers.
 
 
 Winners will be announced at SCAI@EMNLP2020 which will take place in November 19-20 (exact details TBD).
