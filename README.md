@@ -487,6 +487,17 @@ We will use the same submitted code for the top performing models for computing 
 <tr>
     <td>15</td>
     <td>Pinta</td>
+    <td>BERT-v3</td>
+<td>0.4083</td>
+<td>0.5000</td>
+<td>0.4248</td>
+<td>0.3789</td>
+<td>0.4590</td>
+	<td><b>0.4147</b></td>
+  </tr>
+<tr>
+    <td>16</td>
+    <td>Pinta</td>
     <td>Triplet</td>
     <td>0.4161</td>
     <td>0.4800</td>
@@ -496,7 +507,7 @@ We will use the same submitted code for the top performing models for computing 
 	<td><b>0.4074</b></td>
   </tr>
   <tr>
-    <td>16</td>
+    <td>17</td>
     <td>Pinta</td>
     <td>BERT</td>
 <td>0.5204</td>
@@ -507,7 +518,7 @@ We will use the same submitted code for the top performing models for computing 
 	  <td><b>0.4004</b></td>
   </tr>
   <tr>
-    <td>17</td>
+    <td>18</td>
     <td>NTES_ALONG</td>
     <td>Roberta</td>
     <td>0.3967</td>
@@ -518,7 +529,7 @@ We will use the same submitted code for the top performing models for computing 
 	  <td><b>0.3995</b></td>
   </tr>
   <tr>
-    <td>18</td>
+    <td>19</td>
     <td>Pinta</td>
     <td>XGB</td>
     <td>0.5027</td>
