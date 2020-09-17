@@ -186,25 +186,27 @@ We will use the same submitted code for the top performing models for computing 
 | 5    | ClariQ     | BM25                 | 0.3096 | 0.2313 | 0.1608 | 0.1530 |
 | 6    | Soda       | BERT+BM25            | 0.3096 | 0.2313 | 0.1608 | 0.1530 |
 | 7    | ClariQ     | NoQuestion           | 0.3000 | 0.2063 | 0.1475 | 0.1530 |
-| 8    | NTES_ALONG | BM25+Roberta         | 0.3606 | 0.2813 | 0.1942 | 0.1891 |
-| 9   | CogIR      | BERTlets-fusion<br>-topics-passages | 0.3103 | 0.2125 | 0.1747 | 0.1701 |
-| 10   | Pinta      | BERT                 | 0.3297 | 0.2250 | 0.1792 | 0.1701 |
-| 11    | CogIR      | BERTlets-fusion-<br>topics-div-passages-v2       | 0.3315 | 0.2500 | 0.1763 | 0.1660 |
-| 12    | CogIR      | BERTlets-fusion-<br>topics-div-passages       | 0.3236 | 0.2250 | 0.1739 | 0.1653 |
-| 13   | Pinta      | BERT-v2              | 0.3158 | 0.2313 | 0.1669 | 0.1600  
-| 14    | Karl       | Roberta-v2           | 0.3811 | 0.2938 | 0.2193 | 0.2093 |
-| 15    | NTES_ALONG | Reranker-v3          | 0.3520 | 0.2687 | 0.2033 | 0.1925 |
-| 16    | NTES_ALONG | Recall+Rerank        | 0.3627 | 0.2750 | 0.2047 | 0.1935 |
-| 17   | Soda       | BERT-based-v2        | 0.3306 | 0.2437 | 0.1699 | 0.1702 |
-| 18   | Soda       | BERT-based           | 0.3497 | 0.2625 | 0.1849 | 0.1762 |
-| 19   | Algis      | USE-QA               | 0.3517 | 0.2563 | 0.1943 | 0.1815 |
-| 20   | Pinta      | Triplet              | 0.3573 | 0.2688 | 0.1988 | 0.1920 |  
-| 21   | NTES_ALONG | Recall+Rescore       | 0.3722 | 0.2813 | 0.2185 | 0.2047 |  
-| 22   | NTES_ALONG | BM25_plus+Roberta    | 0.3587 | 0.2813 | 0.1952 | 0.1869 |
-| 23   | Algis      | BART-based           | 0.3628 | 0.2687 | 0.2003 | 0.1914 |
-| 24   | TAL ML     | Roberta++            | 0.3583 | 0.2687 | 0.1977 | 0.1931 |
-| 25   | ClariQ     | BERT-ranker          | 0.3453 | 0.2563 | 0.1824 | 0.1744 |
-| 26   | ClariQ     | BERT-reranker        | 0.3453 | 0.2563 | 0.1824 | 0.1744 |
+| 8    | Pinta      | BERT-v3              | 0.3596 | 0.2750 | 0.1879 | 0.1882 |
+| 9    | NTES_ALONG | BM25+Roberta         | 0.3606 | 0.2813 | 0.1942 | 0.1891 |
+| 10  | CogIR      | BERTlets-fusion<br>-topics-passages | 0.3103 | 0.2125 | 0.1747 | 0.1701 |
+| 11   | Pinta      | BERT                 | 0.3297 | 0.2250 | 0.1792 | 0.1701 |
+| 12    | CogIR      | BERTlets-fusion-<br>topics-div-passages-v2       | 0.3315 | 0.2500 | 0.1763 | 0.1660 |
+| 13    | CogIR      | BERTlets-fusion-<br>topics-div-passages       | 0.3236 | 0.2250 | 0.1739 | 0.1653 |
+| 14   | Pinta      | BERT-v2              | 0.3158 | 0.2313 | 0.1669 | 0.1600  
+| 15    | Karl       | Roberta-v2           | 0.3811 | 0.2938 | 0.2193 | 0.2093 |
+| 16    | NTES_ALONG | Reranker-v3          | 0.3520 | 0.2687 | 0.2033 | 0.1925 |
+| 17    | NTES_ALONG | Recall+Rerank        | 0.3627 | 0.2750 | 0.2047 | 0.1935 |
+| 18   | Soda       | BERT-based-v2        | 0.3306 | 0.2437 | 0.1699 | 0.1702 |
+| 19   | Soda       | BERT-based           | 0.3497 | 0.2625 | 0.1849 | 0.1762 |
+| 20   | Algis      | USE-QA               | 0.3517 | 0.2563 | 0.1943 | 0.1815 |
+| 21   | Pinta      | Triplet              | 0.3573 | 0.2688 | 0.1988 | 0.1920 |  
+| 22   | TAL ML     | Roberta+++           | 0.3619 | 0.2750 | 0.2060 | 0.1979 |
+| 23   | NTES_ALONG | Recall+Rescore       | 0.3722 | 0.2813 | 0.2185 | 0.2047 |  
+| 24   | NTES_ALONG | BM25_plus+Roberta    | 0.3587 | 0.2813 | 0.1952 | 0.1869 |
+| 25   | Algis      | BART-based           | 0.3628 | 0.2687 | 0.2003 | 0.1914 |
+| 26   | TAL ML     | Roberta++            | 0.3583 | 0.2687 | 0.1977 | 0.1931 |
+| 27   | ClariQ     | BERT-ranker          | 0.3453 | 0.2563 | 0.1824 | 0.1744 |
+| 28   | ClariQ     | BERT-reranker        | 0.3453 | 0.2563 | 0.1824 | 0.1744 |
 | -    | ClariQ     | Oracle WorstQuestion | 0.0841 | 0.0125 | 0.0252 | 0.0313 |
 
 **Test**
@@ -219,25 +221,27 @@ We will use the same submitted code for the top performing models for computing 
 | 5    | ClariQ     | BM25                 | 0.3134 | 0.2193 | **0.1151** | 0.1061 |
 | 6    | Soda       | BERT+BM25            | 0.3134 | 0.2193 | **0.1151** | 0.1061 |
 | 7    | ClariQ     | NoQuestion           | 0.3223 | 0.2268 | **0.1134** | 0.1059 |
-| 8    | NTES_ALONG | BM25+Roberta         | 0.3045 | 0.2156 | **0.1108** | 0.1025 |
-|  9   | CogIR      | BERTlets-fusion<br>-topics-passages | 0.3025 | 0.2193 | **0.1078** | 0.0983 |
-| 10   | Pinta      | BERT                 | 0.2934 | 0.2045 | **0.1078** | 0.0969 |
-| 11    | CogIR      | BERTlets-fusion-<br>topics-div-passages-v2       | 0.2885 | 0.1859 | **0.1072** | 0.1010 |
-| 12    | CogIR      | BERTlets-fusion-<br>topics-div-passages       | 0.2908 | 0.1970 | **0.1055** | 0.0990 |
-| 13   | Pinta      | BERT-v2              | 0.2815 | 0.1933 | **0.1043** | 0.0934 |  
-| 14    | Karl       | Roberta-v2           | 0.2890 | 0.1933 | **0.1035** | 0.0941 |
-| 15    | NTES_ALONG | Reranker-v3          | 0.3006 | 0.2230 | **0.1031** | 0.0970 |
-| 16    | NTES_ALONG | Recall+Rerank        | 0.2948 | 0.1933 | **0.1029** | 0.0919 |
-| 17   | Soda       | BERT-based-v2        | 0.2803 | 0.1896 | **0.1021** | 0.0981 |
-| 18   | Soda       | BERT-based           | 0.2600 | 0.1784 | **0.0983** | 0.0915 |
-| 19    | Algis      | USE-QA               | 0.2782 | 0.1822 | **0.0978** | 0.1003 |
-| 20   | Pinta      | Triplet              | 0.2672 | 0.1747 | **0.0968** | 0.0906 |  
-| 21   | NTES_ALONG | Recall+Rescore       | 0.2799 | 0.1970 | **0.0955** | 0.0856 |  
-| 22   | NTES_ALONG | BM25_plus+Roberta    | 0.2720 | 0.1822 | **0.0930** | 0.0870 |  
-| 23   | Algis      | BART-based           | 0.2622 | 0.1710 | **0.0923** | 0.0848 |
-| 24   | TAL ML     | Roberta++            | 0.2602 | 0.1747 | **0.0922** | 0.0833 |
-| 25   | ClariQ     | BERT-ranker          | 0.2562 | 0.1784 | **0.0896** | 0.0821 |
-| 26   | ClariQ     | BERT-reranker        | 0.2553 | 0.1784 | **0.0892** | 0.0818 |
+| 8    | Pinta      | BERT-v3              | 0.3044 | 0.2119 | **0.1131** | 0.1021 |
+| 9    | NTES_ALONG | BM25+Roberta         | 0.3045 | 0.2156 | **0.1108** | 0.1025 |
+| 10   | CogIR      | BERTlets-fusion<br>-topics-passages | 0.3025 | 0.2193 | **0.1078** | 0.0983 |
+| 11   | Pinta      | BERT                 | 0.2934 | 0.2045 | **0.1078** | 0.0969 |
+| 12    | CogIR      | BERTlets-fusion-<br>topics-div-passages-v2       | 0.2885 | 0.1859 | **0.1072** | 0.1010 |
+| 13    | CogIR      | BERTlets-fusion-<br>topics-div-passages       | 0.2908 | 0.1970 | **0.1055** | 0.0990 |
+| 14   | Pinta      | BERT-v2              | 0.2815 | 0.1933 | **0.1043** | 0.0934 |  
+| 15    | Karl       | Roberta-v2           | 0.2890 | 0.1933 | **0.1035** | 0.0941 |
+| 16    | NTES_ALONG | Reranker-v3          | 0.3006 | 0.2230 | **0.1031** | 0.0970 |
+| 17    | NTES_ALONG | Recall+Rerank        | 0.2948 | 0.1933 | **0.1029** | 0.0919 |
+| 18   | Soda       | BERT-based-v2        | 0.2803 | 0.1896 | **0.1021** | 0.0981 |
+| 19   | Soda       | BERT-based           | 0.2600 | 0.1784 | **0.0983** | 0.0915 |
+| 20    | Algis      | USE-QA               | 0.2782 | 0.1822 | **0.0978** | 0.1003 |
+| 21   | Pinta      | Triplet              | 0.2672 | 0.1747 | **0.0968** | 0.0906 |  
+| 22   | TAL ML     | Roberta+++           | 0.2835 | 0.2007 | **0.0965** | 0.0915 |
+| 23   | NTES_ALONG | Recall+Rescore       | 0.2799 | 0.1970 | **0.0955** | 0.0856 |  
+| 24   | NTES_ALONG | BM25_plus+Roberta    | 0.2720 | 0.1822 | **0.0930** | 0.0870 |  
+| 25   | Algis      | BART-based           | 0.2622 | 0.1710 | **0.0923** | 0.0848 |
+| 26   | TAL ML     | Roberta++            | 0.2602 | 0.1747 | **0.0922** | 0.0833 |
+| 27   | ClariQ     | BERT-ranker          | 0.2562 | 0.1784 | **0.0896** | 0.0821 |
+| 28   | ClariQ     | BERT-reranker        | 0.2553 | 0.1784 | **0.0892** | 0.0818 |
 | -    | ClariQ     | Oracle WorstQuestion | 0.0541 | 0.0000 | **0.0097** | 0.0154 |
 
 ## Question Relevance
@@ -262,15 +266,17 @@ We will use the same submitted code for the top performing models for computing 
 | 14    | Pinta      | BERT          | 0.3492 | 0.6196 | 0.7337 | 0.7632 |
 | 15    | CogIR      | BERTlets-fusion-<br>topics-div-passages       | 0.3528 | 0.6393 | 0.7506 | 0.7890 |
 | 16    | NTES_ALONG | BM25_plus+Roberta | 0.3637 | 0.6409  | 0.7484    | 0.7793    |
-| 17   | NTES_ALONG | Recall+Rescore | 0.3648  | 0.6553    | 0.8230    | 0.8367    |
-| 18   | ClariQ     | BERT-ranker   | 0.3494   | 0.6134    | 0.7248    | 0.7542    |
-| 19   | Pinta      | BERT-v2              | 0.3528 | 0.6393 | 0.7506 | 0.7890 |
-| 20   | Algis      | BART-based    | 0.3333 | 0.5910 | 0.6689 | 0.6926 
-| 21   | Algis      | USE-QA        | 0.3469   | 0.6112    | 0.7052    | 0.7228    |
-| 22    | NTES_ALONG | BM25+Roberta  | 0.3629  | 0.6389    | 0.7285    | 0.7657    |
-| 23   | ClariQ     | BERT-reranker | 0.3475   | 0.6122    | 0.6913    | 0.6913    |
-| 24   | ClariQ     | BM25          | 0.3245   | 0.5638    | 0.6675    | 0.6913    |
-| 25   | Pinta      | Triplet       | 0.3471   | 0.5871    | 0.6653    | 0.6846    |
+| 17    | Pinta      | BERT-v3       | 0.3583 | 0.6358 | 0.7616 | 0.7852 |
+| 18   | NTES_ALONG | Recall+Rescore | 0.3648  | 0.6553    | 0.8230    | 0.8367    |
+| 19   | ClariQ     | BERT-ranker   | 0.3494   | 0.6134    | 0.7248    | 0.7542    |
+| 20   | Pinta      | BERT-v2              | 0.3528 | 0.6393 | 0.7506 | 0.7890 |
+| 21   | Algis      | BART-based    | 0.3333 | 0.5910 | 0.6689 | 0.6926 
+| 22   | Algis      | USE-QA        | 0.3469   | 0.6112    | 0.7052    | 0.7228    |
+| 23    | NTES_ALONG | BM25+Roberta  | 0.3629  | 0.6389    | 0.7285    | 0.7657    |
+| 24   | TAL ML     | Roberta++     | 0.3508 | 0.6215 | 0.7672 | 0.7978 |
+| 25   | ClariQ     | BERT-reranker | 0.3475   | 0.6122    | 0.6913    | 0.6913    |
+| 26   | ClariQ     | BM25          | 0.3245   | 0.5638    | 0.6675    | 0.6913    |
+| 27   | Pinta      | Triplet       | 0.3471   | 0.5871    | 0.6653    | 0.6846    |
 
 **Test**
 
@@ -292,15 +298,17 @@ We will use the same submitted code for the top performing models for computing 
 | 14    | Pinta      | BERT          | 0.3438 | 0.6228 | 0.7987 | **0.8409** |
 | 15    | CogIR      | BERTlets-fusion-<br>topics-div-passages       | 0.3333 | 0.6225 | 0.8039 | **0.8392** |
 | 16    | NTES_ALONG | BM25_plus+Roberta | 0.3361 | 0.6219  | 0.7960    | **0.8360**    |
-| 17   | NTES_ALONG | Recall+Rescore | 0.3432  | 0.6229    | 0.7857    | **0.8211**    |
-| 18   | ClariQ     | BERT-ranker   | 0.3440   | 0.6242    | 0.7849    | **0.8190**    |
-| 19   | Pinta      | BERT-v2              | 0.3271 | 0.6012 | 0.7884 | **0.8188** |  
-| 20   | Algis      | BART-based    | 0.3408 | 0.6156 | 0.7721 | **0.8081** |
-| 21   | Algis      | USE-QA        | 0.3454   | 0.6071    | 0.7688    | **0.8013**    |
-| 22    | NTES_ALONG | BM25+Roberta | 0.3329   | 0.6027    | 0.7650    | **0.8004**    |
-| 23   | ClariQ     | BERT-reranker | 0.3444   | 0.6062    | 0.7585    | **0.7682**    |
-| 24   | ClariQ     | BM25          | 0.3170   | 0.5705    | 0.7292    | **0.7682**    |
-| 25   | Pinta      | Triplet       | 0.3330   | 0.5809    | 0.7289    | **0.7589**    |
+| 17    | Pinta      | BERT-v3       | 0.3291 | 0.6066 | 0.7902 | **0.8345** |
+| 18   | NTES_ALONG | Recall+Rescore | 0.3432  | 0.6229    | 0.7857    | **0.8211**    |
+| 19   | ClariQ     | BERT-ranker   | 0.3440   | 0.6242    | 0.7849    | **0.8190**    |
+| 20   | Pinta      | BERT-v2              | 0.3271 | 0.6012 | 0.7884 | **0.8188** |  
+| 21   | Algis      | BART-based    | 0.3408 | 0.6156 | 0.7721 | **0.8081** |
+| 22   | Algis      | USE-QA        | 0.3454   | 0.6071    | 0.7688    | **0.8013**    |
+| 23    | NTES_ALONG | BM25+Roberta | 0.3329   | 0.6027    | 0.7650    | **0.8004**    |
+| 24   | TAL ML     | Roberta++     | 0.3212 | 0.5786 | 0.7204 | **0.7739** |
+| 25   | ClariQ     | BERT-reranker | 0.3444   | 0.6062    | 0.7585    | **0.7682**    |
+| 26   | ClariQ     | BM25          | 0.3170   | 0.5705    | 0.7292    | **0.7682**    |
+| 27   | Pinta      | Triplet       | 0.3330   | 0.5809    | 0.7289    | **0.7589**    |
 
 
 ## Clarification Need Prediction
@@ -323,6 +331,17 @@ We will use the same submitted code for the top performing models for computing 
   </tr>
   <tr>
     <td>1</td>
+    <td>TAL ML</td>
+    <td>Roberta+++</td>
+<td>0.6039</td>
+<td>0.5600</td>
+<td>0.5551</td>
+<td>0.5981</td>
+<td>0.6557</td>
+	  <td><b>0.6070</b></td>
+  </tr>
+  <tr>
+    <td>2</td>
     <td>CactusJam</td>
     <td>Roberta+<br>Stats</td>
     <td>0.6200</td>
@@ -333,7 +352,7 @@ We will use the same submitted code for the top performing models for computing 
   <td><b>0.5416</b></td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>3</td>
     <td>TAL ML</td>
     <td>Roberta++</td>
     <td>0.5807</td>
@@ -344,7 +363,7 @@ We will use the same submitted code for the top performing models for computing 
 	  <td><b>0.5253</b></td>
   </tr>	
   <tr>
-    <td>3</td>
+    <td>4</td>
     <td>Algis</td>
     <td>Roberta+<br>CatBoost</td>
     <td>0.1402</td>
@@ -355,7 +374,7 @@ We will use the same submitted code for the top performing models for computing 
     <td><b>0.5138</b></td>
   </tr>
 <tr>
-    <td>4</td>
+    <td>5</td>
     <td>NTES_ALONG</td>
     <td>cneed_add_<br>prior_v2</td>
     <td>0.6200</td>
@@ -366,7 +385,7 @@ We will use the same submitted code for the top performing models for computing 
 	<td><b>0.5018</b></td>
   </tr>
 <tr>
-    <td>5</td>
+    <td>6</td>
     <td>NTES_ALONG</td>
     <td>cneed_merge</td>
     <td>0.5830</td>
@@ -378,7 +397,7 @@ We will use the same submitted code for the top performing models for computing 
   </tr>
 
 <tr>
-    <td>6</td>
+    <td>7</td>
     <td>NTES_ALONG</td>
     <td>cneed_dist</td>
     <td>0.5452</td>
@@ -389,7 +408,7 @@ We will use the same submitted code for the top performing models for computing 
 	<td><b>0.4868</b></td>
   </tr>
   <tr>
-    <td>7</td>
+    <td>8</td>
     <td>Karl</td>
     <td>Roberta-v2</td>
     	<td>0.4609</td>
@@ -400,7 +419,7 @@ We will use the same submitted code for the top performing models for computing 
 	  <td><b>0.4871</b></td>
   </tr>
   <tr>
-    <td>8</td>
+    <td>9</td>
     <td>NTES_ALONG</td>
     <td>Roberta+prior</td>
     <td>0.4554</td>
@@ -411,7 +430,7 @@ We will use the same submitted code for the top performing models for computing 
 	  <td><b>0.4799</b></td>
   </tr>
   <tr>
-    <td>9</td>
+    <td>10</td>
     <td>Algis</td>
     <td>BartBoost</td>
 <td>0.7008</td>
@@ -422,7 +441,7 @@ We will use the same submitted code for the top performing models for computing 
 	<td><b>0.4756</b></td>
   </tr>
   <tr>
-    <td>10</td>
+    <td>11</td>
     <td>Soda</td>
     <td>BERT-based-v2</td>
     <td>0.5218</td>
@@ -433,7 +452,7 @@ We will use the same submitted code for the top performing models for computing 
 	  <td><b>0.4350</b></td>
   </tr>
   <tr>
-    <td>11</td>
+    <td>12</td>
     <td>Soda</td>
     <td>BERT-based</td>
     <td>0.5224</td>
@@ -444,7 +463,7 @@ We will use the same submitted code for the top performing models for computing 
 	  <td><b>0.4282</b></td>
   </tr>
 <tr>
-    <td>12</td>
+    <td>13</td>
     <td>Soda</td>
     <td>BERT+BM25</td>
     <td>0.5386</td>
@@ -455,7 +474,7 @@ We will use the same submitted code for the top performing models for computing 
 	<td><b>0.4273</b></td>
   </tr>
 <tr>
-    <td>13</td>
+    <td>14</td>
     <td>Soda</td>
     <td>BERT+BM25-v2</td>
     <td>0.5992</td>
@@ -466,7 +485,7 @@ We will use the same submitted code for the top performing models for computing 
 	<td><b>0.4207</b></td>
   </tr>
 <tr>
-    <td>14</td>
+    <td>15</td>
     <td>Pinta</td>
     <td>Triplet</td>
     <td>0.4161</td>
@@ -477,7 +496,7 @@ We will use the same submitted code for the top performing models for computing 
 	<td><b>0.4074</b></td>
   </tr>
   <tr>
-    <td>15</td>
+    <td>16</td>
     <td>Pinta</td>
     <td>BERT</td>
 <td>0.5204</td>
@@ -488,7 +507,7 @@ We will use the same submitted code for the top performing models for computing 
 	  <td><b>0.4004</b></td>
   </tr>
   <tr>
-    <td>16</td>
+    <td>17</td>
     <td>NTES_ALONG</td>
     <td>Roberta</td>
     <td>0.3967</td>
@@ -499,7 +518,7 @@ We will use the same submitted code for the top performing models for computing 
 	  <td><b>0.3995</b></td>
   </tr>
   <tr>
-    <td>17</td>
+    <td>18</td>
     <td>Pinta</td>
     <td>XGB</td>
     <td>0.5027</td>
