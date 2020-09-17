@@ -273,7 +273,7 @@ We will use the same submitted code for the top performing models for computing 
 | 21   | Algis      | BART-based    | 0.3333 | 0.5910 | 0.6689 | 0.6926 
 | 22   | Algis      | USE-QA        | 0.3469   | 0.6112    | 0.7052    | 0.7228    |
 | 23    | NTES_ALONG | BM25+Roberta  | 0.3629  | 0.6389    | 0.7285    | 0.7657    |
-| 24   | TAL ML     | Roberta++     | 0.3508 | 0.6215 | 0.7672 | 0.7978 |
+| 24   | TAL ML     | Roberta+++     | 0.3508 | 0.6215 | 0.7672 | 0.7978 |
 | 25   | ClariQ     | BERT-reranker | 0.3475   | 0.6122    | 0.6913    | 0.6913    |
 | 26   | ClariQ     | BM25          | 0.3245   | 0.5638    | 0.6675    | 0.6913    |
 | 27   | Pinta      | Triplet       | 0.3471   | 0.5871    | 0.6653    | 0.6846    |
@@ -305,7 +305,7 @@ We will use the same submitted code for the top performing models for computing 
 | 21   | Algis      | BART-based    | 0.3408 | 0.6156 | 0.7721 | **0.8081** |
 | 22   | Algis      | USE-QA        | 0.3454   | 0.6071    | 0.7688    | **0.8013**    |
 | 23    | NTES_ALONG | BM25+Roberta | 0.3329   | 0.6027    | 0.7650    | **0.8004**    |
-| 24   | TAL ML     | Roberta++     | 0.3212 | 0.5786 | 0.7204 | **0.7739** |
+| 24   | TAL ML     | Roberta+++     | 0.3212 | 0.5786 | 0.7204 | **0.7739** |
 | 25   | ClariQ     | BERT-reranker | 0.3444   | 0.6062    | 0.7585    | **0.7682**    |
 | 26   | ClariQ     | BM25          | 0.3170   | 0.5705    | 0.7292    | **0.7682**    |
 | 27   | Pinta      | Triplet       | 0.3330   | 0.5809    | 0.7289    | **0.7589**    |
