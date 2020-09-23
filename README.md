@@ -46,7 +46,7 @@ The detailed description of the challenge can be found [in the following documen
     - NTES_ALONG
     - TAL ML
     - Soda
-
+- September 23, 2020: Stage 2 files and instructions are added to the ClariQ GitHub repo.
 # Awards 
 
 Google is sponsoring the competition award with the GCP Credits, which we are planning to award as follows:
@@ -92,6 +92,7 @@ Note that the setup of this stage is quite different from Stage 1. Participating
 
 Alternatively, one may solve Stage 2 by retrieving a list of candidate answers (e.g., by invoking Wikipedia API or the [Chat Noir](https://www.chatnoir.eu) API that we describe above) and ranking them as in Stage 1.
 
+For further information about Stage 2 design and auxiliary files, please visit [ClariQ repo](https://github.com/aliannejadi/ClariQ).
 
 # Timeline
 - **Stage 1** will take place from July 7, 2020 -- ~~September 9, 2020~~ September 16, 2020. Up until ~~September 9, 2020~~ September 16, 2020 participants will be able to submit their models (source code) and solutions to be evaluated on the test set using automated metrics (which we will run on our servers).  The current leaderboards will be visible to everyone.
@@ -174,7 +175,7 @@ See [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/Clari
 
 You are free to use any system (e.g. PyTorch, Tensorflow, C++,..) as long as you can wrap your model for the evaluation. The top level README should tell us your team name, model name, and where the eval_ppl.py, eval_hits.py etc. files are so we can run them. Those should give the numbers on the validation set. Please also include those numbers in the README so we can check we get the same. We will then run the automatic evaluations on the hidden test set and update the leaderboard. You can submit a maximum of once per week.
 
-We will use the same submitted code for the top performing models for computing human evaluations when the submission system is locked on September 9, 2020.
+We will use the same submitted code for the top performing models for computing human evaluations when the submission system is locked on ~~September 9, 2020~~ September 17, 2020.
 
 # Automatic Evaluation Leaderboard (hidden test set)
 
