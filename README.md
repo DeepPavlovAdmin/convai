@@ -563,8 +563,8 @@ The Stage 1 of the challenge is sponsored by:
 <a href="https://www.microsoft.com/en-us/research/" style="max-width: 60%"><img src="ms_logo.png"></a>
 
 The Stage 2 of the challenge is sponsored by:
-<a href="https://www.amazon.science/" style="max-width: 60%"><img src="amazon.science high-res Logo.png"></a>
+<a href="https://www.amazon.science/" style="max-width: 30%"><img src="amazon.science high-res Logo.png"></a>
 
 Participants prize is sponsored by:
-<a href="https://research.google" style="max-width: 60%"><img src="google_logo.png"></a>
+<a href="https://research.google" style="max-width: 30%"><img src="google_logo.png"></a>
 
