@@ -546,7 +546,7 @@ We will use the same submitted code for the top performing models for computing 
 # Organizing team
  
 - [Mohammad Aliannejadi](http://aliannejadi.com), *University of Amsterdam*, Amsterdam
-- [Julia Kiseleva](https://twitter.com/julia_kiseleva), *Microsoft Research & AI*, Seattle
+- [Julia Kiseleva](https://twitter.com/julia_kiseleva), *Microsoft Research*, Seattle
 - [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), *University of Glasgow*, Glasgow
 - [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google AI*, Zürich
 - [Mikhail Burtsev](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), *MIPT*, Moscow
@@ -557,7 +557,14 @@ We will use the same submitted code for the top performing models for computing 
 - [ConvAI2 @ NeurIPS 2018](http://convai.io/2018) (The Persona-Chat Challenge).
 
 # Sponsors
-<a href="https://www.microsoft.com/en-us/research/"><img src="ms_logo.png"></a>
+Sponsorship of data collection:
 
+The Stage 1 of the challenge is sponsored by:
+<a href="https://www.microsoft.com/en-us/research/" style="max-width: 60%"><img src="ms_logo.png"></a>
+
+The Stage 2 of the challenge is sponsored by:
+<a href="https://www.amazon.science/" style="max-width: 60%"><img src="amazon.science high-res Logo.png"></a>
+
+Participants prize is sponsored by:
 <a href="https://research.google" style="max-width: 60%"><img src="google_logo.png"></a>
 
