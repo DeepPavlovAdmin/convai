@@ -40,6 +40,12 @@ The detailed description of the challenge can be found [in the following documen
 - August 4, 2020: We held the kick-off webinar. Missed it? You can watch the playback [here](https://www.youtube.com/watch?v=2cSLNScJqFk).
 - August 10, 2020: New baselines for the `question_relevance` have been added. The code is also available on Google Colab. 
 - September 08, 2020: Due to multiple requests, we have extended the deadline for participation in Stage 1 for one week.
+- September 22, 2020: Amazon Science is sponsoring the Stage 2 of the challenge
+- September 23, 2020: We are happy to announce four teams which were selected for the Stage 2: 
+    - Karl
+    - NTES_ALONG
+    - TAL ML
+    - Soda
 
 # Awards 
 
@@ -55,7 +61,7 @@ Google is sponsoring the competition award with the GCP Credits, which we are pl
 
 The challenge will be run in two stages:
 
-## Stage 1: intial dataset
+## Stage 1: intial dataset (sponsored by Microsoft Research)
 In Stage 1, we provide to the participants the datasets that include:
 * **User Request:** an initial user request in the conversational form, e.g., "What is Fickle Creek Farm?", with a label reflects if clarification is needed to be ranged from 1 to 4;
 * **Clarification questions:** a set of possible clarifying questions, e.g., "Do you want to know the location of fickle creek farm?";
@@ -68,9 +74,9 @@ choose not to ask any question (by choosing `Q0001` from the question bank.)
 
 The dataset is stored in the following repository [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ), together with evaluation scripts and baseline.
 
-## Stage 2: human-in-the-loop
+## Stage 2: human-in-the-loop (sponsored by Amazon Science)
 
-The TOP-5 systems from Stage 1 are exposed to real users. Their responses—answers and clarifying questions—are rated by the users.
+The TOP-4 systems from Stage 1 are exposed to real users. Their responses—answers and clarifying questions—are rated by the users.
 At that stage, the participating systems are put in front of human users. The systems are rated on their overall performance.
 At each dialog step, a system should give either a factual answer to the user's query or ask for clarification.
 Therefore, the participants would need to:
