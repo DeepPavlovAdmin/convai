@@ -175,7 +175,15 @@ See [https://github.com/aliannejadi/ClariQ](https://github.com/aliannejadi/Clari
 
 You are free to use any system (e.g. PyTorch, Tensorflow, C++,..) as long as you can wrap your model for the evaluation. The top level README should tell us your team name, model name, and where the eval_ppl.py, eval_hits.py etc. files are so we can run them. Those should give the numbers on the validation set. Please also include those numbers in the README so we can check we get the same. We will then run the automatic evaluations on the hidden test set and update the leaderboard. You can submit a maximum of once per week.
 
-We will use the same submitted code for the top performing models for computing human evaluations when the submission system is locked on ~~September 9, 2020~~ September 17, 2020.
+We will use the same submitted code for the top performing models for computing human evaluations when the submission system is locked on ~~September 9, 2020~~ September 17, 2020. The deadline for submitting systems for Stage 2 is November 1, 2020.
+
+The submitted systems must produce the output in a reasonable time window (1-2 hours) on our system with the following configuration:
+ 
+ * CPU: Core i7-7700
+ * RAM: 32 Gb RAM
+ * GPU: 1080 Ti
+ 
+**Note:** All submitted systems must be accompanied with a ready-to-use Docker container.
 
 # Automatic Evaluation Leaderboard (hidden test set)
 
