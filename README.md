@@ -1,4 +1,4 @@
-> NEW! Awards have been announced (see below for details).
+> NEW! Challenge winners announced!
 
 # ClariQ Overview
 
@@ -47,13 +47,16 @@ The detailed description of the challenge can be found [in the following documen
     - TAL ML
     - Soda
 - September 23, 2020: Stage 2 files and instructions are added to the ClariQ GitHub repo.
+- November 19, 2020: Stage 2 results are out.
+- November 19, 2020: Challenge winners are announced.
+
 # Awards 
 
 Google is sponsoring the competition award with the GCP Credits, which we are planning to award as follows:
 
-* 1st place: $2'500 credits
-* 2nd place: $1'500 credits
-* 3rd place: $1'000 credits
+* 1st place: ~~$2'500~~ $3'000 credits
+* 2nd place: ~~$1'500~~ $2'000 credits
+* ~~3rd place: $1'000 credits~~
 
 **IMPORTANT!** Please note that GCP Credits can only be granted where available and are subject to the [Terms and Conditions](https://cloud.google.com/terms?hl=en) and product availability. If the competition winner is from a region where the program is not launched, we will, unfortunately, not be able to issue the prize. 
 
@@ -556,15 +559,30 @@ The submitted systems must produce the output in a reasonable time window (1-2 h
   </tr>
 </table>
 
+# Stage 2: Multi-turn Conversations Evalation
 
+## Document Relevance
+
+**Test**
+
+| ًRank | Creator    | Model Name | MRR    | P@1    | nDCG@3 | nDCG@5 |
+| ---- | ---------- | -------------------- | ------ | ------ | ------ | ------ |
+| 1    | NTES_ALONG   | -              | 0.1798 | 0.1161 | 0.0553 | 0.0536 |
+| 2    | TAL ML       | -              | 0.1669 | 0.1067 | 0.0522 | 0.0494 |
+
+# Challenge Winners
+
+- First place: NTES_ALONG: Wenjie Ou, Yue Lin
+- Second place: TAL ML: Hang Li, Yu Kang, Tianqiao Liu, Guowei Xu, Wenbiao Ding, Zitao Liu
 
 # Organizing team
  
 - [Mohammad Aliannejadi](http://aliannejadi.com), *University of Amsterdam*, Amsterdam
 - [Julia Kiseleva](https://twitter.com/julia_kiseleva), *Microsoft Research*, Seattle
-- [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), *University of Glasgow*, Glasgow
-- [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google AI*, Zürich
 - [Mikhail Burtsev](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), *MIPT*, Moscow
+- [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google AI*, Zürich
+- [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), *University of Glasgow*, Glasgow
+
 
 # Previous ConvAI competitions
 
