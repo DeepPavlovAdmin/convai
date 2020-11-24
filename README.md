@@ -567,8 +567,8 @@ The submitted systems must produce the output in a reasonable time window (1-2 h
 
 | ًRank | Creator    | Model Name | MRR    | P@1    | nDCG@3 | nDCG@5 |
 | ---- | ---------- | -------------------- | ------ | ------ | ------ | ------ |
-| 1    | NTES_ALONG   | -              | 0.1798 | 0.1161 | 0.0553 | 0.0536 |
-| 2    | TAL ML       | -              | 0.1669 | 0.1067 | 0.0522 | 0.0494 |
+| 1    | NTES_ALONG   | ClariQ_Select_System              | 0.1798 | 0.1161 | 0.0553 | 0.0536 |
+| 2    | TAL ML       | MCAN              | 0.1669 | 0.1067 | 0.0522 | 0.0494 |
 
 # Challenge Winners
 
