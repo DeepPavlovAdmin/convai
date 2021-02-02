@@ -10,7 +10,7 @@ backports.shutil-get-terminal-size==1.0.0
 backports.ssl-match-hostname==3.5.0.1
 backports.weakref==1.0.post1
 beautifulsoup4==4.2.1
-bleach==1.5.0
+bleach==3.3.0
 boto==2.48.0
 bz2file==0.98
 certifi==2017.11.5
