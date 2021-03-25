@@ -105,7 +105,7 @@ python-apt===0.9.3.5ubuntu2
 python-dateutil==2.6.1
 python-telegram-bot==6.1.0
 pytz==2012rc0
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.3
 qtconsole==4.3.0
 regex==2017.4.5
