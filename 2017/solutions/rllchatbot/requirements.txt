@@ -68,7 +68,7 @@ murmurhash==0.26.4
 nbconvert==5.2.1
 nbformat==4.3.0
 ndg-httpsclient==0.4.2
-nltk==3.2.5
+nltk==3.6.3
 nose==1.3.1
 notebook==5.0.0
 numexpr==2.2.2
