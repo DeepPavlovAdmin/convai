@@ -18,7 +18,7 @@ cffi==1.10.0
 chardet==3.0.4
 configparser==3.5.0
 cryptography==2.0
-cvxopt==1.1.4
+cvxopt==1.2.7
 cymem==1.31.2
 Cython==0.25.2
 cytoolz==0.8.2
