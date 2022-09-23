@@ -88,7 +88,7 @@ plac==0.9.6
 preshed==1.0.0
 prettytable==0.7.2
 prompt-toolkit==1.0.14
-protobuf==3.3.0
+protobuf==3.18.3
 ptyprocess==0.5.2
 pyasn1==0.2.3
 pycodestyle==2.3.1
